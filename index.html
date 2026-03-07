@@ -88,6 +88,7 @@
   /* MODULES */
   .mod-section{background:var(--s1);border-top:1px solid var(--border);border-bottom:1px solid var(--border)}
   .mod-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:1px;margin-top:4rem;border:1px solid var(--border);border-radius:8px;overflow:hidden}
+  .mod-link{text-decoration:none;display:block}
   .mod-item{background:var(--s2);padding:2rem 1.5rem;transition:all .25s;position:relative;overflow:hidden}
   .mod-item::after{content:'';position:absolute;bottom:0;left:0;right:0;height:2px;background:var(--aw);transform:scaleX(0);transition:transform .3s;transform-origin:left}
   .mod-item:hover{background:var(--s3)}.mod-item:hover::after{transform:scaleX(1)}
@@ -211,7 +212,7 @@
     <li><a href="#caf">CAF</a></li>
     <li><a href="#waf">Well-Architected</a></li>
     <li><a href="#simulado">Simulado</a></li>
-    <li><a href="https://github.com/Thiago-code-lab/aws-cloud-practitioner-brasil" target="_blank" class="nav-cta">GitHub ↗</a></li>
+    <li><a href="https://github.com/Thiago-code-lab/aws-cloud-practitioner-brasil" target="_blank" rel="noopener noreferrer" class="nav-cta">GitHub ↗</a></li>
   </ul>
 </nav>
 
@@ -229,7 +230,7 @@
     </h1>
     <p class="hero-desc">Repositório colaborativo em Português (PT-BR) com 18 módulos, CAF completo, Well-Architected Framework e 65 questões no formato real do exame CLF-C02.</p>
     <div class="hero-ctas">
-      <a href="https://github.com/Thiago-code-lab/aws-cloud-practitioner-brasil" target="_blank" class="btn btn-p">☁ Acessar Repositório</a>
+      <a href="https://github.com/Thiago-code-lab/aws-cloud-practitioner-brasil" target="_blank" rel="noopener noreferrer" class="btn btn-p">☁ Acessar Repositório</a>
       <a href="#modulos" class="btn btn-o">→ Ver Conteúdo</a>
     </div>
     <div class="hero-stats">
@@ -274,24 +275,24 @@
     <p class="s-desc">Da introdução à nuvem até IA e DevOps — tudo em Português com exemplos, comandos CLI e dicas de prova.</p>
   </div>
   <div class="mod-grid reveal">
-    <div class="mod-item"><div class="mod-num">01</div><span class="mod-icon">☁️</span><div class="mod-name">Introdução à Nuvem</div><div class="mod-desc">IaaS, PaaS, SaaS, Regiões, AZs e benefícios da AWS</div></div>
-    <div class="mod-item"><div class="mod-num">02</div><span class="mod-icon">🖥️</span><div class="mod-name">Amazon EC2</div><div class="mod-desc">Tipos de instância, preços, Auto Scaling e ELB</div></div>
-    <div class="mod-item"><div class="mod-num">03</div><span class="mod-icon">🔐</span><div class="mod-name">Segurança & Conformidade</div><div class="mod-desc">IAM, Organizations, Shield, WAF, KMS, CloudTrail</div></div>
-    <div class="mod-item"><div class="mod-num">04</div><span class="mod-icon">🪣</span><div class="mod-name">Amazon S3</div><div class="mod-desc">Classes de armazenamento, políticas, lifecycle e Glacier</div></div>
-    <div class="mod-item"><div class="mod-num">05</div><span class="mod-icon">🌐</span><div class="mod-name">Redes & Conectividade</div><div class="mod-desc">VPC, Subnets, Route53, Direct Connect e VPN</div></div>
-    <div class="mod-item"><div class="mod-num">06</div><span class="mod-icon">🗄️</span><div class="mod-name">Banco de Dados</div><div class="mod-desc">RDS, Aurora, DynamoDB, ElastiCache, Redshift</div></div>
-    <div class="mod-item"><div class="mod-num">07</div><span class="mod-icon">⚡</span><div class="mod-name">Serverless</div><div class="mod-desc">Lambda, API Gateway, Fargate, ECS, EKS, EventBridge</div></div>
-    <div class="mod-item"><div class="mod-num">08</div><span class="mod-icon">💾</span><div class="mod-name">Armazenamento</div><div class="mod-desc">EBS, EFS, FSx, Snow Family, Storage Gateway</div></div>
-    <div class="mod-item"><div class="mod-num">09</div><span class="mod-icon">📊</span><div class="mod-name">Monitoramento & Governança</div><div class="mod-desc">CloudWatch, Trusted Advisor, Systems Manager</div></div>
-    <div class="mod-item"><div class="mod-num">10</div><span class="mod-icon">💰</span><div class="mod-name">Preços & Suporte</div><div class="mod-desc">Free Tier, Cost Explorer, planos Basic ao Enterprise</div></div>
-    <div class="mod-item"><div class="mod-num">11</div><span class="mod-icon">🚀</span><div class="mod-name">Migração & Inovação</div><div class="mod-desc">7Rs, Migration Hub, DMS, DataSync, Snow Family</div></div>
-    <div class="mod-item" style="background:rgba(255,153,0,.05)"><div class="mod-num">12</div><span class="mod-icon">🏛️</span><div class="mod-name">CAF</div><div class="mod-desc">6 perspectivas, 4 fases e capabilities de transformação</div></div>
-    <div class="mod-item" style="background:rgba(255,153,0,.05)"><div class="mod-num">13</div><span class="mod-icon">🏗️</span><div class="mod-name">Well-Architected</div><div class="mod-desc">6 pilares, design principles e lenses especializadas</div></div>
-    <div class="mod-item"><div class="mod-num">14</div><span class="mod-icon">🤖</span><div class="mod-name">IA & Machine Learning</div><div class="mod-desc">SageMaker, Rekognition, Bedrock, Amazon Q</div></div>
-    <div class="mod-item"><div class="mod-num">15</div><span class="mod-icon">🛠️</span><div class="mod-name">Developer Tools</div><div class="mod-desc">CodePipeline, CDK, CloudFormation, Amplify, X-Ray</div></div>
-    <div class="mod-item"><div class="mod-num">16</div><span class="mod-icon">📝</span><div class="mod-name">Simulados & Questões</div><div class="mod-desc">65 questões + gabaritos nos 4 domínios do CLF-C02</div></div>
-    <div class="mod-item"><div class="mod-num">17</div><span class="mod-icon">📖</span><div class="mod-name">Glossário</div><div class="mod-desc">150+ termos AWS em Português com exemplos brasileiros</div></div>
-    <div class="mod-item"><div class="mod-num">18</div><span class="mod-icon">🔗</span><div class="mod-name">Recursos & Links</div><div class="mod-desc">Skill Builder, whitepapers, cursos e materiais oficiais</div></div>
+    <a class="mod-link" href="./01-Introducao-Computacao-em-Nuvem/README.md"><div class="mod-item"><div class="mod-num">01</div><span class="mod-icon">☁️</span><div class="mod-name">Introdução à Nuvem</div><div class="mod-desc">IaaS, PaaS, SaaS, Regiões, AZs e benefícios da AWS</div></div></a>
+    <a class="mod-link" href="./02-Amazon-EC2/README.md"><div class="mod-item"><div class="mod-num">02</div><span class="mod-icon">🖥️</span><div class="mod-name">Amazon EC2</div><div class="mod-desc">Tipos de instância, preços, Auto Scaling e ELB</div></div></a>
+    <a class="mod-link" href="./03-Segurança-e-Conformidade/README.md"><div class="mod-item"><div class="mod-num">03</div><span class="mod-icon">🔐</span><div class="mod-name">Segurança & Conformidade</div><div class="mod-desc">IAM, Organizations, Shield, WAF, KMS, CloudTrail</div></div></a>
+    <a class="mod-link" href="./04-Amazon-S3/README.md"><div class="mod-item"><div class="mod-num">04</div><span class="mod-icon">🪣</span><div class="mod-name">Amazon S3</div><div class="mod-desc">Classes de armazenamento, políticas, lifecycle e Glacier</div></div></a>
+    <a class="mod-link" href="./05-Redes-e-Conectividade/README.md"><div class="mod-item"><div class="mod-num">05</div><span class="mod-icon">🌐</span><div class="mod-name">Redes & Conectividade</div><div class="mod-desc">VPC, Subnets, Route53, Direct Connect e VPN</div></div></a>
+    <a class="mod-link" href="./06-Banco-de-Dados/README.md"><div class="mod-item"><div class="mod-num">06</div><span class="mod-icon">🗄️</span><div class="mod-name">Banco de Dados</div><div class="mod-desc">RDS, Aurora, DynamoDB, ElastiCache, Redshift</div></div></a>
+    <a class="mod-link" href="./07-Computacao-Serverless/README.md"><div class="mod-item"><div class="mod-num">07</div><span class="mod-icon">⚡</span><div class="mod-name">Serverless</div><div class="mod-desc">Lambda, API Gateway, Fargate, ECS, EKS, EventBridge</div></div></a>
+    <a class="mod-link" href="./08-Armazenamento/README.md"><div class="mod-item"><div class="mod-num">08</div><span class="mod-icon">💾</span><div class="mod-name">Armazenamento</div><div class="mod-desc">EBS, EFS, FSx, Snow Family, Storage Gateway</div></div></a>
+    <a class="mod-link" href="./09-Monitoramento-e-Governanca/README.md"><div class="mod-item"><div class="mod-num">09</div><span class="mod-icon">📊</span><div class="mod-name">Monitoramento & Governança</div><div class="mod-desc">CloudWatch, Trusted Advisor, Systems Manager</div></div></a>
+    <a class="mod-link" href="./10-Precificacao-e-Suporte/README.md"><div class="mod-item"><div class="mod-num">10</div><span class="mod-icon">💰</span><div class="mod-name">Preços & Suporte</div><div class="mod-desc">Free Tier, Cost Explorer, planos Basic ao Enterprise</div></div></a>
+    <a class="mod-link" href="./11-Migracao-e-Inovacao/README.md"><div class="mod-item"><div class="mod-num">11</div><span class="mod-icon">🚀</span><div class="mod-name">Migração & Inovação</div><div class="mod-desc">7Rs, Migration Hub, DMS, DataSync, Snow Family</div></div></a>
+    <a class="mod-link" href="./12-CAF-Cloud-Adoption-Framework/README.md"><div class="mod-item" style="background:rgba(255,153,0,.05)"><div class="mod-num">12</div><span class="mod-icon">🏛️</span><div class="mod-name">CAF</div><div class="mod-desc">6 perspectivas, 4 fases e capabilities de transformação</div></div></a>
+    <a class="mod-link" href="./13-Well-Architected-Framework/README.md"><div class="mod-item" style="background:rgba(255,153,0,.05)"><div class="mod-num">13</div><span class="mod-icon">🏗️</span><div class="mod-name">Well-Architected</div><div class="mod-desc">6 pilares, design principles e lenses especializadas</div></div></a>
+    <a class="mod-link" href="./14-Inteligencia-Artificial-e-ML/README.md"><div class="mod-item"><div class="mod-num">14</div><span class="mod-icon">🤖</span><div class="mod-name">IA & Machine Learning</div><div class="mod-desc">SageMaker, Rekognition, Bedrock, Amazon Q</div></div></a>
+    <a class="mod-link" href="./15-Servicos-Desenvolvedor/README.md"><div class="mod-item"><div class="mod-num">15</div><span class="mod-icon">🛠️</span><div class="mod-name">Developer Tools</div><div class="mod-desc">CodePipeline, CDK, CloudFormation, Amplify, X-Ray</div></div></a>
+    <a class="mod-link" href="./16-Simulados-e-Questoes/README.md"><div class="mod-item"><div class="mod-num">16</div><span class="mod-icon">📝</span><div class="mod-name">Simulados & Questões</div><div class="mod-desc">65 questões + gabaritos nos 4 domínios do CLF-C02</div></div></a>
+    <a class="mod-link" href="./17-Glossario/README.md"><div class="mod-item"><div class="mod-num">17</div><span class="mod-icon">📖</span><div class="mod-name">Glossário</div><div class="mod-desc">150+ termos AWS em Português com exemplos brasileiros</div></div></a>
+    <a class="mod-link" href="./18-Recursos-e-Links/README.md"><div class="mod-item"><div class="mod-num">18</div><span class="mod-icon">🔗</span><div class="mod-name">Recursos & Links</div><div class="mod-desc">Skill Builder, whitepapers, cursos e materiais oficiais</div></div></a>
   </div>
 </section>
 
@@ -405,19 +406,19 @@ ls -la            <span class="cm"># ver todos os 18 módulos</span>
   <h2 class="cta-title reveal">Conquiste sua<br/><span>certificação AWS</span></h2>
   <p class="cta-desc reveal">Todo o conteúdo necessário para o CLF-C02 em Português, com exemplos do contexto brasileiro. Gratuito para sempre.</p>
   <div class="cta-actions reveal">
-    <a href="https://github.com/Thiago-code-lab/aws-cloud-practitioner-brasil" target="_blank" class="btn btn-p">☁ Acessar no GitHub</a>
-    <a href="https://skillbuilder.aws" target="_blank" class="btn btn-o">→ AWS Skill Builder</a>
-    <a href="https://www.linkedin.com/in/analyticsthiagocardoso" target="_blank" class="btn btn-o">↗ LinkedIn</a>
+    <a href="https://github.com/Thiago-code-lab/aws-cloud-practitioner-brasil" target="_blank" rel="noopener noreferrer" class="btn btn-p">☁ Acessar no GitHub</a>
+    <a href="https://skillbuilder.aws" target="_blank" rel="noopener noreferrer" class="btn btn-o">→ AWS Skill Builder</a>
+    <a href="https://www.linkedin.com/in/analyticsthiagocardoso" target="_blank" rel="noopener noreferrer" class="btn btn-o">↗ LinkedIn</a>
   </div>
 </section>
 
 <footer>
   <div class="fb"><div class="fb-icon">AWS</div><span class="fb-text">Cloud Practitioner Brasil</span></div>
   <div class="fl">
-    <a href="https://github.com/Thiago-code-lab/aws-cloud-practitioner-brasil" target="_blank">GitHub</a>
-    <a href="https://aws.amazon.com/certification/certified-cloud-practitioner/" target="_blank">Certificação Oficial</a>
-    <a href="https://skillbuilder.aws" target="_blank">Skill Builder</a>
-    <a href="https://www.linkedin.com/in/analyticsthiagocardoso" target="_blank">LinkedIn</a>
+    <a href="https://github.com/Thiago-code-lab/aws-cloud-practitioner-brasil" target="_blank" rel="noopener noreferrer">GitHub</a>
+    <a href="https://aws.amazon.com/certification/certified-cloud-practitioner/" target="_blank" rel="noopener noreferrer">Certificação Oficial</a>
+    <a href="https://skillbuilder.aws" target="_blank" rel="noopener noreferrer">Skill Builder</a>
+    <a href="https://www.linkedin.com/in/analyticsthiagocardoso" target="_blank" rel="noopener noreferrer">LinkedIn</a>
   </div>
   <p class="fc">© 2024 Thiago Cardoso Davi · MIT License</p>
 </footer>
