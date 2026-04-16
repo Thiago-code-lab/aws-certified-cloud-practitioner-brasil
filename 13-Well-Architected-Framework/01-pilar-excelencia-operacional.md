@@ -1,32 +1,38 @@
-﻿# ⚙️ Pilar: Excelência Operacional
+# ?? Pilar: Excel�ncia Operacional
 
-## 📌 O que é?
-Foca em executar e evoluir operações com qualidade, automação e aprendizagem contínua.
+## ?? O que �?
+Foca em executar e evoluir opera��es com qualidade, automa��o e aprendizagem cont�nua.
 
-## 🧠 Analogia Simples
-É o manual de operação de uma companhia aérea, atualizado após cada voo e incidente.
+## ?? Analogia Simples
+� o manual de opera��o de uma companhia a�rea, atualizado ap�s cada voo e incidente.
 
-## 🏗️ Como funciona
-Principais princípios: operações como código, mudanças pequenas e reversíveis, melhoria contínua e aprendizagem com falhas.
+## ??? Como funciona
+Principais princ�pios: opera��es como c�digo, mudan�as pequenas e revers�veis, melhoria cont�nua e aprendizagem com falhas.
 
 ```text
-Automação + Runbooks + Observabilidade -> Menos erro manual -> Operação previsível
+Automa��o + Runbooks + Observabilidade -> Menos erro manual -> Opera��o previs�vel
 ```
 
-## 🎯 Casos de Uso Comuns
+## ?? Casos de Uso Comuns
 - Padronizar runbooks e playbooks
 - Automatizar tarefas de rotina com SSM
 - Melhorar MTTR em incidentes
 
-## 💰 Modelo de Preço
-Custos ligados a monitoramento, automação e ferramentas usadas.
+## ?? Modelo de Pre�o
+Custos ligados a monitoramento, automa��o e ferramentas usadas.
 
-## ⚙️ Comandos CLI Úteis
+## ?? Comandos CLI �teis
 ```bash
 aws ssm describe-document
 aws cloudwatch describe-alarms
 ```
 
-## 🔗 Links Oficiais
+## ?? Links Oficiais
 - https://docs.aws.amazon.com/wellarchitected/latest/operational-excellence-pillar/
 - https://docs.aws.amazon.com/systems-manager/
+---
+
+Creditos autorais:
+- Thiago Cardoso - https://www.linkedin.com/in/analyticsthiagocardoso
+- Pedro Albertini - https://www.linkedin.com/in/pedroalbertini/
+- Lucas Garcia - https://www.linkedin.com/in/lucas-del-puerto/

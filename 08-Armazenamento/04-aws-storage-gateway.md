@@ -16,3 +16,9 @@ Serviço híbrido que conecta datacenter on-premises a armazenamento AWS com pro
 aws storagegateway list-gateways
 aws storagegateway list-local-disks --gateway-arn <arn>
 ```
+---
+
+Creditos autorais:
+- Thiago Cardoso - https://www.linkedin.com/in/analyticsthiagocardoso
+- Pedro Albertini - https://www.linkedin.com/in/pedroalbertini/
+- Lucas Garcia - https://www.linkedin.com/in/lucas-del-puerto/

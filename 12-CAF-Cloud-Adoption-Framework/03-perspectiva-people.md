@@ -1,32 +1,38 @@
-﻿# 👥 Perspectiva People
+# ?? Perspectiva People
 
-## 📌 O que é?
-É a perspectiva de cultura, liderança e capacitação que prepara equipes para operar e inovar na nuvem com autonomia.
+## ?? O que �?
+� a perspectiva de cultura, lideran�a e capacita��o que prepara equipes para operar e inovar na nuvem com autonomia.
 
-## 🧠 Analogia Simples
-É treinar piloto e tripulação antes de colocar uma nova aeronave em rota internacional.
+## ?? Analogia Simples
+� treinar piloto e tripula��o antes de colocar uma nova aeronave em rota internacional.
 
-## 🏗️ Como funciona
+## ??? Como funciona
 Inclui Culture Evolution, Cloud Fluency, Workforce Transformation e Change Acceleration.
 
 ```text
-Capacitação -> Mudança cultural -> Novos papéis -> Operação cloud sustentável
+Capacita��o -> Mudan�a cultural -> Novos pap�is -> Opera��o cloud sustent�vel
 ```
 
-## 🎯 Casos de Uso Comuns
-- Programa de certificação e upskilling
+## ?? Casos de Uso Comuns
+- Programa de certifica��o e upskilling
 - Redesenho de times para modelo de produto
-- Gestão de mudança organizacional
+- Gest�o de mudan�a organizacional
 
-## 💰 Modelo de Preço
-Custos de treinamento, certificação e programas de transformação de pessoas.
+## ?? Modelo de Pre�o
+Custos de treinamento, certifica��o e programas de transforma��o de pessoas.
 
-## ⚙️ Comandos CLI Úteis
+## ?? Comandos CLI �teis
 ```bash
 aws iam generate-credential-report
 aws organizations list-accounts
 ```
 
-## 🔗 Links Oficiais
+## ?? Links Oficiais
 - https://aws.amazon.com/training/
 - https://skillbuilder.aws
+---
+
+Creditos autorais:
+- Thiago Cardoso - https://www.linkedin.com/in/analyticsthiagocardoso
+- Pedro Albertini - https://www.linkedin.com/in/pedroalbertini/
+- Lucas Garcia - https://www.linkedin.com/in/lucas-del-puerto/

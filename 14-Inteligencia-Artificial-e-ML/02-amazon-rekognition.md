@@ -15,3 +15,9 @@ Serviço de visão computacional para análise de imagens e vídeos.
 ```bash
 aws rekognition detect-labels --image 'S3Object={Bucket=meu-bucket,Name=img.jpg}'
 ```
+---
+
+Creditos autorais:
+- Thiago Cardoso - https://www.linkedin.com/in/analyticsthiagocardoso
+- Pedro Albertini - https://www.linkedin.com/in/pedroalbertini/
+- Lucas Garcia - https://www.linkedin.com/in/lucas-del-puerto/

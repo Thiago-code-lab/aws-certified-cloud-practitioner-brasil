@@ -179,3 +179,9 @@ A) EventBridge + Lambda + SQS/SNS B) RDS + EBS only C) Route53 + ACM only D) EC2
 
 60. Qual escolha é mais adequada para app sem gerenciar servidor, com triggers?  
 A) AWS Lambda B) EC2 C) ECS on EC2 manual D) Bare metal
+---
+
+Creditos autorais:
+- Thiago Cardoso - https://www.linkedin.com/in/analyticsthiagocardoso
+- Pedro Albertini - https://www.linkedin.com/in/pedroalbertini/
+- Lucas Garcia - https://www.linkedin.com/in/lucas-del-puerto/

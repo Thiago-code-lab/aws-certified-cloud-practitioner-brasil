@@ -179,3 +179,9 @@ A) Foco maior no negócio e menos no operacional B) Controle físico do data cen
 
 60. Qual frase resume boa adoção cloud?  
 A) Começar pequeno, medir, otimizar e escalar com governança B) Migrar tudo sem planejamento C) Ignorar segurança no início D) Focar apenas em preço
+---
+
+Creditos autorais:
+- Thiago Cardoso - https://www.linkedin.com/in/analyticsthiagocardoso
+- Pedro Albertini - https://www.linkedin.com/in/pedroalbertini/
+- Lucas Garcia - https://www.linkedin.com/in/lucas-del-puerto/

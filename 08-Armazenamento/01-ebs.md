@@ -16,3 +16,9 @@ EBS é armazenamento em bloco para instâncias EC2, com baixa latência e opçã
 aws ec2 describe-volumes
 aws ec2 describe-snapshots --owner-ids self
 ```
+---
+
+Creditos autorais:
+- Thiago Cardoso - https://www.linkedin.com/in/analyticsthiagocardoso
+- Pedro Albertini - https://www.linkedin.com/in/pedroalbertini/
+- Lucas Garcia - https://www.linkedin.com/in/lucas-del-puerto/

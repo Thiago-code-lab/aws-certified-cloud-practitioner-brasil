@@ -16,3 +16,9 @@ CloudFormation define infraestrutura como código por templates declarativos. CD
 aws cloudformation list-stacks
 aws cloudformation describe-stacks --stack-name MinhaStack
 ```
+---
+
+Creditos autorais:
+- Thiago Cardoso - https://www.linkedin.com/in/analyticsthiagocardoso
+- Pedro Albertini - https://www.linkedin.com/in/pedroalbertini/
+- Lucas Garcia - https://www.linkedin.com/in/lucas-del-puerto/

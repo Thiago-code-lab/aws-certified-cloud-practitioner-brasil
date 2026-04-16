@@ -22,3 +22,9 @@ Este módulo foca nos serviços de IA/ML mais relevantes para CLF-C02, com ênfa
 - IA pronta por domínio: Rekognition, Comprehend, Polly/Transcribe, Lex
 - Busca empresarial: Kendra
 - GenAI: Bedrock e Q
+---
+
+Creditos autorais:
+- Thiago Cardoso - https://www.linkedin.com/in/analyticsthiagocardoso
+- Pedro Albertini - https://www.linkedin.com/in/pedroalbertini/
+- Lucas Garcia - https://www.linkedin.com/in/lucas-del-puerto/

@@ -15,3 +15,9 @@ Assistente baseado em IA generativa para produtividade, desenvolvimento e uso de
 ```bash
 aws qbusiness list-applications
 ```
+---
+
+Creditos autorais:
+- Thiago Cardoso - https://www.linkedin.com/in/analyticsthiagocardoso
+- Pedro Albertini - https://www.linkedin.com/in/pedroalbertini/
+- Lucas Garcia - https://www.linkedin.com/in/lucas-del-puerto/

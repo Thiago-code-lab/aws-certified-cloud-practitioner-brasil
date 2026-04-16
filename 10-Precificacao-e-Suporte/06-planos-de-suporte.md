@@ -12,3 +12,9 @@ Modelos de suporte com diferentes níveis de atendimento, tempos de resposta e a
 ## Pontos de prova
 - Trusted Advisor e tempos de resposta variam por plano.
 - Escolha depende da criticidade do ambiente.
+---
+
+Creditos autorais:
+- Thiago Cardoso - https://www.linkedin.com/in/analyticsthiagocardoso
+- Pedro Albertini - https://www.linkedin.com/in/pedroalbertini/
+- Lucas Garcia - https://www.linkedin.com/in/lucas-del-puerto/

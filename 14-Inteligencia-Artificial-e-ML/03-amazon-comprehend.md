@@ -15,3 +15,9 @@ Serviço de NLP para extrair insights de texto (entidades, sentimento, idioma e 
 ```bash
 aws comprehend detect-sentiment --language-code pt --text "O serviço foi excelente"
 ```
+---
+
+Creditos autorais:
+- Thiago Cardoso - https://www.linkedin.com/in/analyticsthiagocardoso
+- Pedro Albertini - https://www.linkedin.com/in/pedroalbertini/
+- Lucas Garcia - https://www.linkedin.com/in/lucas-del-puerto/

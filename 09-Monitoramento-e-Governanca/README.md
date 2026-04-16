@@ -15,3 +15,9 @@ Este módulo cobre observabilidade, auditoria, compliance e recomendações oper
 5. AWS Health Dashboard
 6. AWS Systems Manager
 7. AWS Compute Optimizer
+---
+
+Creditos autorais:
+- Thiago Cardoso - https://www.linkedin.com/in/analyticsthiagocardoso
+- Pedro Albertini - https://www.linkedin.com/in/pedroalbertini/
+- Lucas Garcia - https://www.linkedin.com/in/lucas-del-puerto/

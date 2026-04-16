@@ -10,3 +10,9 @@ Conjunto de capacidades para modernizar workloads de mainframe com menor risco e
 ## Pontos de prova
 - Foco em modernização progressiva.
 - Exige estratégia de negócio e técnica bem definida.
+---
+
+Creditos autorais:
+- Thiago Cardoso - https://www.linkedin.com/in/analyticsthiagocardoso
+- Pedro Albertini - https://www.linkedin.com/in/pedroalbertini/
+- Lucas Garcia - https://www.linkedin.com/in/lucas-del-puerto/

@@ -1,32 +1,38 @@
-﻿# 🌱 Pilar: Sustentabilidade
+# ?? Pilar: Sustentabilidade
 
-## 📌 O que é?
-É o pilar adicionado em 2021 que busca reduzir impacto ambiental das cargas de trabalho em nuvem.
+## ?? O que �?
+� o pilar adicionado em 2021 que busca reduzir impacto ambiental das cargas de trabalho em nuvem.
 
-## 🧠 Analogia Simples
-É manter uma operação produtiva consumindo menos energia e recursos naturais.
+## ?? Analogia Simples
+� manter uma opera��o produtiva consumindo menos energia e recursos naturais.
 
-## 🏗️ Como funciona
-Princípios incluem metas de sustentabilidade, maximização de utilização e adoção de hardware/software mais eficientes.
+## ??? Como funciona
+Princ�pios incluem metas de sustentabilidade, maximiza��o de utiliza��o e ado��o de hardware/software mais eficientes.
 
 ```text
-Medição de impacto -> Ações de eficiência -> Menor consumo e emissão
+Medi��o de impacto -> A��es de efici�ncia -> Menor consumo e emiss�o
 ```
 
-## 🎯 Casos de Uso Comuns
-- Rightsizing contínuo de compute
+## ?? Casos de Uso Comuns
+- Rightsizing cont�nuo de compute
 - Uso de arquiteturas serverless
-- Migração para processadores mais eficientes
+- Migra��o para processadores mais eficientes
 
-## 💰 Modelo de Preço
-Muitas ações de sustentabilidade também reduzem custos de operação.
+## ?? Modelo de Pre�o
+Muitas a��es de sustentabilidade tamb�m reduzem custos de opera��o.
 
-## ⚙️ Comandos CLI Úteis
+## ?? Comandos CLI �teis
 ```bash
 aws compute-optimizer get-ec2-instance-recommendations
 aws ec2 describe-instance-types --filters Name=processor-info.supported-architecture,Values=arm64
 ```
 
-## 🔗 Links Oficiais
+## ?? Links Oficiais
 - https://docs.aws.amazon.com/wellarchitected/latest/sustainability-pillar/
 - https://aws.amazon.com/sustainability/
+---
+
+Creditos autorais:
+- Thiago Cardoso - https://www.linkedin.com/in/analyticsthiagocardoso
+- Pedro Albertini - https://www.linkedin.com/in/pedroalbertini/
+- Lucas Garcia - https://www.linkedin.com/in/lucas-del-puerto/

@@ -1,4 +1,4 @@
-﻿# Gabarito D1
+# Gabarito D1
 1-C
 2-B
 3-B
@@ -9,3 +9,9 @@
 8-A
 9-B
 10-C
+---
+
+Creditos autorais:
+- Thiago Cardoso - https://www.linkedin.com/in/analyticsthiagocardoso
+- Pedro Albertini - https://www.linkedin.com/in/pedroalbertini/
+- Lucas Garcia - https://www.linkedin.com/in/lucas-del-puerto/

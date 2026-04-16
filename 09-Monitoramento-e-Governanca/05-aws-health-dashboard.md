@@ -15,3 +15,9 @@ Painel que mostra eventos de saúde da AWS e impactos potenciais nos recursos da
 ```bash
 aws health describe-events --filter services=EC2
 ```
+---
+
+Creditos autorais:
+- Thiago Cardoso - https://www.linkedin.com/in/analyticsthiagocardoso
+- Pedro Albertini - https://www.linkedin.com/in/pedroalbertini/
+- Lucas Garcia - https://www.linkedin.com/in/lucas-del-puerto/

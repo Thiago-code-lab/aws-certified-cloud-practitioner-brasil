@@ -16,3 +16,9 @@ Polly converte texto em fala. Transcribe converte fala em texto.
 aws polly describe-voices
 aws transcribe list-transcription-jobs
 ```
+---
+
+Creditos autorais:
+- Thiago Cardoso - https://www.linkedin.com/in/analyticsthiagocardoso
+- Pedro Albertini - https://www.linkedin.com/in/pedroalbertini/
+- Lucas Garcia - https://www.linkedin.com/in/lucas-del-puerto/

@@ -21,3 +21,9 @@ Este módulo cobre execução de aplicações sem gerenciar servidores, integra�
 - Container sem servidor: Fargate
 - Fluxo: Step Functions
 - Evento: EventBridge
+---
+
+Creditos autorais:
+- Thiago Cardoso - https://www.linkedin.com/in/analyticsthiagocardoso
+- Pedro Albertini - https://www.linkedin.com/in/pedroalbertini/
+- Lucas Garcia - https://www.linkedin.com/in/lucas-del-puerto/

@@ -15,3 +15,9 @@ Plataforma para desenvolver e hospedar aplicações web/mobile com integração 
 ```bash
 aws amplify list-apps
 ```
+---
+
+Creditos autorais:
+- Thiago Cardoso - https://www.linkedin.com/in/analyticsthiagocardoso
+- Pedro Albertini - https://www.linkedin.com/in/pedroalbertini/
+- Lucas Garcia - https://www.linkedin.com/in/lucas-del-puerto/

@@ -10,3 +10,9 @@ Painel centralizado para acompanhar progresso de migrações em diferentes ferra
 ## Pontos de prova
 - Consolida acompanhamento; não executa todas as migrações sozinho.
 - Ajuda em rastreabilidade e priorização.
+---
+
+Creditos autorais:
+- Thiago Cardoso - https://www.linkedin.com/in/analyticsthiagocardoso
+- Pedro Albertini - https://www.linkedin.com/in/pedroalbertini/
+- Lucas Garcia - https://www.linkedin.com/in/lucas-del-puerto/

@@ -1,32 +1,38 @@
-﻿# 🏗️ Perspectiva Platform
+# ??? Perspectiva Platform
 
-## 📌 O que é?
-É a perspectiva técnica que define arquitetura, engenharia de plataforma, automação e esteiras de entrega.
+## ?? O que �?
+� a perspectiva t�cnica que define arquitetura, engenharia de plataforma, automa��o e esteiras de entrega.
 
-## 🧠 Analogia Simples
-É construir a malha viária da cidade: quando bem feita, tudo flui com menos acidente.
+## ?? Analogia Simples
+� construir a malha vi�ria da cidade: quando bem feita, tudo flui com menos acidente.
 
-## 🏗️ Como funciona
+## ??? Como funciona
 Inclui Platform Architecture, Data Architecture, Provisioning & Orchestration e CI/CD Pipeline.
 
 ```text
-IaC + CI/CD + Padrões de Arquitetura -> Entregas repetíveis -> Escala com segurança
+IaC + CI/CD + Padr�es de Arquitetura -> Entregas repet�veis -> Escala com seguran�a
 ```
 
-## 🎯 Casos de Uso Comuns
+## ?? Casos de Uso Comuns
 - Criar landing zone corporativa
 - Padronizar deploy de infraestrutura por IaC
-- Implementar pipelines de entrega contínua
+- Implementar pipelines de entrega cont�nua
 
-## 💰 Modelo de Preço
-Custos de ferramentas, execução de pipelines e recursos provisionados.
+## ?? Modelo de Pre�o
+Custos de ferramentas, execu��o de pipelines e recursos provisionados.
 
-## ⚙️ Comandos CLI Úteis
+## ?? Comandos CLI �teis
 ```bash
 aws cloudformation list-stacks
 aws codepipeline list-pipelines
 ```
 
-## 🔗 Links Oficiais
+## ?? Links Oficiais
 - https://docs.aws.amazon.com/cloudformation/
 - https://docs.aws.amazon.com/codepipeline/
+---
+
+Creditos autorais:
+- Thiago Cardoso - https://www.linkedin.com/in/analyticsthiagocardoso
+- Pedro Albertini - https://www.linkedin.com/in/pedroalbertini/
+- Lucas Garcia - https://www.linkedin.com/in/lucas-del-puerto/

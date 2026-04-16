@@ -20,3 +20,9 @@ aws eks list-clusters
 ## Links
 - https://docs.aws.amazon.com/ecs/
 - https://docs.aws.amazon.com/eks/
+---
+
+Creditos autorais:
+- Thiago Cardoso - https://www.linkedin.com/in/analyticsthiagocardoso
+- Pedro Albertini - https://www.linkedin.com/in/pedroalbertini/
+- Lucas Garcia - https://www.linkedin.com/in/lucas-del-puerto/

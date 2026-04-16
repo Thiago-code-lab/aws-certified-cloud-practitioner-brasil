@@ -179,3 +179,9 @@ A) Least privilege + MFA + logging B) Root sem MFA C) Sem trilhas D) Sem criptog
 
 60. Qual combinação melhora maturidade de segurança na AWS?  
 A) IAM forte + criptografia + detecção + resposta B) Apenas firewall C) Apenas antivírus D) Apenas backup
+---
+
+Creditos autorais:
+- Thiago Cardoso - https://www.linkedin.com/in/analyticsthiagocardoso
+- Pedro Albertini - https://www.linkedin.com/in/pedroalbertini/
+- Lucas Garcia - https://www.linkedin.com/in/lucas-del-puerto/

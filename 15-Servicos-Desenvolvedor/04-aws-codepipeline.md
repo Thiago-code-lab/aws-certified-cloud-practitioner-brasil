@@ -16,3 +16,9 @@ Orquestrador de pipeline CI/CD para conectar etapas de source, build, teste e de
 aws codepipeline list-pipelines
 aws codepipeline get-pipeline --name MeuPipeline
 ```
+---
+
+Creditos autorais:
+- Thiago Cardoso - https://www.linkedin.com/in/analyticsthiagocardoso
+- Pedro Albertini - https://www.linkedin.com/in/pedroalbertini/
+- Lucas Garcia - https://www.linkedin.com/in/lucas-del-puerto/

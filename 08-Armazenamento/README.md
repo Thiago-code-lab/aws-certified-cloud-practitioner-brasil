@@ -14,3 +14,9 @@ Este módulo aborda serviços de armazenamento em bloco, arquivo e soluções h�
 4. AWS Storage Gateway
 5. AWS Snow Family
 6. AWS Backup
+---
+
+Creditos autorais:
+- Thiago Cardoso - https://www.linkedin.com/in/analyticsthiagocardoso
+- Pedro Albertini - https://www.linkedin.com/in/pedroalbertini/
+- Lucas Garcia - https://www.linkedin.com/in/lucas-del-puerto/

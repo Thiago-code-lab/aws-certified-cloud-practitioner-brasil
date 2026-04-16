@@ -19,3 +19,9 @@ aws rds describe-orderable-db-instance-options --engine postgres
 
 ## Links
 - https://docs.aws.amazon.com/rds/
+---
+
+Creditos autorais:
+- Thiago Cardoso - https://www.linkedin.com/in/analyticsthiagocardoso
+- Pedro Albertini - https://www.linkedin.com/in/pedroalbertini/
+- Lucas Garcia - https://www.linkedin.com/in/lucas-del-puerto/

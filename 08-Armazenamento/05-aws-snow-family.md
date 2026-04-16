@@ -16,3 +16,9 @@ Família de dispositivos físicos para transferência de grandes volumes de dado
 aws snowball list-jobs
 aws snowball describe-job --job-id <id>
 ```
+---
+
+Creditos autorais:
+- Thiago Cardoso - https://www.linkedin.com/in/analyticsthiagocardoso
+- Pedro Albertini - https://www.linkedin.com/in/pedroalbertini/
+- Lucas Garcia - https://www.linkedin.com/in/lucas-del-puerto/

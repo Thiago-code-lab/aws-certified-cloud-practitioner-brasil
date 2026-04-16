@@ -19,3 +19,9 @@ aws rds describe-db-instances --filters Name=engine,Values=aurora-postgresql
 
 ## Links
 - https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/
+---
+
+Creditos autorais:
+- Thiago Cardoso - https://www.linkedin.com/in/analyticsthiagocardoso
+- Pedro Albertini - https://www.linkedin.com/in/pedroalbertini/
+- Lucas Garcia - https://www.linkedin.com/in/lucas-del-puerto/

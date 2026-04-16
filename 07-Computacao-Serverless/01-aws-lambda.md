@@ -19,3 +19,9 @@ aws lambda get-function --function-name MinhaFuncao
 
 ## Links
 - https://docs.aws.amazon.com/lambda/
+---
+
+Creditos autorais:
+- Thiago Cardoso - https://www.linkedin.com/in/analyticsthiagocardoso
+- Pedro Albertini - https://www.linkedin.com/in/pedroalbertini/
+- Lucas Garcia - https://www.linkedin.com/in/lucas-del-puerto/

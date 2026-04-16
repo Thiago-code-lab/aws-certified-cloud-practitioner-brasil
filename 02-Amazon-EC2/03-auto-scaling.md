@@ -1,32 +1,38 @@
-﻿# 📘 03 auto scaling
+# ?? 03 auto scaling
 
-## 📌 O que é?
-Serviço/conceito importante para o exame CLF-C02, incluindo fundamentos, operação e melhores práticas.
+## ?? O que �?
+Servi�o/conceito importante para o exame CLF-C02, incluindo fundamentos, opera��o e melhores pr�ticas.
 
-## 🧠 Analogia Simples
-Pense como uma peça específica da infraestrutura que resolve um problema bem definido.
+## ?? Analogia Simples
+Pense como uma pe�a espec�fica da infraestrutura que resolve um problema bem definido.
 
-## 🏗️ Como funciona
-O serviço é configurado no console/CLI, integrado a outros serviços e monitorado continuamente.
+## ??? Como funciona
+O servi�o � configurado no console/CLI, integrado a outros servi�os e monitorado continuamente.
 
 `	ext
-Usuário/Aplicação -> Serviço AWS (03 auto scaling) -> Resultado
+Usu�rio/Aplica��o -> Servi�o AWS (03 auto scaling) -> Resultado
 `
 
-## 🎯 Casos de Uso Comuns
-- Implementação em ambiente de estudo
-- Cenário real corporativo
-- Revisão para prova
+## ?? Casos de Uso Comuns
+- Implementa��o em ambiente de estudo
+- Cen�rio real corporativo
+- Revis�o para prova
 
-## 💰 Modelo de Preço
-Cobrança por consumo, capacidade ou requisição conforme o serviço.
+## ?? Modelo de Pre�o
+Cobran�a por consumo, capacidade ou requisi��o conforme o servi�o.
 
-## ⚙️ Comandos CLI Úteis
+## ?? Comandos CLI �teis
 `ash
 aws auto help
 aws --version
 `
 
-## 🔗 Links Oficiais
+## ?? Links Oficiais
 - https://docs.aws.amazon.com/
 - https://aws.amazon.com/products/
+---
+
+Creditos autorais:
+- Thiago Cardoso - https://www.linkedin.com/in/analyticsthiagocardoso
+- Pedro Albertini - https://www.linkedin.com/in/pedroalbertini/
+- Lucas Garcia - https://www.linkedin.com/in/lucas-del-puerto/

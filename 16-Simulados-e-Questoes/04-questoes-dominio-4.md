@@ -179,3 +179,9 @@ A) Medir, otimizar e governar continuamente B) Otimizar só no fim do ano C) Ign
 
 60. Qual frase resume gestão de custos madura em AWS?  
 A) Visibilidade, accountability e otimização contínua B) Custo é só tema financeiro C) Só engenharia decide D) Sem indicadores
+---
+
+Creditos autorais:
+- Thiago Cardoso - https://www.linkedin.com/in/analyticsthiagocardoso
+- Pedro Albertini - https://www.linkedin.com/in/pedroalbertini/
+- Lucas Garcia - https://www.linkedin.com/in/lucas-del-puerto/

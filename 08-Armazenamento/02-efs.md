@@ -16,3 +16,9 @@ EFS é sistema de arquivos NFS totalmente gerenciado, escalável e compartilhado
 aws efs describe-file-systems
 aws efs describe-mount-targets --file-system-id <id>
 ```
+---
+
+Creditos autorais:
+- Thiago Cardoso - https://www.linkedin.com/in/analyticsthiagocardoso
+- Pedro Albertini - https://www.linkedin.com/in/pedroalbertini/
+- Lucas Garcia - https://www.linkedin.com/in/lucas-del-puerto/

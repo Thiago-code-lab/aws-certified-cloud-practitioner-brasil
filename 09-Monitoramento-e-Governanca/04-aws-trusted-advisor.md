@@ -15,3 +15,9 @@ Trusted Advisor fornece recomendações de boas práticas em custo, performance,
 ```bash
 aws support describe-trusted-advisor-checks --language en
 ```
+---
+
+Creditos autorais:
+- Thiago Cardoso - https://www.linkedin.com/in/analyticsthiagocardoso
+- Pedro Albertini - https://www.linkedin.com/in/pedroalbertini/
+- Lucas Garcia - https://www.linkedin.com/in/lucas-del-puerto/

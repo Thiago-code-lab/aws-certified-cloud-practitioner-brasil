@@ -1,32 +1,38 @@
-﻿# 🏁 Resultados da Transformação com CAF
+# ?? Resultados da Transforma��o com CAF
 
-## 📌 O que é?
-São os ganhos esperados quando a adoção de nuvem segue o CAF: resultados tecnológicos, de processo, organizacionais e de produto.
+## ?? O que �?
+S�o os ganhos esperados quando a ado��o de nuvem segue o CAF: resultados tecnol�gicos, de processo, organizacionais e de produto.
 
-## 🧠 Analogia Simples
-É o pós-obra: além de prédio bonito, mede-se eficiência, economia e satisfação dos usuários.
+## ?? Analogia Simples
+� o p�s-obra: al�m de pr�dio bonito, mede-se efici�ncia, economia e satisfa��o dos usu�rios.
 
-## 🏗️ Como funciona
-Os resultados são acompanhados por indicadores de negócio e operação.
+## ??? Como funciona
+Os resultados s�o acompanhados por indicadores de neg�cio e opera��o.
 
 ```text
-CAF executado -> Capacidades maduras -> Indicadores melhoram -> Escala sustentável
+CAF executado -> Capacidades maduras -> Indicadores melhoram -> Escala sustent�vel
 ```
 
-## 🎯 Casos de Uso Comuns
-- Medir ROI de transformação cloud
-- Priorizar próxima onda de modernização
-- Comunicar benefícios para liderança executiva
+## ?? Casos de Uso Comuns
+- Medir ROI de transforma��o cloud
+- Priorizar pr�xima onda de moderniza��o
+- Comunicar benef�cios para lideran�a executiva
 
-## 💰 Modelo de Preço
-Sem custo do framework; custos e retorno variam pela estratégia adotada.
+## ?? Modelo de Pre�o
+Sem custo do framework; custos e retorno variam pela estrat�gia adotada.
 
-## ⚙️ Comandos CLI Úteis
+## ?? Comandos CLI �teis
 ```bash
 aws ce get-cost-forecast --time-period Start=2026-04-01,End=2026-04-30 --metric UNBLENDED_COST --granularity MONTHLY
 aws cloudwatch list-dashboards
 ```
 
-## 🔗 Links Oficiais
+## ?? Links Oficiais
 - https://docs.aws.amazon.com/whitepapers/latest/aws-caf/
 - https://aws.amazon.com/economics/
+---
+
+Creditos autorais:
+- Thiago Cardoso - https://www.linkedin.com/in/analyticsthiagocardoso
+- Pedro Albertini - https://www.linkedin.com/in/pedroalbertini/
+- Lucas Garcia - https://www.linkedin.com/in/lucas-del-puerto/

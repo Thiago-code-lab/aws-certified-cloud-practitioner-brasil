@@ -14,3 +14,9 @@ Este módulo cobre estratégias de migração para cloud e serviços de descober
 4. AWS Application Discovery Service
 5. AWS Mainframe Modernization
 6. AWS DataSync
+---
+
+Creditos autorais:
+- Thiago Cardoso - https://www.linkedin.com/in/analyticsthiagocardoso
+- Pedro Albertini - https://www.linkedin.com/in/pedroalbertini/
+- Lucas Garcia - https://www.linkedin.com/in/lucas-del-puerto/

@@ -14,3 +14,9 @@ Conjunto de estratégias para mover aplicações para a nuvem conforme custo, pr
 ## Pontos de prova
 - Não existe estratégia única para todo portfólio.
 - Decisão depende de valor de negócio e esforço técnico.
+---
+
+Creditos autorais:
+- Thiago Cardoso - https://www.linkedin.com/in/analyticsthiagocardoso
+- Pedro Albertini - https://www.linkedin.com/in/pedroalbertini/
+- Lucas Garcia - https://www.linkedin.com/in/lucas-del-puerto/

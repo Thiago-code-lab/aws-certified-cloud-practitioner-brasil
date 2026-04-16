@@ -16,3 +16,9 @@ Plataforma gerenciada para construir, treinar e implantar modelos de machine lea
 aws sagemaker list-notebook-instances
 aws sagemaker list-endpoints
 ```
+---
+
+Creditos autorais:
+- Thiago Cardoso - https://www.linkedin.com/in/analyticsthiagocardoso
+- Pedro Albertini - https://www.linkedin.com/in/pedroalbertini/
+- Lucas Garcia - https://www.linkedin.com/in/lucas-del-puerto/

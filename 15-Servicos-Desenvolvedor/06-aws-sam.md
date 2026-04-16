@@ -15,3 +15,9 @@ Framework para desenvolvimento e deploy de aplicações serverless usando templa
 ```bash
 aws serverlessrepo list-applications
 ```
+---
+
+Creditos autorais:
+- Thiago Cardoso - https://www.linkedin.com/in/analyticsthiagocardoso
+- Pedro Albertini - https://www.linkedin.com/in/pedroalbertini/
+- Lucas Garcia - https://www.linkedin.com/in/lucas-del-puerto/

@@ -16,3 +16,9 @@ Este módulo consolida fundamentos de custo, ferramentas de análise financeira 
 6. Planos de Suporte
 7. AWS Marketplace
 8. AWS Billing Dashboard
+---
+
+Creditos autorais:
+- Thiago Cardoso - https://www.linkedin.com/in/analyticsthiagocardoso
+- Pedro Albertini - https://www.linkedin.com/in/pedroalbertini/
+- Lucas Garcia - https://www.linkedin.com/in/lucas-del-puerto/

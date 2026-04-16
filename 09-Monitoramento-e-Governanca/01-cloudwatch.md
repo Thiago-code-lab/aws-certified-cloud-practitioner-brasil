@@ -16,3 +16,9 @@ CloudWatch coleta métricas, logs e eventos para monitoramento e alertas.
 aws cloudwatch list-metrics
 aws logs describe-log-groups
 ```
+---
+
+Creditos autorais:
+- Thiago Cardoso - https://www.linkedin.com/in/analyticsthiagocardoso
+- Pedro Albertini - https://www.linkedin.com/in/pedroalbertini/
+- Lucas Garcia - https://www.linkedin.com/in/lucas-del-puerto/

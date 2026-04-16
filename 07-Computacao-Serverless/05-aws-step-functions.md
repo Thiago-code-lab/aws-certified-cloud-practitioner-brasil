@@ -19,3 +19,9 @@ aws stepfunctions list-executions --state-machine-arn <arn>
 
 ## Links
 - https://docs.aws.amazon.com/step-functions/
+---
+
+Creditos autorais:
+- Thiago Cardoso - https://www.linkedin.com/in/analyticsthiagocardoso
+- Pedro Albertini - https://www.linkedin.com/in/pedroalbertini/
+- Lucas Garcia - https://www.linkedin.com/in/lucas-del-puerto/

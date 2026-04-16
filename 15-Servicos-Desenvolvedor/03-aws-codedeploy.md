@@ -16,3 +16,9 @@ Serviço para automação de deploy em EC2, Lambda e ECS.
 aws deploy list-applications
 aws deploy list-deployment-groups --application-name MinhaApp
 ```
+---
+
+Creditos autorais:
+- Thiago Cardoso - https://www.linkedin.com/in/analyticsthiagocardoso
+- Pedro Albertini - https://www.linkedin.com/in/pedroalbertini/
+- Lucas Garcia - https://www.linkedin.com/in/lucas-del-puerto/

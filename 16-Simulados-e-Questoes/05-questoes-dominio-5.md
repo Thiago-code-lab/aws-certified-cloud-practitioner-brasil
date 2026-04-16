@@ -179,3 +179,9 @@ A) Tags obrigatórias + showback/chargeback B) Sem classificação C) Custos agr
 
 60. Qual resumo melhor representa prontidão para CLF-C02?  
 A) Entender valor de nuvem, segurança, tecnologia e custos integrados B) Decorar apenas siglas C) Ignorar finanças D) Ignorar responsabilidade compartilhada
+---
+
+Creditos autorais:
+- Thiago Cardoso - https://www.linkedin.com/in/analyticsthiagocardoso
+- Pedro Albertini - https://www.linkedin.com/in/pedroalbertini/
+- Lucas Garcia - https://www.linkedin.com/in/lucas-del-puerto/

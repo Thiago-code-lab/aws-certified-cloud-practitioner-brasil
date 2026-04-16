@@ -16,3 +16,9 @@ AWS Backup centraliza políticas e execução de backups para múltiplos serviç
 aws backup list-backup-plans
 aws backup list-recovery-points-by-backup-vault --backup-vault-name Default
 ```
+---
+
+Creditos autorais:
+- Thiago Cardoso - https://www.linkedin.com/in/analyticsthiagocardoso
+- Pedro Albertini - https://www.linkedin.com/in/pedroalbertini/
+- Lucas Garcia - https://www.linkedin.com/in/lucas-del-puerto/

@@ -11,3 +11,9 @@ Programa de uso gratuito com limites mensais para vários serviços, útil para 
 ## Pontos de prova
 - Exceder limites gera cobrança.
 - Free Tier não significa conta sem cartão.
+---
+
+Creditos autorais:
+- Thiago Cardoso - https://www.linkedin.com/in/analyticsthiagocardoso
+- Pedro Albertini - https://www.linkedin.com/in/pedroalbertini/
+- Lucas Garcia - https://www.linkedin.com/in/lucas-del-puerto/

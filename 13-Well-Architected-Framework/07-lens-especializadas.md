@@ -1,32 +1,38 @@
-﻿# 🔬 Lenses Especializadas
+# ?? Lenses Especializadas
 
-## 📌 O que é?
-São extensões do Well-Architected com perguntas e práticas específicas para tipos de workload e indústria.
+## ?? O que �?
+S�o extens�es do Well-Architected com perguntas e pr�ticas espec�ficas para tipos de workload e ind�stria.
 
-## 🧠 Analogia Simples
-É usar óculos diferentes para tarefas diferentes: leitura, direção ou precisão técnica.
+## ?? Analogia Simples
+� usar �culos diferentes para tarefas diferentes: leitura, dire��o ou precis�o t�cnica.
 
-## 🏗️ Como funciona
-Além dos 6 pilares base, cada lens adiciona recomendações para contexto específico.
+## ??? Como funciona
+Al�m dos 6 pilares base, cada lens adiciona recomenda��es para contexto espec�fico.
 
 ```text
-Pilares base + Lens específica -> Avaliação contextual -> Plano de melhoria mais preciso
+Pilares base + Lens espec�fica -> Avalia��o contextual -> Plano de melhoria mais preciso
 ```
 
-## 🎯 Casos de Uso Comuns
+## ?? Casos de Uso Comuns
 - Serverless Lens para apps orientados a eventos
 - SaaS Lens para produto multi-tenant
-- Data Analytics Lens para plataformas analíticas
+- Data Analytics Lens para plataformas anal�ticas
 
-## 💰 Modelo de Preço
-As lenses não têm custo próprio; custos vêm das melhorias implementadas.
+## ?? Modelo de Pre�o
+As lenses n�o t�m custo pr�prio; custos v�m das melhorias implementadas.
 
-## ⚙️ Comandos CLI Úteis
+## ?? Comandos CLI �teis
 ```bash
 aws wellarchitected list-lenses
 aws wellarchitected get-lens --lens-alias wellarchitected
 ```
 
-## 🔗 Links Oficiais
+## ?? Links Oficiais
 - https://docs.aws.amazon.com/wellarchitected/latest/userguide/lenses.html
 - https://docs.aws.amazon.com/wellarchitected/latest/userguide/
+---
+
+Creditos autorais:
+- Thiago Cardoso - https://www.linkedin.com/in/analyticsthiagocardoso
+- Pedro Albertini - https://www.linkedin.com/in/pedroalbertini/
+- Lucas Garcia - https://www.linkedin.com/in/lucas-del-puerto/

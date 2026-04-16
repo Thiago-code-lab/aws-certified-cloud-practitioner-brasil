@@ -1,4 +1,4 @@
-﻿# Gabarito Simulado Completo (65)
+# Gabarito Simulado Completo (65)
 
 1-B
 2-B
@@ -65,3 +65,9 @@
 63-A
 64-B
 65-A
+---
+
+Creditos autorais:
+- Thiago Cardoso - https://www.linkedin.com/in/analyticsthiagocardoso
+- Pedro Albertini - https://www.linkedin.com/in/pedroalbertini/
+- Lucas Garcia - https://www.linkedin.com/in/lucas-del-puerto/
