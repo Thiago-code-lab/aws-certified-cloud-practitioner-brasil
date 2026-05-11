@@ -1,9 +1,13 @@
-﻿<p align="center">
-  <img src="./assets/Logo-CloudStudy.png" alt="CloudStudy" width="92">
+<p align="center">
+  <img src="./assets/CloudPractitioner-Banner.png" alt="Banner AWS Cloud Practitioner" width="100%">
 </p>
 
 <p align="center">
-  <img src="./assets/CloudPractitioner%20%281%29.png" alt="AWS Cloud Practitioner" height="42">
+  <img src="./assets/Logo-CloudStudy.png" alt="CloudStudy" width="160">
+</p>
+
+<p align="center">
+  <img src="./assets/CloudPractitioner%20%281%29.png" alt="AWS Cloud Practitioner" height="104">
 </p>
 
 <h1 align="center">AWS Cloud Practitioner (CLF-C02)</h1>
@@ -32,10 +36,6 @@
 </p>
 
 <p align="center">
-  <img src="./assets/CloudPractitioner-Banner.png" alt="Banner AWS Cloud Practitioner" width="100%">
-</p>
-
-<p align="center">
   <sub><strong>Criado por Thiago Cardoso, Pedro Albertini e Lucas Garcia</strong></sub><br/>
   <sub>
     <a href="https://www.linkedin.com/in/analyticsthiagocardoso">Thiago Cardoso</a> |
@@ -43,6 +43,24 @@
     <a href="https://www.linkedin.com/in/lucas-del-puerto/">Lucas Garcia</a>
   </sub>
 </p>
+
+---
+
+## O que você vai encontrar neste repositório
+
+Uma base aberta de estudos em AWS organizada para leitura progressiva, revisão rápida e preparação prática para a certificação.
+
+| Bloco | O que você encontra |
+|---|---|
+| Fundamentos AWS | Conceitos de nuvem, infraestrutura global e base da certificação |
+| Serviços principais | EC2, S3, RDS, Lambda e outros serviços centrais da jornada |
+| Segurança e IAM | Responsabilidade compartilhada, identidades, permissões e conformidade |
+| Redes e conectividade | VPC, subnets, roteamento, DNS e conectividade híbrida |
+| Pricing e custos | Modelos de cobrança, suporte, orçamentos e otimização básica |
+| Simulados comentados | Questões por domínio, revisão guiada e leitura no estilo da prova |
+| Labs práticos | Exemplos e fluxos de estudo voltados para fixação progressiva |
+| Flashcards e resumos | Revisão rápida para reforço de memória e consolidação |
+| Portal navegável | Estrutura pensada para leitura sequencial e consulta rápida no GitHub |
 
 ---
 
@@ -155,4 +173,3 @@ Creditos autorais:
 - Thiago Cardoso - https://www.linkedin.com/in/analyticsthiagocardoso
 - Pedro Albertini - https://www.linkedin.com/in/pedroalbertini/
 - Lucas Garcia - https://www.linkedin.com/in/lucas-del-puerto/
-
