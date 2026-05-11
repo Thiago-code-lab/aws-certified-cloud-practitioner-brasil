@@ -3,11 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="./assets/Logo-CloudStudy.png" alt="CloudStudy" width="160">
-</p>
-
-<p align="center">
-  <img src="./assets/CloudPractitioner%20%281%29.png" alt="AWS Cloud Practitioner" height="104">
+  <img src="./assets/Logo-CloudStudy.png" alt="CloudStudy" width="156" style="vertical-align: middle;">
+  &nbsp;&nbsp;&nbsp;
+  <img src="./assets/CloudPractitioner%20%281%29.png" alt="AWS Cloud Practitioner" height="102" style="vertical-align: middle;">
 </p>
 
 <h1 align="center">AWS Cloud Practitioner (CLF-C02)</h1>
