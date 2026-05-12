@@ -1,12 +1,15 @@
-﻿# Simulados E Questoes
+﻿# Simulados e Questões - CLF-C02
 
-Resumo objetivo do módulo com foco em fundamentos, revisão rápida e aplicação inicial.
+Este bloco oferece treino leve, porém realista, com perguntas de múltipla escolha no estilo da prova.
 
-## Foco
-- Conceitos essenciais
-- Segurança, custo e disponibilidade
-- Preparação para questões de nível introdutório
+## Como usar
+1. Resolva um domínio por vez.
+2. Tente responder sem abrir o bloco de resposta.
+3. Abra `<details>` apenas após finalizar a questão.
+4. Revise explicações das respostas erradas.
 
-## Continuidade
-Trilha de arquitetura: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+## Cobertura
+- Domínio 1 a 5 com questões objetivas.
+- Simulado final curto para consolidação.
+- Fluxo voltado a iniciantes com foco em fundamentos.
 

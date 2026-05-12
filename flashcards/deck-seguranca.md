@@ -1,11 +1,35 @@
-﻿# Deck Seguranca
+﻿# Deck Segurança
 
-Material de apoio curto para revisão e retenção.
+## Card 1
+**Pergunta:** Quem define permissões IAM da conta?
 
-- Use antes de simulados.
-- Reforce tópicos com erro.
-- Revise em ciclos rápidos.
+<details>
+<summary><strong>Ver resposta</strong></summary>
 
-Arquitetura: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
-IA na AWS: https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil
+**Resposta:**
+O cliente AWS.
+
+</details>
+
+## Card 2
+**Pergunta:** Qual prática reduz risco de acesso indevido?
+
+<details>
+<summary><strong>Ver resposta</strong></summary>
+
+**Resposta:**
+Ativar MFA e aplicar menor privilégio.
+
+</details>
+
+## Card 3
+**Pergunta:** Para que serve CloudTrail?
+
+<details>
+<summary><strong>Ver resposta</strong></summary>
+
+**Resposta:**
+Registrar ações e chamadas de API para auditoria.
+
+</details>
 

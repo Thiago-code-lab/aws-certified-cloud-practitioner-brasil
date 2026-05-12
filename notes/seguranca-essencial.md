@@ -1,11 +1,18 @@
-﻿# Seguranca Essencial
+﻿# Segurança Essencial - Revisão de Prova
 
-Material de apoio curto para revisão e retenção.
+## O que revisar
+- Responsabilidade compartilhada.
+- IAM, MFA e menor privilégio.
+- CloudTrail para auditoria.
 
-- Use antes de simulados.
-- Reforce tópicos com erro.
-- Revise em ciclos rápidos.
+## Pergunta de validação
+No modelo de responsabilidade compartilhada, quem gerencia usuários e permissões da conta?
 
-Arquitetura: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
-IA na AWS: https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil
+<details>
+<summary><strong>Ver resposta</strong></summary>
+
+**Resposta:**
+O cliente.
+
+</details>
 

@@ -1,11 +1,35 @@
 ﻿# Deck Fundamentos
 
-Material de apoio curto para revisão e retenção.
+## Card 1
+**Pergunta:** O que é elasticidade na nuvem?
 
-- Use antes de simulados.
-- Reforce tópicos com erro.
-- Revise em ciclos rápidos.
+<details>
+<summary><strong>Ver resposta</strong></summary>
 
-Arquitetura: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
-IA na AWS: https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil
+**Resposta:**
+Capacidade de aumentar ou reduzir recursos conforme demanda.
+
+</details>
+
+## Card 2
+**Pergunta:** Diferença entre Região e AZ?
+
+<details>
+<summary><strong>Ver resposta</strong></summary>
+
+**Resposta:**
+Região é área geográfica; AZ é datacenter isolado dentro da região.
+
+</details>
+
+## Card 3
+**Pergunta:** Qual benefício principal do modelo sob demanda?
+
+<details>
+<summary><strong>Ver resposta</strong></summary>
+
+**Resposta:**
+Pagar apenas pelo uso, com menor investimento inicial.
+
+</details>
 

@@ -1,11 +1,18 @@
-﻿# Fundamentos Aws
+﻿# Fundamentos AWS - Revisão de Prova
 
-Material de apoio curto para revisão e retenção.
+## O que revisar
+- Benefícios da nuvem: elasticidade, agilidade e escala.
+- Infra global: Regiões e AZs.
+- Modelo de serviço: IaaS, PaaS, SaaS (visão básica).
 
-- Use antes de simulados.
-- Reforce tópicos com erro.
-- Revise em ciclos rápidos.
+## Pergunta de validação
+Qual conceito descreve ajuste automático de recursos conforme demanda?
 
-Arquitetura: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
-IA na AWS: https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil
+<details>
+<summary><strong>Ver resposta</strong></summary>
+
+**Resposta:**
+Elasticidade.
+
+</details>
 

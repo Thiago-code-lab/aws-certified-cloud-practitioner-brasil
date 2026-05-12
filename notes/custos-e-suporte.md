@@ -1,11 +1,18 @@
-﻿# Custos E Suporte
+﻿# Custos e Suporte - Revisão de Prova
 
-Material de apoio curto para revisão e retenção.
+## O que revisar
+- On-Demand, Spot e compromisso de uso.
+- Budgets para alerta.
+- Cost Explorer para análise de gasto.
 
-- Use antes de simulados.
-- Reforce tópicos com erro.
-- Revise em ciclos rápidos.
+## Pergunta de validação
+Qual serviço da AWS você usa para configurar alerta quando custo se aproxima de um limite?
 
-Arquitetura: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
-IA na AWS: https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil
+<details>
+<summary><strong>Ver resposta</strong></summary>
+
+**Resposta:**
+AWS Budgets.
+
+</details>
 

@@ -1,11 +1,14 @@
-﻿# Checklist Vespera
+﻿# Checklist de Véspera
 
-Material de apoio curto para revisão e retenção.
+- Revisar responsabilidade compartilhada.
+- Revisar IAM, MFA e menor privilégio.
+- Revisar diferenças entre EC2, Lambda e S3.
+- Revisar Cost Explorer, Budgets e modelos de preço.
 
-- Use antes de simulados.
-- Reforce tópicos com erro.
-- Revise em ciclos rápidos.
+## Validação rápida
+Se você errar mais de 2 itens abaixo, revise o módulo correspondente.
 
-Arquitetura: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
-IA na AWS: https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil
-
+- Sei diferenciar Região e AZ.
+- Sei quando usar On-Demand vs Spot.
+- Sei o objetivo de CloudTrail e CloudWatch.
+- Sei o papel de IAM em segurança.

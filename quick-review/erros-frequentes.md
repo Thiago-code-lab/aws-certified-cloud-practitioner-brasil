@@ -1,11 +1,10 @@
 ﻿# Erros Frequentes
 
-Material de apoio curto para revisão e retenção.
+1. Confundir alta disponibilidade com alta performance.
+2. Achar que AWS configura IAM para o cliente.
+3. Escolher serviço avançado quando há opção simples.
+4. Ignorar custo de recuperação em classes de arquivamento.
+5. Esquecer que root deve ter uso restrito.
 
-- Use antes de simulados.
-- Reforce tópicos com erro.
-- Revise em ciclos rápidos.
-
-Arquitetura: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
-IA na AWS: https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil
-
+## Correção prática
+Após cada bloco de questões, anote seus 3 erros recorrentes e revise apenas esses temas por 15 minutos.

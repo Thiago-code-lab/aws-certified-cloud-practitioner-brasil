@@ -1,11 +1,35 @@
 ﻿# Deck Custos
 
-Material de apoio curto para revisão e retenção.
+## Card 1
+**Pergunta:** Quando usar On-Demand?
 
-- Use antes de simulados.
-- Reforce tópicos com erro.
-- Revise em ciclos rápidos.
+<details>
+<summary><strong>Ver resposta</strong></summary>
 
-Arquitetura: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
-IA na AWS: https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil
+**Resposta:**
+Quando o uso é variável e sem compromisso de longo prazo.
+
+</details>
+
+## Card 2
+**Pergunta:** Qual serviço envia alerta de orçamento?
+
+<details>
+<summary><strong>Ver resposta</strong></summary>
+
+**Resposta:**
+AWS Budgets.
+
+</details>
+
+## Card 3
+**Pergunta:** Qual ferramenta ajuda a analisar custo histórico?
+
+<details>
+<summary><strong>Ver resposta</strong></summary>
+
+**Resposta:**
+AWS Cost Explorer.
+
+</details>
 

@@ -1,11 +1,13 @@
-﻿# Servicos Chave
+﻿# Serviços-Chave
 
-Material de apoio curto para revisão e retenção.
+## Mapa mental de prova
+- IAM: identidade e acesso.
+- EC2: computação virtual.
+- S3: armazenamento de objetos.
+- RDS: banco relacional gerenciado.
+- Lambda: execução sem servidor.
+- CloudWatch: monitoramento.
+- Budgets/Cost Explorer: custos.
 
-- Use antes de simulados.
-- Reforce tópicos com erro.
-- Revise em ciclos rápidos.
-
-Arquitetura: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
-IA na AWS: https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil
-
+## Dica de prova
+Quando duas alternativas parecerem corretas, escolha a opção que resolve o cenário com menor complexidade operacional.
