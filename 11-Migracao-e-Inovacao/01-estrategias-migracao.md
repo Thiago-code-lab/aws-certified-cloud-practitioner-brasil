@@ -1,22 +1,10 @@
-# Estratégias de Migração (6Rs)
+﻿# Estrategias Migracao
 
-## O que é
-Conjunto de estratégias para mover aplicações para a nuvem conforme custo, prazo e risco.
+Visão introdutória do tópico em linguagem direta para o CLF-C02.
 
-## As 6Rs
-- Rehost
-- Replatform
-- Repurchase
-- Refactor/Re-architect
-- Retire
-- Retain
+- Entenda para que serve.
+- Diferencie de opções semelhantes.
+- Priorize escolhas simples e seguras.
 
-## Pontos de prova
-- Não existe estratégia única para todo portfólio.
-- Decisão depende de valor de negócio e esforço técnico.
----
+Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
-Creditos autorais:
-- Thiago Cardoso - https://www.linkedin.com/in/analyticsthiagocardoso
-- Pedro Albertini - https://www.linkedin.com/in/pedroalbertini/
-- Lucas Garcia - https://www.linkedin.com/in/lucas-del-puerto/

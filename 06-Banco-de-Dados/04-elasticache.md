@@ -1,27 +1,10 @@
-# Amazon ElastiCache
+﻿# Elasticache
 
-## O que é
-ElastiCache fornece cache em memória com Redis ou Memcached para reduzir latência e aliviar bancos de dados.
+Visão introdutória do tópico em linguagem direta para o CLF-C02.
 
-## Quando usar
-- Caching de consultas frequentes e sessões.
-- Controle de throughput em picos de acesso.
+- Entenda para que serve.
+- Diferencie de opções semelhantes.
+- Priorize escolhas simples e seguras.
 
-## Pontos de prova
-- Redis suporta persistência e recursos avançados.
-- Memcached é mais simples para cache distribuído puro.
+Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
-## CLI útil
-```bash
-aws elasticache describe-cache-clusters
-aws elasticache describe-replication-groups
-```
-
-## Links
-- https://docs.aws.amazon.com/elasticache/
----
-
-Creditos autorais:
-- Thiago Cardoso - https://www.linkedin.com/in/analyticsthiagocardoso
-- Pedro Albertini - https://www.linkedin.com/in/pedroalbertini/
-- Lucas Garcia - https://www.linkedin.com/in/lucas-del-puerto/

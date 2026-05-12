@@ -1,18 +1,10 @@
-﻿# Classes de Armazenamento do S3
+﻿# Classes De Armazenamento
 
-## O que são
-Categorias de armazenamento com diferentes níveis de custo, latência e tempo de retenção.
+Visão introdutória do tópico em linguagem direta para o CLF-C02.
 
-## Quando usar
-- `S3 Standard`: acesso frequente.
-- `S3 Standard-IA` e `One Zone-IA`: acesso eventual.
-- `S3 Glacier`: arquivamento de longo prazo.
+- Entenda para que serve.
+- Diferencie de opções semelhantes.
+- Priorize escolhas simples e seguras.
 
-## Pontos de prova
-- Classe mais barata nem sempre é a melhor escolha.
-- Tempo de recuperação e custo de retrieval importam na decisão.
+Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
-## Explorar arquiteturas relacionadas
-
-Para ampliar cenários de armazenamento em arquitetura AWS, continue na trilha Solutions Architect Associate:
-https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil

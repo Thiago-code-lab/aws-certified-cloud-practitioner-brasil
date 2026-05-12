@@ -1,18 +1,10 @@
-# AWS Application Discovery Service
+﻿# Aws Application Discovery
 
-## O que é
-Serviço para coletar dados de servidores e dependências antes da migração.
+Visão introdutória do tópico em linguagem direta para o CLF-C02.
 
-## Quando usar
-- Planejamento de ondas de migração baseadas em evidência.
-- Inventário de ativos e mapeamento de dependências.
+- Entenda para que serve.
+- Diferencie de opções semelhantes.
+- Priorize escolhas simples e seguras.
 
-## Pontos de prova
-- Melhora qualidade do planejamento.
-- Reduz risco de surpresa durante migração.
----
+Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
-Creditos autorais:
-- Thiago Cardoso - https://www.linkedin.com/in/analyticsthiagocardoso
-- Pedro Albertini - https://www.linkedin.com/in/pedroalbertini/
-- Lucas Garcia - https://www.linkedin.com/in/lucas-del-puerto/

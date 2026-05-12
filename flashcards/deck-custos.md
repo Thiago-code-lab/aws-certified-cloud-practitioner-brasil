@@ -1,8 +1,11 @@
 ﻿# Deck Custos
 
-- **Pergunta:** Quando usar On-Demand?  
-  **Resposta:** Carga variável ou sem previsão de uso.
-- **Pergunta:** Para que serve o AWS Budgets?  
-  **Resposta:** Definir alertas de orçamento e acompanhar gasto.
-- **Pergunta:** Qual cuidado com classes S3 de arquivamento?  
-  **Resposta:** Considerar tempo e custo de recuperação.
+Material de apoio curto para revisão e retenção.
+
+- Use antes de simulados.
+- Reforce tópicos com erro.
+- Revise em ciclos rápidos.
+
+Arquitetura: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+IA na AWS: https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil
+

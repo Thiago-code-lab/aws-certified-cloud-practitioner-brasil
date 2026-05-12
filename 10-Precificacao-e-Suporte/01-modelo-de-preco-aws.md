@@ -1,17 +1,10 @@
-﻿# Modelo de Preço AWS
+﻿# Modelo De Preco Aws
 
-## O que é
-A AWS adota cobrança por uso, sem investimento inicial em infraestrutura física.
+Visão introdutória do tópico em linguagem direta para o CLF-C02.
 
-## Quando usar
-- Ambientes com demanda variável.
-- Projetos que precisam crescer gradualmente com controle de custo.
+- Entenda para que serve.
+- Diferencie de opções semelhantes.
+- Priorize escolhas simples e seguras.
 
-## Pontos de prova
-- Modelo sob demanda reduz barreira de entrada.
-- Escolhas de preço impactam diretamente previsibilidade financeira.
+Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
-## Próxima trilha recomendada
-
-Para decisões de custo em arquiteturas reais, avance para o AWS Solutions Architect Associate:
-https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil

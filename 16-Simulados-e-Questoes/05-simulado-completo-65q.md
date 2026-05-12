@@ -1,19 +1,10 @@
-﻿# Simulado Completo
+﻿# Simulado Completo 65Q
 
-Simulado final para validar prontidão no CLF-C02 em formato de revisão intensiva.
+Visão introdutória do tópico em linguagem direta para o CLF-C02.
 
-## Regras sugeridas
+- Entenda para que serve.
+- Diferencie de opções semelhantes.
+- Priorize escolhas simples e seguras.
 
-- Tempo total: 90 minutos.
-- Ambiente sem interrupções.
-- Registrar perguntas de maior incerteza para revisão posterior.
+Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
-## Critério de leitura
-
-- Identifique o objetivo do cenário.
-- Elimine alternativas com risco de segurança ou custo inadequado.
-- Prefira a solução mais simples e aderente ao contexto.
-
-## Fechamento
-
-Após concluir, consulte o gabarito e crie uma lista de reforço para os tópicos com menor acerto.

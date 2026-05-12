@@ -1,13 +1,11 @@
-﻿# Guias de Bolso
+﻿# README
 
-Referências rápidas em formato de bolso:
+Material de apoio curto para revisão e retenção.
 
-- [IAM](./iam.md)
-- [S3](./s3.md)
-- [Precificação](./precificacao.md)
-- [Conceitos Centrais](./conceitos-centrais.md)
+- Use antes de simulados.
+- Reforce tópicos com erro.
+- Revise em ciclos rápidos.
 
-## Aprofunde este bloco
+Arquitetura: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+IA na AWS: https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil
 
-Para decisões de arquitetura em serviços AWS, continue na trilha SAA-C03:
-https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil

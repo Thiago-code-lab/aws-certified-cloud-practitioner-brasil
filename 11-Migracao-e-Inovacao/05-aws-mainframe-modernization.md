@@ -1,18 +1,10 @@
-# AWS Mainframe Modernization
+﻿# Aws Mainframe Modernization
 
-## O que é
-Conjunto de capacidades para modernizar workloads de mainframe com menor risco e transição controlada.
+Visão introdutória do tópico em linguagem direta para o CLF-C02.
 
-## Quando usar
-- Projetos de atualização de sistemas legados críticos.
-- Necessidade de reduzir custo operacional de plataformas antigas.
+- Entenda para que serve.
+- Diferencie de opções semelhantes.
+- Priorize escolhas simples e seguras.
 
-## Pontos de prova
-- Foco em modernização progressiva.
-- Exige estratégia de negócio e técnica bem definida.
----
+Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
-Creditos autorais:
-- Thiago Cardoso - https://www.linkedin.com/in/analyticsthiagocardoso
-- Pedro Albertini - https://www.linkedin.com/in/pedroalbertini/
-- Lucas Garcia - https://www.linkedin.com/in/lucas-del-puerto/

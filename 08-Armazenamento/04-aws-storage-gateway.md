@@ -1,24 +1,10 @@
-# AWS Storage Gateway
+﻿# Aws Storage Gateway
 
-## O que é
-Serviço híbrido que conecta datacenter on-premises a armazenamento AWS com protocolos padrão.
+Visão introdutória do tópico em linguagem direta para o CLF-C02.
 
-## Quando usar
-- Migração gradual para cloud sem interromper sistemas locais.
-- Backup e arquivamento com integração ao S3 e outros serviços.
+- Entenda para que serve.
+- Diferencie de opções semelhantes.
+- Priorize escolhas simples e seguras.
 
-## Pontos de prova
-- Suporta cenários de arquivo, volume e fita virtual.
-- Reduz latência local com cache on-premises.
+Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
-## CLI útil
-```bash
-aws storagegateway list-gateways
-aws storagegateway list-local-disks --gateway-arn <arn>
-```
----
-
-Creditos autorais:
-- Thiago Cardoso - https://www.linkedin.com/in/analyticsthiagocardoso
-- Pedro Albertini - https://www.linkedin.com/in/pedroalbertini/
-- Lucas Garcia - https://www.linkedin.com/in/lucas-del-puerto/

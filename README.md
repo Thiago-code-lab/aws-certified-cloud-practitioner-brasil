@@ -1,24 +1,51 @@
-﻿# AWS Cloud Practitioner Brasil (CLF-C02)
+﻿<p align="center">
+  <img src="./assets/CloudPractitioner-Banner.png" alt="Banner AWS Cloud Practitioner" width="100%">
+</p>
 
-Repositório comunitário em **PT-BR** para fundamentos de AWS com foco em clareza, prática inicial e revisão objetiva.
+<p align="center">
+  <img src="./assets/Logo-CloudStudy.png" alt="CloudStudy" width="156">
+  &nbsp;&nbsp;&nbsp;
+  <img src="./assets/CloudPractitioner%20%281%29.png" alt="AWS Cloud Practitioner" height="102">
+</p>
 
-## Navegação Rápida
+<h1 align="center">AWS Cloud Practitioner (CLF-C02) | Brasil</h1>
 
-- [Trilha Principal](#trilha-principal)
-- [Módulos](#modulos)
-- [Kit de Revisão](#kit-de-revisao)
-- [Fluxo de Estudo](./docs/study-flow.md)
-- [Guia de Prova](./docs/exam-guide.md)
-- [Próximos Passos](./docs/next-steps.md)
+<p align="center">
+  Base open source em PT-BR para fundamentos de AWS com navegação premium e trilha de evolução.
+</p>
 
-## Trilha Principal
+<p align="center">
+  <img src="https://img.shields.io/github/stars/Thiago-code-lab/aws-certified-cloud-practitioner-brasil?style=for-the-badge&label=Stars&color=2563eb" alt="Stars">
+  <img src="https://img.shields.io/github/forks/Thiago-code-lab/aws-certified-cloud-practitioner-brasil?style=for-the-badge&label=Forks&color=1d4ed8" alt="Forks">
+  <img src="https://img.shields.io/github/last-commit/Thiago-code-lab/aws-certified-cloud-practitioner-brasil?style=for-the-badge&label=Ultimo%20commit&color=334155" alt="Último commit">
+  <img src="https://img.shields.io/github/license/Thiago-code-lab/aws-certified-cloud-practitioner-brasil?style=for-the-badge&label=MIT&color=0f766e" alt="Licença MIT">
+</p>
 
-1. Fundamentos de nuvem e infraestrutura global.
-2. Serviços essenciais: EC2, S3, rede, banco e segurança.
-3. Operação: monitoramento, custos, suporte e governança.
-4. Revisão com simulados e glossário.
+<p align="center">
+  <img src="https://img.shields.io/badge/Conteudo-PT--BR-0284c7?style=for-the-badge&labelColor=0f172a" alt="Conteúdo em PT-BR">
+  <img src="https://img.shields.io/badge/Open%20Source-Educacional-1e40af?style=for-the-badge&labelColor=0f172a" alt="Open Source">
+  <img src="https://img.shields.io/badge/Foundation-Cloud%20Journey-0f766e?style=for-the-badge&labelColor=0f172a" alt="Foundation">
+</p>
 
-Esta trilha foi organizada para quem está começando e quer construir base sólida para o exame CLF-C02 sem perder tempo com excesso de detalhe fora de escopo.
+---
+
+## Visão Geral
+
+Este repositório organiza os fundamentos de AWS em módulos objetivos, com foco em leitura progressiva, revisão rápida e prática inicial. A proposta pública prioriza clareza e consistência para quem está começando em cloud.
+
+| Bloco | O que você encontra |
+|---|---|
+| Fundamentos | Conceitos de nuvem, regiões, modelos de serviço e base da certificação |
+| Serviços centrais | EC2, S3, rede, banco, segurança e operações essenciais |
+| Revisão | Simulados curtos, glossário e material de fixação |
+| Apoio | Notas, cheatsheets, flashcards, labs e docs de fluxo de estudo |
+
+## Roadmap de Estudo
+
+1. Módulos 01 a 05: base de nuvem, segurança e rede.
+2. Módulos 06 a 10: serviços de dados, storage e custos.
+3. Módulos 11 a 15: contexto de adoção, arquitetura e inovação.
+4. Módulos 16 a 18: consolidação, revisão e próximos passos.
 
 ## Módulos
 
@@ -43,28 +70,13 @@ Esta trilha foi organizada para quem está começando e quer construir base sól
 | 17 | Glossário AWS | [Abrir](./17-Glossario/README.md) |
 | 18 | Recursos e Links | [Abrir](./18-Recursos-e-Links/README.md) |
 
-## Kit de Revisão
-
-- [Notas Rápidas](./notes/README.md)
-- [Resumo de Revisão](./quick-review/README.md)
-- [Laboratórios Iniciais](./labs/README.md)
-- [Cartões de Estudo](./flashcards/README.md)
-- [Guias de Bolso](./cheatsheets/README.md)
-- [Diagramas](./diagrams/README.md)
-
-## Direção de Estudo
-
-- Priorize IAM, S3, VPC, modelos de preço e responsabilidade compartilhada.
-- Revise por blocos curtos e finalize com questões por domínio.
-- Use os materiais de apoio para retenção diária de 20 a 40 minutos.
-
 ## Próximas Trilhas AWS
 
-- **AWS Solutions Architect Associate (SAA-C03):** evolução natural para decisões de arquitetura, escalabilidade e cenários técnicos reais.  
-  https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+- **AWS Solutions Architect Associate (SAA-C03):** evolução para decisões de arquitetura, escalabilidade e desenho de soluções.
+https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
-- **AWS AI Practitioner:** trilha complementar para fundamentos de IA generativa, Bedrock e aplicações de IA na AWS.  
-  https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil
+- **AWS AI Practitioner (AIF-C01):** trilha complementar para fundamentos de IA generativa e serviços de IA na AWS.
+https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil
 
 ## Licença
 

@@ -1,22 +1,12 @@
-# 11 Migração e Inovação
+﻿# Migracao E Inovacao
 
-Este módulo cobre estratégias de migração para cloud e serviços de descoberta, modernização e transferência de dados.
+Resumo objetivo do módulo com foco em fundamentos, revisão rápida e aplicação inicial.
 
-## Objetivos de prova
-- Entender as estratégias de migração conhecidas como 6Rs.
-- Conhecer serviços que reduzem risco em projetos de modernização.
-- Diferenciar ferramentas de descoberta, migração e sincronização.
+## Foco
+- Conceitos essenciais
+- Segurança, custo e disponibilidade
+- Preparação para questões de nível introdutório
 
-## Ordem recomendada
-1. Estratégias de migração
-2. AWS Migration Hub
-3. AWS DMS
-4. AWS Application Discovery Service
-5. AWS Mainframe Modernization
-6. AWS DataSync
----
+## Continuidade
+Trilha de arquitetura: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
-Creditos autorais:
-- Thiago Cardoso - https://www.linkedin.com/in/analyticsthiagocardoso
-- Pedro Albertini - https://www.linkedin.com/in/pedroalbertini/
-- Lucas Garcia - https://www.linkedin.com/in/lucas-del-puerto/

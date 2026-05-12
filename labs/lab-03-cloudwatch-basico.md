@@ -1,10 +1,11 @@
-﻿# Lab 03 - Monitoramento com CloudWatch
+﻿# Lab 03 Cloudwatch Basico
 
-Objetivo: criar observabilidade inicial.
+Material de apoio curto para revisão e retenção.
 
-1. Selecionar uma instância ou serviço ativo.
-2. Criar alarme para uso de CPU.
-3. Configurar notificação simples via SNS.
-4. Validar acionamento do alarme.
+- Use antes de simulados.
+- Reforce tópicos com erro.
+- Revise em ciclos rápidos.
 
-Resultado esperado: leitura de métricas e resposta rápida a evento básico.
+Arquitetura: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+IA na AWS: https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil
+

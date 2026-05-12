@@ -1,27 +1,10 @@
-# AWS Fargate
+﻿# Aws Fargate
 
-## O que é
-Fargate é a opção de execução serverless para containers em ECS e EKS.
+Visão introdutória do tópico em linguagem direta para o CLF-C02.
 
-## Quando usar
-- Containers sem gerenciar EC2 para cluster.
-- Workloads de microsserviços com variação de carga.
+- Entenda para que serve.
+- Diferencie de opções semelhantes.
+- Priorize escolhas simples e seguras.
 
-## Pontos de prova
-- Você paga por vCPU e memória alocadas.
-- Ideal para reduzir overhead operacional de infraestrutura.
+Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
-## CLI útil
-```bash
-aws ecs list-clusters
-aws ecs list-services --cluster MeuCluster
-```
-
-## Links
-- https://docs.aws.amazon.com/fargate/
----
-
-Creditos autorais:
-- Thiago Cardoso - https://www.linkedin.com/in/analyticsthiagocardoso
-- Pedro Albertini - https://www.linkedin.com/in/pedroalbertini/
-- Lucas Garcia - https://www.linkedin.com/in/lucas-del-puerto/

@@ -1,24 +1,10 @@
-# Amazon SageMaker
+﻿# Amazon Sagemaker
 
-## O que é
-Plataforma gerenciada para construir, treinar e implantar modelos de machine learning em escala.
+Visão introdutória do tópico em linguagem direta para o CLF-C02.
 
-## Quando usar
-- Times que precisam de pipeline completo de ML.
-- Treinamento e inferência com controle de experimentos e deployment.
+- Entenda para que serve.
+- Diferencie de opções semelhantes.
+- Priorize escolhas simples e seguras.
 
-## Pontos de prova
-- Serviço para ciclo de vida de ML, não apenas inferência.
-- Pode integrar com notebooks, pipelines e endpoints gerenciados.
+Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
-## CLI útil
-```bash
-aws sagemaker list-notebook-instances
-aws sagemaker list-endpoints
-```
----
-
-Creditos autorais:
-- Thiago Cardoso - https://www.linkedin.com/in/analyticsthiagocardoso
-- Pedro Albertini - https://www.linkedin.com/in/pedroalbertini/
-- Lucas Garcia - https://www.linkedin.com/in/lucas-del-puerto/

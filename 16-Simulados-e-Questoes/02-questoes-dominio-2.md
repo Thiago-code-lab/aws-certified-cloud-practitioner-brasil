@@ -1,19 +1,10 @@
-﻿# Questões Domínio 2
+﻿# Questoes Dominio 2
 
-Bloco objetivo para revisar os tópicos mais cobrados do domínio 2.
+Visão introdutória do tópico em linguagem direta para o CLF-C02.
 
-## Instruções
+- Entenda para que serve.
+- Diferencie de opções semelhantes.
+- Priorize escolhas simples e seguras.
 
-- Resolva em sessão de 20 a 30 minutos.
-- Marque dúvidas de termos e serviços.
-- Consulte o gabarito apenas após finalizar.
+Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
-## Foco do domínio
-
-- Conceitos essenciais.
-- Decisão de serviço mais adequada para cenário básico.
-- Segurança, custo e disponibilidade em nível fundamental.
-
-## Pós-revisão
-
-Liste os três erros mais recorrentes e revise o módulo relacionado antes de avançar.

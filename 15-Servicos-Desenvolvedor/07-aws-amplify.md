@@ -1,23 +1,10 @@
-# AWS Amplify
+﻿# Aws Amplify
 
-## O que é
-Plataforma para desenvolver e hospedar aplicações web/mobile com integração a backend AWS.
+Visão introdutória do tópico em linguagem direta para o CLF-C02.
 
-## Quando usar
-- Frontend moderno com entrega rápida e integração com autenticação/API/storage.
-- Times full-stack com foco em produtividade.
+- Entenda para que serve.
+- Diferencie de opções semelhantes.
+- Priorize escolhas simples e seguras.
 
-## Pontos de prova
-- Simplifica ciclo de desenvolvimento frontend cloud-native.
-- Pode integrar com serviços serverless da AWS.
+Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
-## CLI útil
-```bash
-aws amplify list-apps
-```
----
-
-Creditos autorais:
-- Thiago Cardoso - https://www.linkedin.com/in/analyticsthiagocardoso
-- Pedro Albertini - https://www.linkedin.com/in/pedroalbertini/
-- Lucas Garcia - https://www.linkedin.com/in/lucas-del-puerto/

@@ -1,23 +1,10 @@
-# AWS Trusted Advisor
+﻿# Aws Trusted Advisor
 
-## O que é
-Trusted Advisor fornece recomendações de boas práticas em custo, performance, segurança e limites.
+Visão introdutória do tópico em linguagem direta para o CLF-C02.
 
-## Quando usar
-- Encontrar oportunidades rápidas de otimização.
-- Revisar riscos operacionais periodicamente.
+- Entenda para que serve.
+- Diferencie de opções semelhantes.
+- Priorize escolhas simples e seguras.
 
-## Pontos de prova
-- Foco em recomendações prontas para ação.
-- Alguns checks dependem do plano de suporte.
+Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
-## CLI útil
-```bash
-aws support describe-trusted-advisor-checks --language en
-```
----
-
-Creditos autorais:
-- Thiago Cardoso - https://www.linkedin.com/in/analyticsthiagocardoso
-- Pedro Albertini - https://www.linkedin.com/in/pedroalbertini/
-- Lucas Garcia - https://www.linkedin.com/in/lucas-del-puerto/

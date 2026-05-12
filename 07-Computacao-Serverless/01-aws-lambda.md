@@ -1,27 +1,10 @@
-# AWS Lambda
+﻿# Aws Lambda
 
-## O que é
-Lambda executa código sob demanda em resposta a eventos, sem provisionar ou administrar servidores.
+Visão introdutória do tópico em linguagem direta para o CLF-C02.
 
-## Quando usar
-- APIs leves, processamento assíncrono e automações.
-- Integração com S3, EventBridge, DynamoDB e SNS/SQS.
+- Entenda para que serve.
+- Diferencie de opções semelhantes.
+- Priorize escolhas simples e seguras.
 
-## Pontos de prova
-- Cobrança por requisição e duração.
-- Escala automática e granular por evento.
+Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
-## CLI útil
-```bash
-aws lambda list-functions
-aws lambda get-function --function-name MinhaFuncao
-```
-
-## Links
-- https://docs.aws.amazon.com/lambda/
----
-
-Creditos autorais:
-- Thiago Cardoso - https://www.linkedin.com/in/analyticsthiagocardoso
-- Pedro Albertini - https://www.linkedin.com/in/pedroalbertini/
-- Lucas Garcia - https://www.linkedin.com/in/lucas-del-puerto/

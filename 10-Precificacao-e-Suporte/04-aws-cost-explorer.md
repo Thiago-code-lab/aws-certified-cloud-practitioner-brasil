@@ -1,18 +1,10 @@
-# AWS Cost Explorer
+﻿# Aws Cost Explorer
 
-## O que é
-Serviço para analisar histórico de custos e uso, com filtros por conta, serviço, tag e período.
+Visão introdutória do tópico em linguagem direta para o CLF-C02.
 
-## Quando usar
-- Identificar picos e tendências de gasto.
-- Apoiar decisões de otimização.
+- Entenda para que serve.
+- Diferencie de opções semelhantes.
+- Priorize escolhas simples e seguras.
 
-## Pontos de prova
-- Visão histórica e previsão de custo.
-- Integração natural com práticas FinOps.
----
+Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
-Creditos autorais:
-- Thiago Cardoso - https://www.linkedin.com/in/analyticsthiagocardoso
-- Pedro Albertini - https://www.linkedin.com/in/pedroalbertini/
-- Lucas Garcia - https://www.linkedin.com/in/lucas-del-puerto/

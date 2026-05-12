@@ -1,8 +1,11 @@
-﻿# IAM
+﻿# Iam
 
-- Use grupos para aplicar permissões por função.
-- Evite uso diário da conta root.
-- Ative MFA para administradores.
-- Revise políticas periodicamente.
+Material de apoio curto para revisão e retenção.
 
-Regra de ouro: menor privilégio sempre.
+- Use antes de simulados.
+- Reforce tópicos com erro.
+- Revise em ciclos rápidos.
+
+Arquitetura: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+IA na AWS: https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil
+

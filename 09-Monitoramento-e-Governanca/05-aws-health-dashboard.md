@@ -1,23 +1,10 @@
-# AWS Health Dashboard
+﻿# Aws Health Dashboard
 
-## O que é
-Painel que mostra eventos de saúde da AWS e impactos potenciais nos recursos da sua conta.
+Visão introdutória do tópico em linguagem direta para o CLF-C02.
 
-## Quando usar
-- Acompanhar incidentes regionais e manutenções programadas.
-- Priorizar resposta operacional em eventos de serviço.
+- Entenda para que serve.
+- Diferencie de opções semelhantes.
+- Priorize escolhas simples e seguras.
 
-## Pontos de prova
-- Visão personalizada da conta, diferente da visão pública de status.
-- Apoia comunicação de incidentes.
+Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
-## CLI útil
-```bash
-aws health describe-events --filter services=EC2
-```
----
-
-Creditos autorais:
-- Thiago Cardoso - https://www.linkedin.com/in/analyticsthiagocardoso
-- Pedro Albertini - https://www.linkedin.com/in/pedroalbertini/
-- Lucas Garcia - https://www.linkedin.com/in/lucas-del-puerto/

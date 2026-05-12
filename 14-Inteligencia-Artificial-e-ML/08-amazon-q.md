@@ -1,23 +1,10 @@
-# Amazon Q
+﻿# Amazon Q
 
-## O que é
-Assistente baseado em IA generativa para produtividade, desenvolvimento e uso de dados empresariais.
+Visão introdutória do tópico em linguagem direta para o CLF-C02.
 
-## Quando usar
-- Aumentar produtividade de times técnicos e de negócio.
-- Apoiar análise, escrita e tarefas operacionais com contexto empresarial.
+- Entenda para que serve.
+- Diferencie de opções semelhantes.
+- Priorize escolhas simples e seguras.
 
-## Pontos de prova
-- Orientado a assistente corporativo.
-- Pode ser integrado a fluxos de trabalho e ferramentas AWS.
+Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
-## CLI útil
-```bash
-aws qbusiness list-applications
-```
----
-
-Creditos autorais:
-- Thiago Cardoso - https://www.linkedin.com/in/analyticsthiagocardoso
-- Pedro Albertini - https://www.linkedin.com/in/pedroalbertini/
-- Lucas Garcia - https://www.linkedin.com/in/lucas-del-puerto/

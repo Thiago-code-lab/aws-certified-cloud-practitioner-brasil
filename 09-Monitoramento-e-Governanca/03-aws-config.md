@@ -1,24 +1,10 @@
-# AWS Config
+﻿# Aws Config
 
-## O que é
-AWS Config avalia e registra configurações de recursos para compliance contínuo.
+Visão introdutória do tópico em linguagem direta para o CLF-C02.
 
-## Quando usar
-- Verificar conformidade com políticas internas.
-- Detectar drift e mudanças de configuração.
+- Entenda para que serve.
+- Diferencie de opções semelhantes.
+- Priorize escolhas simples e seguras.
 
-## Pontos de prova
-- Rules avaliam conformidade.
-- Histórico de configuração facilita auditoria.
+Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
-## CLI útil
-```bash
-aws configservice describe-configuration-recorders
-aws configservice describe-config-rules
-```
----
-
-Creditos autorais:
-- Thiago Cardoso - https://www.linkedin.com/in/analyticsthiagocardoso
-- Pedro Albertini - https://www.linkedin.com/in/pedroalbertini/
-- Lucas Garcia - https://www.linkedin.com/in/lucas-del-puerto/

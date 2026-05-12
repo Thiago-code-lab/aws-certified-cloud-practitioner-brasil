@@ -1,24 +1,10 @@
-# AWS Snow Family
+﻿# Aws Snow Family
 
-## O que é
-Família de dispositivos físicos para transferência de grandes volumes de dados entre on-premises e AWS.
+Visão introdutória do tópico em linguagem direta para o CLF-C02.
 
-## Quando usar
-- Conectividade limitada para transferência pela internet.
-- Migração inicial em massa de dados para a nuvem.
+- Entenda para que serve.
+- Diferencie de opções semelhantes.
+- Priorize escolhas simples e seguras.
 
-## Pontos de prova
-- Snowcone, Snowball e Snowmobile para diferentes escalas.
-- Segurança com criptografia e cadeia de custódia.
+Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
-## CLI útil
-```bash
-aws snowball list-jobs
-aws snowball describe-job --job-id <id>
-```
----
-
-Creditos autorais:
-- Thiago Cardoso - https://www.linkedin.com/in/analyticsthiagocardoso
-- Pedro Albertini - https://www.linkedin.com/in/pedroalbertini/
-- Lucas Garcia - https://www.linkedin.com/in/lucas-del-puerto/

@@ -1,18 +1,10 @@
-# AWS DMS (visão de migração)
+﻿# Aws Dms
 
-## O que é
-Serviço para migrar e replicar dados entre bancos com baixa indisponibilidade.
+Visão introdutória do tópico em linguagem direta para o CLF-C02.
 
-## Quando usar
-- Migração de base para AWS com continuidade operacional.
-- Cutover gradual com CDC.
+- Entenda para que serve.
+- Diferencie de opções semelhantes.
+- Priorize escolhas simples e seguras.
 
-## Pontos de prova
-- Pode combinar carga inicial e replicação contínua.
-- Conversão de esquema geralmente usa AWS SCT.
----
+Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
-Creditos autorais:
-- Thiago Cardoso - https://www.linkedin.com/in/analyticsthiagocardoso
-- Pedro Albertini - https://www.linkedin.com/in/pedroalbertini/
-- Lucas Garcia - https://www.linkedin.com/in/lucas-del-puerto/

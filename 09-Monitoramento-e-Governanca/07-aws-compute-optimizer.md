@@ -1,23 +1,10 @@
-# AWS Compute Optimizer
+﻿# Aws Compute Optimizer
 
-## O que é
-Serviço que recomenda tamanhos e configurações de recursos computacionais com base em uso histórico.
+Visão introdutória do tópico em linguagem direta para o CLF-C02.
 
-## Quando usar
-- Reduzir desperdício e ajustar instâncias superdimensionadas.
-- Melhorar equilíbrio custo x desempenho.
+- Entenda para que serve.
+- Diferencie de opções semelhantes.
+- Priorize escolhas simples e seguras.
 
-## Pontos de prova
-- Gera recomendações orientadas por dados de métricas.
-- Complementa análises de custo com visão técnica.
+Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
-## CLI útil
-```bash
-aws compute-optimizer get-ec2-instance-recommendations
-```
----
-
-Creditos autorais:
-- Thiago Cardoso - https://www.linkedin.com/in/analyticsthiagocardoso
-- Pedro Albertini - https://www.linkedin.com/in/pedroalbertini/
-- Lucas Garcia - https://www.linkedin.com/in/lucas-del-puerto/

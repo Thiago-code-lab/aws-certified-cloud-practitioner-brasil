@@ -1,23 +1,10 @@
-# AWS CodeCommit
+﻿# Aws Codecommit
 
-## O que é
-Serviço de repositório Git gerenciado na AWS.
+Visão introdutória do tópico em linguagem direta para o CLF-C02.
 
-## Quando usar
-- Hospedar código-fonte com controle de acesso via IAM.
-- Integrar pipeline AWS nativamente.
+- Entenda para que serve.
+- Diferencie de opções semelhantes.
+- Priorize escolhas simples e seguras.
 
-## Pontos de prova
-- Alternativa gerenciada para Git privado.
-- Base para workflows de versionamento no ecossistema AWS.
+Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
-## CLI útil
-```bash
-aws codecommit list-repositories
-```
----
-
-Creditos autorais:
-- Thiago Cardoso - https://www.linkedin.com/in/analyticsthiagocardoso
-- Pedro Albertini - https://www.linkedin.com/in/pedroalbertini/
-- Lucas Garcia - https://www.linkedin.com/in/lucas-del-puerto/

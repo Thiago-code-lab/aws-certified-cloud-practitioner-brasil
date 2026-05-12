@@ -1,10 +1,11 @@
-﻿# Segurança Essencial
+﻿# Seguranca Essencial
 
-Segurança em AWS começa por identidade e menor privilégio.
+Material de apoio curto para revisão e retenção.
 
-- IAM para usuários, grupos e funções.
-- MFA para contas sensíveis.
-- Criptografia em trânsito e em repouso.
-- CloudTrail para trilha de auditoria.
+- Use antes de simulados.
+- Reforce tópicos com erro.
+- Revise em ciclos rápidos.
 
-Ponto-chave: responsabilidade compartilhada significa que configuração incorreta do cliente continua sendo risco do cliente.
+Arquitetura: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+IA na AWS: https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil
+

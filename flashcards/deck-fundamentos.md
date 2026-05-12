@@ -1,8 +1,11 @@
 ﻿# Deck Fundamentos
 
-- **Pergunta:** O que é elasticidade?  
-  **Resposta:** Ajuste automático de recursos conforme demanda.
-- **Pergunta:** Diferença entre Região e AZ?  
-  **Resposta:** Região é área geográfica; AZ é datacenter isolado dentro da região.
-- **Pergunta:** Principal benefício da nuvem?  
-  **Resposta:** Escalar rápido pagando apenas o uso.
+Material de apoio curto para revisão e retenção.
+
+- Use antes de simulados.
+- Reforce tópicos com erro.
+- Revise em ciclos rápidos.
+
+Arquitetura: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+IA na AWS: https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil
+

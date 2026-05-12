@@ -1,9 +1,13 @@
-﻿'# Diagramas
+﻿# README
 
-Guia visual de arquitetura básica:
+Conteúdo de apoio em formato curto para revisão objetiva e aplicação inicial.
 
-- [Arquitetura Inicial](./arquitetura-inicial.svg)
-- [Fluxo de Segurança](./fluxo-seguranca.svg)
+## Como usar
+- Leia em blocos de 10 a 20 minutos.
+- Marque dúvidas para revisar no módulo principal.
+- Reforce os tópicos com maior incidência de erro.
 
-Os diagramas priorizam leitura rápida para iniciantes.
-'
+## Evolução recomendada
+Arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+IA na AWS: https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil
+

@@ -1,38 +1,12 @@
-# ?? 02 Amazon EC2
+﻿# Amazon EC2
 
-## ?? O que �?
-Se��o de estudo da trilha CLF-C02 com foco pr�tico e te�rico em PT-BR.
+Resumo objetivo do módulo com foco em fundamentos, revisão rápida e aplicação inicial.
 
-## ?? Analogia Simples
-� como um cap�tulo de apostila que combina explica��o simples com aplica��o real.
+## Foco
+- Conceitos essenciais
+- Segurança, custo e disponibilidade
+- Preparação para questões de nível introdutório
 
-## ??? Como funciona
-Cada t�pico conecta fundamentos, opera��o e revis�o para prova.
+## Continuidade
+Trilha de arquitetura: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
-`	ext
-Usu�rio/Aplica��o -> Servi�o AWS (02 Amazon EC2) -> Resultado
-`
-
-## ?? Casos de Uso Comuns
-- Estudo guiado por m�dulo
-- Revis�o r�pida pr�-prova
-- Apoio para laborat�rios
-
-## ?? Modelo de Pre�o
-Sem custo no reposit�rio; custos dependem do uso real na AWS.
-
-## ?? Comandos CLI �teis
-`ash
-aws help help
-aws --version
-`
-
-## ?? Links Oficiais
-- https://docs.aws.amazon.com/
-- https://skillbuilder.aws
----
-
-Creditos autorais:
-- Thiago Cardoso - https://www.linkedin.com/in/analyticsthiagocardoso
-- Pedro Albertini - https://www.linkedin.com/in/pedroalbertini/
-- Lucas Garcia - https://www.linkedin.com/in/lucas-del-puerto/

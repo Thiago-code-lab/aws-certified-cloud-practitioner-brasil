@@ -1,24 +1,10 @@
-# AWS CDK e AWS CloudFormation
+﻿# Aws Cdk E Cloudformation
 
-## O que são
-CloudFormation define infraestrutura como código por templates declarativos. CDK permite modelar infraestrutura em linguagens de programação e sintetizar templates.
+Visão introdutória do tópico em linguagem direta para o CLF-C02.
 
-## Quando usar
-- Provisionamento padronizado e reproduzível.
-- Governança de infraestrutura por versionamento.
+- Entenda para que serve.
+- Diferencie de opções semelhantes.
+- Priorize escolhas simples e seguras.
 
-## Pontos de prova
-- Ambos seguem IaC; CDK é camada de abstração sobre CloudFormation.
-- Mudanças controladas por stack e revisão.
+Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
-## CLI útil
-```bash
-aws cloudformation list-stacks
-aws cloudformation describe-stacks --stack-name MinhaStack
-```
----
-
-Creditos autorais:
-- Thiago Cardoso - https://www.linkedin.com/in/analyticsthiagocardoso
-- Pedro Albertini - https://www.linkedin.com/in/pedroalbertini/
-- Lucas Garcia - https://www.linkedin.com/in/lucas-del-puerto/

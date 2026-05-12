@@ -1,12 +1,11 @@
-﻿# Revisão Rápida
+﻿# README
 
-Revisão rápida para pré-prova:
+Material de apoio curto para revisão e retenção.
 
-- [Checklist de Véspera](./checklist-vespera.md)
-- [Serviços-Chave](./servicos-chave.md)
-- [Erros Frequentes](./erros-frequentes.md)
+- Use antes de simulados.
+- Reforce tópicos com erro.
+- Revise em ciclos rápidos.
 
-## Continue a trilha
+Arquitetura: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+IA na AWS: https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil
 
-Depois desta revisão, aprofunde cenários de arquitetura e decisões técnicas no SAA-C03:
-https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil

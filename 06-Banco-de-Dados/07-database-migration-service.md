@@ -1,27 +1,10 @@
-# AWS Database Migration Service (AWS DMS)
+﻿# Database Migration Service
 
-## O que é
-AWS DMS migra dados entre bancos com baixa interrupção, suportando cenários homogêneos e heterogêneos.
+Visão introdutória do tópico em linguagem direta para o CLF-C02.
 
-## Quando usar
-- Migração para a AWS com downtime mínimo.
-- Replicação contínua para transição gradual.
+- Entenda para que serve.
+- Diferencie de opções semelhantes.
+- Priorize escolhas simples e seguras.
 
-## Pontos de prova
-- DMS move dados; conversão de esquema é normalmente feita com AWS SCT.
-- Full load e CDC podem ser combinados.
+Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
-## CLI útil
-```bash
-aws dms describe-replication-instances
-aws dms describe-replication-tasks
-```
-
-## Links
-- https://docs.aws.amazon.com/dms/
----
-
-Creditos autorais:
-- Thiago Cardoso - https://www.linkedin.com/in/analyticsthiagocardoso
-- Pedro Albertini - https://www.linkedin.com/in/pedroalbertini/
-- Lucas Garcia - https://www.linkedin.com/in/lucas-del-puerto/

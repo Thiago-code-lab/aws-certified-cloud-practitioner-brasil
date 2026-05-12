@@ -1,8 +1,11 @@
 ﻿# Conceitos Centrais
 
-- Escalabilidade: crescer com demanda.
-- Elasticidade: ajustar capacidade de forma dinâmica.
-- Alta disponibilidade: reduzir indisponibilidade.
-- Tolerância a falhas: manter serviço mesmo com componente falho.
+Material de apoio curto para revisão e retenção.
 
-Regra de ouro: arquitetura simples, observável e segura.
+- Use antes de simulados.
+- Reforce tópicos com erro.
+- Revise em ciclos rápidos.
+
+Arquitetura: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+IA na AWS: https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil
+

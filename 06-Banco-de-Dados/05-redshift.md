@@ -1,27 +1,10 @@
-# Amazon Redshift
+﻿# Redshift
 
-## O que é
-Redshift é um data warehouse gerenciado para análises SQL em grande volume de dados.
+Visão introdutória do tópico em linguagem direta para o CLF-C02.
 
-## Quando usar
-- BI e relatórios analíticos com cargas ETL/ELT.
-- Consultas sobre dados históricos em escala.
+- Entenda para que serve.
+- Diferencie de opções semelhantes.
+- Priorize escolhas simples e seguras.
 
-## Pontos de prova
-- Otimizado para OLAP, não para OLTP.
-- Pode integrar com S3 e serviços de analytics.
+Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
-## CLI útil
-```bash
-aws redshift describe-clusters
-aws redshift describe-cluster-versions
-```
-
-## Links
-- https://docs.aws.amazon.com/redshift/
----
-
-Creditos autorais:
-- Thiago Cardoso - https://www.linkedin.com/in/analyticsthiagocardoso
-- Pedro Albertini - https://www.linkedin.com/in/pedroalbertini/
-- Lucas Garcia - https://www.linkedin.com/in/lucas-del-puerto/

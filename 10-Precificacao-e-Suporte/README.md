@@ -1,24 +1,12 @@
-# 10 Precificação e Suporte
+﻿# Precificacao E Suporte
 
-Este módulo consolida fundamentos de custo, ferramentas de análise financeira e planos de suporte AWS.
+Resumo objetivo do módulo com foco em fundamentos, revisão rápida e aplicação inicial.
 
-## Objetivos de prova
-- Entender o modelo pay-as-you-go.
-- Reconhecer ferramentas de previsão e acompanhamento de custo.
-- Diferenciar planos de suporte e seus canais.
+## Foco
+- Conceitos essenciais
+- Segurança, custo e disponibilidade
+- Preparação para questões de nível introdutório
 
-## Ordem recomendada
-1. Modelo de preço AWS
-2. AWS Free Tier
-3. AWS Pricing Calculator
-4. AWS Cost Explorer
-5. AWS Budgets
-6. Planos de Suporte
-7. AWS Marketplace
-8. AWS Billing Dashboard
----
+## Continuidade
+Trilha de arquitetura: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
-Creditos autorais:
-- Thiago Cardoso - https://www.linkedin.com/in/analyticsthiagocardoso
-- Pedro Albertini - https://www.linkedin.com/in/pedroalbertini/
-- Lucas Garcia - https://www.linkedin.com/in/lucas-del-puerto/

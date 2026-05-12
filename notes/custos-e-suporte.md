@@ -1,10 +1,11 @@
-﻿# Custos e Suporte
+﻿# Custos E Suporte
 
-Boas decisões de custo para iniciantes:
+Material de apoio curto para revisão e retenção.
 
-- On-Demand para flexibilidade.
-- Instâncias reservadas/Savings Plans para uso previsível.
-- Budgets e Cost Explorer para acompanhar consumo.
-- Free Tier para aprendizado com controle.
+- Use antes de simulados.
+- Reforce tópicos com erro.
+- Revise em ciclos rápidos.
 
-Ponto-chave: monitore custo desde o primeiro laboratório para evitar surpresas.
+Arquitetura: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+IA na AWS: https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil
+

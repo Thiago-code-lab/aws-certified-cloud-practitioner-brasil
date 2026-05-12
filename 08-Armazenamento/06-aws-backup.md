@@ -1,24 +1,10 @@
-# AWS Backup
+﻿# Aws Backup
 
-## O que é
-AWS Backup centraliza políticas e execução de backups para múltiplos serviços AWS.
+Visão introdutória do tópico em linguagem direta para o CLF-C02.
 
-## Quando usar
-- Padronizar retenção e conformidade entre contas e serviços.
-- Automatizar planos de backup e restore.
+- Entenda para que serve.
+- Diferencie de opções semelhantes.
+- Priorize escolhas simples e seguras.
 
-## Pontos de prova
-- Serviço orientado por policy.
-- Ajuda em governança de proteção de dados.
+Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
-## CLI útil
-```bash
-aws backup list-backup-plans
-aws backup list-recovery-points-by-backup-vault --backup-vault-name Default
-```
----
-
-Creditos autorais:
-- Thiago Cardoso - https://www.linkedin.com/in/analyticsthiagocardoso
-- Pedro Albertini - https://www.linkedin.com/in/pedroalbertini/
-- Lucas Garcia - https://www.linkedin.com/in/lucas-del-puerto/

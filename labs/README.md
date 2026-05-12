@@ -1,12 +1,11 @@
-﻿# Laboratórios
+﻿# README
 
-Laboratórios curtos para fixação prática:
+Material de apoio curto para revisão e retenção.
 
-- [Lab 01 - IAM Inicial](./lab-01-iam-inicial.md)
-- [Lab 02 - Site Estático com S3](./lab-02-site-estatico-s3.md)
-- [Lab 03 - Monitoramento com CloudWatch](./lab-03-cloudwatch-basico.md)
+- Use antes de simulados.
+- Reforce tópicos com erro.
+- Revise em ciclos rápidos.
 
-## Labs adicionais
+Arquitetura: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+IA na AWS: https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil
 
-Para praticar arquiteturas AWS em cenários mais amplos, use a trilha Solutions Architect Associate:
-https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil

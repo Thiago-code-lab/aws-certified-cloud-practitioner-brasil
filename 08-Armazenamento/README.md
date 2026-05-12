@@ -1,22 +1,12 @@
-# 08 Armazenamento
+﻿# Armazenamento
 
-Este módulo aborda serviços de armazenamento em bloco, arquivo e soluções híbridas cobradas no CLF-C02.
+Resumo objetivo do módulo com foco em fundamentos, revisão rápida e aplicação inicial.
 
-## Objetivos de prova
-- Diferenciar EBS, EFS e FSx.
-- Entender quando usar Storage Gateway e Snow Family.
-- Conhecer fundamentos de backup centralizado com AWS Backup.
+## Foco
+- Conceitos essenciais
+- Segurança, custo e disponibilidade
+- Preparação para questões de nível introdutório
 
-## Ordem recomendada
-1. EBS
-2. EFS
-3. FSx
-4. AWS Storage Gateway
-5. AWS Snow Family
-6. AWS Backup
----
+## Continuidade
+Trilha de arquitetura: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
-Creditos autorais:
-- Thiago Cardoso - https://www.linkedin.com/in/analyticsthiagocardoso
-- Pedro Albertini - https://www.linkedin.com/in/pedroalbertini/
-- Lucas Garcia - https://www.linkedin.com/in/lucas-del-puerto/

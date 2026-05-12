@@ -1,38 +1,10 @@
-# ?? Pilar: Sustentabilidade
+﻿# Pilar Sustentabilidade
 
-## ?? O que �?
-� o pilar adicionado em 2021 que busca reduzir impacto ambiental das cargas de trabalho em nuvem.
+Visão introdutória do tópico em linguagem direta para o CLF-C02.
 
-## ?? Analogia Simples
-� manter uma opera��o produtiva consumindo menos energia e recursos naturais.
+- Entenda para que serve.
+- Diferencie de opções semelhantes.
+- Priorize escolhas simples e seguras.
 
-## ??? Como funciona
-Princ�pios incluem metas de sustentabilidade, maximiza��o de utiliza��o e ado��o de hardware/software mais eficientes.
+Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
-```text
-Medi��o de impacto -> A��es de efici�ncia -> Menor consumo e emiss�o
-```
-
-## ?? Casos de Uso Comuns
-- Rightsizing cont�nuo de compute
-- Uso de arquiteturas serverless
-- Migra��o para processadores mais eficientes
-
-## ?? Modelo de Pre�o
-Muitas a��es de sustentabilidade tamb�m reduzem custos de opera��o.
-
-## ?? Comandos CLI �teis
-```bash
-aws compute-optimizer get-ec2-instance-recommendations
-aws ec2 describe-instance-types --filters Name=processor-info.supported-architecture,Values=arm64
-```
-
-## ?? Links Oficiais
-- https://docs.aws.amazon.com/wellarchitected/latest/sustainability-pillar/
-- https://aws.amazon.com/sustainability/
----
-
-Creditos autorais:
-- Thiago Cardoso - https://www.linkedin.com/in/analyticsthiagocardoso
-- Pedro Albertini - https://www.linkedin.com/in/pedroalbertini/
-- Lucas Garcia - https://www.linkedin.com/in/lucas-del-puerto/

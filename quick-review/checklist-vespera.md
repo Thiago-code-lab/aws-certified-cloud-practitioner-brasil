@@ -1,8 +1,11 @@
-﻿# Checklist de Véspera
+﻿# Checklist Vespera
 
-- Revisar IAM, S3, EC2, VPC e modelos de preço.
-- Refazer 20 questões de maior erro.
-- Validar diferenças: SG x NACL, Multi-AZ x Read Replica.
-- Dormir com antecedência e manter ritmo de prova.
+Material de apoio curto para revisão e retenção.
 
-Objetivo: entrar na prova com decisão rápida para cenários básicos.
+- Use antes de simulados.
+- Reforce tópicos com erro.
+- Revise em ciclos rápidos.
+
+Arquitetura: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+IA na AWS: https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil
+

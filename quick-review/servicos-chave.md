@@ -1,9 +1,11 @@
-﻿# Serviços-Chave
+﻿# Servicos Chave
 
-- **EC2**: computação flexível.
-- **S3**: armazenamento de objetos.
-- **RDS**: banco relacional gerenciado.
-- **Lambda**: execução sem servidor.
-- **CloudWatch**: métricas e alarmes.
+Material de apoio curto para revisão e retenção.
 
-Use este resumo para reforçar função principal de cada serviço.
+- Use antes de simulados.
+- Reforce tópicos com erro.
+- Revise em ciclos rápidos.
+
+Arquitetura: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+IA na AWS: https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil
+

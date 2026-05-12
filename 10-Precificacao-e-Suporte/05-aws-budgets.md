@@ -1,17 +1,10 @@
-﻿# AWS Budgets
+﻿# Aws Budgets
 
-## O que é
-Ferramenta para definir orçamentos e alertas de custo, uso e cobertura de compromissos.
+Visão introdutória do tópico em linguagem direta para o CLF-C02.
 
-## Quando usar
-- Controle proativo antes de estourar meta de gasto.
-- Governança financeira por equipe ou projeto.
+- Entenda para que serve.
+- Diferencie de opções semelhantes.
+- Priorize escolhas simples e seguras.
 
-## Pontos de prova
-- Orçamento pode acionar alertas automáticos.
-- Complementa análise histórica do Cost Explorer.
+Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
-## Revisão complementar
-
-Para praticar decisões financeiras em cenários de arquitetura AWS, explore a trilha SAA-C03:
-https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil

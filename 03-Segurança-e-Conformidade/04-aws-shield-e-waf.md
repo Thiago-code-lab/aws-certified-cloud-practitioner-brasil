@@ -1,38 +1,10 @@
-# ?? 04 aws shield e waf
+﻿# Aws Shield E Waf
 
-## ?? O que �?
-Servi�o/conceito importante para o exame CLF-C02, incluindo fundamentos, opera��o e melhores pr�ticas.
+Visão introdutória do tópico em linguagem direta para o CLF-C02.
 
-## ?? Analogia Simples
-Pense como uma pe�a espec�fica da infraestrutura que resolve um problema bem definido.
+- Entenda para que serve.
+- Diferencie de opções semelhantes.
+- Priorize escolhas simples e seguras.
 
-## ??? Como funciona
-O servi�o � configurado no console/CLI, integrado a outros servi�os e monitorado continuamente.
+Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
-`	ext
-Usu�rio/Aplica��o -> Servi�o AWS (04 aws shield e waf) -> Resultado
-`
-
-## ?? Casos de Uso Comuns
-- Implementa��o em ambiente de estudo
-- Cen�rio real corporativo
-- Revis�o para prova
-
-## ?? Modelo de Pre�o
-Cobran�a por consumo, capacidade ou requisi��o conforme o servi�o.
-
-## ?? Comandos CLI �teis
-`ash
-aws aws help
-aws --version
-`
-
-## ?? Links Oficiais
-- https://docs.aws.amazon.com/
-- https://aws.amazon.com/products/
----
-
-Creditos autorais:
-- Thiago Cardoso - https://www.linkedin.com/in/analyticsthiagocardoso
-- Pedro Albertini - https://www.linkedin.com/in/pedroalbertini/
-- Lucas Garcia - https://www.linkedin.com/in/lucas-del-puerto/

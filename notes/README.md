@@ -1,12 +1,11 @@
-﻿# Notas
+﻿# README
 
-Coleção de notas curtas para revisão diária.
+Material de apoio curto para revisão e retenção.
 
-- [Fundamentos AWS](./fundamentos-aws.md)
-- [Segurança Essencial](./seguranca-essencial.md)
-- [Custos e Suporte](./custos-e-suporte.md)
+- Use antes de simulados.
+- Reforce tópicos com erro.
+- Revise em ciclos rápidos.
 
-## Explorar mais cenários
+Arquitetura: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+IA na AWS: https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil
 
-Para ampliar repertório de arquitetura em AWS, siga para a trilha SAA-C03:
-https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil

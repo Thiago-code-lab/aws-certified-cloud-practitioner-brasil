@@ -1,10 +1,11 @@
-﻿# Lab 01 - IAM Inicial
+﻿# Lab 01 Iam Inicial
 
-Objetivo: criar usuário de estudo com permissões mínimas.
+Material de apoio curto para revisão e retenção.
 
-1. Criar grupo `estudos-aws` com política de leitura.
-2. Criar usuário IAM sem acesso root.
-3. Habilitar MFA.
-4. Testar login e acesso ao console.
+- Use antes de simulados.
+- Reforce tópicos com erro.
+- Revise em ciclos rápidos.
 
-Resultado esperado: entendimento prático de identidade e segurança básica.
+Arquitetura: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+IA na AWS: https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil
+

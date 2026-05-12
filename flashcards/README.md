@@ -1,12 +1,11 @@
-﻿# Cartões de Estudo
+﻿# README
 
-Decks rápidos para memorização ativa:
+Material de apoio curto para revisão e retenção.
 
-- [Deck Fundamentos](./deck-fundamentos.md)
-- [Deck Segurança](./deck-seguranca.md)
-- [Deck Custos](./deck-custos.md)
+- Use antes de simulados.
+- Reforce tópicos com erro.
+- Revise em ciclos rápidos.
 
-## Revisão contínua
+Arquitetura: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+IA na AWS: https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil
 
-Como extensão de jornada, a trilha AWS AI Practitioner adiciona fundamentos de IA generativa e Bedrock:
-https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil

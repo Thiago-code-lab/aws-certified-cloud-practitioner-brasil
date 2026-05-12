@@ -1,10 +1,11 @@
-﻿# Fundamentos AWS
+﻿# Fundamentos Aws
 
-AWS oferece recursos sob demanda com pagamento por uso. Para o CLF-C02, memorize:
+Material de apoio curto para revisão e retenção.
 
-- Regiões e Zonas de Disponibilidade.
-- Alta disponibilidade com múltiplas AZs.
-- Escalabilidade e elasticidade como benefícios centrais.
-- Escolha do serviço conforme tipo de carga (compute, storage, banco).
+- Use antes de simulados.
+- Reforce tópicos com erro.
+- Revise em ciclos rápidos.
 
-Ponto-chave: sempre alinhar serviço ao objetivo de negócio com simplicidade operacional.
+Arquitetura: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+IA na AWS: https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil
+

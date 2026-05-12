@@ -1,8 +1,11 @@
-﻿# Precificação
+﻿# Precificacao
 
-- On-Demand: sem compromisso, maior flexibilidade.
-- Savings Plans/Reservado: desconto com previsibilidade.
-- Spot: menor preço para cargas tolerantes a interrupção.
-- Suporte: escolha plano conforme criticidade operacional.
+Material de apoio curto para revisão e retenção.
 
-Regra de ouro: medir uso real antes de assumir compromissos longos.
+- Use antes de simulados.
+- Reforce tópicos com erro.
+- Revise em ciclos rápidos.
+
+Arquitetura: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+IA na AWS: https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil
+

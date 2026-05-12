@@ -1,23 +1,10 @@
-# Amazon Rekognition
+﻿# Amazon Rekognition
 
-## O que é
-Serviço de visão computacional para análise de imagens e vídeos.
+Visão introdutória do tópico em linguagem direta para o CLF-C02.
 
-## Quando usar
-- Detecção de objetos, texto em imagem e moderação de conteúdo.
-- Casos de classificação e inspeção visual sem treinar modelo do zero.
+- Entenda para que serve.
+- Diferencie de opções semelhantes.
+- Priorize escolhas simples e seguras.
 
-## Pontos de prova
-- Serviço de IA pronto para uso via API.
-- Bom para acelerar funcionalidades de visão sem equipe especializada.
+Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
-## CLI útil
-```bash
-aws rekognition detect-labels --image 'S3Object={Bucket=meu-bucket,Name=img.jpg}'
-```
----
-
-Creditos autorais:
-- Thiago Cardoso - https://www.linkedin.com/in/analyticsthiagocardoso
-- Pedro Albertini - https://www.linkedin.com/in/pedroalbertini/
-- Lucas Garcia - https://www.linkedin.com/in/lucas-del-puerto/

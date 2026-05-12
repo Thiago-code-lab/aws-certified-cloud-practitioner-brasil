@@ -1,17 +1,10 @@
-﻿# Políticas e ACLs no S3
+﻿# Politicas E Acls
 
-## O que são
-Mecanismos de controle de acesso a buckets e objetos.
+Visão introdutória do tópico em linguagem direta para o CLF-C02.
 
-## Quando usar
-- Política de bucket para regras amplas e centralizadas.
-- ACL apenas em casos específicos de compatibilidade legada.
+- Entenda para que serve.
+- Diferencie de opções semelhantes.
+- Priorize escolhas simples e seguras.
 
-## Pontos de prova
-- Política baseada em IAM e bucket policy costuma ser abordagem preferida.
-- Exposição pública acidental é risco clássico de prova.
+Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
-## Aprofunde este serviço
-
-Para revisar decisões de segurança em arquiteturas AWS, avance para a trilha SAA-C03:
-https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil

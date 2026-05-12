@@ -1,18 +1,10 @@
-# AWS Billing Dashboard
+﻿# Aws Billing Dashboard
 
-## O que é
-Painel central para visualizar fatura, custos acumulados e distribuição por serviços.
+Visão introdutória do tópico em linguagem direta para o CLF-C02.
 
-## Quando usar
-- Acompanhamento executivo de gasto.
-- Detecção rápida de desvios de custo.
+- Entenda para que serve.
+- Diferencie de opções semelhantes.
+- Priorize escolhas simples e seguras.
 
-## Pontos de prova
-- Fonte primária de cobrança da conta.
-- Funciona junto com Cost Explorer e Budgets.
----
+Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
-Creditos autorais:
-- Thiago Cardoso - https://www.linkedin.com/in/analyticsthiagocardoso
-- Pedro Albertini - https://www.linkedin.com/in/pedroalbertini/
-- Lucas Garcia - https://www.linkedin.com/in/lucas-del-puerto/

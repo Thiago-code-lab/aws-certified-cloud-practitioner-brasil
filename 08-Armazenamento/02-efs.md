@@ -1,24 +1,10 @@
-# Amazon EFS
+﻿# Efs
 
-## O que é
-EFS é sistema de arquivos NFS totalmente gerenciado, escalável e compartilhado entre múltiplas instâncias.
+Visão introdutória do tópico em linguagem direta para o CLF-C02.
 
-## Quando usar
-- Aplicações Linux com acesso concorrente ao mesmo filesystem.
-- Conteúdo compartilhado entre instâncias e containers.
+- Entenda para que serve.
+- Diferencie de opções semelhantes.
+- Priorize escolhas simples e seguras.
 
-## Pontos de prova
-- Serviço regional com alta disponibilidade multi-AZ.
-- Cobrança por volume armazenado e classes de acesso.
+Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
-## CLI útil
-```bash
-aws efs describe-file-systems
-aws efs describe-mount-targets --file-system-id <id>
-```
----
-
-Creditos autorais:
-- Thiago Cardoso - https://www.linkedin.com/in/analyticsthiagocardoso
-- Pedro Albertini - https://www.linkedin.com/in/pedroalbertini/
-- Lucas Garcia - https://www.linkedin.com/in/lucas-del-puerto/
