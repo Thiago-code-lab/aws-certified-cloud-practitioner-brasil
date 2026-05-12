@@ -1,19 +1,17 @@
-# AWS Free Tier
+﻿# AWS Free Tier
 
 ## O que é
-Programa de uso gratuito com limites mensais para vários serviços, útil para aprendizado e PoCs.
+Conjunto de ofertas gratuitas para experimentar serviços AWS com limites de uso e prazo definidos por serviço.
 
-## Categorias
-- Always Free
-- 12 Months Free
-- Trials de curta duração
+## Quando usar
+- Primeiros laboratórios e validação de conceitos.
+- Testes iniciais de serviços sem comprometer orçamento.
 
 ## Pontos de prova
-- Exceder limites gera cobrança.
-- Free Tier não significa conta sem cartão.
----
+- Nem todos os serviços ficam gratuitos pelo mesmo período.
+- Exceder limite do Free Tier gera cobrança normal.
 
-Creditos autorais:
-- Thiago Cardoso - https://www.linkedin.com/in/analyticsthiagocardoso
-- Pedro Albertini - https://www.linkedin.com/in/pedroalbertini/
-- Lucas Garcia - https://www.linkedin.com/in/lucas-del-puerto/
+## Continue estudando
+
+Para evoluir para decisões de arquitetura com impacto de custo, siga a trilha SAA-C03:
+https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil

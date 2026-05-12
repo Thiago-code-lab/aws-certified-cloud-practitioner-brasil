@@ -1,38 +1,17 @@
-# ?? 03 politicas e acls
+﻿# Políticas e ACLs no S3
 
-## ?? O que �?
-Servi�o/conceito importante para o exame CLF-C02, incluindo fundamentos, opera��o e melhores pr�ticas.
+## O que são
+Mecanismos de controle de acesso a buckets e objetos.
 
-## ?? Analogia Simples
-Pense como uma pe�a espec�fica da infraestrutura que resolve um problema bem definido.
+## Quando usar
+- Política de bucket para regras amplas e centralizadas.
+- ACL apenas em casos específicos de compatibilidade legada.
 
-## ??? Como funciona
-O servi�o � configurado no console/CLI, integrado a outros servi�os e monitorado continuamente.
+## Pontos de prova
+- Política baseada em IAM e bucket policy costuma ser abordagem preferida.
+- Exposição pública acidental é risco clássico de prova.
 
-`	ext
-Usu�rio/Aplica��o -> Servi�o AWS (03 politicas e acls) -> Resultado
-`
+## Aprofunde este serviço
 
-## ?? Casos de Uso Comuns
-- Implementa��o em ambiente de estudo
-- Cen�rio real corporativo
-- Revis�o para prova
-
-## ?? Modelo de Pre�o
-Cobran�a por consumo, capacidade ou requisi��o conforme o servi�o.
-
-## ?? Comandos CLI �teis
-`ash
-aws politicas help
-aws --version
-`
-
-## ?? Links Oficiais
-- https://docs.aws.amazon.com/
-- https://aws.amazon.com/products/
----
-
-Creditos autorais:
-- Thiago Cardoso - https://www.linkedin.com/in/analyticsthiagocardoso
-- Pedro Albertini - https://www.linkedin.com/in/pedroalbertini/
-- Lucas Garcia - https://www.linkedin.com/in/lucas-del-puerto/
+Para revisar decisões de segurança em arquiteturas AWS, avance para a trilha SAA-C03:
+https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil

@@ -1,0 +1,13 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="900" height="360" viewBox="0 0 900 360">
+  <rect width="900" height="360" fill="#0f172a"/>
+  <text x="40" y="42" fill="#f8fafc" font-family="Arial" font-size="24">Fluxo de Segurança Essencial</text>
+  <rect x="60" y="100" width="180" height="80" rx="10" fill="#1e293b" stroke="#34d399"/>
+  <text x="95" y="145" fill="#e2e8f0" font-family="Arial" font-size="18">IAM + MFA</text>
+  <rect x="340" y="100" width="180" height="80" rx="10" fill="#1e293b" stroke="#34d399"/>
+  <text x="375" y="145" fill="#e2e8f0" font-family="Arial" font-size="18">CloudTrail</text>
+  <rect x="620" y="100" width="180" height="80" rx="10" fill="#1e293b" stroke="#34d399"/>
+  <text x="675" y="145" fill="#e2e8f0" font-family="Arial" font-size="18">Alarmes</text>
+  <line x1="240" y1="140" x2="340" y2="140" stroke="#22d3ee" stroke-width="3"/>
+  <line x1="520" y1="140" x2="620" y2="140" stroke="#22d3ee" stroke-width="3"/>
+  <text x="60" y="260" fill="#94a3b8" font-family="Arial" font-size="18">Objetivo: autenticar, auditar e reagir rapidamente.</text>
+</svg>

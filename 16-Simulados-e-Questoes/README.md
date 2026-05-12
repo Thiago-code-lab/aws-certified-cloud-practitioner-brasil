@@ -1,34 +1,22 @@
-# 16 Simulados e Quest�es CLF-C02
+﻿# Simulados e Questões
 
-Este m�dulo concentra quest�es por dom�nio e um simulado completo de 65 quest�es para revis�o final da certifica��o.
+Este módulo concentra revisão prática por domínio do exame CLF-C02 com foco em leitura rápida e aplicação dos conceitos principais.
+
+## Conteúdo
+
+- Questões por domínio (1 a 5).
+- Simulado consolidado para treino final.
+- Gabaritos para autocorreção e análise de erros.
 
 ## Como estudar
-1. Resolva as quest�es por dom�nio (1 a 5).
-2. Confira o gabarito e identifique lacunas.
-3. Revise os m�dulos te�ricos relacionados.
-4. Fa�a o simulado completo em tempo controlado.
 
-## Arquivos principais
-- `01-questoes-dominio-1.md` (60 quest�es)
-- `02-questoes-dominio-2.md` (60 quest�es)
-- `03-questoes-dominio-3.md` (60 quest�es)
-- `04-questoes-dominio-4.md` (60 quest�es)
-- `05-questoes-dominio-5.md` (60 quest�es)
-- `05-simulado-completo-65q.md`
+1. Resolver um domínio por vez.
+2. Revisar erros no mesmo dia.
+3. Refazer apenas as questões erradas após 48h.
+4. Fechar o ciclo com o simulado completo.
 
-## Gabaritos
-- `gabaritos/gabarito-dominio-1.md`
-- `gabaritos/gabarito-dominio-2.md`
-- `gabaritos/gabarito-dominio-3.md`
-- `gabaritos/gabarito-dominio-4.md`
-- `gabaritos/gabarito-simulado-completo.md`
+## Meta de desempenho
 
-## Refer�ncias oficiais
-- https://aws.amazon.com/certification/certified-cloud-practitioner/
-- https://skillbuilder.aws/
----
-
-Creditos autorais:
-- Thiago Cardoso - https://www.linkedin.com/in/analyticsthiagocardoso
-- Pedro Albertini - https://www.linkedin.com/in/pedroalbertini/
-- Lucas Garcia - https://www.linkedin.com/in/lucas-del-puerto/
+- 70% a 80%: reforçar fundamentos de segurança e serviços.
+- 80% a 90%: revisar armadilhas de custo e disponibilidade.
+- Acima de 90%: manter ritmo com revisão leve.

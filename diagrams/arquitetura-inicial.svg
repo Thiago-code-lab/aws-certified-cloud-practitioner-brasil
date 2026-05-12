@@ -1,0 +1,13 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="900" height="360" viewBox="0 0 900 360">
+  <rect width="900" height="360" fill="#0b1220"/>
+  <text x="40" y="42" fill="#f8fafc" font-family="Arial" font-size="24">Arquitetura Inicial AWS</text>
+  <rect x="40" y="90" width="220" height="90" rx="10" fill="#1e293b" stroke="#38bdf8"/>
+  <text x="70" y="140" fill="#e2e8f0" font-family="Arial" font-size="20">Usuário</text>
+  <rect x="340" y="90" width="220" height="90" rx="10" fill="#1e293b" stroke="#38bdf8"/>
+  <text x="370" y="140" fill="#e2e8f0" font-family="Arial" font-size="20">Amazon CloudFront</text>
+  <rect x="640" y="90" width="220" height="90" rx="10" fill="#1e293b" stroke="#38bdf8"/>
+  <text x="710" y="140" fill="#e2e8f0" font-family="Arial" font-size="20">Amazon S3</text>
+  <line x1="260" y1="135" x2="340" y2="135" stroke="#f59e0b" stroke-width="3"/>
+  <line x1="560" y1="135" x2="640" y2="135" stroke="#f59e0b" stroke-width="3"/>
+  <text x="40" y="260" fill="#94a3b8" font-family="Arial" font-size="18">Objetivo: distribuição de conteúdo estático com baixa latência.</text>
+</svg>
