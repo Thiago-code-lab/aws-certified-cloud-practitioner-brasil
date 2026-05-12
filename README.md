@@ -47,6 +47,24 @@ Este repositório organiza os fundamentos de AWS em módulos objetivos, com foco
 3. Módulos 11 a 15: contexto de adoção, arquitetura e inovação.
 4. Módulos 16 a 18: consolidação, revisão e próximos passos.
 
+## Rota de Revisão Recomendada
+
+1. Fundamentos: [Módulo 01](./01-Introducao-Computacao-em-Nuvem/README.md) + [revisão do domínio](./quick-review/fundamentos.md)
+2. Segurança: [Módulo 03](./03-Segurança-e-Conformidade/README.md) + [revisão do domínio](./quick-review/seguranca.md)
+3. Armazenamento: [Módulo 04](./04-Amazon-S3/README.md) + [revisão do domínio](./quick-review/armazenamento.md)
+4. Custos: [Módulo 10](./10-Precificacao-e-Suporte/README.md) + [revisão do domínio](./quick-review/custos.md)
+5. Consolidação curta: [quick-review](./quick-review/README.md) + [flashcards](./flashcards/README.md)
+
+## Ecossistema de Revisão
+
+| Camada | Objetivo | Link |
+|---|---|---|
+| Revisão por módulo | Fixar sinais de prova no próprio contexto do módulo | [Módulos](#módulos) |
+| Revisão por domínio | Corrigir erros recorrentes sem reler tudo | [quick-review](./quick-review/README.md) |
+| Notas curtas | Reforçar conceitos essenciais por tema | [notes](./notes/README.md) |
+| Flashcards | Memorização ativa com respostas ocultas | [flashcards](./flashcards/README.md) |
+| Simulados | Validar entendimento em questões comentadas | [simulados](./16-Simulados-e-Questoes/README.md) |
+
 ## Módulos
 
 | # | Tema | Link |
