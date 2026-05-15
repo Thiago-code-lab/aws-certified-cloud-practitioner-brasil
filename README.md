@@ -8,6 +8,12 @@
   <img src="./assets/CloudPractitioner%20%281%29.png" alt="AWS Cloud Practitioner" height="180">
 </p>
 
+<div align="center">
+  <a href="https://www.cloudstudy.com.br/">
+    <img src="https://img.shields.io/badge/ACESSAR_CLOUDSTUDY-www.cloudstudy.com.br-38BDF8?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  </a>
+</div>
+
 <h1 align="center">AWS Cloud Practitioner (CLF-C02) | Brasil</h1>
 
 <p align="center">
