@@ -9,11 +9,13 @@
 </p>
 
 <div align="center">
+  <a href="https://www.instagram.com/cloudstudy.ai/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
   <a href="https://www.cloudstudy.com.br/">
     <img src="https://img.shields.io/badge/ACESSAR_CLOUDSTUDY-www.cloudstudy.com.br-38BDF8?style=for-the-badge&logo=amazonaws&logoColor=white" />
   </a>
 </div>
-
 <h1 align="center">AWS Cloud Practitioner (CLF-C02) | Brasil</h1>
 
 <p align="center">
