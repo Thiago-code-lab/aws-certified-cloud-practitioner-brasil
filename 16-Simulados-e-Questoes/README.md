@@ -13,3 +13,16 @@ Este bloco oferece treino leve, porém realista, com perguntas de múltipla esco
 - Simulado final curto para consolidação.
 - Fluxo voltado a iniciantes com foco em fundamentos.
 
+
+---
+
+## ☁️ Acompanhe a CloudStudy
+
+Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+
+Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+
+- Instagram: https://www.instagram.com/cloudstudy.ai/
+- LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/
+
+---

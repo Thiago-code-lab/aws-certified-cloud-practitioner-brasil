@@ -131,3 +131,16 @@ Detecção de ameaças. Ele analisa eventos e sinais para apontar comportamento 
 MFA fortalece autenticação, mas não define autorização. Acesso correto ainda depende de políticas, roles e menor privilégio.
 
 </details>
+
+---
+
+## ☁️ Acompanhe a CloudStudy
+
+Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+
+Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+
+- Instagram: https://www.instagram.com/cloudstudy.ai/
+- LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/
+
+---

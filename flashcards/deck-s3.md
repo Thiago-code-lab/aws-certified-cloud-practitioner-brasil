@@ -131,3 +131,16 @@ S3 Transfer Acceleration, usando a rede de borda da AWS para acelerar transferê
 Quando o padrão de acesso é desconhecido ou muda com o tempo. Ele move objetos entre camadas de acesso para otimizar custo automaticamente.
 
 </details>
+
+---
+
+## ☁️ Acompanhe a CloudStudy
+
+Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+
+Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+
+- Instagram: https://www.instagram.com/cloudstudy.ai/
+- LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/
+
+---

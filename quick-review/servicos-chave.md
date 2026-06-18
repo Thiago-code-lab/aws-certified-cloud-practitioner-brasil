@@ -42,3 +42,16 @@ Mapa compacto para revisar associações de prova sem transformar a revisão em 
 
 ## Dica final
 Quando duas alternativas parecerem corretas, prefira a que resolve o cenário com menor complexidade operacional e melhor alinhamento ao enunciado.
+
+---
+
+## ☁️ Acompanhe a CloudStudy
+
+Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+
+Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+
+- Instagram: https://www.instagram.com/cloudstudy.ai/
+- LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/
+
+---

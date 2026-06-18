@@ -24,3 +24,16 @@ Lista curta para revisão corretiva. A ideia é reduzir erros recorrentes, não 
 
 ## Correção prática
 A cada bloco de questões, registre 3 erros recorrentes e revise apenas esses pontos por 15 minutos no mesmo dia.
+
+---
+
+## ☁️ Acompanhe a CloudStudy
+
+Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+
+Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+
+- Instagram: https://www.instagram.com/cloudstudy.ai/
+- LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/
+
+---

@@ -28,3 +28,16 @@ Use como varredura final. Se errar um bloco, volte ao arquivo de revisão do dom
 
 ## Validação rápida
 Se errar mais de 2 itens, não avance para simulado completo ainda. Revise o domínio com erro e resolva 5 questões focadas.
+
+---
+
+## ☁️ Acompanhe a CloudStudy
+
+Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+
+Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+
+- Instagram: https://www.instagram.com/cloudstudy.ai/
+- LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/
+
+---

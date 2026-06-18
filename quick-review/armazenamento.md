@@ -23,3 +23,16 @@ Use este bloco quando os erros envolverem S3, classes de armazenamento, backup o
 
 ## Próxima revisão
 Depois deste bloco, avance para [custos](./custos.md): storage quase sempre envolve custo, retenção e recuperação.
+
+---
+
+## ☁️ Acompanhe a CloudStudy
+
+Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+
+Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+
+- Instagram: https://www.instagram.com/cloudstudy.ai/
+- LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/
+
+---
