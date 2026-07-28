@@ -32,6 +32,9 @@ Depois de serverless, revise armazenamento geral: escolha correta entre objeto, 
 ## Continuidade
 Trilha de arquitetura: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
+
+> Quando este assunto aparecer em cenários de dados, vale revisar o curso Engenharia de Dados na AWS: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+
 ---
 
 ## ☁️ Acompanhe a CloudStudy

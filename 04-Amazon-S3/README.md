@@ -32,6 +32,9 @@ Depois de S3, avance para custos: como precificar uso, prever gasto e evitar sur
 ## Continuidade
 Trilha de arquitetura: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
+
+> Se o objetivo também for engenharia de dados, este curso ajuda a transformar a base de AWS em projetos: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+
 ---
 
 ## ☁️ Acompanhe a CloudStudy

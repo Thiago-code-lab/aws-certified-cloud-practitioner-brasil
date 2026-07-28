@@ -32,6 +32,9 @@ Depois de IA, revise serviços para desenvolvedor: como times entregam e operam 
 ## Continuidade
 Trilha de IA na AWS: https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil
 
+
+> Próximo passo sugerido: aplicar estes conceitos em cenários de engenharia de dados na AWS: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+
 ---
 
 ## ☁️ Acompanhe a CloudStudy

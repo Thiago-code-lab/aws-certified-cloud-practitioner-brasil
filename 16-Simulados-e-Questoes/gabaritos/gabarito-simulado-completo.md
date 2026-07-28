@@ -72,6 +72,9 @@ Creditos autorais:
 - Pedro Albertini - https://www.linkedin.com/in/pedroalbertini/
 - Lucas Garcia - https://www.linkedin.com/in/lucas-del-puerto/
 
+
+> Ponte prática: depois de fixar o serviço, veja como ele aparece em arquiteturas de dados na AWS: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+
 ---
 
 ## ☁️ Acompanhe a CloudStudy

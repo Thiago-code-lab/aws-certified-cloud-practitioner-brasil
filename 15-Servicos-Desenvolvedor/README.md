@@ -32,6 +32,9 @@ Depois deste módulo, volte para quick-review e flashcards para consolidar sinai
 ## Continuidade
 Trilha de arquitetura: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
+
+> Para aprofundar com projetos de dados na AWS, este material pode complementar a revisão: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+
 ---
 
 ## ☁️ Acompanhe a CloudStudy

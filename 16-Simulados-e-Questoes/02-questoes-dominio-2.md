@@ -137,6 +137,9 @@ SQS é fila de mensagens, não detecção de ameaça.
 </details>
 
 
+
+> Trilha complementar: fundamentos de cloud ficam mais claros quando aplicados em pipelines de dados na AWS: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+
 ---
 
 ## ☁️ Acompanhe a CloudStudy

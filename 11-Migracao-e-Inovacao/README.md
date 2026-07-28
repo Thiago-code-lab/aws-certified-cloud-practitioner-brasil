@@ -32,6 +32,9 @@ Depois de migração, revise CAF: ele organiza pessoas, processos e governança 
 ## Continuidade
 Trilha de arquitetura: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
+
+> Complemento de carreira: quem quer sair da base de cloud para projetos reais de dados pode seguir por aqui: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+
 ---
 
 ## ☁️ Acompanhe a CloudStudy

@@ -9,6 +9,9 @@ Visão introdutória do tópico em linguagem direta para o CLF-C02.
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
+
+> Para estudar aplicações práticas em dados depois deste tópico, este curso de Engenharia de Dados na AWS complementa bem: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+
 ---
 
 ## ☁️ Acompanhe a CloudStudy

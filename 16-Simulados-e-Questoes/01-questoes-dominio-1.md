@@ -137,6 +137,9 @@ Compra antecipada fixa não representa ajuste dinâmico.
 </details>
 
 
+
+> Se o objetivo também for engenharia de dados, este curso ajuda a transformar a base de AWS em projetos: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+
 ---
 
 ## ☁️ Acompanhe a CloudStudy

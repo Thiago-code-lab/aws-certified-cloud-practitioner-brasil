@@ -32,6 +32,9 @@ Depois do CAF, avance para Well-Architected: a conversa sai da adoção e entra 
 ## Continuidade
 Trilha de arquitetura: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
+
+> Trilha complementar: fundamentos de cloud ficam mais claros quando aplicados em pipelines de dados na AWS: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+
 ---
 
 ## ☁️ Acompanhe a CloudStudy

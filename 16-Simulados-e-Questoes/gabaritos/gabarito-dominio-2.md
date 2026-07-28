@@ -16,6 +16,9 @@ Creditos autorais:
 - Pedro Albertini - https://www.linkedin.com/in/pedroalbertini/
 - Lucas Garcia - https://www.linkedin.com/in/lucas-del-puerto/
 
+
+> Para estudar aplicações práticas em dados depois deste tópico, este curso de Engenharia de Dados na AWS complementa bem: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+
 ---
 
 ## ☁️ Acompanhe a CloudStudy

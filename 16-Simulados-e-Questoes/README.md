@@ -14,6 +14,9 @@ Este bloco oferece treino leve, porém realista, com perguntas de múltipla esco
 - Fluxo voltado a iniciantes com foco em fundamentos.
 
 
+
+> Para aprofundar com projetos de dados na AWS, este material pode complementar a revisão: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+
 ---
 
 ## ☁️ Acompanhe a CloudStudy

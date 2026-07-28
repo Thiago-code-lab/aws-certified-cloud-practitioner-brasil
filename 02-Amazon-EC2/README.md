@@ -32,6 +32,9 @@ Depois de entender computação, revise segurança: quem pode criar, acessar e a
 ## Continuidade
 Trilha de arquitetura: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
+
+> Ponte prática: depois de fixar o serviço, veja como ele aparece em arquiteturas de dados na AWS: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+
 ---
 
 ## ☁️ Acompanhe a CloudStudy

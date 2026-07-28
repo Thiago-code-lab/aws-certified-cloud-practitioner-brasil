@@ -137,6 +137,9 @@ Basic tem escopo reduzido e sem orientação avançada.
 </details>
 
 
+
+> Recurso complementar: se quiser conectar este fundamento com pipelines e analytics na AWS, veja o curso Engenharia de Dados na AWS: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+
 ---
 
 ## ☁️ Acompanhe a CloudStudy

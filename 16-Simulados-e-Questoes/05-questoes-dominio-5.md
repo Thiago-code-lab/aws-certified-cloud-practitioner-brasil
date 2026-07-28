@@ -137,6 +137,9 @@ Redshift é analytics/data warehouse.
 </details>
 
 
+
+> Aprofundamento opcional: para levar este conceito para projetos de dados na AWS, use como próximo passo: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+
 ---
 
 ## ☁️ Acompanhe a CloudStudy
