@@ -1,10 +1,11 @@
 ﻿# Aws X Ray
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+O AWS X-Ray ajuda a rastrear requisições em aplicações distribuídas e a localizar gargalos e falhas.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- Um trace mostra o caminho da chamada entre componentes.
+- Segmentos exibem tempo, erros e dependências.
+- Complementa métricas e logs do CloudWatch.
+- **Dica de prova:** descobrir onde uma requisição ficou lenta entre microsserviços aponta para X-Ray.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

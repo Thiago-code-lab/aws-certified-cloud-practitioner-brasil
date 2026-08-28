@@ -1,10 +1,11 @@
 ﻿# Aws Backup
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+O AWS Backup centraliza políticas, agendamentos, retenção e auditoria de backups de serviços compatíveis.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- Planos aplicam regras consistentes a vários recursos e contas.
+- Backups podem ser copiados entre contas e Regiões.
+- A estratégia ainda deve definir RPO, RTO e testes de restauração.
+- **Dica de prova:** gestão centralizada de backups entre serviços aponta para AWS Backup.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

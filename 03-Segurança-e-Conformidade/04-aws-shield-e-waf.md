@@ -1,10 +1,11 @@
 ﻿# Aws Shield E Waf
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+AWS Shield e AWS WAF protegem aplicações contra ameaças de rede e tráfego web malicioso.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- **Shield Standard:** proteção automática contra ataques DDoS comuns.
+- **Shield Advanced:** proteção ampliada e suporte para cargas críticas.
+- **WAF:** filtra requisições HTTP/HTTPS por IP, padrão ou taxa.
+- **Dica de prova:** DDoS aponta para Shield; bloquear SQL injection, bots ou IPs aponta para WAF.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

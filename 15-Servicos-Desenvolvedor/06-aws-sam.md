@@ -1,10 +1,11 @@
 ﻿# Aws Sam
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+O AWS Serverless Application Model (AWS SAM) simplifica a definição e o desenvolvimento de aplicações serverless.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- Usa uma sintaxe baseada em CloudFormation para Lambda, APIs e eventos.
+- A CLI auxilia construção, teste local, empacotamento e implantação.
+- Os recursos são transformados em infraestrutura CloudFormation.
+- **Dica de prova:** infraestrutura como código focada em serverless aponta para SAM.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

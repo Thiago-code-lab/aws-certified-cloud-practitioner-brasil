@@ -1,10 +1,11 @@
 ﻿# Pilar Eficiencia Desempenho
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+Eficiência de desempenho usa recursos de computação de forma adequada para atender requisitos e acompanhar mudanças.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- Selecione o tipo de recurso com base no padrão da carga.
+- Use arquiteturas serverless ou gerenciadas quando forem adequadas.
+- Meça resultados e revise escolhas conforme serviços evoluem.
+- **Dica de prova:** escolher tecnologia e dimensionamento corretos aponta para este pilar.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

@@ -1,10 +1,11 @@
 ﻿# Rds
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+O Amazon RDS gerencia bancos relacionais e automatiza provisionamento, backups, patches e substituição da infraestrutura.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- Suporta mecanismos populares como PostgreSQL, MySQL, MariaDB, Oracle e SQL Server.
+- **Multi-AZ:** aumenta disponibilidade com réplica de espera.
+- **Read Replica:** escala leituras; não substitui Multi-AZ.
+- **Dica de prova:** aplicação SQL transacional com menos operação aponta para RDS.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

@@ -1,10 +1,11 @@
 ﻿# Aws Dms
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+O AWS Database Migration Service (AWS DMS) migra e replica bancos com pouco tempo de indisponibilidade.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- A origem pode continuar em uso enquanto as mudanças são replicadas.
+- Atende migrações entre mecanismos iguais ou diferentes.
+- Mudanças de mecanismo podem exigir conversão do esquema.
+- **Dica de prova:** replicação contínua de banco aponta para DMS; arquivos gerais apontam para DataSync.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

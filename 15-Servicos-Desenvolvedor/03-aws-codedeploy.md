@@ -1,10 +1,11 @@
 ﻿# Aws Codedeploy
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+O AWS CodeDeploy automatiza a implantação de novas versões em destinos compatíveis.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- Suporta estratégias como in-place e blue/green conforme a plataforma.
+- Controla fases, validações e reversão da implantação.
+- Reduz tarefas manuais e inconsistências entre ambientes.
+- **Dica de prova:** colocar uma versão em execução aponta para CodeDeploy; gerar o artefato aponta para CodeBuild.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

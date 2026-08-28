@@ -1,10 +1,11 @@
 ﻿# Perspectiva Security
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+A perspectiva Security ajuda a atingir confidencialidade, integridade e disponibilidade dos dados e cargas.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- Abrange identidade, detecção, proteção da infraestrutura, dados e resposta a incidentes.
+- Integra segurança ao ciclo de entrega e à governança.
+- Usa controles proporcionais ao risco e à responsabilidade compartilhada.
+- **Dica de prova:** controles, ameaças e resposta a incidentes apontam para Security.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

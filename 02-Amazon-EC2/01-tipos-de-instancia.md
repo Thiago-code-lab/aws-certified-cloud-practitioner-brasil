@@ -1,10 +1,12 @@
 ﻿# Tipos De Instancia
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+O Amazon EC2 oferece máquinas virtuais com combinações diferentes de CPU, memória, armazenamento e rede. A família deve acompanhar o perfil da carga.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- **Uso geral:** equilíbrio para aplicações web e sistemas corporativos.
+- **Computação:** mais CPU para processamento intensivo.
+- **Memória:** bancos em memória e análises com grandes conjuntos de dados.
+- **Computação acelerada:** GPUs e aceleradores para gráficos ou machine learning.
+- **Dica de prova:** escolha pelo recurso dominante da aplicação, não apenas pelo tamanho da instância.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

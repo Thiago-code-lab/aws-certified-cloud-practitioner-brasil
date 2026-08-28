@@ -1,10 +1,11 @@
 ﻿# Perspectiva People
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+A perspectiva People prepara cultura, liderança, estrutura organizacional e competências para trabalhar em nuvem.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- Identifica lacunas de habilidades e cria planos de capacitação.
+- Apoia novos papéis, formas de trabalho e gestão da mudança.
+- Reduz resistência ao envolver as pessoas no processo.
+- **Dica de prova:** treinamento, cultura e mudança organizacional apontam para People.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

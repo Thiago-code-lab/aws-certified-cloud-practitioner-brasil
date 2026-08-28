@@ -1,10 +1,11 @@
 ﻿# Aws Datasync
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+O AWS DataSync acelera e automatiza transferências de arquivos entre armazenamento local, outros ambientes e serviços AWS compatíveis.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- Move grandes volumes pela rede com verificação e agendamento.
+- É útil em migração, replicação e arquivamento.
+- Trabalha com destinos como S3, EFS e FSx.
+- **Dica de prova:** transferência online recorrente de arquivos aponta para DataSync; envio físico aponta para Snow Family.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

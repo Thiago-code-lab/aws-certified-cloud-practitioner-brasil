@@ -1,10 +1,11 @@
 ﻿# Auto Scaling
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+O EC2 Auto Scaling ajusta automaticamente a quantidade de instâncias de um grupo para manter desempenho e disponibilidade.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- Define capacidade **mínima**, **desejada** e **máxima**.
+- Pode reagir a métricas, horários ou previsões de demanda.
+- Substitui instâncias com falha e distribui capacidade entre AZs.
+- **Dica de prova:** Auto Scaling altera a capacidade; o load balancer distribui as requisições.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

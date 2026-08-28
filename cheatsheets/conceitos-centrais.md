@@ -1,10 +1,22 @@
 ﻿# Conceitos Centrais
 
-Material de apoio curto para revisão e retenção.
+## Nuvem
 
-- Use antes de simulados.
-- Reforce tópicos com erro.
-- Revise em ciclos rápidos.
+- Recursos sob demanda substituem parte do investimento antecipado por gasto variável.
+- **Escalabilidade** suporta crescimento; **elasticidade** acompanha a variação da demanda.
+- Serviços gerenciados reduzem tarefas operacionais do cliente.
+
+## Infraestrutura global
+
+- **Região:** área geográfica escolhida por latência, custo, conformidade e serviços disponíveis.
+- **AZ:** local isolado dentro da Região; múltiplas AZs aumentam disponibilidade.
+- **Ponto de presença:** aproxima DNS e distribuição de conteúdo dos usuários.
+
+## Responsabilidade compartilhada
+
+- AWS protege datacenters, hardware, rede física e virtualização.
+- O cliente protege dados, identidades, permissões e suas configurações.
+- Quanto mais gerenciado o serviço, mais tarefas operacionais ficam com a AWS.
 
 Arquitetura: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 IA na AWS: https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil

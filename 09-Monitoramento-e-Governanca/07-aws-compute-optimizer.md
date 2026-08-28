@@ -1,10 +1,11 @@
 ﻿# Aws Compute Optimizer
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+O AWS Compute Optimizer analisa uso e recomenda configurações de recursos para equilibrar desempenho e custo.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- Identifica recursos superdimensionados ou subdimensionados.
+- Usa métricas históricas para sugerir opções adequadas.
+- A recomendação deve ser validada antes da alteração em produção.
+- **Dica de prova:** rightsizing baseado em utilização aponta para Compute Optimizer; análise ampla de gastos aponta para Cost Explorer.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

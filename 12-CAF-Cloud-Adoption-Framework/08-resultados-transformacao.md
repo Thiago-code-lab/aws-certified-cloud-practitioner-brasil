@@ -1,10 +1,11 @@
 ﻿# Resultados Transformacao
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+A transformação em nuvem busca resultados mensuráveis, e não apenas mover servidores.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- Pode aumentar receita, eficiência operacional e agilidade.
+- Pode reduzir riscos e apoiar metas ambientais e sociais.
+- Resultados devem ter responsáveis, métricas e revisões frequentes.
+- **Dica de prova:** cada iniciativa técnica deve estar ligada a um resultado de negócio verificável.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

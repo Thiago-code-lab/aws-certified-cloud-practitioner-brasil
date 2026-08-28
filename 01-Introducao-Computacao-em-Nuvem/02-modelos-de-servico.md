@@ -1,10 +1,11 @@
 ﻿# Modelos De Servico
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+Os modelos de serviço indicam quanto da tecnologia fica sob responsabilidade do provedor e quanto continua com o cliente.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- **IaaS:** oferece infraestrutura; o cliente ainda administra sistema operacional e aplicações.
+- **PaaS:** oferece uma plataforma gerenciada para desenvolver e publicar aplicações.
+- **SaaS:** entrega o software pronto para uso ao usuário final.
+- **Regra mental:** de IaaS para SaaS, aumenta o gerenciamento do provedor e diminui o controle operacional do cliente.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

@@ -1,10 +1,11 @@
 ﻿# Pilar Confiabilidade
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+Confiabilidade é a capacidade de uma carga executar sua função e se recuperar de falhas.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- Distribua componentes para evitar pontos únicos de falha.
+- Teste recuperação e automatize correções.
+- Ajuste capacidade à demanda e gerencie limites.
+- **Dica de prova:** múltiplas AZs, backups testados e recuperação automática apontam para confiabilidade.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

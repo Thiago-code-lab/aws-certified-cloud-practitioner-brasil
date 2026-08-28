@@ -1,10 +1,11 @@
 ﻿# Amazon Sagemaker
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+O Amazon SageMaker reúne recursos gerenciados para criar, treinar, ajustar e implantar modelos de machine learning.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- Atende preparação de dados, experimentos, treinamento e inferência.
+- Reduz a necessidade de administrar infraestrutura de ML.
+- É indicado quando a equipe precisa desenvolver ou operar modelos próprios.
+- **Dica de prova:** ciclo de vida completo de ML aponta para SageMaker; consumir um modelo fundacional pronto pode apontar para Bedrock.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

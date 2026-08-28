@@ -1,10 +1,11 @@
 ﻿# Aws Lambda
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+O AWS Lambda executa código em resposta a eventos sem que o cliente provisione ou administre servidores.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- Escala automaticamente por invocação.
+- A cobrança considera requisições e tempo de execução.
+- É indicado para APIs, automações e processamento de eventos.
+- **Dica de prova:** tarefa curta e orientada a eventos aponta para Lambda; processos longos podem pedir contêineres ou EC2.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

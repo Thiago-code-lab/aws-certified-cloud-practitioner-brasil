@@ -1,10 +1,11 @@
 ﻿# Programas Conformidade
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+Programas de conformidade demonstram que a AWS atende controles e padrões reconhecidos, conforme o serviço e a Região.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- A AWS fornece evidências sobre sua parte da responsabilidade compartilhada.
+- O cliente ainda configura sua carga e seus processos conforme os requisitos aplicáveis.
+- A elegibilidade varia por serviço; confirme o escopo antes de implantar.
+- **Dica de prova:** usar a AWS não torna uma aplicação automaticamente compatível com uma norma.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

@@ -1,10 +1,10 @@
 ﻿# O Que E Nuvem
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+Computação em nuvem entrega recursos de TI pela internet sob demanda. Em vez de comprar servidores com antecedência, a empresa provisiona capacidade em minutos e paga conforme o uso.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- **Use quando:** precisar ganhar agilidade, variar a capacidade ou testar uma solução com baixo investimento inicial.
+- **Responsabilidade:** a AWS opera a infraestrutura física; o cliente configura e protege seus dados e recursos.
+- **Dica de prova:** “capacidade sob demanda” e “pagamento pelo consumo” apontam para cloud computing.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

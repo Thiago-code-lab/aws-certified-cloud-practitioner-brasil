@@ -1,10 +1,12 @@
 ﻿# Beneficios Da Nuvem
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+A nuvem troca grandes investimentos antecipados por despesas variáveis e permite experimentar, escalar e entregar soluções mais rapidamente.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- **Elasticidade:** aumenta ou reduz recursos conforme a demanda.
+- **Agilidade:** provisiona ambientes em minutos, sem esperar compra de hardware.
+- **Economia de escala:** o provedor dilui custos entre muitos clientes.
+- **Alcance global:** permite implantar aplicações próximas dos usuários.
+- **Dica de prova:** capacidade que acompanha automaticamente a carga é elasticidade, não apenas escalabilidade.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

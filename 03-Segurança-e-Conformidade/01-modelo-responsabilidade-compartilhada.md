@@ -1,10 +1,11 @@
 ﻿# Modelo Responsabilidade Compartilhada
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+Na AWS, segurança é compartilhada. A AWS protege **a infraestrutura da nuvem**; o cliente protege **o que configura e executa na nuvem**.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- **AWS:** datacenters, hardware, rede física e virtualização.
+- **Cliente:** dados, identidades, permissões, rede e sistema operacional no EC2.
+- Em serviços mais gerenciados, a AWS assume mais tarefas operacionais.
+- **Dica de prova:** a AWS corrige o host físico; o cliente corrige o sistema operacional de sua instância.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

@@ -1,10 +1,11 @@
 ﻿# Dynamodb
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+O Amazon DynamoDB é um banco NoSQL serverless de chave-valor e documentos, projetado para baixa latência em grande escala.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- Não exige administração de servidores.
+- Pode usar capacidade sob demanda ou provisionada.
+- TTL, streams e índices apoiam aplicações modernas.
+- **Dica de prova:** acesso por chave e escala imprevisível apontam para DynamoDB; relações complexas apontam para RDS.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

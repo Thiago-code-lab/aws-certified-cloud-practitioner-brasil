@@ -1,10 +1,11 @@
 ﻿# Amazon Eventbridge
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+O Amazon EventBridge é um barramento de eventos gerenciado que conecta aplicações e serviços de forma desacoplada.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- Regras selecionam eventos e os encaminham para destinos.
+- Suporta eventos AWS, aplicações próprias e parceiros SaaS.
+- Também oferece agendamentos para tarefas recorrentes.
+- **Dica de prova:** reagir a mudanças sem integração direta aponta para EventBridge.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

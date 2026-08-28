@@ -1,10 +1,11 @@
 ﻿# Elastic Load Balancing
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+O Elastic Load Balancing distribui tráfego entre vários destinos saudáveis, como instâncias EC2, contêineres e funções Lambda.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- **Application Load Balancer:** tráfego HTTP/HTTPS e regras por host ou caminho.
+- **Network Load Balancer:** conexões TCP/UDP de alto desempenho e baixa latência.
+- Verificações de integridade evitam destinos indisponíveis.
+- **Dica de prova:** o balanceador distribui tráfego; o Auto Scaling cria ou remove capacidade.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

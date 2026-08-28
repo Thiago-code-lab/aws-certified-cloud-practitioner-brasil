@@ -1,10 +1,11 @@
 ﻿# Pilar Seguranca
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+O pilar Segurança protege dados, sistemas e ativos enquanto permite que o negócio entregue valor.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- Use identidade forte, menor privilégio e rastreabilidade.
+- Proteja dados em trânsito e em repouso.
+- Automatize controles e prepare resposta a incidentes.
+- **Dica de prova:** segurança deve existir em todas as camadas, seguindo a responsabilidade compartilhada.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

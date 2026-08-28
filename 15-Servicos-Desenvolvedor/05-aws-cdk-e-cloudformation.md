@@ -1,10 +1,11 @@
 ﻿# Aws Cdk E Cloudformation
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+AWS CloudFormation e AWS CDK criam infraestrutura de forma declarativa, repetível e versionável.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- **CloudFormation:** usa templates para definir recursos e dependências.
+- **CDK:** descreve infraestrutura com linguagens de programação e sintetiza templates CloudFormation.
+- Stacks facilitam criação, atualização e remoção controlada.
+- **Dica de prova:** template nativo aponta para CloudFormation; código tipado que gera template aponta para CDK.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

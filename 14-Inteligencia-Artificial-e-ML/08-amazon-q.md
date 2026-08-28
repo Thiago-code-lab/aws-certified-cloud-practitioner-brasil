@@ -1,10 +1,11 @@
 ﻿# Amazon Q
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+Amazon Q é uma família de assistentes de IA generativa voltados ao trabalho e ao desenvolvimento de software.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- Pode responder perguntas, resumir conteúdo e apoiar tarefas conforme o produto e as fontes conectadas.
+- As respostas respeitam permissões e contexto configurados.
+- Resultados importantes ainda precisam de validação humana.
+- **Dica de prova:** assistente generativo para usuários corporativos ou desenvolvedores aponta para Amazon Q.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

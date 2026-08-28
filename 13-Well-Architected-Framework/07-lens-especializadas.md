@@ -1,10 +1,11 @@
 ﻿# Lens Especializadas
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+As Well-Architected Lenses complementam o framework com práticas específicas para tecnologias e setores.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- Há lentes para tipos de carga, como serverless, analytics e machine learning.
+- Cada lente adiciona perguntas e orientações ao conjunto principal.
+- Elas não substituem os seis pilares.
+- **Dica de prova:** use uma lente para aprofundar um contexto específico mantendo a revisão geral do framework.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

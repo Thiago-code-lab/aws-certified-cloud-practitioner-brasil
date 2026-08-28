@@ -1,10 +1,11 @@
 ﻿# Aws Fargate
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+O AWS Fargate executa contêineres sem que o cliente gerencie instâncias ou clusters de máquinas.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- Funciona como capacidade de computação para Amazon ECS e Amazon EKS.
+- O cliente define imagem, CPU, memória, rede e permissões.
+- É adequado quando se quer contêineres com menor esforço operacional.
+- **Dica de prova:** ECS/EKS orquestra; Fargate fornece a capacidade.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

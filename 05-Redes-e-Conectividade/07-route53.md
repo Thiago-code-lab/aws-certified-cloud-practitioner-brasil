@@ -1,10 +1,11 @@
 ﻿# Route53
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+O Amazon Route 53 oferece DNS autoritativo, registro de domínios e verificações de integridade.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- Traduz domínios em destinos, como load balancers e distribuições CloudFront.
+- Oferece roteamento simples, ponderado, por latência e failover.
+- Health checks ajudam a retirar destinos não saudáveis das respostas.
+- **Dica de prova:** distribuir usuários por DNS ou fazer failover aponta para Route 53.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

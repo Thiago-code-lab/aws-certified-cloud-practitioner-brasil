@@ -1,10 +1,11 @@
 ﻿# Visao Geral Caf
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+O AWS Cloud Adoption Framework (AWS CAF) orienta organizações a preparar pessoas, processos e tecnologia para a transformação em nuvem.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- Organiza capacidades em seis perspectivas: Business, People, Governance, Platform, Security e Operations.
+- Ajuda a identificar lacunas, alinhar interessados e priorizar iniciativas.
+- Não é uma arquitetura pronta nem uma ferramenta de migração.
+- **Dica de prova:** planejamento organizacional amplo para adoção da nuvem aponta para AWS CAF.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

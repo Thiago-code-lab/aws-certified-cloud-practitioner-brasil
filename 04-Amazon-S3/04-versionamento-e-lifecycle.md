@@ -1,10 +1,11 @@
 ﻿# Versionamento E Lifecycle
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+Versionamento preserva versões de um objeto; lifecycle automatiza transições e exclusões ao longo do tempo.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- Versionamento ajuda a recuperar alterações e exclusões acidentais.
+- Lifecycle move objetos antigos para classes mais baratas.
+- Também pode expirar versões antigas e uploads incompletos.
+- **Dica de prova:** recuperar sobrescrita aponta para versionamento; reduzir custo por idade aponta para lifecycle.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

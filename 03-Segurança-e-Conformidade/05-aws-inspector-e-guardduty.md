@@ -1,10 +1,11 @@
 ﻿# Aws Inspector E Guardduty
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+Amazon Inspector e Amazon GuardDuty detectam riscos diferentes e se complementam.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- **Inspector:** procura vulnerabilidades de software e exposição indevida em cargas compatíveis.
+- **GuardDuty:** analisa sinais e logs para identificar comportamento suspeito e possíveis ataques.
+- Ambos geram descobertas que podem alimentar uma resposta automatizada.
+- **Dica de prova:** vulnerabilidade conhecida aponta para Inspector; atividade anômala aponta para GuardDuty.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

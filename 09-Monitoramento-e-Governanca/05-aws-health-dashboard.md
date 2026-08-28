@@ -1,10 +1,11 @@
 ﻿# Aws Health Dashboard
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+O AWS Health fornece informações sobre eventos da AWS que podem afetar recursos e contas.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- A visão pública mostra a situação geral dos serviços.
+- A visão personalizada relaciona eventos aos recursos do cliente.
+- Notificações antecipadas ajudam a planejar manutenções e responder a incidentes.
+- **Dica de prova:** impacto de um evento AWS sobre seus recursos aponta para AWS Health; métricas internas apontam para CloudWatch.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

@@ -1,10 +1,11 @@
 ﻿# S3 Transfer Acceleration
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+O S3 Transfer Acceleration acelera transferências de longa distância usando pontos de presença e a rede global da AWS.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- É útil para usuários geograficamente distantes do bucket.
+- Exige endpoint específico e possui cobrança adicional.
+- O ganho depende da rota e do tamanho da transferência.
+- **Dica de prova:** upload global aponta para Transfer Acceleration; distribuição de conteúdo costuma apontar para CloudFront.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

@@ -1,10 +1,11 @@
 ﻿# Amazon Lex
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+O Amazon Lex cria interfaces de conversa por texto e voz usando reconhecimento de fala e compreensão de linguagem.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- Organiza conversas em intenções, frases e slots.
+- Pode acionar Lambda para executar lógica de negócio.
+- É usado em chatbots, assistentes e atendimento automatizado.
+- **Dica de prova:** bot conversacional com coleta de informações aponta para Lex.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

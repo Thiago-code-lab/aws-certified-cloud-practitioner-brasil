@@ -1,10 +1,11 @@
 ﻿# Amazon Polly E Transcribe
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+Amazon Polly e Amazon Transcribe convertem conteúdo entre texto e voz em sentidos opostos.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- **Polly:** transforma texto em fala natural.
+- **Transcribe:** transforma áudio de fala em texto.
+- Casos comuns incluem acessibilidade, legendas, bots de voz e transcrição de chamadas.
+- **Dica de prova:** texto para áudio aponta para Polly; áudio para texto aponta para Transcribe.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

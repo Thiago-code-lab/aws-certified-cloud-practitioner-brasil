@@ -1,10 +1,11 @@
 ﻿# Aws Storage Gateway
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+O AWS Storage Gateway conecta ambientes locais ao armazenamento da AWS em uma arquitetura híbrida.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- Mantém interfaces conhecidas localmente enquanto usa a AWS para armazenamento ou proteção.
+- Atende compartilhamento de arquivos, volumes e backup em fita virtual.
+- Pode manter cache local para dados frequentes.
+- **Dica de prova:** integração de armazenamento local com AWS aponta para Storage Gateway.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

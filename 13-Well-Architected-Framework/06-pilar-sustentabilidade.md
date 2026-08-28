@@ -1,10 +1,11 @@
 ﻿# Pilar Sustentabilidade
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+Sustentabilidade reduz o impacto ambiental das cargas ao usar recursos de forma mais eficiente.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- Maximize utilização e remova capacidade ociosa.
+- Prefira serviços gerenciados e padrões eficientes quando apropriado.
+- Meça impacto e melhore continuamente software e arquitetura.
+- **Dica de prova:** fazer mais trabalho útil com menos recursos aponta para sustentabilidade.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

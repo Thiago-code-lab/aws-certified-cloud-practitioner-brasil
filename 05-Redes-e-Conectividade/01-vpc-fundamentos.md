@@ -1,10 +1,11 @@
 ﻿# Vpc Fundamentos
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+A Amazon VPC é uma rede virtual isolada na AWS. Nela você define endereços IP, sub-redes, rotas e controles de tráfego.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- Cada VPC pertence a uma Região e pode abranger várias AZs.
+- Sub-redes pertencem a uma única AZ.
+- Tabelas de rotas determinam o próximo destino do tráfego.
+- **Dica de prova:** VPC fornece isolamento lógico; alta disponibilidade vem da distribuição entre AZs.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

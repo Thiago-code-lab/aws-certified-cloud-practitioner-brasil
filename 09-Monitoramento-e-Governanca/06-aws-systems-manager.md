@@ -1,10 +1,12 @@
 ﻿# Aws Systems Manager
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+O AWS Systems Manager centraliza operações e automação sobre servidores e recursos em ambientes AWS, locais e híbridos.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- Session Manager permite acesso administrativo sem abrir portas SSH ou RDP.
+- Run Command executa comandos em vários nós.
+- Patch Manager ajuda a aplicar correções de sistema.
+- Parameter Store guarda configurações e valores protegidos.
+- **Dica de prova:** operar uma frota de servidores com controle central aponta para Systems Manager.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

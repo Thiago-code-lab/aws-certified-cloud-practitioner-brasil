@@ -1,10 +1,23 @@
 ﻿# Precificacao
 
-Material de apoio curto para revisão e retenção.
+## Modelos de compra
 
-- Use antes de simulados.
-- Reforce tópicos com erro.
-- Revise em ciclos rápidos.
+- **Sob demanda:** flexível e sem compromisso.
+- **Savings Plans/Reservadas:** desconto para uso previsível com compromisso.
+- **Spot:** grande desconto, mas pode sofrer interrupção.
+- **Dedicated Host:** isolamento físico ou licenciamento específico.
+
+## Ferramentas
+
+- **Pricing Calculator:** estima uma arquitetura futura.
+- **Cost Explorer:** analisa custos e uso.
+- **Budgets:** alerta sobre limites reais ou previstos.
+- **Billing:** mostra faturas e cobranças.
+- **Compute Optimizer:** recomenda rightsizing com base em métricas.
+
+## Regra prática
+
+Desligue recursos ociosos, aplique tags, escolha compromissos somente após entender a demanda e considere transferência de dados no custo total.
 
 Arquitetura: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 IA na AWS: https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil

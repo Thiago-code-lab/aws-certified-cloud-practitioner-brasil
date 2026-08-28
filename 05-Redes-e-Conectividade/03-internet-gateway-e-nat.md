@@ -1,10 +1,11 @@
 ﻿# Internet Gateway E Nat
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+Internet Gateway e NAT Gateway conectam recursos à internet em direções diferentes.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- **Internet Gateway:** permite comunicação de recursos públicos com a internet.
+- **NAT Gateway:** deixa recursos privados iniciarem conexões externas sem aceitar conexões iniciadas da internet.
+- Um NAT Gateway público fica em subnet pública.
+- **Dica de prova:** servidor privado baixando atualizações aponta para NAT.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

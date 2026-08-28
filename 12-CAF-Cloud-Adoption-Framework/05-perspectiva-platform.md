@@ -1,10 +1,11 @@
 ﻿# Perspectiva Platform
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+A perspectiva Platform trata da arquitetura e da base tecnológica usada para criar e migrar cargas na nuvem.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- Inclui landing zones, redes, contas, automação e padrões de arquitetura.
+- Incentiva infraestrutura como código e ambientes repetíveis.
+- Cria uma fundação segura para equipes de aplicação.
+- **Dica de prova:** desenho da plataforma, provisionamento e arquitetura apontam para Platform.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

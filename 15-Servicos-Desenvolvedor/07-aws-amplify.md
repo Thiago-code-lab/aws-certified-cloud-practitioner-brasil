@@ -1,10 +1,11 @@
 ﻿# Aws Amplify
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+O AWS Amplify fornece ferramentas e serviços para criar e hospedar aplicações web e móveis conectadas a backends na AWS.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- Facilita integração com autenticação, APIs, dados e armazenamento.
+- Hospedagem pode automatizar build e publicação a partir de um repositório.
+- É útil para equipes frontend que querem reduzir configuração de infraestrutura.
+- **Dica de prova:** experiência integrada para app web/móvel aponta para Amplify.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

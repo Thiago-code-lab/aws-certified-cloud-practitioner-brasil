@@ -1,10 +1,11 @@
 ﻿# Security Groups E Nacl
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+Security Groups e Network ACLs filtram tráfego em camadas diferentes da VPC.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- **Security Group:** atua no recurso, é stateful e possui apenas regras de permissão.
+- **NACL:** atua na subnet, é stateless e aceita permissão e negação.
+- Security Groups são o controle principal para instâncias e interfaces.
+- **Dica de prova:** bloqueio explícito por subnet aponta para NACL.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

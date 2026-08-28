@@ -1,10 +1,11 @@
 ﻿# Redshift
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+O Amazon Redshift é um data warehouse gerenciado para análises SQL sobre grandes volumes de dados.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- Usa armazenamento colunar e processamento paralelo.
+- Integra-se a ferramentas de BI e a dados no S3.
+- É voltado a relatórios e analytics, não a pequenas transações frequentes.
+- **Dica de prova:** data warehouse aponta para Redshift; banco transacional aponta para RDS.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

@@ -1,10 +1,12 @@
 ﻿# Estrategias Migracao
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+As estratégias de migração, conhecidas como “Rs”, descrevem como cada aplicação será tratada.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- **Rehost:** mover com poucas mudanças.
+- **Replatform:** fazer ajustes limitados e adotar alguns serviços gerenciados.
+- **Refactor:** redesenhar para aproveitar melhor a nuvem.
+- **Retire/Retain/Repurchase:** desativar, manter por enquanto ou trocar por outra solução.
+- **Dica de prova:** a estratégia depende de prazo, risco, valor e esforço, não de uma regra única.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

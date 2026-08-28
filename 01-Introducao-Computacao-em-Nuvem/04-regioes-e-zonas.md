@@ -1,10 +1,11 @@
 ﻿# Regioes E Zonas
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+Uma Região AWS é uma área geográfica formada por várias Zonas de Disponibilidade (AZs) isoladas entre si. Distribuir uma aplicação entre AZs reduz o impacto da falha de um único local.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- **Região:** escolha considerando latência, preço, conformidade e disponibilidade dos serviços.
+- **AZ:** use duas ou mais para alta disponibilidade dentro da Região.
+- **Pontos de presença:** aproximam serviços como CloudFront e Route 53 dos usuários.
+- **Dica de prova:** múltiplas AZs aumentam disponibilidade; múltiplas Regiões atendem recuperação geográfica mais ampla.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

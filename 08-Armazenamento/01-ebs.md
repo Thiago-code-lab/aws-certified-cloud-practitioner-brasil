@@ -1,10 +1,11 @@
 ﻿# Ebs
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+O Amazon EBS fornece volumes de bloco persistentes, usados principalmente por instâncias EC2.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- É adequado para sistemas de arquivos, bancos e discos de inicialização.
+- O volume pertence a uma AZ e pode sobreviver ao encerramento da instância.
+- Snapshots permitem backup e restauração.
+- **Dica de prova:** disco persistente para EC2 aponta para EBS; objetos apontam para S3.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

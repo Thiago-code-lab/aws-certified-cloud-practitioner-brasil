@@ -1,10 +1,11 @@
 ﻿# Fsx
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+A família Amazon FSx fornece sistemas de arquivos gerenciados para tecnologias e cargas específicas.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- **FSx for Windows File Server:** compartilhamentos Windows e SMB.
+- **FSx for Lustre:** alto desempenho e integração com S3.
+- Há opções para NetApp ONTAP e OpenZFS.
+- **Dica de prova:** escolha FSx quando o enunciado exigir sistema de arquivos ou protocolo específico.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

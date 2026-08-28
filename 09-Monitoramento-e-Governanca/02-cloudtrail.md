@@ -1,10 +1,11 @@
 ﻿# Cloudtrail
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+O AWS CloudTrail registra ações executadas por identidades e serviços na conta AWS.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- Mostra informações como autor, ação, horário, origem e recurso.
+- Apoia auditoria, conformidade e investigação de incidentes.
+- Trilhas podem enviar eventos continuamente para análise e retenção.
+- **Dica de prova:** “quem fez essa alteração?” aponta para CloudTrail; desempenho do recurso aponta para CloudWatch.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

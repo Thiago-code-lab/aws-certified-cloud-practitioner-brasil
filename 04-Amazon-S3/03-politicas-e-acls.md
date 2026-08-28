@@ -1,10 +1,11 @@
 ﻿# Politicas E Acls
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+O acesso ao S3 pode ser controlado com políticas IAM, bucket policies, pontos de acesso e ACLs.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- **Política IAM:** define o que uma identidade pode fazer.
+- **Bucket policy:** regra baseada no recurso, útil para acesso entre contas.
+- **ACL:** mecanismo legado; prefira políticas na maioria dos casos.
+- Mantenha o bloqueio de acesso público ativo quando publicidade não for necessária.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

@@ -1,10 +1,12 @@
 ﻿# Modelos De Preco
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+O EC2 possui modelos de compra que equilibram flexibilidade, previsibilidade e desconto.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- **Sob demanda:** sem compromisso; indicada para cargas novas ou imprevisíveis.
+- **Savings Plans/Reservadas:** desconto em troca de compromisso de uso.
+- **Spot:** capacidade ociosa com grande desconto, mas sujeita a interrupção.
+- **Hosts Dedicados:** servidor físico dedicado para isolamento ou licenciamento específico.
+- **Dica de prova:** carga tolerante a interrupções sugere Spot; uso estável sugere compromisso de longo prazo.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

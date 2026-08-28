@@ -1,10 +1,11 @@
 ﻿# Perspectiva Operations
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+A perspectiva Operations prepara a organização para executar, observar e melhorar serviços de nuvem no dia a dia.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- Inclui monitoramento, gestão de incidentes, mudanças, configuração e continuidade.
+- Define procedimentos, indicadores e responsabilidades operacionais.
+- Automação reduz tarefas manuais e erros repetitivos.
+- **Dica de prova:** operação contínua, suporte e confiabilidade apontam para Operations.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

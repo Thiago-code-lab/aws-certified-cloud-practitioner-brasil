@@ -1,10 +1,11 @@
 ﻿# Aws Artifact
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+O AWS Artifact fornece acesso sob demanda a relatórios de conformidade da AWS e a determinados acordos legais.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- É usado por equipes de auditoria, risco e compliance.
+- Reúne documentos como relatórios de auditoria e certificações aplicáveis.
+- Não verifica a configuração dos recursos do cliente.
+- **Dica de prova:** documentação oficial aponta para Artifact; avaliação contínua de recursos aponta para Config.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

@@ -1,10 +1,11 @@
 ﻿# User Data E Metadata
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+User data e instance metadata ajudam a automatizar e identificar instâncias EC2, mas têm finalidades diferentes.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- **User data:** script fornecido no lançamento, usado para instalar e iniciar a aplicação.
+- **Metadata:** dados consultados pela instância, como ID, rede e credenciais temporárias da função IAM.
+- Prefira funções IAM a chaves permanentes armazenadas no user data.
+- **Dica de prova:** inicialização automática aponta para user data; dados da própria instância apontam para metadata.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

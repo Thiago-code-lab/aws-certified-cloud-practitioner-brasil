@@ -1,10 +1,11 @@
 ﻿# Amazon Bedrock
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+O Amazon Bedrock permite criar aplicações de IA generativa usando modelos fundacionais por APIs gerenciadas.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- Oferece escolha de modelos e recursos para personalização, agentes e bases de conhecimento.
+- A equipe não precisa administrar a infraestrutura de inferência dos modelos oferecidos.
+- Custo, latência, segurança dos dados e avaliação devem orientar a escolha.
+- **Dica de prova:** aplicação com modelo fundacional gerenciado aponta para Bedrock.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

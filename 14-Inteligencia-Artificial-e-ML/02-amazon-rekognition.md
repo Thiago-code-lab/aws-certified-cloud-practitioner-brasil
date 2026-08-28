@@ -1,10 +1,11 @@
 ﻿# Amazon Rekognition
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+O Amazon Rekognition analisa imagens e vídeos por APIs prontas de visão computacional.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- Detecta objetos, cenas, texto, conteúdo inadequado e outros elementos compatíveis.
+- Evita treinar um modelo do zero para casos comuns.
+- Resultados probabilísticos exigem limites e revisão adequados ao risco.
+- **Dica de prova:** entender conteúdo visual por serviço pronto aponta para Rekognition.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

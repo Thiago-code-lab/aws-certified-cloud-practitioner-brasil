@@ -1,10 +1,11 @@
 ﻿# Perspectiva Business
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+A perspectiva Business conecta a adoção da nuvem aos objetivos e resultados da organização.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- Define o caso de negócio, benefícios esperados e indicadores de valor.
+- Alinha tecnologia, finanças e lideranças sobre prioridades.
+- Ajuda a tratar a nuvem como transformação do negócio, não apenas projeto técnico.
+- **Dica de prova:** valor, estratégia, portfólio e resultados comerciais apontam para Business.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

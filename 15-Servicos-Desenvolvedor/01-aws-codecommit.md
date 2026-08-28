@@ -1,10 +1,11 @@
 ﻿# Aws Codecommit
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+O AWS CodeCommit é um serviço gerenciado de repositórios Git privados integrado a identidades e serviços AWS.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- Armazena código e histórico de versões.
+- Integra permissões por IAM e criptografia gerenciada.
+- Faz o papel de repositório; não compila nem implanta a aplicação.
+- **Dica de prova:** código-fonte aponta para repositório; build aponta para CodeBuild e implantação para CodeDeploy.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

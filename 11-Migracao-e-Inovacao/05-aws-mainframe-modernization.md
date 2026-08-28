@@ -1,10 +1,11 @@
 ﻿# Aws Mainframe Modernization
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+O AWS Mainframe Modernization oferece ferramentas e ambientes gerenciados para migrar, modernizar e operar aplicações de mainframe.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- Pode apoiar refatoração ou replataforma de cargas legadas.
+- Inclui recursos para análise, desenvolvimento, teste e execução.
+- Projetos exigem avaliação cuidadosa de dependências, dados e regras de negócio.
+- **Dica de prova:** modernização específica de aplicações mainframe aponta para esse serviço.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

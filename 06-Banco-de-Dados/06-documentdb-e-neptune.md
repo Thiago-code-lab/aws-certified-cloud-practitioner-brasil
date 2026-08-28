@@ -1,10 +1,11 @@
 ﻿# Documentdb E Neptune
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+Amazon DocumentDB e Amazon Neptune atendem modelos de dados especializados.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- **DocumentDB:** banco de documentos compatível com cargas MongoDB, útil para estruturas JSON flexíveis.
+- **Neptune:** banco de grafos para fraude, redes sociais e recomendações.
+- A escolha acompanha o padrão de consulta, não apenas o formato de entrada.
+- **Dica de prova:** documentos apontam para DocumentDB; relações e travessias de grafo apontam para Neptune.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

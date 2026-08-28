@@ -1,10 +1,23 @@
 ﻿# Iam
 
-Material de apoio curto para revisão e retenção.
+## Identidades
 
-- Use antes de simulados.
-- Reforce tópicos com erro.
-- Revise em ciclos rápidos.
+- **Usuário:** identidade de longo prazo; use apenas quando necessário.
+- **Grupo:** reúne usuários com permissões semelhantes.
+- **Função:** oferece credenciais temporárias para pessoas, serviços e aplicações.
+- **Federação:** usa um provedor de identidade externo para acesso à AWS.
+
+## Políticas
+
+- Uma política define ações, recursos e condições permitidas ou negadas.
+- Uma negação explícita prevalece sobre permissões.
+- SCP limita o máximo permitido em contas do Organizations, mas não concede acesso.
+
+## Boas práticas
+
+- Ative MFA, aplique menor privilégio e revise credenciais.
+- Evite access keys permanentes e nunca use a conta-raiz no trabalho diário.
+- Não armazene segredos no código; use serviços próprios para credenciais e rotação.
 
 Arquitetura: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 IA na AWS: https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil

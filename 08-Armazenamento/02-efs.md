@@ -1,10 +1,11 @@
 ﻿# Efs
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+O Amazon EFS oferece sistema de arquivos elástico e compartilhado para cargas Linux usando NFS.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- Várias instâncias podem montar o mesmo sistema ao mesmo tempo.
+- A capacidade cresce e diminui automaticamente.
+- Pode ser acessado por recursos em várias AZs.
+- **Dica de prova:** arquivos compartilhados por instâncias Linux apontam para EFS; disco individual aponta para EBS.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

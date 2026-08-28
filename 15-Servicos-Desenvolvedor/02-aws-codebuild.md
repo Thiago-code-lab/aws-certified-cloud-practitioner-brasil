@@ -1,10 +1,11 @@
 ﻿# Aws Codebuild
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+O AWS CodeBuild compila código, executa testes e produz artefatos em ambientes de build gerenciados.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- Escala sob demanda sem manter servidores de integração.
+- As etapas são definidas em um arquivo de build ou na configuração do projeto.
+- Pode participar de pipelines automatizados.
+- **Dica de prova:** compilar e testar aponta para CodeBuild; coordenar todas as etapas aponta para CodePipeline.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

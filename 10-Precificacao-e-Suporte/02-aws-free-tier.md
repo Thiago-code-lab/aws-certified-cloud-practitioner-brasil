@@ -1,10 +1,13 @@
 ﻿# Aws Free Tier
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+O AWS Free Tier oferece créditos e cotas gratuitas para novos clientes, de acordo com o tipo de conta e os limites vigentes.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- Novos clientes recebem USD 100 em créditos e podem obter até USD 100 adicionais por atividades elegíveis.
+- O plano gratuito dura até seis meses ou até os créditos terminarem; o plano pago permite uso mais amplo e cobra o excedente.
+- Mais de 30 serviços possuem cotas mensais gratuitas, mas nem todo recurso ou consumo está incluído.
+- **Boa prática:** acompanhe os créditos no console e configure AWS Budgets antes de criar laboratórios.
+
+Consulte sempre os [termos atuais do AWS Free Tier](https://aws.amazon.com/free/) antes de criar a conta.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

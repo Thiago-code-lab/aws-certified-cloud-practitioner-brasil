@@ -1,10 +1,11 @@
 ﻿# Subnets Publicas Privadas
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+Uma subnet é pública ou privada de acordo com suas rotas e sua forma de acesso à internet, não apenas pelo nome.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- **Pública:** tem rota para Internet Gateway; o recurso ainda precisa de endereço público e regras adequadas.
+- **Privada:** não recebe conexão direta da internet.
+- Recursos privados podem iniciar acesso externo por um NAT Gateway.
+- **Boa prática:** coloque bancos e serviços internos em subnets privadas.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

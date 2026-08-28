@@ -1,10 +1,11 @@
 ﻿# Cloudwatch
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+O Amazon CloudWatch coleta métricas, logs e eventos operacionais para observar recursos e aplicações.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- Dashboards reúnem indicadores importantes.
+- Alarms notificam ou acionam automações quando uma métrica cruza um limite.
+- Logs centralizam registros de aplicações e serviços.
+- **Dica de prova:** CPU alta e alertas apontam para CloudWatch; histórico de chamadas de API aponta para CloudTrail.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

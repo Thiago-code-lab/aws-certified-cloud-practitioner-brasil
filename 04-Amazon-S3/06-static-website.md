@@ -1,10 +1,11 @@
 ﻿# Static Website
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+Um bucket S3 pode hospedar HTML, CSS, JavaScript e imagens sem executar código no servidor.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- Configure o documento inicial e a página de erro.
+- Para HTTPS, domínio próprio e cache global, use CloudFront.
+- Prefira acesso privado pelo CloudFront em vez de exposição direta do bucket.
+- **Dica de prova:** aplicações dinâmicas ou APIs precisam de computação adicional.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

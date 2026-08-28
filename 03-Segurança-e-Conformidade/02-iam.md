@@ -1,10 +1,11 @@
 ﻿# Iam
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+O AWS Identity and Access Management (IAM) controla quem pode acessar recursos e quais ações pode realizar.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- **Usuários e grupos:** representam pessoas e conjuntos de permissões.
+- **Funções:** fornecem credenciais temporárias para pessoas, aplicações e serviços.
+- **Políticas:** documentos que permitem ou negam ações.
+- **Boa prática:** aplique menor privilégio, MFA e não use a conta-raiz nas tarefas diárias.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

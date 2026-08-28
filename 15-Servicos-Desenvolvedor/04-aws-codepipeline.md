@@ -1,10 +1,11 @@
 ﻿# Aws Codepipeline
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+O AWS CodePipeline orquestra etapas de entrega contínua desde a origem até build, teste, aprovação e implantação.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- Cada mudança pode iniciar automaticamente uma execução.
+- Integra serviços AWS e ferramentas de terceiros.
+- Visualiza o estado e as transições do fluxo.
+- **Dica de prova:** coordenar o processo CI/CD completo aponta para CodePipeline.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

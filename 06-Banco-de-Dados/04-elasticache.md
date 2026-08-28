@@ -1,10 +1,11 @@
 ﻿# Elasticache
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+O Amazon ElastiCache oferece cache em memória gerenciado para reduzir latência e carga sobre bancos e aplicações.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- É usado em sessões, rankings e resultados consultados repetidamente.
+- Respostas ficam mais rápidas porque os dados mais usados permanecem em memória.
+- O cache exige estratégia de expiração e tolerância a dados temporariamente desatualizados.
+- **Dica de prova:** acelerar leituras sem trocar o banco principal aponta para ElastiCache.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

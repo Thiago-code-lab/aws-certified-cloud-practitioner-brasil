@@ -1,10 +1,11 @@
 ﻿# Modelos De Implantacao
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+O modelo de implantação descreve onde as cargas são executadas e como se conectam.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- **Nuvem pública:** recursos de um provedor como a AWS, com escala e cobrança por uso.
+- **Nuvem privada:** ambiente dedicado a uma organização, com maior controle e custo operacional.
+- **Híbrida:** integra infraestrutura local e nuvem; é comum em migrações graduais ou requisitos específicos.
+- **Dica de prova:** “manter parte no datacenter e integrar com a AWS” indica arquitetura híbrida.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

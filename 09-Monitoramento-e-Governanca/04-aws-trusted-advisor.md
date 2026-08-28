@@ -1,10 +1,11 @@
 ﻿# Aws Trusted Advisor
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+O AWS Trusted Advisor verifica o ambiente e apresenta recomendações baseadas em boas práticas da AWS.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- As verificações abrangem áreas como custo, desempenho, segurança, tolerância a falhas e limites de serviço.
+- A disponibilidade de verificações e recursos depende do plano de suporte.
+- Recomendações precisam ser avaliadas no contexto da carga.
+- **Dica de prova:** revisão automática de boas práticas da conta aponta para Trusted Advisor.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

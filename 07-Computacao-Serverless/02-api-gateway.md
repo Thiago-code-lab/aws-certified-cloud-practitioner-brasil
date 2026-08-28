@@ -1,10 +1,11 @@
 ﻿# Api Gateway
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+O Amazon API Gateway cria, publica, protege e monitora APIs que servem como entrada para aplicações.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- Pode encaminhar chamadas para Lambda, serviços HTTP e outros destinos.
+- Oferece autenticação, limitação de taxa, estágios e métricas.
+- É comum em APIs serverless combinado com Lambda.
+- **Dica de prova:** expor uma função como API HTTP gerenciada aponta para API Gateway.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

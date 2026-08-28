@@ -1,10 +1,11 @@
 ﻿# Aws Config
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+O AWS Config registra configurações de recursos e avalia se elas atendem regras de conformidade.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- Mantém histórico de alterações para auditoria e investigação.
+- Regras gerenciadas ou personalizadas identificam recursos fora do padrão.
+- Não é o serviço principal para métricas nem para registrar chamadas de API.
+- **Dica de prova:** “como estava configurado?” aponta para Config; “quem alterou?” aponta para CloudTrail.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

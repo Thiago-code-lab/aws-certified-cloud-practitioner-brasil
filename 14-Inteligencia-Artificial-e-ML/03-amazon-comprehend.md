@@ -1,10 +1,11 @@
 ﻿# Amazon Comprehend
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+O Amazon Comprehend usa processamento de linguagem natural para extrair informações de textos.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- Identifica entidades, idioma, frases-chave, tópicos e sentimento.
+- É útil para analisar avaliações, documentos e interações de atendimento.
+- Não converte fala em texto; essa função é do Amazon Transcribe.
+- **Dica de prova:** sentimento ou entidades em texto apontam para Comprehend.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

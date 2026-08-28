@@ -1,10 +1,11 @@
 ﻿# Perspectiva Governance
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+A perspectiva Governance alinha iniciativas de nuvem com controle, risco, finanças e conformidade.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- Define políticas, responsabilidades e mecanismos de decisão.
+- Acompanha portfólio, custos, benefícios e riscos.
+- Evita crescimento sem padrões ou prestação de contas.
+- **Dica de prova:** governança de portfólio, risco e valor aponta para esta perspectiva.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

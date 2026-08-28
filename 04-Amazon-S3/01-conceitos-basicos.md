@@ -1,10 +1,11 @@
 ﻿# Conceitos Basicos
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+O Amazon S3 é armazenamento de objetos. Guarda dados em buckets e oferece alta durabilidade para arquivos, backups, logs e conteúdo estático.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- Cada objeto possui dados, chave e metadados.
+- Buckets pertencem a uma Região e seus nomes são globalmente únicos.
+- O acesso é privado por padrão e deve ser liberado explicitamente.
+- **Dica de prova:** S3 não é disco de bloco nem sistema de arquivos compartilhado tradicional.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

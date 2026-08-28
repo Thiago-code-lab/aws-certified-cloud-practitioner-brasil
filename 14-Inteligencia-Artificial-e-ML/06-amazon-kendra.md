@@ -1,10 +1,11 @@
 ﻿# Amazon Kendra
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+O Amazon Kendra é um serviço de busca inteligente para conteúdo corporativo.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- Indexa documentos de diferentes fontes e usa linguagem natural nas consultas.
+- Ajuda usuários a encontrar respostas em bases internas.
+- Conectores simplificam a integração com repositórios compatíveis.
+- **Dica de prova:** pesquisa empresarial sobre documentos aponta para Kendra; chatbot conversacional aponta para Lex.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

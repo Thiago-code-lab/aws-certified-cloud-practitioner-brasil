@@ -1,10 +1,11 @@
 ﻿# Aws Budgets
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+O AWS Budgets acompanha limites definidos para custo, uso e alguns compromissos.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- Envia alertas quando o valor real ou previsto cruza um limite.
+- Pode acionar ações predefinidas em cenários suportados.
+- Orçamentos não bloqueiam gastos automaticamente por padrão.
+- **Dica de prova:** aviso preventivo de estouro aponta para Budgets; exploração detalhada dos gastos aponta para Cost Explorer.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

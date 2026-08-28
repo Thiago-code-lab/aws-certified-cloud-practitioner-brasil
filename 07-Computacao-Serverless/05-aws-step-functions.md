@@ -1,10 +1,11 @@
 ﻿# Aws Step Functions
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+O AWS Step Functions coordena etapas de processos distribuídos em workflows visuais baseados em estados.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- Organiza sequências, paralelismo, decisões, tentativas e tratamento de erros.
+- Integra Lambda e diversos serviços AWS.
+- Torna o fluxo mais observável do que encadear chamadas no código.
+- **Dica de prova:** várias etapas serverless com controle de falhas apontam para Step Functions.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

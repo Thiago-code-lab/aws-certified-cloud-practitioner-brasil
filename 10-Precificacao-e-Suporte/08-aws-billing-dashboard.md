@@ -1,10 +1,11 @@
 ﻿# Aws Billing Dashboard
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+O console de Billing and Cost Management centraliza faturas, pagamentos, impostos, preferências e ferramentas de custos.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- A página de Bills detalha cobranças por serviço e conta.
+- Cost Explorer aprofunda a análise; Budgets cria alertas.
+- Permissões de faturamento devem seguir menor privilégio.
+- **Dica de prova:** consultar a fatura atual aponta para Billing; investigar tendências aponta para Cost Explorer.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

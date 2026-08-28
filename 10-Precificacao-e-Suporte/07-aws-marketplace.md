@@ -1,10 +1,11 @@
 ﻿# Aws Marketplace
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+O AWS Marketplace é um catálogo para descobrir, comprar e implantar software e serviços de terceiros na AWS.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- Reúne soluções como imagens de máquina, SaaS, dados e serviços profissionais.
+- Cobrança e contratos podem ser consolidados pela conta AWS.
+- O cliente deve avaliar licenças, segurança, suporte e custos do fornecedor.
+- **Dica de prova:** adquirir uma solução pronta de parceiro com cobrança integrada aponta para Marketplace.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

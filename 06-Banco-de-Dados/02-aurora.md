@@ -1,10 +1,11 @@
 ﻿# Aurora
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+Amazon Aurora é um banco relacional gerenciado compatível com MySQL e PostgreSQL, criado para desempenho e disponibilidade na AWS.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- O armazenamento distribuído cresce automaticamente.
+- Réplicas Aurora escalam leitura e reduzem o tempo de failover.
+- Aurora Serverless ajusta capacidade para cargas compatíveis e variáveis.
+- **Dica de prova:** requisito relacional compatível com MySQL/PostgreSQL e nativo da AWS aponta para Aurora.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

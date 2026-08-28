@@ -1,10 +1,11 @@
 ﻿# Aws Application Discovery
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+O AWS Application Discovery Service coleta informações sobre servidores e dependências em ambientes locais para planejar migrações.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- Pode registrar configuração, uso e comunicação entre sistemas.
+- Os dados ajudam a agrupar aplicações e estimar capacidade.
+- Descoberta reduz decisões baseadas apenas em inventários manuais.
+- **Dica de prova:** mapear servidores e dependências antes de migrar aponta para Application Discovery Service.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

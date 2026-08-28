@@ -1,10 +1,11 @@
 ﻿# Vpc Peering E Transit Gateway
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+VPC Peering e Transit Gateway conectam redes VPC, mas usam modelos diferentes.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- **Peering:** conexão direta entre duas VPCs, sem roteamento transitivo.
+- **Transit Gateway:** hub central para muitas VPCs e redes locais.
+- Peering é simples para poucos pares; Transit Gateway reduz a malha em ambientes maiores.
+- **Dica de prova:** dezenas de redes com conectividade centralizada apontam para Transit Gateway.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

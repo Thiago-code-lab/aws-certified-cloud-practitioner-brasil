@@ -1,10 +1,11 @@
 ﻿# Direct Connect E Vpn
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+AWS Site-to-Site VPN e AWS Direct Connect ligam uma rede local à AWS.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- **VPN:** túnel criptografado pela internet, rápido de implantar.
+- **Direct Connect:** conexão privada dedicada, com desempenho mais previsível e implantação mais demorada.
+- Os dois podem ser combinados para resiliência.
+- **Dica de prova:** prazo curto aponta para VPN; tráfego constante e previsível aponta para Direct Connect.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

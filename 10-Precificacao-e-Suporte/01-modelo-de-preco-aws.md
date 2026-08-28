@@ -1,10 +1,11 @@
 ﻿# Modelo De Preco Aws
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+A AWS usa principalmente cobrança conforme o consumo, sem exigir investimento inicial em infraestrutura.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- O preço pode considerar tempo, requisições, capacidade, armazenamento e transferência de dados.
+- Compromissos de uso oferecem descontos para cargas previsíveis.
+- Escala e serviços gerenciados reduzem custos operacionais, mas não eliminam a necessidade de governança.
+- **Dica de prova:** compare custo total, incluindo operação, licenças e transferência, não apenas o preço do servidor.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

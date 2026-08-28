@@ -1,10 +1,11 @@
 ﻿# Aws Migration Hub
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+O AWS Migration Hub reúne visibilidade e acompanhamento de migrações de aplicações para a AWS.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- Centraliza progresso de ferramentas e ondas de migração.
+- Ajuda equipes a acompanhar inventário, status e problemas.
+- Não move sozinho todos os dados; coordena e apresenta o processo.
+- **Dica de prova:** painel central de uma migração com várias ferramentas aponta para Migration Hub.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

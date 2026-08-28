@@ -1,10 +1,11 @@
 ﻿# Aws Pricing Calculator
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+O AWS Pricing Calculator estima o custo mensal de uma arquitetura antes da implantação.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- Permite combinar serviços, Regiões, volumes e modelos de compra.
+- É útil para comparar alternativas e documentar premissas.
+- A estimativa depende da precisão dos dados informados e não substitui a fatura real.
+- **Dica de prova:** previsão de uma carga futura aponta para Pricing Calculator; análise do gasto ocorrido aponta para Cost Explorer.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

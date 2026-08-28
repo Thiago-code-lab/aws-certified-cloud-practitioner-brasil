@@ -1,10 +1,11 @@
 ﻿# Pilar Excelencia Operacional
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+Excelência operacional é a capacidade de executar, observar e melhorar sistemas e processos continuamente.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- Realize operações como código e automatize tarefas repetitivas.
+- Faça mudanças pequenas, reversíveis e testadas.
+- Aprenda com incidentes sem buscar culpados.
+- **Dica de prova:** observabilidade, procedimentos operacionais e melhoria contínua apontam para este pilar.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

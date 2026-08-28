@@ -1,10 +1,11 @@
 ﻿# Amazon Ecs E Eks
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+Amazon ECS e Amazon EKS orquestram aplicações em contêineres.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- **ECS:** orquestrador nativo da AWS, com integração simples.
+- **EKS:** Kubernetes gerenciado, usado quando compatibilidade Kubernetes é requisito.
+- Ambos podem usar EC2 ou Fargate.
+- **Dica de prova:** simplicidade AWS aponta para ECS; Kubernetes explícito aponta para EKS.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

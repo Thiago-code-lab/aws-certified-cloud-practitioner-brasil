@@ -1,10 +1,11 @@
 ﻿# Aws Snow Family
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+A família AWS Snow usa dispositivos físicos seguros para transferir dados ou executar computação onde a conectividade é limitada.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- É útil quando enviar grandes volumes pela rede seria lento ou inviável.
+- Os dispositivos protegem os dados durante transporte e importação.
+- Algumas opções processam dados próximo da origem.
+- **Dica de prova:** muitos terabytes com link insuficiente apontam para Snow Family.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 

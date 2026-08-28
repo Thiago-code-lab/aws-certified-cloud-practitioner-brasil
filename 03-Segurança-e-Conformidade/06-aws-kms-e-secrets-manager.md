@@ -1,10 +1,11 @@
 ﻿# Aws Kms E Secrets Manager
 
-Visão introdutória do tópico em linguagem direta para o CLF-C02.
+AWS KMS e AWS Secrets Manager protegem informações sensíveis, mas resolvem problemas diferentes.
 
-- Entenda para que serve.
-- Diferencie de opções semelhantes.
-- Priorize escolhas simples e seguras.
+- **KMS:** cria e controla chaves criptográficas usadas para proteger dados.
+- **Secrets Manager:** armazena senhas e tokens e pode automatizar sua rotação.
+- Nunca grave credenciais diretamente no código-fonte.
+- **Dica de prova:** chave de criptografia aponta para KMS; senha de banco com rotação aponta para Secrets Manager.
 
 Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
