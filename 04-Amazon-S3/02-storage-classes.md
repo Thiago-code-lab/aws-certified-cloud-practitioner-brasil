@@ -1,23 +1,23 @@
-﻿# Classes De Armazenamento
+# Storage Classes
 
-As classes do S3 ajustam custo, disponibilidade e tempo de recuperação ao padrão de acesso.
+S3 classes adjust cost, availability, and recovery time to the access pattern.
 
-- **Standard:** acesso frequente.
-- **Intelligent-Tiering:** acesso desconhecido ou variável.
-- **Standard-IA/One Zone-IA:** acesso raro; One Zone usa uma única AZ.
-- **Glacier:** arquivamento com diferentes tempos de recuperação.
-- **Dica de prova:** considere frequência, necessidade de várias AZs e velocidade de restauração.
+- **Standard:** frequent access.
+- **Intelligent-Tiering:** unknown or variable access.
+- **Standard-IA/One Zone-IA:** rare access; One Zone uses a single AZ.
+- **Glacier:** archiving with different recovery times.
+- **Test tip:** consider frequency, need for multiple AZs and restoration speed.
 
-Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

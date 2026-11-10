@@ -1,5 +1,5 @@
-# Recursos visuais
+# Visual resources
 
-Esta pasta armazena imagens usadas na apresentação do repositório, como logotipo, banner e artes de divulgação.
+This folder stores images used in the presentation of the repository, such as logo, banner and promotional arts.
 
-Os arquivos não fazem parte do conteúdo cobrado no exame. Ao reutilizá-los, preserve a proporção, forneça texto alternativo nas páginas e evite duplicar imagens grandes sem necessidade.
+The files are not part of the content charged for the exam. When reusing them, preserve the aspect ratio, provide alternative text on pages, and avoid duplicating large images unnecessarily.

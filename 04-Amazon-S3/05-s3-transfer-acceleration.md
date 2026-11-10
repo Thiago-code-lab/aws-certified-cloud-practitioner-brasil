@@ -1,25 +1,25 @@
-﻿# S3 Transfer Acceleration
+#S3 Transfer Acceleration
 
-O S3 Transfer Acceleration acelera transferências de longa distância usando pontos de presença e a rede global da AWS.
+S3 Transfer Acceleration accelerates long-distance transfers using edge locations and the AWS global network.
 
-- É útil para usuários geograficamente distantes do bucket.
-- Exige endpoint específico e possui cobrança adicional.
-- O ganho depende da rota e do tamanho da transferência.
-- **Dica de prova:** upload global aponta para Transfer Acceleration; distribuição de conteúdo costuma apontar para CloudFront.
+- Useful for users who are geographically distant from the bucket.
+- Requires specific endpoint and has an additional charge.
+- Gain depends on route and transfer size.
+- **Test tip:** global upload points to Transfer Acceleration; Content distribution often points to CloudFront.
 
-Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
 
-> Ponte prática: depois de fixar o serviço, veja como ele aparece em arquiteturas de dados na AWS: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+> Practical bridge: After pinning the service, see how it appears in data architectures on AWS: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

@@ -1,37 +1,37 @@
-# Erros Frequentes
+# Frequent Errors
 
-Lista curta para revisão corretiva. A ideia é reduzir erros recorrentes, não cobrir toda a certificação.
+Short list for corrective review. The idea is to reduce recurring errors, not to cover the entire certification.
 
-## Fundamentos
-1. Confundir alta disponibilidade com alta performance.
-2. Tratar Região e AZ como sinônimos.
-3. Esquecer que responsabilidade compartilhada muda conforme o serviço, mas dados e permissões continuam críticos para o cliente.
+## Fundamentals
+1. Confusing high availability with high performance.
+2. Treat Region and AZ as synonyms.
+3. Forgetting that shared responsibility changes depending on the service, but data and permissions remain critical to the customer.
 
-## Segurança
-4. Achar que a AWS configura IAM para o cliente.
-5. Usar root como conta operacional.
-6. Trocar CloudTrail por CloudWatch em perguntas de auditoria.
+## Security
+4. You find that AWS configures IAM for the customer.
+5. Use root as the operating account.
+6. Swap CloudTrail for CloudWatch in audit questions.
 
-## S3 e armazenamento
-7. Ignorar custo e tempo de recuperação em classes de arquivamento.
-8. Tratar S3 como disco de instância.
-9. Confundir versionamento com lifecycle.
+## S3 and storage
+7. Ignore cost and recovery time in archive classes.
+8. Treat S3 as instance disk.
+9. Confusing versioning with lifecycle.
 
-## Custos
-10. Escolher menor preço por hora sem olhar custo total.
-11. Esquecer de configurar alertas com Budgets.
-12. Usar Cost Explorer para estimativa prévia quando a pista aponta para Pricing Calculator.
+## Costs
+10. Choose the lowest price per hour without looking at the total cost.
+11. Forgetting to configure alerts with Budgets.
+12. Use Cost Explorer for prior estimation when the clue points to Pricing Calculator.
 
-## Correção prática
-A cada bloco de questões, registre 3 erros recorrentes e revise apenas esses pontos por 15 minutos no mesmo dia.
+## Practical fix
+For each block of questions, record 3 recurring errors and review only these points for 15 minutes on the same day.
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

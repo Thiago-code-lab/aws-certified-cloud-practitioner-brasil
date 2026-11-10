@@ -1,25 +1,25 @@
-﻿# Aws X Ray
+# Aws X Ray
 
-O AWS X-Ray ajuda a rastrear requisições em aplicações distribuídas e a localizar gargalos e falhas.
+AWS X-Ray helps track requests in distributed applications and locate bottlenecks and failures.
 
-- Um trace mostra o caminho da chamada entre componentes.
-- Segmentos exibem tempo, erros e dependências.
-- Complementa métricas e logs do CloudWatch.
-- **Dica de prova:** descobrir onde uma requisição ficou lenta entre microsserviços aponta para X-Ray.
+- A trace shows the call path between components.
+- Segments display timing, errors, and dependencies.
+- Supplements CloudWatch metrics and logs.
+- **Test tip:** finding out where a request was slow between microservices points to X-Ray.
 
-Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
 
-> Ponte prática: depois de fixar o serviço, veja como ele aparece em arquiteturas de dados na AWS: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+> Practical bridge: After pinning the service, see how it appears in data architectures on AWS: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

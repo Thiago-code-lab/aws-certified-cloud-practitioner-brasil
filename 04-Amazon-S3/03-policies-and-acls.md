@@ -1,25 +1,25 @@
-﻿# Politicas E Acls
+# Policies and Acls
 
-O acesso ao S3 pode ser controlado com políticas IAM, bucket policies, pontos de acesso e ACLs.
+Access to S3 can be controlled with IAM policies, bucket policies, access points, and ACLs.
 
-- **Política IAM:** define o que uma identidade pode fazer.
-- **Bucket policy:** regra baseada no recurso, útil para acesso entre contas.
-- **ACL:** mecanismo legado; prefira políticas na maioria dos casos.
-- Mantenha o bloqueio de acesso público ativo quando publicidade não for necessária.
+- **IAM Policy:** defines what an identity can do.
+- **Bucket policy:** resource-based rule, useful for cross-account access.
+- **ACL:** legacy engine; prefer policies in most cases.
+- Keep public access blocking active when advertising is not required.
 
-Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
 
-> Quando este assunto aparecer em cenários de dados, vale revisar o curso Engenharia de Dados na AWS: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+> When this subject appears in data scenarios, it is worth reviewing the Data Engineering on AWS course: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

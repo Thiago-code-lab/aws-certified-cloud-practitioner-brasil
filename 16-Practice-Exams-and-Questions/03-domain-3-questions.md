@@ -1,7 +1,7 @@
-﻿# Questões Domínio 3 - Tecnologia e Serviços AWS
+# Questions Domain 3 - AWS Technology and Services
 
-## Questão 1
-Qual serviço é mais adequado para executar máquinas virtuais sob demanda?
+## Question 1
+Which service is best suited for running virtual machines on demand?
 
 A) Amazon S3
 B) Amazon EC2
@@ -9,22 +9,22 @@ C) AWS Glue
 D) Amazon CloudFront
 
 <details>
-<summary><strong>Ver resposta</strong></summary>
+<summary><strong>View answer</strong></summary>
 
-✅ **Resposta correta:** B
+✅ **Correct answer:** B
 
-**Explicação:**
-EC2 é o serviço de computação com instâncias virtuais.
+**Explanation:**
+EC2 is the computing service with virtual instances.
 
-**Por que a alternativa A está errada:**
-S3 é armazenamento de objetos.
+**Why is option A wrong:**
+S3 is object storage.
 
 </details>
 
 ---
 
-## Questão 2
-Qual serviço armazena arquivos como objetos em buckets?
+## Question 2
+Which service stores files as objects in buckets?
 
 A) Amazon RDS
 B) Amazon EBS
@@ -32,22 +32,22 @@ C) Amazon S3
 D) Amazon DynamoDB
 
 <details>
-<summary><strong>Ver resposta</strong></summary>
+<summary><strong>View answer</strong></summary>
 
-✅ **Resposta correta:** C
+✅ **Correct answer:** C
 
-**Explicação:**
-S3 organiza dados em buckets e objetos.
+**Explanation:**
+S3 organizes data into buckets and objects.
 
-**Por que a alternativa B está errada:**
-EBS é volume em bloco para EC2.
+**Why option B is wrong:**
+EBS is block volume for EC2.
 
 </details>
 
 ---
 
-## Questão 3
-Qual serviço é mais indicado para banco relacional gerenciado?
+## Question 3
+Which service is best suited for managed relational banking?
 
 A) Amazon RDS
 B) Amazon ElastiCache
@@ -55,22 +55,22 @@ C) Amazon S3
 D) Amazon SNS
 
 <details>
-<summary><strong>Ver resposta</strong></summary>
+<summary><strong>View answer</strong></summary>
 
-✅ **Resposta correta:** A
+✅ **Correct answer:** A
 
-**Explicação:**
-RDS oferece bancos relacionais gerenciados.
+**Explanation:**
+RDS offers managed relational banks.
 
-**Por que a alternativa B está errada:**
-ElastiCache é cache em memória.
+**Why option B is wrong:**
+ElastiCache is in-memory cache.
 
 </details>
 
 ---
 
-## Questão 4
-Uma aplicação precisa executar código sem gerenciar servidor. Qual serviço usar?
+## Question 4
+An application needs to execute code without managing a server. Which service to use?
 
 A) AWS Lambda
 B) Amazon EC2 Dedicated Host
@@ -78,22 +78,22 @@ C) AWS Direct Connect
 D) Amazon Redshift
 
 <details>
-<summary><strong>Ver resposta</strong></summary>
+<summary><strong>View answer</strong></summary>
 
-✅ **Resposta correta:** A
+✅ **Correct answer:** A
 
-**Explicação:**
-Lambda executa funções sob demanda no modelo serverless.
+**Explanation:**
+Lambda runs functions on demand in the serverless model.
 
-**Por que a alternativa B está errada:**
-Dedicated Host exige gestão de instância/hardware dedicado.
+**Why option B is wrong:**
+Dedicated Host requires dedicated hardware/instance management.
 
 </details>
 
 ---
 
-## Questão 5
-Qual serviço de DNS gerenciado da AWS?
+## Question 5
+Which AWS Managed DNS Service?
 
 A) AWS WAF
 B) Amazon Route 53
@@ -101,22 +101,22 @@ C) Amazon Inspector
 D) AWS Organizations
 
 <details>
-<summary><strong>Ver resposta</strong></summary>
+<summary><strong>View answer</strong></summary>
 
-✅ **Resposta correta:** B
+✅ **Correct answer:** B
 
-**Explicação:**
-Route 53 resolve nomes de domínio e roteamento DNS.
+**Explanation:**
+Route 53 resolves domain names and DNS routing.
 
-**Por que a alternativa A está errada:**
-WAF protege aplicações web, não atua como DNS.
+**Why is option A wrong:**
+WAF protects web applications, does not act as DNS.
 
 </details>
 
 ---
 
-## Questão 6
-Para monitorar métricas e criar alarmes, qual serviço usar?
+## Question 6
+To monitor metrics and create alarms, which service to use?
 
 A) AWS CloudWatch
 B) AWS Artifact
@@ -124,29 +124,29 @@ C) Amazon Kinesis Data Firehose
 D) AWS Marketplace
 
 <details>
-<summary><strong>Ver resposta</strong></summary>
+<summary><strong>View answer</strong></summary>
 
-✅ **Resposta correta:** A
+✅ **Correct answer:** A
 
-**Explicação:**
-CloudWatch coleta métricas, logs e alarmes.
+**Explanation:**
+CloudWatch collects metrics, logs, and alarms.
 
-**Por que a alternativa D está errada:**
-Marketplace é catálogo de soluções de terceiros.
+**Why option D is wrong:**
+Marketplace is a catalog of third-party solutions.
 
 </details>
 
 
 
-> Próximo passo sugerido: aplicar estes conceitos em cenários de engenharia de dados na AWS: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+> Suggested next step: apply these concepts in data engineering scenarios on AWS: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

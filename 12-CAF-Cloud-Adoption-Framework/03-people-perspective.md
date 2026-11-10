@@ -1,22 +1,22 @@
-﻿# Perspectiva People
+# People Perspective
 
-A perspectiva People prepara cultura, liderança, estrutura organizacional e competências para trabalhar em nuvem.
+The People perspective prepares culture, leadership, organizational structure and skills to work in the cloud.
 
-- Identifica lacunas de habilidades e cria planos de capacitação.
-- Apoia novos papéis, formas de trabalho e gestão da mudança.
-- Reduz resistência ao envolver as pessoas no processo.
-- **Dica de prova:** treinamento, cultura e mudança organizacional apontam para People.
+- Identifies skills gaps and creates training plans.
+- Supports new roles, ways of working and change management.
+- Reduces resistance by involving people in the process.
+- **Test tip:** training, culture and organizational change point to People.
 
-Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

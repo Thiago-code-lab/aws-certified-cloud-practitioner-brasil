@@ -1,47 +1,47 @@
-# Migração e Inovação
+# Migration and Innovation
 
-Módulo para reconhecer motivos de migração, estratégias de adoção e serviços de apoio em alto nível.
+Module to recognize migration reasons, adoption strategies and high-level support services.
 
-## Foco do módulo
-- Benefícios de migrar para a nuvem.
-- Estratégias de migração em linguagem simples.
-- Inovação com serviços gerenciados.
+## Module focus
+- Benefits of migrating to the cloud.
+- Migration strategies in plain language.
+- Innovation with managed services.
 
-## Revisão rápida
-- Migração não é só mover servidores; envolve custo, operação, segurança e agilidade.
-- Lift-and-shift costuma aparecer como migração com menor mudança inicial.
-- Serviços gerenciados reduzem carga operacional e liberam foco para produto.
+## Quick Review
+- Migration is not just about moving servers; involves cost, operation, security and agility.
+- Lift-and-shift usually appears as migration with smaller initial change.
+- Managed services reduce operational burden and free up focus for the product.
 
-## Sinais clássicos de prova
-- "Avaliar ambiente antes da migração" -> AWS Migration Hub ou assessment.
-- "Mover com pouca alteração" -> rehost/lift-and-shift.
-- "Modernizar aplicação" -> refactor/re-architect em alto nível.
+## Classic proof signals
+- "Evaluate environment before migration" -> AWS Migration Hub or assessment.
+- "Move with little change" -> rehost/lift-and-shift.
+- "Modernize application" -> refactor/re-architect at a high level.
 
-## Erro comum
-Assumir que toda migração exige redesenho completo. No CLF-C02, a resposta costuma priorizar simplicidade e fase de adoção.
+## Common error
+Assume that every migration requires complete redesign. In CLF-C02, the answer tends to prioritize simplicity and the adoption phase.
 
-## O que memorizar
-| Comparação | Regra mental de prova |
+## What to memorize
+| Comparison | Mental rule of proof |
 |---|---|
-| Rehost vs Refactor | Rehost muda pouco; refactor moderniza mais |
-| Migração vs Inovação | Migração move capacidades; inovação cria novas formas de operar |
+| Rehost vs Refactor | Rehost changes little; refactor modernizes more |
+| Migration vs Innovation | Migration moves capabilities; innovation creates new ways of operating |
 
-## Ponte para o próximo módulo
-Depois de migração, revise CAF: ele organiza pessoas, processos e governança para adoção de nuvem.
+## Bridge to next module
+After migration, review CAF: It organizes people, processes, and governance for cloud adoption.
 
-## Continuidade
-Trilha de arquitetura: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+## Continuity
+Architecture Track: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
-> Complemento de carreira: quem quer sair da base de cloud para projetos reais de dados pode seguir por aqui: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+> Career complement: anyone who wants to move from the cloud base to real data projects can follow here: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

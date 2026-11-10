@@ -1,25 +1,25 @@
-﻿# Aws Compute Optimizer
+# Aws Compute Optimizer
 
-O AWS Compute Optimizer analisa uso e recomenda configurações de recursos para equilibrar desempenho e custo.
+AWS Compute Optimizer analyzes usage and recommends resource configurations to balance performance and cost.
 
-- Identifica recursos superdimensionados ou subdimensionados.
-- Usa métricas históricas para sugerir opções adequadas.
-- A recomendação deve ser validada antes da alteração em produção.
-- **Dica de prova:** rightsizing baseado em utilização aponta para Compute Optimizer; análise ampla de gastos aponta para Cost Explorer.
+- Identifies oversized or undersized resources.
+- Uses historical metrics to suggest suitable options.
+- The recommendation must be validated before changing it in production.
+- **Test tip:** usage-based rightsizing points to Compute Optimizer; Broad spending analysis points to Cost Explorer.
 
-Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
 
-> Complemento de carreira: quem quer sair da base de cloud para projetos reais de dados pode seguir por aqui: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+> Career complement: anyone who wants to move from the cloud base to real data projects can follow here: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

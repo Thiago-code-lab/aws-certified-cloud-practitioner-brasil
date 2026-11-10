@@ -1,36 +1,36 @@
-# Revisão por Domínio - Custos e Precificação
+# Review by Domain - Costs and Pricing
 
-Use este bloco quando os erros envolverem cobrança, alertas, modelos de preço ou suporte.
+Use this block when errors involve billing, alerts, pricing models, or support.
 
-## Revisão rápida
-- On-Demand prioriza flexibilidade sem compromisso.
-- Spot reduz custo em cargas tolerantes a interrupção.
-- Reserved Instances e Savings Plans favorecem uso previsível.
-- Budgets alerta limites; Cost Explorer analisa gasto histórico e tendência.
+## Quick Review
+- On-Demand prioritizes flexibility without compromise.
+- Spot reduces cost in interruption-tolerant loads.
+- Reserved Instances and Savings Plans favor predictable usage.
+- Budgets alerts limits; Cost Explorer analyzes historical and trending spending.
 
-## Sinais clássicos de prova
-- Se aparecer "alerta quando passar do limite", pense em AWS Budgets.
-- Se aparecer "analisar custo passado e prever", pense em Cost Explorer.
-- Se aparecer "estimar antes de criar recursos", pense em Pricing Calculator.
-- Se aparecer "workload tolera interrupção", pense em Spot.
+## Classic proof signals
+- If "alert when exceeding limit" appears, think of AWS Budgets.
+- If it says "analyze past cost and forecast", think Cost Explorer.
+- If it says "estimate before creating resources", think Pricing Calculator.
+- If it says "workload tolerates interruption", think Spot.
 
-## O que memorizar
-| Comparação | Regra mental |
+## What to memorize
+| Comparison | Mental rule |
 |---|---|
-| On-Demand vs Spot | Flexibilidade vs desconto com interrupção |
-| Budgets vs Cost Explorer | Alerta de limite vs análise de custo |
-| Pricing Calculator vs Cost Explorer | Estimar antes vs analisar depois |
+| On-Demand vs Spot | Flexibility vs interruption discount |
+| Budgets vs Cost Explorer | Limit Alert vs Cost Analysis |
+| Pricing Calculator vs Cost Explorer | Estimate before vs analyze after |
 
-## Próxima revisão
-Depois deste bloco, volte aos [flashcards](../flashcards/README.md) para reforçar apenas os temas errados.
+## Next review
+After this block, go back to [flashcards](../flashcards/README.md) to reinforce only the wrong themes.
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

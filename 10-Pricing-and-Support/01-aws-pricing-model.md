@@ -1,22 +1,22 @@
-﻿# Modelo De Preco Aws
+# Aws Pricing Model
 
-A AWS usa principalmente cobrança conforme o consumo, sem exigir investimento inicial em infraestrutura.
+AWS primarily uses pay-as-you-go billing, requiring no upfront infrastructure investment.
 
-- O preço pode considerar tempo, requisições, capacidade, armazenamento e transferência de dados.
-- Compromissos de uso oferecem descontos para cargas previsíveis.
-- Escala e serviços gerenciados reduzem custos operacionais, mas não eliminam a necessidade de governança.
-- **Dica de prova:** compare custo total, incluindo operação, licenças e transferência, não apenas o preço do servidor.
+- The price may consider time, requests, capacity, storage and data transfer.
+- Usage commitments provide discounts for predictable loads.
+- Scale and managed services reduce operational costs, but do not eliminate the need for governance.
+- **Test tip:** compare total cost, including operation, licenses and transfer, not just the server price.
 
-Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

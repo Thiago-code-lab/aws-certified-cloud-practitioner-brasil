@@ -1,22 +1,22 @@
-﻿# Perspectiva Operations
+# Operations Perspective
 
-A perspectiva Operations prepara a organização para executar, observar e melhorar serviços de nuvem no dia a dia.
+The Operations perspective prepares the organization to run, observe, and improve cloud services on a daily basis.
 
-- Inclui monitoramento, gestão de incidentes, mudanças, configuração e continuidade.
-- Define procedimentos, indicadores e responsabilidades operacionais.
-- Automação reduz tarefas manuais e erros repetitivos.
-- **Dica de prova:** operação contínua, suporte e confiabilidade apontam para Operations.
+- Includes monitoring, incident management, changes, configuration and continuity.
+- Defines operational procedures, indicators and responsibilities.
+- Automation reduces manual tasks and repetitive errors.
+- **Test tip:** continuous operation, support and reliability point to Operations.
 
-Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

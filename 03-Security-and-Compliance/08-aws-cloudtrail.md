@@ -1,25 +1,25 @@
-﻿# Aws Cloudtrail
+# AWS Cloudtrail
 
-O AWS CloudTrail registra atividades realizadas por usuários, funções e serviços por meio do console, CLI, SDKs e APIs.
+AWS CloudTrail records activities performed by users, roles, and services through the console, CLI, SDKs, and APIs.
 
-- Ajuda em auditoria, investigação de incidentes e conformidade.
-- Um evento pode mostrar identidade, ação, horário, origem e recurso afetado.
-- Trilhas entregam registros continuamente para armazenamento e análise.
-- **Dica de prova:** para descobrir quem excluiu um recurso, procure no CloudTrail.
+- Helps with auditing, incident investigation, and compliance.
+- An event can show identity, action, time, origin and affected resource.
+- Trails continuously deliver records for storage and analysis.
+- **Test tip:** to find out who deleted a resource, search CloudTrail.
 
-Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
 
-> Recurso complementar: se quiser conectar este fundamento com pipelines e analytics na AWS, veja o curso Engenharia de Dados na AWS: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+> Complementary resource: if you want to connect this foundation with pipelines and analytics in AWS, see the Data Engineering in AWS course: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

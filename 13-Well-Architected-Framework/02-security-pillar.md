@@ -1,22 +1,22 @@
-﻿# Pilar Seguranca
+# Security Pillar
 
-O pilar Segurança protege dados, sistemas e ativos enquanto permite que o negócio entregue valor.
+The Security pillar protects data, systems and assets while enabling the business to deliver value.
 
-- Use identidade forte, menor privilégio e rastreabilidade.
-- Proteja dados em trânsito e em repouso.
-- Automatize controles e prepare resposta a incidentes.
-- **Dica de prova:** segurança deve existir em todas as camadas, seguindo a responsabilidade compartilhada.
+- Use strong identity, least privilege, and traceability.
+- Protect data in transit and at rest.
+- Automate controls and prepare incident response.
+- **Test tip:** security must exist at all layers, following shared responsibility.
 
-Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

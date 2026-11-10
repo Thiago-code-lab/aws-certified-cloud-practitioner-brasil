@@ -1,34 +1,34 @@
-﻿# Study Flow
+# Study Flow
 
-Este fluxo organiza uma preparação curta e consistente para o AWS Certified Cloud Practitioner.
+This flow organizes a short and consistent preparation for AWS Certified Cloud Practitioner.
 
-## Ciclo recomendado
+## Recommended cycle
 
-1. Leia o README de um módulo para formar a visão geral.
-2. Estude os arquivos do módulo e anote comparações entre serviços.
-3. Use a cheatsheet e os flashcards sem consultar as respostas.
-4. Faça as questões do domínio e classifique cada erro.
-5. Revise somente os pontos fracos antes de avançar.
+1. Read the README of a module to form the overview.
+2. Study the module files and note comparisons between services.
+3. Use the cheatsheet and flashcards without looking at the answers.
+4. Do the domain questions and classify each error.
+5. Review only weak points before moving forward.
 
-## Ritmo simples
+## Simple rhythm
 
-- **Dias úteis:** 30 a 45 minutos de teoria e recuperação ativa.
-- **Fim de semana:** um laboratório curto e um bloco de questões.
-- **Última semana:** simulados cronometrados, revisão de erros e descanso adequado.
+- **Workdays:** 30 to 45 minutes of theory and active recovery.
+- **Weekend:** a short lab and question block.
+- **Last week:** timed simulations, error review and adequate rest.
 
-Evite apenas reler. Tentar explicar a resposta e justificar por que as alternativas estão erradas produz retenção melhor.
+Just avoid rereading. Trying to explain the answer and justify why the alternatives are wrong produces better retention.
 
-Arquitetura: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
-IA na AWS: https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil
+Architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+AI on AWS: https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil
 
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

@@ -1,22 +1,22 @@
-﻿# Direct Connect E Vpn
+# Direct Connect E Vpn
 
-AWS Site-to-Site VPN e AWS Direct Connect ligam uma rede local à AWS.
+AWS Site-to-Site VPN and AWS Direct Connect connect an on-premises network to AWS.
 
-- **VPN:** túnel criptografado pela internet, rápido de implantar.
-- **Direct Connect:** conexão privada dedicada, com desempenho mais previsível e implantação mais demorada.
-- Os dois podem ser combinados para resiliência.
-- **Dica de prova:** prazo curto aponta para VPN; tráfego constante e previsível aponta para Direct Connect.
+- **VPN:** encrypted tunnel over the internet, quick to deploy.
+- **Direct Connect:** dedicated private connection, with more predictable performance and slower deployment.
+- The two can be combined for resiliency.
+- **Test tip:** short term points to VPN; Constant, predictable traffic points to Direct Connect.
 
-Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

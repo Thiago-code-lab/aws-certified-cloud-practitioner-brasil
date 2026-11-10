@@ -1,4 +1,4 @@
-# Gabarito D3
+# D3 Template
 1-A
 2-B
 3-C
@@ -11,21 +11,21 @@
 10-C
 ---
 
-Creditos autorais:
+Copyright credits:
 - Thiago Cardoso - https://www.linkedin.com/in/analyticsthiagocardoso
 - Pedro Albertini - https://www.linkedin.com/in/pedroalbertini/
 - Lucas Garcia - https://www.linkedin.com/in/lucas-del-puerto/
 
 
-> Quando este assunto aparecer em cenários de dados, vale revisar o curso Engenharia de Dados na AWS: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+> When this subject appears in data scenarios, it is worth reviewing the Data Engineering on AWS course: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

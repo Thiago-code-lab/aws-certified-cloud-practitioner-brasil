@@ -1,22 +1,22 @@
-﻿# Perspectiva Security
+# Security Perspective
 
-A perspectiva Security ajuda a atingir confidencialidade, integridade e disponibilidade dos dados e cargas.
+The Security perspective helps achieve confidentiality, integrity and availability of data and payloads.
 
-- Abrange identidade, detecção, proteção da infraestrutura, dados e resposta a incidentes.
-- Integra segurança ao ciclo de entrega e à governança.
-- Usa controles proporcionais ao risco e à responsabilidade compartilhada.
-- **Dica de prova:** controles, ameaças e resposta a incidentes apontam para Security.
+- Covers identity, detection, infrastructure protection, data and incident response.
+- Integrates security into the delivery cycle and governance.
+- Uses controls proportionate to risk and shared responsibility.
+- **Test tip:** controls, threats and incident response point to Security.
 
-Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

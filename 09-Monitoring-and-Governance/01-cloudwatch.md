@@ -1,25 +1,25 @@
-﻿# Cloudwatch
+# Cloudwatch
 
-O Amazon CloudWatch coleta métricas, logs e eventos operacionais para observar recursos e aplicações.
+Amazon CloudWatch collects operational metrics, logs, and events to observe resources and applications.
 
-- Dashboards reúnem indicadores importantes.
-- Alarms notificam ou acionam automações quando uma métrica cruza um limite.
-- Logs centralizam registros de aplicações e serviços.
-- **Dica de prova:** CPU alta e alertas apontam para CloudWatch; histórico de chamadas de API aponta para CloudTrail.
+- Dashboards bring together important indicators.
+- Alarms notify or trigger automations when a metric crosses a threshold.
+- Logs centralize application and service records.
+- **Test tip:** High CPU and alerts point to CloudWatch; API call history points to CloudTrail.
 
-Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
 
-> Recurso complementar: se quiser conectar este fundamento com pipelines e analytics na AWS, veja o curso Engenharia de Dados na AWS: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+> Complementary resource: if you want to connect this foundation with pipelines and analytics in AWS, see the Data Engineering in AWS course: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

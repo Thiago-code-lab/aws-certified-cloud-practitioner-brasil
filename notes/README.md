@@ -1,31 +1,31 @@
-# Notas de Revisão
+# Revision Notes
 
-Material de apoio curto para retenção, organizado por domínio do CLF-C02. As notas funcionam como ponte entre os módulos, o quick-review e os flashcards.
+Short retention aids, organized by CLF-C02 domain. Notes act as a bridge between modules, quick-review and flashcards.
 
-## Blocos disponíveis
-| Domínio | Nota | Melhor uso |
+## Available blocks
+| Domain | Note | Best use |
 |---|---|---|
-| Fundamentos | [Fundamentos AWS](./fundamentos-aws.md) | Reforçar Região, AZ, elasticidade e responsabilidade compartilhada |
-| Segurança | [Segurança Essencial](./seguranca-essencial.md) | Reforçar IAM, MFA, roles e auditoria |
-| Armazenamento | [S3 Essencial](./s3-essencial.md) | Reforçar objetos, versionamento, lifecycle e Glacier |
-| Custos | [Custos e Suporte](./custos-e-suporte.md) | Reforçar Budgets, Cost Explorer, Spot e suporte |
+| Fundamentals | [AWS](./aws-fundamentals.md) Fundamentals | Strengthen Region, AZ, elasticity and shared responsibility |
+| Security | [Essential Security](./security-essentials.md) | Strengthen IAM, MFA, roles and audit |
+| Storage | [S3 Essential](./s3-essentials.md) | Harden objects, versioning, lifecycle and Glacier |
+| Costs | [Costs and Support](./costs-and-support.md) | Strengthen Budgets, Cost Explorer, Spot and Support |
 
-## Como usar
-1. Leia 1 bloco por vez.
-2. Valide com a pergunta final.
-3. Se errar, abra o deck de flashcards correspondente.
-4. Antes de simulado, use o [quick-review](../quick-review/README.md) como checklist.
+## How to use
+1. Read 1 block at a time.
+2. Validate with the final question.
+3. If you make a mistake, open the corresponding flashcard deck.
+4. Before simulating, use [quick-review](../quick-review/README.md) as a checklist.
 
-Arquitetura: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
-IA na AWS: https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil
+Architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+AI on AWS: https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

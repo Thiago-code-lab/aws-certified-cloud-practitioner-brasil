@@ -1,7 +1,7 @@
-﻿# Questões Domínio 5 - Revisão Integrada
+# Domain Questions 5 - Integrated Review
 
-## Questão 1
-Qual serviço é global e comumente citado em fundamentos de identidade?
+## Question 1
+Which service is global and commonly cited in identity foundations?
 
 A) IAM
 B) EC2
@@ -9,22 +9,22 @@ C) EBS
 D) RDS
 
 <details>
-<summary><strong>Ver resposta</strong></summary>
+<summary><strong>View answer</strong></summary>
 
-✅ **Resposta correta:** A
+✅ **Correct answer:** A
 
-**Explicação:**
-IAM é serviço global para identidades e permissões.
+**Explanation:**
+IAM is a global service for identities and permissions.
 
-**Por que a alternativa B está errada:**
-EC2 é regional e ligado a computação.
+**Why option B is wrong:**
+EC2 is regional and computing-related.
 
 </details>
 
 ---
 
-## Questão 2
-Em um cenário de armazenamento de arquivo estático para site simples, qual serviço é mais direto?
+## Question 2
+In a simple site static file storage scenario, which service is most straightforward?
 
 A) Amazon S3
 B) Amazon DynamoDB
@@ -32,68 +32,68 @@ C) AWS Organizations
 D) AWS KMS
 
 <details>
-<summary><strong>Ver resposta</strong></summary>
+<summary><strong>View answer</strong></summary>
 
-✅ **Resposta correta:** A
+✅ **Correct answer:** A
 
-**Explicação:**
-S3 é escolha comum para conteúdo estático.
+**Explanation:**
+S3 is common choice for static content.
 
-**Por que a alternativa B está errada:**
-DynamoDB é banco NoSQL, não armazenamento de site estático.
+**Why option B is wrong:**
+DynamoDB is NoSQL database, not static site storage.
 
 </details>
 
 ---
 
-## Questão 3
-Qual opção ajuda a reduzir risco de conta comprometida?
+## Question 3
+Which option helps reduce the risk of a compromised account?
 
-A) Desativar MFA
-B) Usar root no dia a dia
-C) Ativar MFA e usar IAM por função
-D) Publicar chaves em repositório
+A) Disable MFA
+B) Use root in everyday life
+C) Enable MFA and use IAM by role
+D) Publish keys to repository
 
 <details>
-<summary><strong>Ver resposta</strong></summary>
+<summary><strong>View answer</strong></summary>
 
-✅ **Resposta correta:** C
+✅ **Correct answer:** C
 
-**Explicação:**
-MFA + IAM com função adequada é base de segurança.
+**Explanation:**
+MFA + IAM with proper function is security basis.
 
-**Por que a alternativa B está errada:**
-Uso diário de root aumenta risco operacional.
+**Why option B is wrong:**
+Daily use of root increases operational risk.
 
 </details>
 
 ---
 
-## Questão 4
-Qual benefício de distribuir uma aplicação em múltiplas AZs?
+## Question 4
+What is the benefit of distributing an application across multiple AZs?
 
-A) Eliminar custo de rede
-B) Aumentar disponibilidade
-C) Remover necessidade de monitoramento
-D) Substituir IAM
+A) Eliminate network cost
+B) Increase availability
+C) Remove need for monitoring
+D) Replace IAM
 
 <details>
-<summary><strong>Ver resposta</strong></summary>
+<summary><strong>View answer</strong></summary>
 
-✅ **Resposta correta:** B
+✅ **Correct answer:** B
 
-**Explicação:**
-Múltiplas AZs ajudam continuidade em falha localizada.
+**Explanation:**
+Multiple AZs help continuity in localized failure.
 
-**Por que a alternativa A está errada:**
-Não elimina custos de rede automaticamente.
+**Why is option A wrong:**
+Does not eliminate network costs automatically.
 
 </details>
 
 ---
 
-## Questão 5
-Qual combinação oferece melhor controle inicial de gastos?
+## Question 5
+Which combination offers better initial spending control?
 
 A) Cost Explorer + AWS Budgets
 B) CloudTrail + Route 53
@@ -101,22 +101,22 @@ C) IAM + KMS
 D) WAF + Shield
 
 <details>
-<summary><strong>Ver resposta</strong></summary>
+<summary><strong>View answer</strong></summary>
 
-✅ **Resposta correta:** A
+✅ **Correct answer:** A
 
-**Explicação:**
-Cost Explorer analisa gasto e Budgets alerta limites.
+**Explanation:**
+Cost Explorer analyzes expenses and Budgets alerts you to limits.
 
-**Por que a alternativa D está errada:**
-WAF/Shield tratam segurança de aplicação, não custo.
+**Why option D is wrong:**
+WAF/Shield is about application security, not cost.
 
 </details>
 
 ---
 
-## Questão 6
-Uma pergunta de prova pede solução mais simples para executar evento e rodar código curto sem servidor. Qual serviço tende a ser a melhor resposta?
+## Question 6
+A test question asks for a simpler solution to execute events and run short code without a server. Which service tends to be the best answer?
 
 A) AWS Lambda
 B) AWS Snow Family
@@ -124,29 +124,29 @@ C) Amazon Redshift
 D) AWS Storage Gateway
 
 <details>
-<summary><strong>Ver resposta</strong></summary>
+<summary><strong>View answer</strong></summary>
 
-✅ **Resposta correta:** A
+✅ **Correct answer:** A
 
-**Explicação:**
-Lambda atende execução curta orientada a evento.
+**Explanation:**
+Lambda serves event-driven short execution.
 
-**Por que a alternativa C está errada:**
-Redshift é analytics/data warehouse.
+**Why option C is wrong:**
+Redshift is analytics/data warehouse.
 
 </details>
 
 
 
-> Aprofundamento opcional: para levar este conceito para projetos de dados na AWS, use como próximo passo: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+> Optional Deep Dive: To bring this concept to data projects on AWS, use as a next step: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

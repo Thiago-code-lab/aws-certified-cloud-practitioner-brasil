@@ -1,25 +1,25 @@
-﻿# Fsx
+# Fsx
 
-A família Amazon FSx fornece sistemas de arquivos gerenciados para tecnologias e cargas específicas.
+The Amazon FSx family provides managed file systems for specific technologies and payloads.
 
-- **FSx for Windows File Server:** compartilhamentos Windows e SMB.
-- **FSx for Lustre:** alto desempenho e integração com S3.
-- Há opções para NetApp ONTAP e OpenZFS.
-- **Dica de prova:** escolha FSx quando o enunciado exigir sistema de arquivos ou protocolo específico.
+- **FSx for Windows File Server:** Windows and SMB shares.
+- **FSx for Lustre:** high performance and integration with S3.
+- There are options for NetApp ONTAP and OpenZFS.
+- **Test tip:** choose FSx when the statement requires a specific file system or protocol.
 
-Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
 
-> Para aprofundar com projetos de dados na AWS, este material pode complementar a revisão: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+> To delve deeper into data projects in AWS, this material can complement the review: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

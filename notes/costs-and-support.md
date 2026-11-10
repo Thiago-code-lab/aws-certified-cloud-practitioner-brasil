@@ -1,40 +1,40 @@
-# Custos e Suporte - Revisão de Prova
+# Costs and Support - Proof Review
 
-## Revisão rápida
-- On-Demand prioriza flexibilidade; Spot prioriza desconto com risco de interrupção.
-- Budgets cria alertas de orçamento.
-- Cost Explorer analisa histórico, tendência e previsão.
+## Quick Review
+- On-Demand prioritizes flexibility; Spot prioritizes discounts with the risk of interruption.
+- Budgets creates budget alerts.
+- Cost Explorer analyzes history, trend and forecast.
 
-## Sinal clássico de prova
-Se o cenário pedir previsão ou tendência de gastos reais, o serviço associado é Cost Explorer.
+## Classic proof signal
+If the scenario calls for actual spending forecast or trend, the associated service is Cost Explorer.
 
-## Erro comum
-Tomar decisão apenas por preço por hora e ignorar custo total.
+## Common error
+Make decision only by hourly price and ignore total cost.
 
-## O que memorizar
-| Comparação | Regra mental |
+## What to memorize
+| Comparison | Mental rule |
 |---|---|
-| On-Demand vs Spot | Sem compromisso vs desconto com interrupção |
-| Budgets vs Cost Explorer | Alerta de limite vs análise de gasto |
+| On-Demand vs Spot | No commitment vs interruption discount |
+| Budgets vs Cost Explorer | Limit alert vs spending analysis |
 
-## Pergunta de validação
-Antes de criar recursos, uma equipe quer estimar o custo mensal de uma arquitetura planejada. Qual ferramenta é mais adequada?
+## Validation question
+Before creating features, a team wants to estimate the monthly cost of a planned architecture. Which tool is most suitable?
 
 <details>
-<summary><strong>Ver resposta</strong></summary>
+<summary><strong>View answer</strong></summary>
 
-**Resposta:**
+**Answer:**
 AWS Pricing Calculator.
 
 </details>
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

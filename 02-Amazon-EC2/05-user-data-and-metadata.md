@@ -1,22 +1,22 @@
-﻿# User Data E Metadata
+# User Data And Metadata
 
-User data e instance metadata ajudam a automatizar e identificar instâncias EC2, mas têm finalidades diferentes.
+User data and instance metadata help automate and identify EC2 instances, but they serve different purposes.
 
-- **User data:** script fornecido no lançamento, usado para instalar e iniciar a aplicação.
-- **Metadata:** dados consultados pela instância, como ID, rede e credenciais temporárias da função IAM.
-- Prefira funções IAM a chaves permanentes armazenadas no user data.
-- **Dica de prova:** inicialização automática aponta para user data; dados da própria instância apontam para metadata.
+- **User data:** script provided at launch, used to install and start the application.
+- **Metadata:** data queried by the instance, such as IAM role ID, network, and temporary credentials.
+- Prefer IAM roles to permanent keys stored in user data.
+- **Test tip:** automatic initialization points to user data; data from the instance itself points to metadata.
 
-Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

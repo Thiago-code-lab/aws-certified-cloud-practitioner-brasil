@@ -1,25 +1,25 @@
-﻿# Elasticache
+# Elasticache
 
-O Amazon ElastiCache oferece cache em memória gerenciado para reduzir latência e carga sobre bancos e aplicações.
+Amazon ElastiCache offers managed in-memory caching to reduce latency and load on banks and applications.
 
-- É usado em sessões, rankings e resultados consultados repetidamente.
-- Respostas ficam mais rápidas porque os dados mais usados permanecem em memória.
-- O cache exige estratégia de expiração e tolerância a dados temporariamente desatualizados.
-- **Dica de prova:** acelerar leituras sem trocar o banco principal aponta para ElastiCache.
+- It is used in sessions, rankings and results consulted repeatedly.
+- Responses are faster because the most used data remains in memory.
+- Cache requires expiration strategy and tolerance for temporarily out-of-date data.
+- **Test tip:** speeding up readings without changing the main bank points to ElastiCache.
 
-Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
 
-> Quando este assunto aparecer em cenários de dados, vale revisar o curso Engenharia de Dados na AWS: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+> When this subject appears in data scenarios, it is worth reviewing the Data Engineering on AWS course: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

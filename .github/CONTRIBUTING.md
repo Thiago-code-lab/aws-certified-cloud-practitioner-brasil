@@ -1,6 +1,6 @@
-﻿# 🤝 Como Contribuir
+# 🤝 How to Contribute
 
-1. Faça fork do repositório.
-2. Crie uma branch de feature.
-3. Mantenha conteúdo em PT-BR e foco CLF-C02.
-4. Abra PR com descrição clara.
+1. Fork the repository.
+2. Create a feature branch.
+3. Keep content in PT-BR and CLF-C02 focus.
+4. Open PR with clear description.

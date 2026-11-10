@@ -1,22 +1,22 @@
-﻿# Conceitos Basicos
+# Basic Concepts
 
-O Amazon S3 é armazenamento de objetos. Guarda dados em buckets e oferece alta durabilidade para arquivos, backups, logs e conteúdo estático.
+Amazon S3 is object storage. Stores data in buckets and offers high durability for files, backups, logs and static content.
 
-- Cada objeto possui dados, chave e metadados.
-- Buckets pertencem a uma Região e seus nomes são globalmente únicos.
-- O acesso é privado por padrão e deve ser liberado explicitamente.
-- **Dica de prova:** S3 não é disco de bloco nem sistema de arquivos compartilhado tradicional.
+- Each object has data, key and metadata.
+- Buckets belong to a Region and their names are globally unique.
+- Access is private by default and must be explicitly granted.
+- **Test tip:** S3 is neither a block disk nor a traditional shared file system.
 
-Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

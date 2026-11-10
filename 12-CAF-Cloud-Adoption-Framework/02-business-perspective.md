@@ -1,25 +1,25 @@
-﻿# Perspectiva Business
+# Business Perspective
 
-A perspectiva Business conecta a adoção da nuvem aos objetivos e resultados da organização.
+The Business perspective connects cloud adoption to the organization's goals and results.
 
-- Define o caso de negócio, benefícios esperados e indicadores de valor.
-- Alinha tecnologia, finanças e lideranças sobre prioridades.
-- Ajuda a tratar a nuvem como transformação do negócio, não apenas projeto técnico.
-- **Dica de prova:** valor, estratégia, portfólio e resultados comerciais apontam para Business.
+- Defines the business case, expected benefits and value indicators.
+- Aligns technology, finance and leadership on priorities.
+- Helps treat the cloud as a business transformation, not just a technical project.
+- **Test tip:** value, strategy, portfolio and commercial results point to Business.
 
-Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
 
-> Ponte prática: depois de fixar o serviço, veja como ele aparece em arquiteturas de dados na AWS: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+> Practical bridge: After pinning the service, see how it appears in data architectures on AWS: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

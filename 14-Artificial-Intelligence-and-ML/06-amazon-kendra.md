@@ -1,22 +1,22 @@
-﻿# Amazon Kendra
+#Amazon Kendra
 
-O Amazon Kendra é um serviço de busca inteligente para conteúdo corporativo.
+Amazon Kendra is an intelligent search service for enterprise content.
 
-- Indexa documentos de diferentes fontes e usa linguagem natural nas consultas.
-- Ajuda usuários a encontrar respostas em bases internas.
-- Conectores simplificam a integração com repositórios compatíveis.
-- **Dica de prova:** pesquisa empresarial sobre documentos aponta para Kendra; chatbot conversacional aponta para Lex.
+- Indexes documents from different sources and uses natural language in queries.
+- Helps users find answers on an internal basis.
+- Connectors simplify integration with supported repositories.
+- **Test tip:** business research on documents points to Kendra; conversational chatbot points to Lex.
 
-Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

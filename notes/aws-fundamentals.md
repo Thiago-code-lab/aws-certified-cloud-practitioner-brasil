@@ -1,40 +1,40 @@
-# Fundamentos AWS - Revisão de Prova
+# AWS Fundamentals - Proof Review
 
-## Revisão rápida
-- Benefícios da nuvem: elasticidade, agilidade, pagamento conforme uso e escala.
-- Infra global: Região define geografia; AZ define isolamento dentro da Região.
-- Responsabilidade compartilhada: AWS protege a infraestrutura; cliente protege dados, acessos e configurações.
+## Quick Review
+- Cloud benefits: elasticity, agility, pay-as-you-go and scale.
+- Global infra: Region defines geography; AZ defines isolation within the Region.
+- Shared responsibility: AWS protects infrastructure; client protects data, access and configurations.
 
-## Sinal clássico de prova
-Se o enunciado destacar continuidade mesmo com falha local, a pista mais comum é arquitetura em múltiplas AZs.
+## Classic proof signal
+If the statement highlights continuity even with local failure, the most common clue is architecture in multiple AZs.
 
-## Erro comum
-Confundir elasticidade (ajuste dinâmico) com escalabilidade (capacidade de crescer de forma sustentada).
+## Common error
+Confusing elasticity (dynamic adjustment) with scalability (ability to grow sustainably).
 
-## O que memorizar
-| Comparação | Regra mental |
+## What to memorize
+| Comparison | Mental rule |
 |---|---|
-| Região vs AZ | Região é geografia; AZ é isolamento |
-| CAPEX vs OPEX | Comprar antes vs pagar conforme usa |
+| Region vs AZ | Region is geography; AZ is isolation |
+| CAPEX vs OPEX | Buy before vs pay as you go |
 
-## Pergunta de validação
-Uma empresa quer lançar ambientes de teste em minutos, sem comprar servidores. Qual benefício da nuvem está mais evidente?
+## Validation question
+A company wants to launch test environments in minutes without purchasing servers. Which benefit of the cloud is most evident?
 
 <details>
-<summary><strong>Ver resposta</strong></summary>
+<summary><strong>View answer</strong></summary>
 
-**Resposta:**
-Agilidade com autoatendimento sob demanda.
+**Answer:**
+Agility with self-service on demand.
 
 </details>
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

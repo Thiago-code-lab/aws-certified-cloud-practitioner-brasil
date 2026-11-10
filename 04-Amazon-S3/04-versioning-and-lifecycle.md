@@ -1,25 +1,25 @@
-﻿# Versionamento E Lifecycle
+# Versioning and Lifecycle
 
-Versionamento preserva versões de um objeto; lifecycle automatiza transições e exclusões ao longo do tempo.
+Versioning preserves versions of an object; lifecycle automates transitions and deletions over time.
 
-- Versionamento ajuda a recuperar alterações e exclusões acidentais.
-- Lifecycle move objetos antigos para classes mais baratas.
-- Também pode expirar versões antigas e uploads incompletos.
-- **Dica de prova:** recuperar sobrescrita aponta para versionamento; reduzir custo por idade aponta para lifecycle.
+- Versioning helps recover accidental changes and deletions.
+- Lifecycle moves old objects to cheaper classes.
+- May also expire old versions and incomplete uploads.
+- **Test tip:** recover overwrite points to versioning; reducing cost by age points to lifecycle.
 
-Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
 
-> Complemento de carreira: quem quer sair da base de cloud para projetos reais de dados pode seguir por aqui: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+> Career complement: anyone who wants to move from the cloud base to real data projects can follow here: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

@@ -1,35 +1,35 @@
-﻿# Precificacao
+# Pricing
 
-## Modelos de compra
+## Purchase models
 
-- **Sob demanda:** flexível e sem compromisso.
-- **Savings Plans/Reservadas:** desconto para uso previsível com compromisso.
-- **Spot:** grande desconto, mas pode sofrer interrupção.
-- **Dedicated Host:** isolamento físico ou licenciamento específico.
+- **On demand:** flexible and no commitment.
+- **Savings Plans/Reserved:** discount for predictable use with commitment.
+- **Spot:** big discount, but may be interrupted.
+- **Dedicated Host:** physical isolation or specific licensing.
 
-## Ferramentas
+## Tools
 
-- **Pricing Calculator:** estima uma arquitetura futura.
-- **Cost Explorer:** analisa custos e uso.
-- **Budgets:** alerta sobre limites reais ou previstos.
-- **Billing:** mostra faturas e cobranças.
-- **Compute Optimizer:** recomenda rightsizing com base em métricas.
+- **Pricing Calculator:** estimates a future architecture.
+- **Cost Explorer:** analyzes costs and usage.
+- **Budgets:** alerts you about actual or predicted limits.
+- **Billing:** shows invoices and charges.
+- **Compute Optimizer:** recommends rightsizing based on metrics.
 
-## Regra prática
+## Rule of thumb
 
-Desligue recursos ociosos, aplique tags, escolha compromissos somente após entender a demanda e considere transferência de dados no custo total.
+Shut down idle resources, apply tags, choose appointments only after understanding demand, and factor data transfer into the total cost.
 
-Arquitetura: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
-IA na AWS: https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil
+Architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+AI on AWS: https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil
 
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

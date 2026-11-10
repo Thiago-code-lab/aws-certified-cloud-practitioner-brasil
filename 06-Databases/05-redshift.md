@@ -1,25 +1,25 @@
-﻿# Redshift
+#Redshift
 
-O Amazon Redshift é um data warehouse gerenciado para análises SQL sobre grandes volumes de dados.
+Amazon Redshift is a managed data warehouse for SQL analysis on large volumes of data.
 
-- Usa armazenamento colunar e processamento paralelo.
-- Integra-se a ferramentas de BI e a dados no S3.
-- É voltado a relatórios e analytics, não a pequenas transações frequentes.
-- **Dica de prova:** data warehouse aponta para Redshift; banco transacional aponta para RDS.
+- Uses columnar storage and parallel processing.
+- Integrates with BI tools and data in S3.
+- It is aimed at reporting and analytics, not small frequent transactions.
+- **Test tip:** data warehouse points to Redshift; transactional bank points to RDS.
 
-Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
 
-> Complemento de carreira: quem quer sair da base de cloud para projetos reais de dados pode seguir por aqui: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+> Career complement: anyone who wants to move from the cloud base to real data projects can follow here: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

@@ -1,25 +1,25 @@
-﻿# Pilar Confiabilidade
+# Reliability Pillar
 
-Confiabilidade é a capacidade de uma carga executar sua função e se recuperar de falhas.
+Reliability is the ability of a load to perform its function and recover from failures.
 
-- Distribua componentes para evitar pontos únicos de falha.
-- Teste recuperação e automatize correções.
-- Ajuste capacidade à demanda e gerencie limites.
-- **Dica de prova:** múltiplas AZs, backups testados e recuperação automática apontam para confiabilidade.
+- Distribute components to avoid single points of failure.
+- Test recovery and automate corrections.
+- Adjust capacity to demand and manage limits.
+- **Test tip:** multiple AZs, tested backups, and automatic recovery point to reliability.
 
-Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
 
-> Recurso complementar: se quiser conectar este fundamento com pipelines e analytics na AWS, veja o curso Engenharia de Dados na AWS: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+> Complementary resource: if you want to connect this foundation with pipelines and analytics in AWS, see the Data Engineering in AWS course: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

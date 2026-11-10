@@ -1,25 +1,25 @@
-﻿# Aws Lambda
+# AWS Lambda
 
-O AWS Lambda executa código em resposta a eventos sem que o cliente provisione ou administre servidores.
+AWS Lambda executes code in response to events without the customer provisioning or administering servers.
 
-- Escala automaticamente por invocação.
-- A cobrança considera requisições e tempo de execução.
-- É indicado para APIs, automações e processamento de eventos.
-- **Dica de prova:** tarefa curta e orientada a eventos aponta para Lambda; processos longos podem pedir contêineres ou EC2.
+- Automatically scales upon invocation.
+- Billing considers requests and execution time.
+- It is recommended for APIs, automations and event processing.
+- **Test tip:** short, event-driven task points to Lambda; Long processes may ask for containers or EC2.
 
-Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
 
-> Se o objetivo também for engenharia de dados, este curso ajuda a transformar a base de AWS em projetos: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+> If the objective is also data engineering, this course helps you transform the AWS base into projects: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

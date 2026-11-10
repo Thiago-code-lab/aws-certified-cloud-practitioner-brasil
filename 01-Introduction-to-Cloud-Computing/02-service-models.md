@@ -1,22 +1,22 @@
-﻿# Modelos De Servico
+# Service Models
 
-Os modelos de serviço indicam quanto da tecnologia fica sob responsabilidade do provedor e quanto continua com o cliente.
+Service models indicate how much of the technology is the responsibility of the provider and how much remains with the customer.
 
-- **IaaS:** oferece infraestrutura; o cliente ainda administra sistema operacional e aplicações.
-- **PaaS:** oferece uma plataforma gerenciada para desenvolver e publicar aplicações.
-- **SaaS:** entrega o software pronto para uso ao usuário final.
-- **Regra mental:** de IaaS para SaaS, aumenta o gerenciamento do provedor e diminui o controle operacional do cliente.
+- **IaaS:** offers infrastructure; the customer still manages the operating system and applications.
+- **PaaS:** offers a managed platform for developing and publishing applications.
+- **SaaS:** delivers ready-to-use software to the end user.
+- **Mental rule:** from IaaS to SaaS, increases provider management and decreases customer operational control.
 
-Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

@@ -1,25 +1,25 @@
-﻿# Amazon Eventbridge
+# Amazon Eventbridge
 
-O Amazon EventBridge é um barramento de eventos gerenciado que conecta aplicações e serviços de forma desacoplada.
+Amazon EventBridge is a managed event bus that connects applications and services in a decoupled way.
 
-- Regras selecionam eventos e os encaminham para destinos.
-- Suporta eventos AWS, aplicações próprias e parceiros SaaS.
-- Também oferece agendamentos para tarefas recorrentes.
-- **Dica de prova:** reagir a mudanças sem integração direta aponta para EventBridge.
+- Rules select events and route them to destinations.
+- Supports AWS events, own applications and SaaS partners.
+- Also offers schedules for recurring tasks.
+- **Test tip:** reacting to changes without direct integration points to EventBridge.
 
-Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
 
-> Para estudar aplicações práticas em dados depois deste tópico, este curso de Engenharia de Dados na AWS complementa bem: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+> To study practical data applications after this topic, this Data Engineering course on AWS complements it well: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

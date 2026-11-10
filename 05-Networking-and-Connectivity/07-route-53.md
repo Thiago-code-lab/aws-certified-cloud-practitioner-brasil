@@ -1,22 +1,22 @@
-﻿# Route53
+#Route53
 
-O Amazon Route 53 oferece DNS autoritativo, registro de domínios e verificações de integridade.
+Amazon Route 53 offers authoritative DNS, domain registration and health checks.
 
-- Traduz domínios em destinos, como load balancers e distribuições CloudFront.
-- Oferece roteamento simples, ponderado, por latência e failover.
-- Health checks ajudam a retirar destinos não saudáveis das respostas.
-- **Dica de prova:** distribuir usuários por DNS ou fazer failover aponta para Route 53.
+- Translates domains into targets, such as load balancers and CloudFront distributions.
+- Provides simple, weighted, latency, and failover routing.
+- Health checks help remove unhealthy targets from responses.
+- **Test tip:** distribute users by DNS or failover points to Route 53.
 
-Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

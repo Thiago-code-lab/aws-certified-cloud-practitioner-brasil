@@ -1,55 +1,55 @@
-# Serviços-Chave
+# Key Services
 
-Mapa compacto para revisar associações de prova sem transformar a revisão em catálogo completo.
+Compact map for reviewing tasting associations without turning the review into a complete catalog.
 
-## Fundamentos
-- Região: localização geográfica, latência e residência de dados.
-- AZ: isolamento local para alta disponibilidade.
-- Responsabilidade compartilhada: AWS protege a infraestrutura; cliente protege dados, acessos e configurações.
-- Sinal de prova: se o enunciado falar de isolamento físico local, normalmente aponta para AZ.
+## Fundamentals
+- Region: geographic location, latency and data residency.
+- AZ: local isolation for high availability.
+- Shared responsibility: AWS protects infrastructure; client protects data, access and configurations.
+- Proof sign: if the statement talks about local physical isolation, it normally points to AZ.
 
-## IAM e segurança
-- IAM: identidade, autenticação e autorização.
-- CloudTrail: trilha de auditoria de chamadas de API.
-- KMS: chaves de criptografia.
-- Artifact: documentos e relatórios de compliance.
-- Sinal de prova: se aparecer "quem fez o quê na conta", a associação mais comum é CloudTrail.
+## IAM and security
+- IAM: identity, authentication and authorization.
+- CloudTrail: API call audit trail.
+- KMS: encryption keys.
+- Artifact: compliance documents and reports.
+- Proof signal: if it says "who did what in the account", the most common association is CloudTrail.
 
-## S3 e armazenamento
-- S3: armazenamento de objetos.
-- EBS: volume de bloco para EC2.
-- EFS: sistema de arquivos compartilhado.
-- Lifecycle: redução de custo ao longo do tempo.
-- Sinal de prova: se falar em dados raramente acessados por anos, pense em Glacier.
+## S3 and storage
+- S3: Object storage.
+- EBS: block volume for EC2.
+- EFS: Shared file system.
+- Lifecycle: cost reduction over time.
+- Proof sign: if you talk about data rarely accessed for years, think Glacier.
 
-## Custos e precificação
-- Budgets: alerta de limite.
-- Cost Explorer: análise histórica e tendência.
-- Pricing Calculator: estimativa antes do uso.
-- Spot: custo baixo com interrupção.
-- Sinal de prova: se o workload tolera interrupção, Spot costuma ser a melhor pista.
+## Costs and pricing
+- Budgets: limit alert.
+- Cost Explorer: historical and trend analysis.
+- Pricing Calculator: estimate before use.
+- Spot: low cost with interruption.
+- Proof signal: if the workload tolerates interruption, Spot is usually the best clue.
 
-## Comparações rápidas
-| Comparação | Uso em prova |
+## Quick Comparisons
+| Comparison | Use in evidence |
 |---|---|
-| Região vs AZ | Região = geografia; AZ = isolamento para disponibilidade |
-| IAM User vs Role | User = identidade persistente; Role = acesso temporário |
-| CloudWatch vs CloudTrail | CloudWatch observa operação; CloudTrail audita API |
-| S3 vs EBS | S3 = objetos; EBS = bloco para instância |
-| S3 Standard vs Glacier | Standard = acesso frequente; Glacier = arquivamento |
-| On-Demand vs Spot | On-Demand = flexibilidade; Spot = economia com interrupção |
-| Budgets vs Cost Explorer | Budgets = alerta; Cost Explorer = análise |
+| Region vs AZ | Region = geography; AZ = isolation for availability |
+| IAM User vs Role | User = persistent identity; Role = temporary access |
+| CloudWatch vs CloudTrail | CloudWatch observes operation; CloudTrail audits API |
+| S3 vs EBS | S3 = objects; EBS = block for instance |
+| S3 Standard vs Glacier | Standard = frequent access; Glacier = archive |
+| On-Demand vs Spot | On-Demand = flexibility; Spot = savings with interruption |
+| Budgets vs Cost Explorer | Budgets = alert; Cost Explorer = analysis |
 
-## Dica final
-Quando duas alternativas parecerem corretas, prefira a que resolve o cenário com menor complexidade operacional e melhor alinhamento ao enunciado.
+## Final tip
+When two alternatives seem correct, choose the one that solves the scenario with less operational complexity and better alignment with the statement.
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

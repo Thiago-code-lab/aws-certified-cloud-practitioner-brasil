@@ -1,34 +1,34 @@
-﻿# Conceitos Centrais
+# Core Concepts
 
-## Nuvem
+## Cloud
 
-- Recursos sob demanda substituem parte do investimento antecipado por gasto variável.
-- **Escalabilidade** suporta crescimento; **elasticidade** acompanha a variação da demanda.
-- Serviços gerenciados reduzem tarefas operacionais do cliente.
+- On-demand resources replace part of the upfront investment with variable spending.
+- **Scalability** supports growth; **elasticity** follows changes in demand.
+- Managed services reduce customer operational tasks.
 
-## Infraestrutura global
+## Global Infrastructure
 
-- **Região:** área geográfica escolhida por latência, custo, conformidade e serviços disponíveis.
-- **AZ:** local isolado dentro da Região; múltiplas AZs aumentam disponibilidade.
-- **Ponto de presença:** aproxima DNS e distribuição de conteúdo dos usuários.
+- **Region:** geographic area chosen by latency, cost, compliance and available services.
+- **AZ:** isolated location within the Region; Multiple AZs increase availability.
+- **Point of presence:** brings DNS and content distribution closer to users.
 
-## Responsabilidade compartilhada
+## Shared responsibility
 
-- AWS protege datacenters, hardware, rede física e virtualização.
-- O cliente protege dados, identidades, permissões e suas configurações.
-- Quanto mais gerenciado o serviço, mais tarefas operacionais ficam com a AWS.
+- AWS protects data centers, hardware, physical networking, and virtualization.
+- The customer protects data, identities, permissions, and their settings.
+- The more managed the service, the more operational tasks fall to AWS.
 
-Arquitetura: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
-IA na AWS: https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil
+Architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+AI on AWS: https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil
 
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

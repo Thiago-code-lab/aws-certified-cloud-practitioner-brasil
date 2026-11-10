@@ -1,22 +1,22 @@
-﻿# Aws Codepipeline
+# AWS Codepipeline
 
-O AWS CodePipeline orquestra etapas de entrega contínua desde a origem até build, teste, aprovação e implantação.
+AWS CodePipeline orchestrates continuous delivery steps from source to build, test, approval and deployment.
 
-- Cada mudança pode iniciar automaticamente uma execução.
-- Integra serviços AWS e ferramentas de terceiros.
-- Visualiza o estado e as transições do fluxo.
-- **Dica de prova:** coordenar o processo CI/CD completo aponta para CodePipeline.
+- Each change can automatically start an execution.
+- Integrates AWS services and third-party tools.
+- View the flow state and transitions.
+- **Test tip:** coordinating the complete CI/CD process points to CodePipeline.
 
-Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

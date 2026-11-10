@@ -1,22 +1,22 @@
-﻿# Dynamodb
+# Dynamodb
 
-O Amazon DynamoDB é um banco NoSQL serverless de chave-valor e documentos, projetado para baixa latência em grande escala.
+Amazon DynamoDB is a NoSQL serverless key-value and document database designed for low latency at scale.
 
-- Não exige administração de servidores.
-- Pode usar capacidade sob demanda ou provisionada.
-- TTL, streams e índices apoiam aplicações modernas.
-- **Dica de prova:** acesso por chave e escala imprevisível apontam para DynamoDB; relações complexas apontam para RDS.
+- Does not require server administration.
+- Can use on-demand or provisioned capacity.
+- TTL, streams and indexes support modern applications.
+- **Proof tip:** key access and unpredictable scale point to DynamoDB; complex relationships point to RDS.
 
-Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

@@ -1,25 +1,25 @@
-﻿# Aws Inspector E Guardduty
+# Aws Inspector E Guardduty
 
-Amazon Inspector e Amazon GuardDuty detectam riscos diferentes e se complementam.
+Amazon Inspector and Amazon GuardDuty detect different risks and complement each other.
 
-- **Inspector:** procura vulnerabilidades de software e exposição indevida em cargas compatíveis.
-- **GuardDuty:** analisa sinais e logs para identificar comportamento suspeito e possíveis ataques.
-- Ambos geram descobertas que podem alimentar uma resposta automatizada.
-- **Dica de prova:** vulnerabilidade conhecida aponta para Inspector; atividade anômala aponta para GuardDuty.
+- **Inspector:** looks for software vulnerabilities and undue exposure in supported payloads.
+- **GuardDuty:** analyzes signals and logs to identify suspicious behavior and potential attacks.
+- Both generate findings that can fuel an automated response.
+- **Test tip:** known vulnerability points to Inspector; anomalous activity points to GuardDuty.
 
-Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
 
-> Trilha complementar: fundamentos de cloud ficam mais claros quando aplicados em pipelines de dados na AWS: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+> Complementary track: cloud fundamentals become clearer when applied to data pipelines in AWS: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

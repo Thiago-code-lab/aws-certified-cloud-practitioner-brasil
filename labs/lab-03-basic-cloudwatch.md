@@ -1,38 +1,38 @@
-﻿# Lab 03 Cloudwatch Basico
+# Lab 03 Cloudwatch Basic
 
-Este laboratório pratica métricas, dashboards e alarmes no Amazon CloudWatch.
+This lab practices metrics, dashboards, and alarms in Amazon CloudWatch.
 
-## Objetivo
+## Purpose
 
-Visualizar uma métrica de um recurso existente e criar um alarme de baixo risco para entender o fluxo de monitoramento.
+View a metric for an existing resource and create a low-risk alarm to understand the monitoring flow.
 
-## Passos
+## Steps
 
-1. Abra o CloudWatch e localize métricas de um recurso de laboratório, como uma instância EC2.
-2. Selecione uma métrica, ajuste o período e compare os valores no gráfico.
-3. Crie um alarme com limite simples e poucas avaliações.
-4. Configure uma notificação somente se houver um tópico SNS de teste confirmado.
-5. Registre o que representa o estado `OK`, `ALARM` e `INSUFFICIENT_DATA`.
+1. Open CloudWatch and find metrics for a lab resource, such as an EC2 instance.
+2. Select a metric, adjust the period, and compare the values ​​on the chart.
+3. Create an alarm with a simple limit and few evaluations.
+4. Configure a notification only if there is a confirmed test SNS topic.
+5. Record what the state `OK`, `ALARM`, and `INSUFFICIENT_DATA` represents.
 
-## Verificação
+## Check
 
-O alarme deve refletir a métrica escolhida. Não force carga cara apenas para mudar seu estado.
+The alarm must reflect the chosen metric. Don't force expensive load just to change its state.
 
-## Limpeza
+## Cleaning
 
-Exclua o alarme, o dashboard opcional e os recursos usados no teste.
+Delete the alarm, optional dashboard, and resources used in the test.
 
-Arquitetura: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
-IA na AWS: https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil
+Architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+AI on AWS: https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil
 
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

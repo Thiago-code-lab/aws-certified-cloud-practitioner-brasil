@@ -1,25 +1,25 @@
-﻿# Static Website
+# Static Website
 
-Um bucket S3 pode hospedar HTML, CSS, JavaScript e imagens sem executar código no servidor.
+An S3 bucket can host HTML, CSS, JavaScript, and images without running code on the server.
 
-- Configure o documento inicial e a página de erro.
-- Para HTTPS, domínio próprio e cache global, use CloudFront.
-- Prefira acesso privado pelo CloudFront em vez de exposição direta do bucket.
-- **Dica de prova:** aplicações dinâmicas ou APIs precisam de computação adicional.
+- Configure the initial document and error page.
+- For HTTPS, own domain and global cache, use CloudFront.
+- Prefer private access through CloudFront over direct bucket exposure.
+- **Test tip:** dynamic applications or APIs require additional computation.
 
-Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
 
-> Para aprofundar com projetos de dados na AWS, este material pode complementar a revisão: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+> To delve deeper into data projects in AWS, this material can complement the review: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

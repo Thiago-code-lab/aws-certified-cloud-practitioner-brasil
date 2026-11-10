@@ -1,22 +1,22 @@
-﻿# Internet Gateway E Nat
+# Internet Gateway E Nat
 
-Internet Gateway e NAT Gateway conectam recursos à internet em direções diferentes.
+Internet Gateway and NAT Gateway connect resources to the internet in different directions.
 
-- **Internet Gateway:** permite comunicação de recursos públicos com a internet.
-- **NAT Gateway:** deixa recursos privados iniciarem conexões externas sem aceitar conexões iniciadas da internet.
-- Um NAT Gateway público fica em subnet pública.
-- **Dica de prova:** servidor privado baixando atualizações aponta para NAT.
+- **Internet Gateway:** allows communication of public resources with the internet.
+- **NAT Gateway:** lets private resources initiate external connections without accepting connections initiated from the internet.
+- A public NAT Gateway is on a public subnet.
+- **Test tip:** private server downloading updates points to NAT.
 
-Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

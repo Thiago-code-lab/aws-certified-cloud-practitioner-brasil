@@ -1,22 +1,22 @@
-﻿# Regioes E Zonas
+# Regions and Zones
 
-Uma Região AWS é uma área geográfica formada por várias Zonas de Disponibilidade (AZs) isoladas entre si. Distribuir uma aplicação entre AZs reduz o impacto da falha de um único local.
+An AWS Region is a geographic area made up of several Availability Zones (AZs) isolated from each other. Distributing an application across AZs reduces the impact of a single location failure.
 
-- **Região:** escolha considerando latência, preço, conformidade e disponibilidade dos serviços.
-- **AZ:** use duas ou mais para alta disponibilidade dentro da Região.
-- **Pontos de presença:** aproximam serviços como CloudFront e Route 53 dos usuários.
-- **Dica de prova:** múltiplas AZs aumentam disponibilidade; múltiplas Regiões atendem recuperação geográfica mais ampla.
+- **Region:** choose considering latency, price, compliance and availability of services.
+- **AZ:** use two or more for high availability within the Region.
+- **Points of presence:** bring services such as CloudFront and Route 53 closer to users.
+- **Test tip:** multiple AZs increase availability; multiple Regions serve broader geographic recovery.
 
-Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

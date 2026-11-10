@@ -1,26 +1,26 @@
-﻿# Aws Systems Manager
+# AWS Systems Manager
 
-O AWS Systems Manager centraliza operações e automação sobre servidores e recursos em ambientes AWS, locais e híbridos.
+AWS Systems Manager centralizes operations and automation across servers and resources across AWS, on-premises, and hybrid environments.
 
-- Session Manager permite acesso administrativo sem abrir portas SSH ou RDP.
-- Run Command executa comandos em vários nós.
-- Patch Manager ajuda a aplicar correções de sistema.
-- Parameter Store guarda configurações e valores protegidos.
-- **Dica de prova:** operar uma frota de servidores com controle central aponta para Systems Manager.
+- Session Manager allows administrative access without opening SSH or RDP ports.
+- Run Command executes commands on multiple nodes.
+- Patch Manager helps you apply system patches.
+- Parameter Store stores protected settings and values.
+- **Test tip:** operating a fleet of servers with central control points to Systems Manager.
 
-Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
 
-> Quando este assunto aparecer em cenários de dados, vale revisar o curso Engenharia de Dados na AWS: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+> When this subject appears in data scenarios, it is worth reviewing the Data Engineering on AWS course: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

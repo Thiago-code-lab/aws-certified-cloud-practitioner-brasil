@@ -1,40 +1,40 @@
-# Segurança Essencial - Revisão de Prova
+# Essential Safety - Proof Review
 
-## Revisão rápida
-- IAM controla identidades, permissões e roles.
-- MFA reduz risco de credencial comprometida, mas não substitui menor privilégio.
-- CloudTrail registra chamadas de API para auditoria.
+## Quick Review
+- IAM controls identities, permissions and roles.
+- MFA reduces risk of compromised credential, but does not replace lesser privilege.
+- CloudTrail logs API calls for auditing.
 
-## Sinal clássico de prova
-Se aparecer "rastrear chamadas de API", a associação normal é CloudTrail.
+## Classic proof signal
+If it says "trace API calls", the normal association is CloudTrail.
 
-## Erro comum
-Assumir que a AWS define permissões da conta para o cliente.
+## Common error
+Assume that AWS sets account permissions for the customer.
 
-## O que memorizar
-| Comparação | Regra mental |
+## What to memorize
+| Comparison | Mental rule |
 |---|---|
-| IAM User vs Role | User é persistente; Role é temporária/assumida |
-| MFA vs política IAM | MFA autentica melhor; política autoriza ou nega |
+| IAM User vs Role | User is persistent; Role is temporary/assumed |
+| MFA vs IAM policy | MFA authenticates better; policy authorizes or denies |
 
-## Pergunta de validação
-Uma aplicação precisa acessar outro serviço AWS sem guardar chaves permanentes. Qual recurso de IAM deve vir à mente?
+## Validation question
+An application needs to access another AWS service without storing permanent keys. Which IAM feature should come to mind?
 
 <details>
-<summary><strong>Ver resposta</strong></summary>
+<summary><strong>View answer</strong></summary>
 
-**Resposta:**
-IAM Role com permissões mínimas para a tarefa.
+**Answer:**
+IAM Role with minimum permissions for the task.
 
 </details>
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

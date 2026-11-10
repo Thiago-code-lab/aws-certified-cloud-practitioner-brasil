@@ -1,26 +1,26 @@
-﻿# Modelos De Preco
+# Price Models
 
-O EC2 possui modelos de compra que equilibram flexibilidade, previsibilidade e desconto.
+EC2 has purchasing models that balance flexibility, predictability and discounting.
 
-- **Sob demanda:** sem compromisso; indicada para cargas novas ou imprevisíveis.
-- **Savings Plans/Reservadas:** desconto em troca de compromisso de uso.
-- **Spot:** capacidade ociosa com grande desconto, mas sujeita a interrupção.
-- **Hosts Dedicados:** servidor físico dedicado para isolamento ou licenciamento específico.
-- **Dica de prova:** carga tolerante a interrupções sugere Spot; uso estável sugere compromisso de longo prazo.
+- **On demand:** no obligation; recommended for new or unpredictable loads.
+- **Savings Plans/Reserved:** discount in exchange for usage commitment.
+- **Spot:** Idle capacity at a large discount, but subject to interruption.
+- **Dedicated Hosts:** dedicated physical server for isolation or specific licensing.
+- **Test tip:** interrupt-tolerant load suggests Spot; Stable use suggests long-term commitment.
 
-Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
 
-> Para estudar aplicações práticas em dados depois deste tópico, este curso de Engenharia de Dados na AWS complementa bem: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+> To study practical data applications after this topic, this Data Engineering course on AWS complements it well: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

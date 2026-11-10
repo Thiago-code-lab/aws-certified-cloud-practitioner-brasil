@@ -1,22 +1,22 @@
-﻿# Aws Billing Dashboard
+# Aws Billing Dashboard
 
-O console de Billing and Cost Management centraliza faturas, pagamentos, impostos, preferências e ferramentas de custos.
+The Billing and Cost Management console centralizes invoices, payments, taxes, preferences and cost tools.
 
-- A página de Bills detalha cobranças por serviço e conta.
-- Cost Explorer aprofunda a análise; Budgets cria alertas.
-- Permissões de faturamento devem seguir menor privilégio.
-- **Dica de prova:** consultar a fatura atual aponta para Billing; investigar tendências aponta para Cost Explorer.
+- The Bills page details charges by service and account.
+- Cost Explorer deepens the analysis; Budgets creates alerts.
+- Billing permissions must follow least privilege.
+- **Test tip:** consulting the current invoice points to Billing; Investigating trends points to Cost Explorer.
 
-Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

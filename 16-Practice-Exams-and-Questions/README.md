@@ -1,29 +1,29 @@
-﻿# Simulados e Questões - CLF-C02
+# Simulations and Questions - CLF-C02
 
-Este bloco oferece treino leve, porém realista, com perguntas de múltipla escolha no estilo da prova.
+This block provides light but realistic training with exam-style multiple-choice questions.
 
-## Como usar
-1. Resolva um domínio por vez.
-2. Tente responder sem abrir o bloco de resposta.
-3. Abra `<details>` apenas após finalizar a questão.
-4. Revise explicações das respostas erradas.
+## How to use
+1. Resolve one domain at a time.
+2. Try answering without opening the answer block.
+3. Open `<details>` only after finishing the question.
+4. Review explanations for incorrect answers.
 
-## Cobertura
-- Domínio 1 a 5 com questões objetivas.
-- Simulado final curto para consolidação.
-- Fluxo voltado a iniciantes com foco em fundamentos.
+## Coverage
+- Domain 1 to 5 with objective questions.
+- Simulated short ending for consolidation.
+- Stream aimed at beginners with a focus on fundamentals.
 
 
 
-> Para aprofundar com projetos de dados na AWS, este material pode complementar a revisão: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+> To delve deeper into data projects in AWS, this material can complement the review: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

@@ -1,35 +1,35 @@
 # Flashcards CLF-C02 (PT-BR)
 
-Decks curtos e intencionais para revisão ativa. Cada deck tem identidade própria: fundamentos treinam conceitos de nuvem, segurança treina decisões de acesso, S3 treina armazenamento de objetos e custos treina escolha econômica.
+Short, purposeful decks for active review. Each deck has its own identity: fundamentals trains cloud concepts, security trains access decisions, S3 trains object storage, and costs trains economic choice.
 
-## Decks disponíveis
-- [Fundamentos de Nuvem](./deck-fundamentos.md)
-- [Segurança e IAM](./deck-seguranca.md)
-- [Amazon S3](./deck-s3.md)
-- [Custos e Suporte](./deck-custos.md)
+## Available decks
+- [Cloud Fundamentals](./fundamentals-deck.md)
+- [Security and IAM](./security-deck.md)
+- [Amazon S3](./s3-deck.md)
+- [Costs and Support](./costs-deck.md)
 
-## Como usar
-1. Escolha apenas 1 deck por sessão.
-2. Responda mentalmente antes de abrir o `<details>`.
-3. Marque as cartas erradas e revise somente elas no dia seguinte.
-4. Volte ao módulo correspondente quando errar o mesmo tema duas vezes.
+## How to use
+1. Choose only 1 deck per session.
+2. Answer mentally before opening `<details>`.
+3. Mark the wrong cards and review only them the next day.
+4. Return to the corresponding module when you get the same topic wrong twice.
 
-## Escopo editorial
-- 8 a 15 cartas por deck.
-- Perguntas específicas por módulo, sem repetição artificial de estrutura.
-- Respostas curtas, com pistas de memorização e linguagem de prova.
-- Cobertura alinhada ao nível CLF-C02, sem transformar o repositório em plataforma de flashcards.
+## Editorial scope
+- 8 to 15 cards per deck.
+- Specific questions per module, without artificial repetition of structure.
+- Short answers, with memorization clues and test language.
+- Coverage aligned to the CLF-C02 level, without transforming the repository into a flashcard platform.
 
-Arquitetura: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
-IA na AWS: https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil
+Architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+AI on AWS: https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

@@ -1,23 +1,23 @@
-﻿# Beneficios Da Nuvem
+# Benefits of the Cloud
 
-A nuvem troca grandes investimentos antecipados por despesas variáveis e permite experimentar, escalar e entregar soluções mais rapidamente.
+The cloud trades large upfront investments for variable expenses and allows you to experiment, scale, and deliver solutions faster.
 
-- **Elasticidade:** aumenta ou reduz recursos conforme a demanda.
-- **Agilidade:** provisiona ambientes em minutos, sem esperar compra de hardware.
-- **Economia de escala:** o provedor dilui custos entre muitos clientes.
-- **Alcance global:** permite implantar aplicações próximas dos usuários.
-- **Dica de prova:** capacidade que acompanha automaticamente a carga é elasticidade, não apenas escalabilidade.
+- **Elasticity:** increases or reduces resources according to demand.
+- **Agility:** provisions environments in minutes, without waiting for hardware purchases.
+- **Economy of scale:** the provider spreads costs among many customers.
+- **Global reach:** allows you to deploy applications close to users.
+- **Proof tip:** capacity that automatically follows load is elasticity, not just scalability.
 
-Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

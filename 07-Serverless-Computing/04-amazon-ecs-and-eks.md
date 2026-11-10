@@ -1,25 +1,25 @@
-﻿# Amazon Ecs E Eks
+# Amazon Ecs E Eks
 
-Amazon ECS e Amazon EKS orquestram aplicações em contêineres.
+Amazon ECS and Amazon EKS orchestrate containerized applications.
 
-- **ECS:** orquestrador nativo da AWS, com integração simples.
-- **EKS:** Kubernetes gerenciado, usado quando compatibilidade Kubernetes é requisito.
-- Ambos podem usar EC2 ou Fargate.
-- **Dica de prova:** simplicidade AWS aponta para ECS; Kubernetes explícito aponta para EKS.
+- **ECS:** native AWS orchestrator, with simple integration.
+- **EKS:** Managed Kubernetes, used when Kubernetes compatibility is a requirement.
+- Both can use EC2 or Fargate.
+- **Test tip:** simplicity AWS points to ECS; Explicit Kubernetes points to EKS.
 
-Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
 
-> Recurso complementar: se quiser conectar este fundamento com pipelines e analytics na AWS, veja o curso Engenharia de Dados na AWS: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+> Complementary resource: if you want to connect this foundation with pipelines and analytics in AWS, see the Data Engineering in AWS course: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

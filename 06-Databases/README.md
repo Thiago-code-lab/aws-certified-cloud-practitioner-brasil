@@ -1,47 +1,47 @@
-# Banco de Dados
+# Database
 
-Módulo para diferenciar os principais serviços de dados no nível introdutório do CLF-C02.
+Module to differentiate the main data services at the introductory level of the CLF-C02.
 
-## Foco do módulo
-- Amazon RDS para bancos relacionais gerenciados.
-- DynamoDB para NoSQL chave-valor/documento.
-- Redshift para análise e data warehouse.
+## Module focus
+- Amazon RDS for managed relational banks.
+- DynamoDB for NoSQL key-value/document.
+- Redshift for analytics and data warehousing.
 
-## Revisão rápida
-- RDS reduz trabalho operacional de bancos relacionais.
-- DynamoDB aparece quando a pista é NoSQL, baixa latência e escala gerenciada.
-- Redshift é associado a analytics e data warehouse.
+## Quick Review
+- RDS reduces operational work in relational banks.
+- DynamoDB appears when the track is NoSQL, low latency and managed scale.
+- Redshift is associated with analytics and data warehousing.
 
-## Sinais clássicos de prova
-- "Banco relacional gerenciado" -> Amazon RDS.
-- "NoSQL serverless com baixa latência" -> Amazon DynamoDB.
-- "Análise em grande volume de dados estruturados" -> Amazon Redshift.
+## Classic proof signals
+- "Managed relational database" -> Amazon RDS.
+- "NoSQL serverless with low latency" -> Amazon DynamoDB.
+- "Large volume analysis of structured data" -> Amazon Redshift.
 
-## Erro comum
-Escolher RDS apenas por conhecer SQL quando o enunciado pede escala NoSQL ou acesso chave-valor.
+## Common error
+Choose RDS just because you know SQL when the statement asks for NoSQL scaling or key-value access.
 
-## O que memorizar
-| Comparação | Regra mental de prova |
+## What to memorize
+| Comparison | Mental rule of proof |
 |---|---|
-| RDS vs DynamoDB | RDS = relacional; DynamoDB = NoSQL gerenciado |
-| RDS vs Redshift | RDS = transacional; Redshift = análise |
+| RDS vs DynamoDB | RDS = relational; DynamoDB = Managed NoSQL |
+| RDS vs Redshift | RDS = transactional; Redshift = analysis |
 
-## Ponte para o próximo módulo
-Depois de dados, avance para serverless: como executar código e integrar eventos com menos operação.
+## Bridge to next module
+After data, move on to serverless: how to run code and integrate events with less operation.
 
-## Continuidade
-Trilha de arquitetura: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+## Continuity
+Architecture Track: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
-> Para aprofundar com projetos de dados na AWS, este material pode complementar a revisão: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+> To delve deeper into data projects in AWS, this material can complement the review: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

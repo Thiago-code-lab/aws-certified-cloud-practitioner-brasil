@@ -1,24 +1,24 @@
-﻿# README
+#README
 
-Conteúdo de apoio em formato curto para revisão objetiva e aplicação inicial.
+Short-form supporting content for objective review and initial application.
 
-## Como usar
-- Leia em blocos de 10 a 20 minutos.
-- Marque dúvidas para revisar no módulo principal.
-- Reforce os tópicos com maior incidência de erro.
+## How to use
+- Read in blocks of 10 to 20 minutes.
+- Mark questions to review in the main module.
+- Reinforce the topics with the highest incidence of errors.
 
-## Evolução recomendada
-Arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
-IA na AWS: https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil
+## Recommended evolution
+AWS Architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+AI on AWS: https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil
 
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

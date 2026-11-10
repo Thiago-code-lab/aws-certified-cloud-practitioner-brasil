@@ -1,25 +1,25 @@
-﻿# Amazon Q
+#Amazon Q
 
-Amazon Q é uma família de assistentes de IA generativa voltados ao trabalho e ao desenvolvimento de software.
+Amazon Q is a family of generative AI assistants focused on work and software development.
 
-- Pode responder perguntas, resumir conteúdo e apoiar tarefas conforme o produto e as fontes conectadas.
-- As respostas respeitam permissões e contexto configurados.
-- Resultados importantes ainda precisam de validação humana.
-- **Dica de prova:** assistente generativo para usuários corporativos ou desenvolvedores aponta para Amazon Q.
+- Can answer questions, summarize content and support tasks depending on the product and connected sources.
+- Responses respect configured permissions and context.
+- Important results still need human validation.
+- **Test tip:** generative assistant for business users or developers points to Amazon Q.
 
-Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
 
-> Trilha complementar: fundamentos de cloud ficam mais claros quando aplicados em pipelines de dados na AWS: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+> Complementary track: cloud fundamentals become clearer when applied to data pipelines in AWS: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

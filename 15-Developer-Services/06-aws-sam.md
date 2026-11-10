@@ -1,25 +1,25 @@
-﻿# Aws Sam
+# Aws Sam
 
-O AWS Serverless Application Model (AWS SAM) simplifica a definição e o desenvolvimento de aplicações serverless.
+The AWS Serverless Application Model (AWS SAM) simplifies the definition and development of serverless applications.
 
-- Usa uma sintaxe baseada em CloudFormation para Lambda, APIs e eventos.
-- A CLI auxilia construção, teste local, empacotamento e implantação.
-- Os recursos são transformados em infraestrutura CloudFormation.
-- **Dica de prova:** infraestrutura como código focada em serverless aponta para SAM.
+- Uses a CloudFormation-based syntax for Lambda, APIs, and events.
+- The CLI assists building, local testing, packaging, and deployment.
+- Resources are transformed into CloudFormation infrastructure.
+- **Proof tip:** serverless-focused infrastructure as code points to SAM.
 
-Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
 
-> Quando este assunto aparecer em cenários de dados, vale revisar o curso Engenharia de Dados na AWS: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+> When this subject appears in data scenarios, it is worth reviewing the Data Engineering on AWS course: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

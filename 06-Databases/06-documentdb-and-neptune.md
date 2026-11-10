@@ -1,22 +1,22 @@
-﻿# Documentdb E Neptune
+# Documentdb And Neptune
 
-Amazon DocumentDB e Amazon Neptune atendem modelos de dados especializados.
+Amazon DocumentDB and Amazon Neptune serve specialized data models.
 
-- **DocumentDB:** banco de documentos compatível com cargas MongoDB, útil para estruturas JSON flexíveis.
-- **Neptune:** banco de grafos para fraude, redes sociais e recomendações.
-- A escolha acompanha o padrão de consulta, não apenas o formato de entrada.
-- **Dica de prova:** documentos apontam para DocumentDB; relações e travessias de grafo apontam para Neptune.
+- **DocumentDB:** document bank compatible with MongoDB payloads, useful for flexible JSON structures.
+- **Neptune:** graph database for fraud, social networks and recommendations.
+- The choice follows the query pattern, not just the input format.
+- **Test tip:** documents point to DocumentDB; relations and graph traversals point to Neptune.
 
-Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

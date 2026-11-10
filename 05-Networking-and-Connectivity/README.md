@@ -1,47 +1,47 @@
-# Redes e Conectividade
+# Networks and Connectivity
 
-Módulo para reconhecer os serviços de rede mais cobrados no nível Cloud Practitioner.
+Module to recognize the most charged network services at the Cloud Practitioner level.
 
-## Foco do módulo
-- VPC, sub-redes, Security Groups e NACLs.
-- Route 53, CloudFront e conectividade híbrida em alto nível.
-- Conceitos de rede pública, privada e borda.
+## Module focus
+- VPC, subnets, Security Groups and NACLs.
+- Route 53, CloudFront and high-level hybrid connectivity.
+- Public, private and edge network concepts.
 
-## Revisão rápida
-- VPC isola logicamente recursos de rede na AWS.
-- Security Group atua no nível do recurso; NACL atua no nível da sub-rede.
-- CloudFront aproxima conteúdo do usuário por edge locations.
+## Quick Review
+- VPC logically isolates network resources in AWS.
+- Security Group operates at the resource level; NACL operates at the subnet level.
+- CloudFront brings user content closer to edge locations.
 
-## Sinais clássicos de prova
-- "DNS gerenciado" -> Amazon Route 53.
-- "Entregar conteúdo com baixa latência global" -> Amazon CloudFront.
-- "Conexão dedicada entre datacenter e AWS" -> AWS Direct Connect.
+## Classic proof signals
+- "Managed DNS" -> Amazon Route 53.
+- "Deliver content with global low latency" -> Amazon CloudFront.
+- "Dedicated connection between datacenter and AWS" -> AWS Direct Connect.
 
-## Erro comum
-Tratar Security Group e NACL como iguais. Security Group é stateful; NACL é stateless.
+## Common error
+Treat Security Group and NACL as equal. Security Group is stateful; NACL is stateless.
 
-## O que memorizar
-| Comparação | Regra mental de prova |
+## What to memorize
+| Comparison | Mental rule of proof |
 |---|---|
-| Security Group vs NACL | SG protege recurso; NACL protege sub-rede |
-| Route 53 vs CloudFront | Route 53 resolve DNS; CloudFront entrega conteúdo |
+| Security Group vs NACL | SG protects resource; NACL protects subnet |
+| Route 53 vs CloudFront | Route 53 resolves DNS; CloudFront delivers content |
 
-## Ponte para o próximo módulo
-Com rede entendida, avance para banco de dados: onde a aplicação guarda dados estruturados e como isso afeta operação.
+## Bridge to next module
+With the network understood, move on to the database: where the application stores structured data and how this affects operations.
 
-## Continuidade
-Trilha de arquitetura: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+## Continuity
+Architecture Track: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
-> Aprofundamento opcional: para levar este conceito para projetos de dados na AWS, use como próximo passo: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+> Optional Deep Dive: To bring this concept to data projects on AWS, use as a next step: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

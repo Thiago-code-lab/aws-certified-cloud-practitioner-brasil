@@ -1,3 +1,3 @@
-﻿# 📜 Código de Conduta
+# 📜 Code of Conduct
 
-Respeito, colaboração e comunicação construtiva em todas as interações do projeto.
+Respect, collaboration and constructive communication in all project interactions.

@@ -1,25 +1,25 @@
-﻿# Iam
+#Iam
 
-O AWS Identity and Access Management (IAM) controla quem pode acessar recursos e quais ações pode realizar.
+AWS Identity and Access Management (IAM) controls who can access resources and what actions they can perform.
 
-- **Usuários e grupos:** representam pessoas e conjuntos de permissões.
-- **Funções:** fornecem credenciais temporárias para pessoas, aplicações e serviços.
-- **Políticas:** documentos que permitem ou negam ações.
-- **Boa prática:** aplique menor privilégio, MFA e não use a conta-raiz nas tarefas diárias.
+- **Users and groups:** represent people and permission sets.
+- **Functions:** provide temporary credentials for people, applications and services.
+- **Policies:** documents that allow or deny actions.
+- **Best practice:** apply least privilege, MFA and do not use the root account in daily tasks.
 
-Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
 
-> Para aprofundar com projetos de dados na AWS, este material pode complementar a revisão: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+> To delve deeper into data projects in AWS, this material can complement the review: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

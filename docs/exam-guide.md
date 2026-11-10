@@ -1,35 +1,35 @@
-﻿# Exam Guide
+# Exam Guide
 
-O exame CLF-C02 avalia entendimento de nuvem, segurança, serviços AWS e custos em nível fundamental. A preparação deve priorizar decisões e comparações, não memorização isolada.
+The CLF-C02 exam assesses fundamental-level understanding of cloud, security, AWS services, and costs. Preparation should prioritize decisions and comparisons, not isolated memorization.
 
-## Como ler as questões
+## How to read the questions
 
-1. Identifique a necessidade central: segurança, disponibilidade, custo ou menor operação.
-2. Destaque palavras como “gerenciado”, “serverless”, “global” e “menor privilégio”.
-3. Elimine serviços que resolvem outro tipo de problema.
-4. Escolha a opção mais simples que atende todos os requisitos.
+1. Identify the core need: security, availability, cost or reduced operation.
+2. Highlight words like "managed," "serverless," "global," and "least privilege."
+3. Eliminate services that solve another type of problem.
+4. Choose the simplest option that meets all requirements.
 
-## Pontos recorrentes
+## Recurring points
 
-- Responsabilidade compartilhada e IAM.
-- Diferenças entre EC2, contêineres e Lambda.
-- S3, EBS, EFS e classes de armazenamento.
-- CloudWatch, CloudTrail e AWS Config.
-- Pricing Calculator, Cost Explorer, Budgets e planos de suporte.
+- Shared responsibility and IAM.
+- Differences between EC2, containers and Lambda.
+- S3, EBS, EFS and storage classes.
+- CloudWatch, CloudTrail and AWS Config.
+- Pricing Calculator, Cost Explorer, Budgets and support plans.
 
-Use a página oficial do exame para confirmar formato, políticas e conteúdo vigente antes do agendamento.
+Use the official exam page to confirm the current format, policies and content before scheduling.
 
-Arquitetura: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
-IA na AWS: https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil
+Architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+AI on AWS: https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil
 
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

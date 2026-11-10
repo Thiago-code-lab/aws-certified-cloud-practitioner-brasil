@@ -1,47 +1,47 @@
-# Precificação e Suporte
+# Pricing and Support
 
-Módulo para decisão de custo: modelos de cobrança, visibilidade financeira e suporte.
+Cost decision module: billing models, financial visibility and support.
 
-## Foco do módulo
-- On-Demand, Reserved/Savings e Spot.
-- Budgets e Cost Explorer.
-- Planos de suporte em nível introdutório.
+## Module focus
+- On-Demand, Reserved/Savings and Spot.
+- Budgets and Cost Explorer.
+- Introductory level support plans.
 
-## Revisão rápida
-- On-Demand para carga variável.
-- Spot para cargas tolerantes a interrupção.
-- Budgets alerta desvio; Cost Explorer analisa tendência histórica.
+## Quick Review
+- On-Demand for variable load.
+- Spot for interruption tolerant loads.
+- Budgets alerts deviation; Cost Explorer analyzes historical trends.
 
-## Sinais clássicos de prova
-- "Alerta de gasto mensal" -> AWS Budgets.
-- "Analisar custo passado e prever" -> Cost Explorer.
-- "Reduzir custo de workload estável" -> Reserved/Savings.
+## Classic proof signals
+- "Monthly expense alert" -> AWS Budgets.
+- "Analyze past cost and forecast" -> Cost Explorer.
+- "Reduce stable workload cost" -> Reserved/Savings.
 
-## Erro comum
-Comparar apenas preço por hora e ignorar custo total de operação: armazenamento, transferência, recuperação e suporte.
+## Common error
+Compare hourly price only and ignore total operation cost: storage, transfer, retrieval and support.
 
-## O que memorizar
-| Comparação | Regra mental de prova |
+## What to memorize
+| Comparison | Mental rule of proof |
 |---|---|
-| On-Demand vs Spot | On-Demand sem compromisso; Spot com desconto e risco de interrupção |
-| Budgets vs Cost Explorer | Budgets alerta limite; Cost Explorer analisa uso/custo no tempo |
+| On-Demand vs Spot | On-Demand without commitment; Spot with discount and risk of interruption |
+| Budgets vs Cost Explorer | Budgets limit alert; Cost Explorer analyzes usage/cost over time |
 
-## Ponte de consolidação
-Ciclo recomendado de revisão: fundamentos -> segurança -> S3 -> custos.
+## Consolidation bridge
+Recommended review cycle: fundamentals -> security -> S3 -> costs.
 
-## Continuidade
-Trilha de arquitetura: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+## Continuity
+Architecture Track: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
-> Próximo passo sugerido: aplicar estes conceitos em cenários de engenharia de dados na AWS: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+> Suggested next step: apply these concepts in data engineering scenarios on AWS: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

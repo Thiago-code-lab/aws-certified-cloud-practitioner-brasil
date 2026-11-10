@@ -1,22 +1,22 @@
-﻿# Aurora
+# Aurora
 
-Amazon Aurora é um banco relacional gerenciado compatível com MySQL e PostgreSQL, criado para desempenho e disponibilidade na AWS.
+Amazon Aurora is a MySQL and PostgreSQL-compatible managed relational database built for performance and availability on AWS.
 
-- O armazenamento distribuído cresce automaticamente.
-- Réplicas Aurora escalam leitura e reduzem o tempo de failover.
-- Aurora Serverless ajusta capacidade para cargas compatíveis e variáveis.
-- **Dica de prova:** requisito relacional compatível com MySQL/PostgreSQL e nativo da AWS aponta para Aurora.
+- Distributed storage grows automatically.
+- Aurora Replicas scale read and reduce failover time.
+- Aurora Serverless adjusts capacity for compatible and variable loads.
+- **Test tip:** MySQL/PostgreSQL-compatible and AWS-native relational requirement points to Aurora.
 
-Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

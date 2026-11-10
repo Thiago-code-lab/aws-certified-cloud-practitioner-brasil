@@ -1,25 +1,25 @@
-﻿# Amazon Polly E Transcribe
+#Amazon Polly E Transcribe
 
-Amazon Polly e Amazon Transcribe convertem conteúdo entre texto e voz em sentidos opostos.
+Amazon Polly and Amazon Transcribe convert content between text and speech in opposite directions.
 
-- **Polly:** transforma texto em fala natural.
-- **Transcribe:** transforma áudio de fala em texto.
-- Casos comuns incluem acessibilidade, legendas, bots de voz e transcrição de chamadas.
-- **Dica de prova:** texto para áudio aponta para Polly; áudio para texto aponta para Transcribe.
+- **Polly:** turns text into natural speech.
+- **Transcribe:** transforms speech audio into text.
+- Common cases include accessibility, captions, voice bots, and call transcription.
+- **Test tip:** text to audio points to Polly; audio to text points to Transcribe.
 
-Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
 
-> Para aprofundar com projetos de dados na AWS, este material pode complementar a revisão: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+> To delve deeper into data projects in AWS, this material can complement the review: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

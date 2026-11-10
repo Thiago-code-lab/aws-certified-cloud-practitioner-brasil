@@ -1,10 +1,10 @@
-# Gabaritos
+# Jigs
 
-Os gabaritos permitem corrigir as questões por domínio e o simulado completo.
+The answer sheets allow you to correct the questions by domain and the complete simulation.
 
-1. Responda primeiro sem consultar esta pasta.
-2. Compare a alternativa escolhida com a resposta indicada.
-3. Registre o motivo do erro: conceito, comparação, distração ou gestão de tempo.
-4. Volte ao módulo relacionado e tente explicar a resposta com suas próprias palavras.
+1. Respond first without consulting this folder.
+2. Compare the chosen alternative with the indicated answer.
+3. Record the reason for the error: concept, comparison, distraction or time management.
+4. Go back to the related module and try to explain the answer in your own words.
 
-O objetivo não é decorar letras, mas reconhecer o requisito que torna uma alternativa mais adequada que as demais.
+The objective is not to memorize letters, but to recognize the requirement that makes an alternative more suitable than the others.

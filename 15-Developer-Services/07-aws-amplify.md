@@ -1,25 +1,25 @@
-﻿# Aws Amplify
+# AWS Amplify
 
-O AWS Amplify fornece ferramentas e serviços para criar e hospedar aplicações web e móveis conectadas a backends na AWS.
+AWS Amplify provides tools and services for building and hosting web and mobile applications connected to backends on AWS.
 
-- Facilita integração com autenticação, APIs, dados e armazenamento.
-- Hospedagem pode automatizar build e publicação a partir de um repositório.
-- É útil para equipes frontend que querem reduzir configuração de infraestrutura.
-- **Dica de prova:** experiência integrada para app web/móvel aponta para Amplify.
+- Facilitates integration with authentication, APIs, data and storage.
+- Hosting can automate build and publish from a repository.
+- It is useful for frontend teams that want to reduce infrastructure configuration.
+- **Test tip:** integrated experience for web/mobile app points to Amplify.
 
-Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
 
-> Complemento de carreira: quem quer sair da base de cloud para projetos reais de dados pode seguir por aqui: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+> Career complement: anyone who wants to move from the cloud base to real data projects can follow here: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

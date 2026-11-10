@@ -1,32 +1,32 @@
-﻿# Simulado Completo - Revisão Final CLF-C02
+# Complete Simulation - Final Review CLF-C02
 
-Este simulado curto foi desenhado para treino final com foco em tomada de decisão básica.
+This short simulation was designed for final training focusing on basic decision making.
 
-## Questão 1
-Uma empresa precisa escalar rapidamente durante picos e reduzir recursos após o pico. Qual benefício da nuvem melhor descreve isso?
+## Question 1
+A company needs to scale quickly during peaks and reduce resources after the peak. Which benefit of the cloud best describes this?
 
-A) Imutabilidade
-B) Elasticidade
-C) Isolamento físico dedicado
-D) Latência fixa
+A) Immutability
+B) Elasticity
+C) Dedicated physical isolation
+D) Fixed latency
 
 <details>
-<summary><strong>Ver resposta</strong></summary>
+<summary><strong>View answer</strong></summary>
 
-✅ **Resposta correta:** B
+✅ **Correct answer:** B
 
-**Explicação:**
-Elasticidade é ajuste de capacidade conforme demanda.
+**Explanation:**
+Elasticity is capacity adjustment according to demand.
 
-**Por que a alternativa C está errada:**
-Dedicado físico não é o benefício principal desse cenário.
+**Why option C is wrong:**
+Dedicated physical is not the primary benefit of this scenario.
 
 </details>
 
 ---
 
-## Questão 2
-Qual serviço é mais apropriado para trilha de auditoria de ações na conta?
+## Question 2
+Which service is most appropriate for audit trail of actions on the account?
 
 A) CloudTrail
 B) S3
@@ -34,22 +34,22 @@ C) EBS
 D) Athena
 
 <details>
-<summary><strong>Ver resposta</strong></summary>
+<summary><strong>View answer</strong></summary>
 
-✅ **Resposta correta:** A
+✅ **Correct answer:** A
 
-**Explicação:**
-CloudTrail registra eventos e chamadas de API.
+**Explanation:**
+CloudTrail logs events and API calls.
 
-**Por que a alternativa B está errada:**
-S3 armazena objetos, não é trilha de auditoria por si só.
+**Why option B is wrong:**
+S3 stores objects, it is not audit trail by itself.
 
 </details>
 
 ---
 
-## Questão 3
-Qual opção representa melhor banco relacional gerenciado na AWS?
+## Question 3
+Which option best represents managed relational banking on AWS?
 
 A) DynamoDB
 B) RDS
@@ -57,22 +57,22 @@ C) ElastiCache
 D) S3
 
 <details>
-<summary><strong>Ver resposta</strong></summary>
+<summary><strong>View answer</strong></summary>
 
-✅ **Resposta correta:** B
+✅ **Correct answer:** B
 
-**Explicação:**
-RDS é serviço relacional gerenciado.
+**Explanation:**
+RDS is managed relational service.
 
-**Por que a alternativa A está errada:**
-DynamoDB é NoSQL.
+**Why is option A wrong:**
+DynamoDB is NoSQL.
 
 </details>
 
 ---
 
-## Questão 4
-Qual serviço auxilia no acompanhamento e previsão de custos?
+## Question 4
+Which service helps monitor and forecast costs?
 
 A) Cost Explorer
 B) KMS
@@ -80,45 +80,45 @@ C) Route 53
 D) ECS
 
 <details>
-<summary><strong>Ver resposta</strong></summary>
+<summary><strong>View answer</strong></summary>
 
-✅ **Resposta correta:** A
+✅ **Correct answer:** A
 
-**Explicação:**
-Cost Explorer é voltado a análise de custos e uso.
+**Explanation:**
+Cost Explorer is aimed at cost and usage analysis.
 
-**Por que a alternativa C está errada:**
-Route 53 é serviço de DNS.
+**Why option C is wrong:**
+Route 53 is DNS service.
 
 </details>
 
 ---
 
-## Questão 5
-No modelo de responsabilidade compartilhada, quem define política de senha dos usuários IAM?
+## Question 5
+In the shared responsibility model, who sets the password policy for IAM users?
 
 A) AWS
-B) Cliente
+B) Customer
 C) AWS Support
-D) Parceiro de treinamento
+D) Training partner
 
 <details>
-<summary><strong>Ver resposta</strong></summary>
+<summary><strong>View answer</strong></summary>
 
-✅ **Resposta correta:** B
+✅ **Correct answer:** B
 
-**Explicação:**
-Configuração de identidade e acesso do cliente é responsabilidade do cliente.
+**Explanation:**
+Configuring customer identity and access is the customer's responsibility.
 
-**Por que a alternativa A está errada:**
-AWS não define política interna de conta do cliente.
+**Why is option A wrong:**
+AWS does not set internal customer account policy.
 
 </details>
 
 ---
 
-## Questão 6
-Qual serviço é usado para hospedar objetos e conteúdo estático?
+## Question 6
+Which service is used to host static objects and content?
 
 A) S3
 B) Aurora
@@ -126,45 +126,45 @@ C) EC2 Auto Scaling
 D) IAM
 
 <details>
-<summary><strong>Ver resposta</strong></summary>
+<summary><strong>View answer</strong></summary>
 
-✅ **Resposta correta:** A
+✅ **Correct answer:** A
 
-**Explicação:**
-S3 é armazenamento de objetos e base comum para conteúdo estático.
+**Explanation:**
+S3 is object storage and common base for static content.
 
-**Por que a alternativa D está errada:**
-IAM trata identidade, não hospedagem de arquivos.
+**Why option D is wrong:**
+IAM is about identity, not file hosting.
 
 </details>
 
 ---
 
-## Questão 7
-Qual estratégia costuma aumentar disponibilidade de aplicação web?
+## Question 7
+Which strategy usually increases web application availability?
 
-A) Uma instância em uma única AZ
-B) Múltiplas AZs
-C) Sem backup
-D) Sem monitoramento
+A) One instance in a single AZ
+B) Multiple AZs
+C) No backup
+D) No monitoring
 
 <details>
-<summary><strong>Ver resposta</strong></summary>
+<summary><strong>View answer</strong></summary>
 
-✅ **Resposta correta:** B
+✅ **Correct answer:** B
 
-**Explicação:**
-Múltiplas AZs reduzem impacto de falhas locais.
+**Explanation:**
+Multiple AZs reduce impact of local failures.
 
-**Por que a alternativa A está errada:**
-Um único ponto de falha diminui disponibilidade.
+**Why is option A wrong:**
+A single point of failure decreases availability.
 
 </details>
 
 ---
 
-## Questão 8
-Para executar função sem gerenciar servidor, a escolha mais direta é:
+## Question 8
+To perform function without managing server, the most direct choice is:
 
 A) Lambda
 B) EC2
@@ -172,45 +172,45 @@ C) Redshift
 D) Direct Connect
 
 <details>
-<summary><strong>Ver resposta</strong></summary>
+<summary><strong>View answer</strong></summary>
 
-✅ **Resposta correta:** A
+✅ **Correct answer:** A
 
-**Explicação:**
-Lambda é serviço serverless para execução de código.
+**Explanation:**
+Lambda is a serverless service for executing code.
 
-**Por que a alternativa B está errada:**
-EC2 exige gestão de instâncias.
+**Why option B is wrong:**
+EC2 requires instance management.
 
 </details>
 
 ---
 
-## Questão 9
-Qual prática de segurança é recomendada para conta root?
+## Question 9
+What security practice is recommended for the root account?
 
-A) Compartilhar credencial com equipe
-B) Desativar MFA
-C) Ativar MFA e reduzir uso
-D) Criar chaves de acesso para automação
+A) Share credential with team
+B) Disable MFA
+C) Enable MFA and reduce usage
+D) Create access keys for automation
 
 <details>
-<summary><strong>Ver resposta</strong></summary>
+<summary><strong>View answer</strong></summary>
 
-✅ **Resposta correta:** C
+✅ **Correct answer:** C
 
-**Explicação:**
-Root deve ter MFA e uso restrito.
+**Explanation:**
+Root must have MFA and restricted use.
 
-**Por que a alternativa D está errada:**
-Chaves permanentes de root são alto risco.
+**Why option D is wrong:**
+Permanent root keys are high risk.
 
 </details>
 
 ---
 
-## Questão 10
-Qual ferramenta envia alerta quando o custo ultrapassa limite definido?
+## Question 10
+Which tool sends an alert when the cost exceeds a defined limit?
 
 A) AWS Budgets
 B) AWS Artifact
@@ -218,26 +218,26 @@ C) AWS Config
 D) CloudFront
 
 <details>
-<summary><strong>Ver resposta</strong></summary>
+<summary><strong>View answer</strong></summary>
 
-✅ **Resposta correta:** A
+✅ **Correct answer:** A
 
-**Explicação:**
-Budgets gera alertas de custo, uso e forecast.
+**Explanation:**
+Budgets generates cost, usage and forecast alerts.
 
-**Por que a alternativa C está errada:**
-Config avalia conformidade de recursos, não orçamento financeiro.
+**Why option C is wrong:**
+Config evaluates resource compliance, not financial budget.
 
 </details>
 
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

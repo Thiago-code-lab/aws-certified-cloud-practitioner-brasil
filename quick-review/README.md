@@ -1,61 +1,61 @@
-# Revisão Rápida - CLF-C02
+# Quick Review - CLF-C02
 
-Use este bloco para sessões de 20 a 30 minutos, com foco por domínio. Ele não substitui os flashcards: aqui a ideia é diagnosticar lacunas rapidamente antes de voltar ao módulo certo.
+Use this block for 20-30 minute sessions, focused by domain. It doesn't replace flashcards: here the idea is to quickly diagnose gaps before returning to the right module.
 
-## Revisão por domínio
-| Domínio | Revisão curta | Quando usar |
+## Review by domain
+| Domain | Short Review | When to use |
 |---|---|---|
-| Fundamentos de nuvem | [fundamentos.md](./fundamentos.md) | Quando errar Região, AZ, elasticidade ou responsabilidade compartilhada |
-| IAM e segurança | [seguranca.md](./seguranca.md) | Quando errar identidade, permissões, auditoria ou compliance |
-| S3 e armazenamento | [armazenamento.md](./armazenamento.md) | Quando errar S3, EBS, EFS, classes ou lifecycle |
-| Custos e precificação | [custos.md](./custos.md) | Quando errar Budgets, Cost Explorer, Spot, suporte ou modelos de preço |
+| Cloud Fundamentals | [fundamentals.md](./fundamentals.md) | When to make a mistake Region, AZ, elasticity or shared responsibility |
+| IAM and security | [security.md](./security.md) | When you get identity, permissions, auditing or compliance wrong |
+| S3 and Storage | [storage.md](./storage.md) | When you make a mistake S3, EBS, EFS, classes or lifecycle |
+| Costs and pricing | [costs.md](./costs.md) | When you get it wrong Budgets, Cost Explorer, Spot, support or pricing models |
 
-## Fluxo sugerido
-1. Execute o [checklist de véspera](./checklist-vespera.md).
-2. Revise o domínio com maior erro usando os arquivos acima.
-3. Consulte [serviços-chave](./servicos-chave.md) para comparação rápida.
-4. Releia [erros frequentes](./erros-frequentes.md) antes de resolver novas questões.
+## Suggested flow
+1. Run the [eve checklist](./exam-eve-checklist.md).
+2. Review the domain with the highest error using the files above.
+3. See [key services](./key-services.md) for quick comparison.
+4. Reread [common errors](./common-mistakes.md) before solving new questions.
 
-## Mini treino diagnóstico
+## Mini diagnostic training
 
-### Questão 1
-Uma aplicação precisa continuar disponível se um data center isolado da Região falhar. Qual desenho atende melhor ao nível CLF-C02?
+### Question 1
+An application must remain available if an isolated data center in the Region fails. Which design best meets the CLF-C02 level?
 
 A) Multi-AZ  
-B) Usuário root com MFA  
+B) Root user with MFA  
 C) S3 Glacier Deep Archive  
 D) AWS Budgets
 
 <details>
-<summary><strong>Ver resposta</strong></summary>
+<summary><strong>View answer</strong></summary>
 
-**Resposta correta:** A
+**Correct answer:** A
 
-**Explicação:**
-Multi-AZ distribui recursos entre Zonas de Disponibilidade e é a associação mais direta para alta disponibilidade regional.
+**Explanation:**
+Multi-AZ distributes resources across Availability Zones and is the most direct association for regional high availability.
 
 </details>
 
-### Questão 2
-Uma equipe quer permitir que uma aplicação em EC2 acesse um bucket S3 sem armazenar access keys no servidor. Qual opção é mais adequada?
+### Question 2
+A team wants to allow an EC2 application to access an S3 bucket without storing access keys on the server. Which option is most suitable?
 
-A) IAM Role para a instância  
+A) IAM Role for instance  
 B) AWS Artifact  
-C) Plano de suporte Developer  
+C) Developer support plan  
 D) S3 Lifecycle
 
 <details>
-<summary><strong>Ver resposta</strong></summary>
+<summary><strong>View answer</strong></summary>
 
-**Resposta correta:** A
+**Correct answer:** A
 
-**Explicação:**
-IAM Role fornece credenciais temporárias e permissões controladas para a aplicação, reduzindo risco operacional.
+**Explanation:**
+IAM Role provides temporary credentials and controlled permissions for the application, reducing operational risk.
 
 </details>
 
-### Questão 3
-Arquivos de log devem ser mantidos por anos, quase nunca acessados, e podem levar horas para recuperação. Qual escolha é mais coerente?
+### Question 3
+Log files must be kept for years, almost never accessed, and can take hours to retrieve. Which choice is more coherent?
 
 A) S3 Glacier Deep Archive  
 B) S3 Standard  
@@ -63,17 +63,17 @@ C) EBS gp3
 D) EC2 On-Demand
 
 <details>
-<summary><strong>Ver resposta</strong></summary>
+<summary><strong>View answer</strong></summary>
 
-**Resposta correta:** A
+**Correct answer:** A
 
-**Explicação:**
-Glacier Deep Archive é voltado a retenção longa, acesso raríssimo e custo baixo, aceitando recuperação mais demorada.
+**Explanation:**
+Glacier Deep Archive is aimed at long retention, very rare access and low cost, accepting longer recovery.
 
 </details>
 
-### Questão 4
-Antes de lançar uma arquitetura, a empresa quer estimar mensalmente quanto ela deve custar. Qual ferramenta usar?
+### Question 4
+Before launching an architecture, the company wants to estimate monthly how much it should cost. Which tool to use?
 
 A) AWS Pricing Calculator  
 B) AWS CloudTrail  
@@ -81,22 +81,22 @@ C) Amazon GuardDuty
 D) S3 Transfer Acceleration
 
 <details>
-<summary><strong>Ver resposta</strong></summary>
+<summary><strong>View answer</strong></summary>
 
-**Resposta correta:** A
+**Correct answer:** A
 
-**Explicação:**
-Pricing Calculator estima custo planejado antes do uso. Para analisar gasto já ocorrido, a associação seria Cost Explorer.
+**Explanation:**
+Pricing Calculator estimates planned cost before use. To analyze expenses that have already occurred, the association would be Cost Explorer.
 
 </details>
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

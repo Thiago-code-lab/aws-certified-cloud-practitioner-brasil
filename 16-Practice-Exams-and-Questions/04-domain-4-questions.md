@@ -1,30 +1,30 @@
-﻿# Questões Domínio 4 - Billing, Pricing e Suporte
+# Questions Domain 4 - Billing, Pricing and Support
 
-## Questão 1
-Qual modelo de cobrança AWS é mais adequado para carga imprevisível sem compromisso?
+## Question 1
+Which AWS billing model is best suited for unpredictable load without commitment?
 
 A) Savings Plans
-B) Instância Reservada de longo prazo
+B) Long-term Reserved Instance
 C) On-Demand
-D) Spot apenas
+D) Spot only
 
 <details>
-<summary><strong>Ver resposta</strong></summary>
+<summary><strong>View answer</strong></summary>
 
-✅ **Resposta correta:** C
+✅ **Correct answer:** C
 
-**Explicação:**
-On-Demand oferece flexibilidade sem compromisso de uso.
+**Explanation:**
+On-Demand offers uncompromised usage flexibility.
 
-**Por que a alternativa A está errada:**
-Savings Plans exigem compromisso para desconto.
+**Why is option A wrong:**
+Savings Plans require commitment for discount.
 
 </details>
 
 ---
 
-## Questão 2
-Qual serviço ajuda a visualizar custo histórico por serviço e período?
+## Question 2
+Which service helps you view historical cost by service and period?
 
 A) AWS Cost Explorer
 B) AWS Shield
@@ -32,22 +32,22 @@ C) Amazon VPC
 D) AWS Lambda
 
 <details>
-<summary><strong>Ver resposta</strong></summary>
+<summary><strong>View answer</strong></summary>
 
-✅ **Resposta correta:** A
+✅ **Correct answer:** A
 
-**Explicação:**
-Cost Explorer analisa gasto e tendências de consumo.
+**Explanation:**
+Cost Explorer analyzes spending and consumer trends.
 
-**Por que a alternativa D está errada:**
-Lambda executa código, não faz análise de custo.
+**Why option D is wrong:**
+Lambda executes code, does not perform cost analysis.
 
 </details>
 
 ---
 
-## Questão 3
-Qual serviço permite configurar alertas quando gasto se aproxima do limite?
+## Question 3
+Which service allows you to set up alerts when spending approaches the limit?
 
 A) AWS Budgets
 B) Amazon Inspector
@@ -55,22 +55,22 @@ C) AWS WAF
 D) AWS Glue
 
 <details>
-<summary><strong>Ver resposta</strong></summary>
+<summary><strong>View answer</strong></summary>
 
-✅ **Resposta correta:** A
+✅ **Correct answer:** A
 
-**Explicação:**
-Budgets envia notificações com base em limites definidos.
+**Explanation:**
+Budgets sends notifications based on defined thresholds.
 
-**Por que a alternativa B está errada:**
-Inspector trata de segurança e vulnerabilidades.
+**Why option B is wrong:**
+Inspector deals with security and vulnerabilities.
 
 </details>
 
 ---
 
-## Questão 4
-Uma carga tolera interrupção e busca menor custo possível em computação. Qual opção considerar?
+## Question 4
+A load tolerates interruption and seeks the lowest possible computing cost. Which option to consider?
 
 A) On-Demand
 B) Spot
@@ -78,45 +78,45 @@ C) Dedicated Host
 D) Enterprise Support
 
 <details>
-<summary><strong>Ver resposta</strong></summary>
+<summary><strong>View answer</strong></summary>
 
-✅ **Resposta correta:** B
+✅ **Correct answer:** B
 
-**Explicação:**
-Spot oferece grande desconto com risco de interrupção.
+**Explanation:**
+Spot offers big discount with risk of interruption.
 
-**Por que a alternativa A está errada:**
-On-Demand é flexível, mas normalmente mais caro que Spot.
+**Why is option A wrong:**
+On-Demand is flexible but typically more expensive than Spot.
 
 </details>
 
 ---
 
-## Questão 5
-Qual melhor uso do AWS Pricing Calculator?
+## Question 5
+What is the best use for AWS Pricing Calculator?
 
-A) Bloquear acesso IAM
-B) Estimar custo de arquitetura antes da implantação
-C) Fazer deploy automático
-D) Detectar malware
+A) Block IAM access
+B) Estimate architectural cost before deployment
+C) Make automatic deployment
+D) Detect malware
 
 <details>
-<summary><strong>Ver resposta</strong></summary>
+<summary><strong>View answer</strong></summary>
 
-✅ **Resposta correta:** B
+✅ **Correct answer:** B
 
-**Explicação:**
-Pricing Calculator ajuda no planejamento financeiro prévio.
+**Explanation:**
+Pricing Calculator helps in advance financial planning.
 
-**Por que a alternativa C está errada:**
-Deploy é função de ferramentas de entrega/infra.
+**Why option C is wrong:**
+Deploy is delivery/infra tools function.
 
 </details>
 
 ---
 
-## Questão 6
-Qual plano de suporte inclui guidance para ambientes de produção mais críticos?
+## Question 6
+Which support plan includes guidance for more critical production environments?
 
 A) Basic
 B) Developer
@@ -124,29 +124,29 @@ C) Business/Enterprise
 D) Free Tier
 
 <details>
-<summary><strong>Ver resposta</strong></summary>
+<summary><strong>View answer</strong></summary>
 
-✅ **Resposta correta:** C
+✅ **Correct answer:** C
 
-**Explicação:**
-Planos Business/Enterprise incluem recursos avançados de suporte.
+**Explanation:**
+Business/Enterprise Plans include advanced support features.
 
-**Por que a alternativa A está errada:**
-Basic tem escopo reduzido e sem orientação avançada.
+**Why is option A wrong:**
+Basic has reduced scope and no advanced guidance.
 
 </details>
 
 
 
-> Recurso complementar: se quiser conectar este fundamento com pipelines e analytics na AWS, veja o curso Engenharia de Dados na AWS: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+> Complementary resource: if you want to connect this foundation with pipelines and analytics in AWS, see the Data Engineering in AWS course: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

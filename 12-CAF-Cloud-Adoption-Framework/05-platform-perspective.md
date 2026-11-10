@@ -1,25 +1,25 @@
-﻿# Perspectiva Platform
+# Perspective Platform
 
-A perspectiva Platform trata da arquitetura e da base tecnológica usada para criar e migrar cargas na nuvem.
+The Platform perspective addresses the architecture and technology foundation used to create and migrate cloud payloads.
 
-- Inclui landing zones, redes, contas, automação e padrões de arquitetura.
-- Incentiva infraestrutura como código e ambientes repetíveis.
-- Cria uma fundação segura para equipes de aplicação.
-- **Dica de prova:** desenho da plataforma, provisionamento e arquitetura apontam para Platform.
+- Includes landing zones, networks, accounts, automation and architectural patterns.
+- Encourages infrastructure as code and repeatable environments.
+- Creates a secure foundation for application teams.
+- **Test tip:** platform design, provisioning and architecture point to Platform.
 
-Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
 
-> Para aprofundar com projetos de dados na AWS, este material pode complementar a revisão: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+> To delve deeper into data projects in AWS, this material can complement the review: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

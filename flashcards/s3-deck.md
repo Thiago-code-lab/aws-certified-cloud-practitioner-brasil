@@ -1,144 +1,144 @@
 # Deck Amazon S3
 
 ## Card 01
-**Pergunta:** No S3, o que é armazenado dentro de um bucket?
+**Question:** In S3, what is stored inside a bucket?
 
 <details>
-<summary><strong>Ver resposta</strong></summary>
+<summary><strong>View answer</strong></summary>
 
-**Resposta:**
-Objetos. Cada objeto combina dados, metadados e uma chave única dentro do bucket.
+**Answer:**
+Objects. Each object combines data, metadata, and a unique key within the bucket.
 
 </details>
 
 ## Card 02
-**Pergunta:** Qual número mental ajuda a lembrar a durabilidade do S3?
+**Question:** What mental number helps you remember the durability of the S3?
 
 <details>
-<summary><strong>Ver resposta</strong></summary>
+<summary><strong>View answer</strong></summary>
 
-**Resposta:**
-Onze noves de durabilidade: 99,999999999%. A prova usa isso para reforçar preservação de objetos, não ausência total de indisponibilidade.
+**Answer:**
+Eleven nines of durability: 99.999999999%. The proof uses this to enforce preservation of objects, not total absence of unavailability.
 
 </details>
 
 ## Card 03
-**Pergunta:** Versionamento protege melhor contra qual acidente operacional?
+**Question:** Versioning best protects against which operational accident?
 
 <details>
-<summary><strong>Ver resposta</strong></summary>
+<summary><strong>View answer</strong></summary>
 
-**Resposta:**
-Sobrescrita ou exclusão acidental de objetos. Ele permite recuperar versões anteriores quando habilitado no bucket.
+**Answer:**
+Accidentally overwriting or deleting objects. It allows you to recover previous versions when enabled on the bucket.
 
 </details>
 
 ## Card 04
-**Pergunta:** Quando lifecycle é a resposta mais provável?
+**Question:** When is lifecycle the most likely answer?
 
 <details>
-<summary><strong>Ver resposta</strong></summary>
+<summary><strong>View answer</strong></summary>
 
-**Resposta:**
-Quando o enunciado pede movimentar objetos automaticamente para classes mais baratas ou expirar dados antigos.
+**Answer:**
+When the statement asks to automatically move objects to cheaper classes or expire old data.
 
 </details>
 
 ## Card 05
-**Pergunta:** Dados acessados com frequência e sem padrão claro devem começar em qual classe?
+**Question:** Frequently accessed data without a clear pattern should start in which class?
 
 <details>
-<summary><strong>Ver resposta</strong></summary>
+<summary><strong>View answer</strong></summary>
 
-**Resposta:**
-S3 Standard. É a escolha padrão para acesso frequente, baixa latência e alta disponibilidade.
+**Answer:**
+S3 Standard. It's the default choice for frequent access, low latency, and high availability.
 
 </details>
 
 ## Card 06
-**Pergunta:** Para dados raramente acessados, mas que precisam voltar rápido, qual família de classes faz sentido?
+**Question:** For data that is rarely accessed but needs to be returned quickly, which class family makes sense?
 
 <details>
-<summary><strong>Ver resposta</strong></summary>
+<summary><strong>View answer</strong></summary>
 
-**Resposta:**
-S3 Standard-IA ou S3 One Zone-IA. A escolha depende do requisito de disponibilidade e do risco aceito.
+**Answer:**
+S3 Standard-IA or S3 One Zone-IA. The choice depends on the availability requirement and the accepted risk.
 
 </details>
 
 ## Card 07
-**Pergunta:** Se a recuperação pode levar minutos ou horas e o objetivo é arquivamento barato, qual pista aparece?
+**Question:** If recovery can take minutes or hours and the goal is cheap archiving, what clue appears?
 
 <details>
-<summary><strong>Ver resposta</strong></summary>
+<summary><strong>View answer</strong></summary>
 
-**Resposta:**
-Glacier. Para retenção muito longa e acesso raríssimo, a prova pode apontar para Glacier Deep Archive.
+**Answer:**
+Glacier. For very long retention and very rare access, the evidence may point to Glacier Deep Archive.
 
 </details>
 
 ## Card 08
-**Pergunta:** Site estático no S3 exige só enviar arquivos HTML?
+**Question:** Static site on S3 only requires uploading HTML files?
 
 <details>
-<summary><strong>Ver resposta</strong></summary>
+<summary><strong>View answer</strong></summary>
 
-**Resposta:**
-Não. É preciso habilitar static website hosting, configurar documento de índice/erro e ajustar leitura pública ou distribuição via CloudFront.
+**Answer:**
+No. You need to enable static website hosting, configure index/error document and adjust public reading or distribution via CloudFront.
 
 </details>
 
 ## Card 09
-**Pergunta:** Qual controle moderno deve ser preferido a ACLs individuais para acesso em buckets?
+**Question:** Which modern control should be preferred over individual ACLs for bucket access?
 
 <details>
-<summary><strong>Ver resposta</strong></summary>
+<summary><strong>View answer</strong></summary>
 
-**Resposta:**
-Políticas IAM e bucket policies. ACLs são menos indicadas para governança ampla em ambientes atuais.
+**Answer:**
+IAM policies and bucket policies. ACLs are less suitable for broad governance in current environments.
 
 </details>
 
 ## Card 10
-**Pergunta:** S3 serve como disco de boot de uma instância EC2?
+**Question:** Does S3 serve as the boot disk of an EC2 instance?
 
 <details>
-<summary><strong>Ver resposta</strong></summary>
+<summary><strong>View answer</strong></summary>
 
-**Resposta:**
-Não. S3 é armazenamento de objetos via API. Para volume de bloco de EC2, memorize Amazon EBS.
+**Answer:**
+No. S3 is object storage via API. For EC2 block volume, remember Amazon EBS.
 
 </details>
 
 ## Card 11
-**Pergunta:** Qual recurso ajuda usuários distantes a enviar objetos para S3 com menor impacto de latência?
+**Question:** Which feature helps distant users send objects to S3 with less latency impact?
 
 <details>
-<summary><strong>Ver resposta</strong></summary>
+<summary><strong>View answer</strong></summary>
 
-**Resposta:**
-S3 Transfer Acceleration, usando a rede de borda da AWS para acelerar transferências em cenários específicos.
+**Answer:**
+S3 Transfer Acceleration, using AWS Edge Networking to accelerate transfers in specific scenarios.
 
 </details>
 
 ## Card 12
-**Pergunta:** S3 Intelligent-Tiering resolve qual dúvida comum de armazenamento?
+**Question:** S3 Intelligent-Tiering solves what common storage question?
 
 <details>
-<summary><strong>Ver resposta</strong></summary>
+<summary><strong>View answer</strong></summary>
 
-**Resposta:**
-Quando o padrão de acesso é desconhecido ou muda com o tempo. Ele move objetos entre camadas de acesso para otimizar custo automaticamente.
+**Answer:**
+When the access pattern is unknown or changes over time. It moves objects between access tiers to automatically optimize cost.
 
 </details>
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

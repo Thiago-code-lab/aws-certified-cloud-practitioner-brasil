@@ -1,44 +1,44 @@
-# Introdução à Computação em Nuvem
+# Introduction to Cloud Computing
 
-Base do CLF-C02: benefícios da nuvem, infraestrutura global e linguagem de prova.
+CLF-C02 foundation: cloud benefits, global infrastructure, and proof language.
 
-## Foco do módulo
-- Benefícios da nuvem: agilidade, elasticidade e OPEX.
-- Região e Zona de Disponibilidade (AZ).
-- Responsabilidade compartilhada em alto nível.
+## Module focus
+- Cloud benefits: agility, elasticity and OPEX.
+- Region and Availability Zone (AZ).
+- Shared responsibility at a high level.
 
-## Revisão rápida
-- Diferencie elasticidade (ajuste dinâmico) de escalabilidade (crescimento sustentável).
-- Região define geografia; AZ define isolamento para alta disponibilidade.
-- Nuvem reduz CAPEX e acelera provisionamento.
+## Quick Review
+- Differentiate between elasticity (dynamic adjustment) and scalability (sustainable growth).
+- Region defines geography; AZ defines isolation for high availability.
+- Cloud reduces CAPEX and speeds up provisioning.
 
-## Sinais clássicos de prova
-- "Baixa latência para país específico" -> escolha de Região adequada.
-- "Continuidade mesmo com falha local" -> distribuição em múltiplas AZs.
-- "Começar rápido sem comprar hardware" -> benefício de agilidade da nuvem.
+## Classic proof signals
+- "Low latency for specific country" -> choose suitable Region.
+- "Continuity even with local failure" -> distribution across multiple AZs.
+- "Start fast without buying hardware" -> cloud agility benefit.
 
-## Erro comum
-Confundir alta performance com alta disponibilidade. Performance é velocidade; disponibilidade é continuidade.
+## Common error
+Confusing high performance with high availability. Performance is speed; availability is continuity.
 
-## O que memorizar
-| Comparação | Regra mental de prova |
+## What to memorize
+| Comparison | Mental rule of proof |
 |---|---|
-| Região vs AZ | Região = área geográfica; AZ = data center isolado dentro da Região |
-| Elasticidade vs Escalabilidade | Elasticidade responde a picos; escalabilidade sustenta crescimento |
+| Region vs AZ | Region = geographic area; AZ = isolated data center within the Region |
+| Elasticity vs Scalability | Elasticity responds to spikes; scalability sustains growth |
 
-## Ponte para o próximo módulo
-Depois de fundamentos, avance para segurança: quem pode acessar, o que pode fazer e como auditar.
+## Bridge to next module
+After the fundamentals, move on to security: who can access, what they can do and how to audit.
 
-## Continuidade
-Trilha de arquitetura: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+## Continuity
+Architecture Track: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

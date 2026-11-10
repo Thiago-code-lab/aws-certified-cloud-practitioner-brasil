@@ -1,25 +1,25 @@
-﻿# Amazon Rekognition
+#Amazon Rekognition
 
-O Amazon Rekognition analisa imagens e vídeos por APIs prontas de visão computacional.
+Amazon Rekognition analyzes images and videos via ready-made computer vision APIs.
 
-- Detecta objetos, cenas, texto, conteúdo inadequado e outros elementos compatíveis.
-- Evita treinar um modelo do zero para casos comuns.
-- Resultados probabilísticos exigem limites e revisão adequados ao risco.
-- **Dica de prova:** entender conteúdo visual por serviço pronto aponta para Rekognition.
+- Detects objects, scenes, text, inappropriate content, and other supported elements.
+- Avoids training a model from scratch for common cases.
+- Probabilistic results require limits and review appropriate to the risk.
+- **Test tip:** understanding visual content by ready service points to Rekognition.
 
-Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
 
-> Complemento de carreira: quem quer sair da base de cloud para projetos reais de dados pode seguir por aqui: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+> Career complement: anyone who wants to move from the cloud base to real data projects can follow here: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

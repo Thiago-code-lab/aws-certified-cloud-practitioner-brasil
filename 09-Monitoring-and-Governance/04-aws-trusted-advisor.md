@@ -1,22 +1,22 @@
-﻿# Aws Trusted Advisor
+# AWS Trusted Advisor
 
-O AWS Trusted Advisor verifica o ambiente e apresenta recomendações baseadas em boas práticas da AWS.
+AWS Trusted Advisor scans the environment and provides recommendations based on AWS best practices.
 
-- As verificações abrangem áreas como custo, desempenho, segurança, tolerância a falhas e limites de serviço.
-- A disponibilidade de verificações e recursos depende do plano de suporte.
-- Recomendações precisam ser avaliadas no contexto da carga.
-- **Dica de prova:** revisão automática de boas práticas da conta aponta para Trusted Advisor.
+- Checks cover areas such as cost, performance, security, fault tolerance, and service limits.
+- Availability of checks and features depends on the support plan.
+- Recommendations need to be evaluated in the context of the load.
+- **Test tip:** automatic review of account best practices points to Trusted Advisor.
 
-Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

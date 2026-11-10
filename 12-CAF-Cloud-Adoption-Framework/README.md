@@ -1,47 +1,47 @@
 # CAF Cloud Adoption Framework
 
-Módulo para revisar o AWS CAF como linguagem de adoção organizacional, não como arquitetura técnica profunda.
+Module to review AWS CAF as an organizational adoption language, not a deep technical architecture.
 
-## Foco do módulo
-- Perspectivas do CAF em nível de prova.
-- Pessoas, processos, governança e tecnologia.
-- Adoção de nuvem como mudança organizacional.
+## Module focus
+- CAF perspectives at test level.
+- People, processes, governance and technology.
+- Cloud adoption as an organizational change.
 
-## Revisão rápida
-- CAF ajuda a planejar adoção de nuvem além da tecnologia.
-- A prova pode associar governança, pessoas e operação a perspectivas diferentes.
-- O objetivo é alinhar negócio e tecnologia durante a jornada.
+## Quick Review
+- CAF helps plan cloud adoption beyond technology.
+- The test can associate governance, people and operations with different perspectives.
+- The objective is to align business and technology during the journey.
 
-## Sinais clássicos de prova
-- "Transformação organizacional" -> AWS CAF.
-- "Alinhar stakeholders e capacidades" -> perspectivas do CAF.
-- "Governança de adoção" -> CAF em alto nível.
+## Classic proof signals
+- "Organizational transformation" -> AWS CAF.
+- "Align stakeholders and capabilities" -> CAF perspectives.
+- "Adoption governance" -> CAF at a high level.
 
-## Erro comum
-Tratar CAF como serviço AWS. CAF é framework de orientação, não produto provisionado no console.
+## Common error
+Treat CAF as an AWS service. CAF is a guidance framework, not a product provisioned in the console.
 
-## O que memorizar
-| Comparação | Regra mental de prova |
+## What to memorize
+| Comparison | Mental rule of proof |
 |---|---|
-| CAF vs Well-Architected | CAF = adoção organizacional; Well-Architected = qualidade de workloads |
-| Framework vs Serviço | Framework orienta decisões; serviço executa função técnica |
+| CAF vs Well-Architected | CAF = organizational adoption; Well-Architected = quality of workloads |
+| Framework vs Service | Framework guides decisions; service performs technical function |
 
-## Ponte para o próximo módulo
-Depois do CAF, avance para Well-Architected: a conversa sai da adoção e entra na qualidade das cargas.
+## Bridge to next module
+After CAF, move on to Well-Architected: the conversation moves away from adoption and into the quality of loads.
 
-## Continuidade
-Trilha de arquitetura: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+## Continuity
+Architecture Track: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
-> Trilha complementar: fundamentos de cloud ficam mais claros quando aplicados em pipelines de dados na AWS: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+> Complementary track: cloud fundamentals become clearer when applied to data pipelines in AWS: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

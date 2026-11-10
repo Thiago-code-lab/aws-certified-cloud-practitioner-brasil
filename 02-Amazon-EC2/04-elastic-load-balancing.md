@@ -1,25 +1,25 @@
-﻿# Elastic Load Balancing
+# Elastic Load Balancing
 
-O Elastic Load Balancing distribui tráfego entre vários destinos saudáveis, como instâncias EC2, contêineres e funções Lambda.
+Elastic Load Balancing distributes traffic across multiple healthy destinations, such as EC2 instances, containers, and Lambda functions.
 
-- **Application Load Balancer:** tráfego HTTP/HTTPS e regras por host ou caminho.
-- **Network Load Balancer:** conexões TCP/UDP de alto desempenho e baixa latência.
-- Verificações de integridade evitam destinos indisponíveis.
-- **Dica de prova:** o balanceador distribui tráfego; o Auto Scaling cria ou remove capacidade.
+- **Application Load Balancer:** HTTP/HTTPS traffic and rules by host or path.
+- **Network Load Balancer:** high-performance, low-latency TCP/UDP connections.
+- Health checks prevent unavailable destinations.
+- **Test tip:** the balancer distributes traffic; Auto Scaling creates or removes capacity.
 
-Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
 
-> Complemento de carreira: quem quer sair da base de cloud para projetos reais de dados pode seguir por aqui: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+> Career complement: anyone who wants to move from the cloud base to real data projects can follow here: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

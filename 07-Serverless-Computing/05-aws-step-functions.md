@@ -1,25 +1,25 @@
-﻿# Aws Step Functions
+# AWS Step Functions
 
-O AWS Step Functions coordena etapas de processos distribuídos em workflows visuais baseados em estados.
+AWS Step Functions coordinates distributed process steps in state-based visual workflows.
 
-- Organiza sequências, paralelismo, decisões, tentativas e tratamento de erros.
-- Integra Lambda e diversos serviços AWS.
-- Torna o fluxo mais observável do que encadear chamadas no código.
-- **Dica de prova:** várias etapas serverless com controle de falhas apontam para Step Functions.
+- Organizes sequences, parallelism, decisions, trials and error handling.
+- Integrates Lambda and several AWS services.
+- Makes the flow more observable than chaining calls together in the code.
+- **Test tip:** several serverless steps with failure control point to Step Functions.
 
-Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
 
-> Aprofundamento opcional: para levar este conceito para projetos de dados na AWS, use como próximo passo: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+> Optional Deep Dive: To bring this concept to data projects on AWS, use as a next step: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

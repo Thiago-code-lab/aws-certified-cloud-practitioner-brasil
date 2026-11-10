@@ -1,44 +1,44 @@
-# Armazenamento
+# Storage
 
-Módulo para comparar tipos de armazenamento sem aprofundar além do nível CLF-C02.
+Module for comparing storage types without delving beyond the CLF-C02 level.
 
-## Foco do módulo
-- S3 para objetos.
-- EBS para bloco.
-- EFS para arquivo compartilhado.
+## Module focus
+- S3 for objects.
+- EBS for block.
+- EFS for shared file.
 
-## Revisão rápida
-- Objeto é acessado por API e combina dados + metadados.
-- Bloco é usado como volume por instâncias.
-- Arquivo compartilhado atende múltiplos clientes com sistema de arquivos.
+## Quick Review
+- Object is accessed via API and combines data + metadata.
+- Block is used as volume by instances.
+- Shared file serves multiple clients with file system.
 
-## Sinais clássicos de prova
-- "Armazenar objetos, imagens, backups ou logs" -> Amazon S3.
-- "Disco persistente para EC2" -> Amazon EBS.
-- "Sistema de arquivos compartilhado entre instâncias Linux" -> Amazon EFS.
+## Classic proof signals
+- "Store objects, images, backups or logs" -> Amazon S3.
+- "Persistent disk for EC2" -> Amazon EBS.
+- "File system shared between Linux instances" -> Amazon EFS.
 
-## Erro comum
-Usar S3 como resposta para qualquer armazenamento. A prova diferencia objeto, bloco e arquivo.
+## Common error
+Use S3 as a response for any storage. The proof differentiates object, block and file.
 
-## O que memorizar
-| Comparação | Regra mental de prova |
+## What to memorize
+| Comparison | Mental rule of proof |
 |---|---|
-| S3 vs EBS | S3 = objetos; EBS = bloco para EC2 |
-| EBS vs EFS | EBS = volume individual; EFS = arquivo compartilhado |
+| S3 vs EBS | S3 = objects; EBS = block for EC2 |
+| EBS vs EFS | EBS = individual volume; EFS = shared file |
 
-## Ponte para o próximo módulo
-Com storage entendido, avance para monitoramento e governança: como observar, auditar e controlar o ambiente.
+## Bridge to next module
+With storage understood, move on to monitoring and governance: how to observe, audit, and control the environment.
 
-## Continuidade
-Trilha de arquitetura: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+## Continuity
+Architecture Track: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

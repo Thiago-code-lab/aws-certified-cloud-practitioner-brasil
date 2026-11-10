@@ -1,25 +1,25 @@
-﻿# Aws Snow Family
+# Aws Snow Family
 
-A família AWS Snow usa dispositivos físicos seguros para transferir dados ou executar computação onde a conectividade é limitada.
+The AWS Snow family uses secure physical devices to transfer data or perform computation where connectivity is limited.
 
-- É útil quando enviar grandes volumes pela rede seria lento ou inviável.
-- Os dispositivos protegem os dados durante transporte e importação.
-- Algumas opções processam dados próximo da origem.
-- **Dica de prova:** muitos terabytes com link insuficiente apontam para Snow Family.
+- Useful when sending large volumes over the network would be slow or impractical.
+- Devices protect data during transport and import.
+- Some options process data close to the source.
+- **Test tip:** too many terabytes with insufficient link point to Snow Family.
 
-Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
 
-> Trilha complementar: fundamentos de cloud ficam mais claros quando aplicados em pipelines de dados na AWS: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+> Complementary track: cloud fundamentals become clearer when applied to data pipelines in AWS: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

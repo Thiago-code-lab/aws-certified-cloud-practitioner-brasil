@@ -1,4 +1,4 @@
-# Gabarito Simulado Completo (65)
+# Complete Mock Template (65)
 
 1-B
 2-B
@@ -67,21 +67,21 @@
 65-A
 ---
 
-Creditos autorais:
+Copyright credits:
 - Thiago Cardoso - https://www.linkedin.com/in/analyticsthiagocardoso
 - Pedro Albertini - https://www.linkedin.com/in/pedroalbertini/
 - Lucas Garcia - https://www.linkedin.com/in/lucas-del-puerto/
 
 
-> Ponte prática: depois de fixar o serviço, veja como ele aparece em arquiteturas de dados na AWS: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+> Practical bridge: After pinning the service, see how it appears in data architectures on AWS: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

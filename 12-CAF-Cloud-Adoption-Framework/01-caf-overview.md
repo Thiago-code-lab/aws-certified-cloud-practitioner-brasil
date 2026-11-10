@@ -1,22 +1,22 @@
-﻿# Visao Geral Caf
+# Café Overview
 
-O AWS Cloud Adoption Framework (AWS CAF) orienta organizações a preparar pessoas, processos e tecnologia para a transformação em nuvem.
+AWS Cloud Adoption Framework (AWS CAF) guides organizations in preparing people, processes, and technology for cloud transformation.
 
-- Organiza capacidades em seis perspectivas: Business, People, Governance, Platform, Security e Operations.
-- Ajuda a identificar lacunas, alinhar interessados e priorizar iniciativas.
-- Não é uma arquitetura pronta nem uma ferramenta de migração.
-- **Dica de prova:** planejamento organizacional amplo para adoção da nuvem aponta para AWS CAF.
+- Organizes capabilities into six perspectives: Business, People, Governance, Platform, Security and Operations.
+- Helps identify gaps, align stakeholders and prioritize initiatives.
+- Not a ready-made architecture nor a migration tool.
+- **Test Tip:** Broad organizational planning for cloud adoption points to AWS CAF.
 
-Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

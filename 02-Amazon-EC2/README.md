@@ -1,47 +1,47 @@
-# Amazon EC2
+#Amazon EC2
 
-Módulo de computação virtual com foco em instâncias, modelos de compra e decisões básicas de disponibilidade.
+Virtual compute module focusing on instances, purchasing models, and basic availability decisions.
 
-## Foco do módulo
-- Instâncias EC2, AMI, tipos de instância e pares de chave.
-- EBS como volume de bloco para instâncias.
-- Auto Scaling e Elastic Load Balancing em nível introdutório.
+## Module focus
+- EC2 instances, AMI, instance types, and key pairs.
+- EBS as block volume for instances.
+- Auto Scaling and Elastic Load Balancing at introductory level.
 
-## Revisão rápida
-- EC2 é computação como serviço: você escolhe capacidade, sistema e configuração.
-- EBS é armazenamento de bloco persistente, diferente de S3.
-- Auto Scaling ajusta quantidade de instâncias; Load Balancer distribui tráfego.
+## Quick Review
+- EC2 is computing as a service: you choose capacity, system and configuration.
+- EBS is persistent block storage, different from S3.
+- Auto Scaling adjusts number of instances; Load Balancer distributes traffic.
 
-## Sinais clássicos de prova
-- "Servidor virtual na nuvem" -> Amazon EC2.
-- "Volume para anexar a uma instância" -> Amazon EBS.
-- "Distribuir tráfego entre instâncias" -> Elastic Load Balancing.
+## Classic proof signals
+- "Virtual cloud server" -> Amazon EC2.
+- "Volume to attach to an instance" -> Amazon EBS.
+- "Distribute traffic between instances" -> Elastic Load Balancing.
 
-## Erro comum
-Confundir aumentar o tamanho de uma instância com alta disponibilidade. Escala vertical melhora capacidade; alta disponibilidade exige redundância.
+## Common error
+Confusing increasing the size of an instance with high availability. Vertical scaling improves capacity; High availability requires redundancy.
 
-## O que memorizar
-| Comparação | Regra mental de prova |
+## What to memorize
+| Comparison | Mental rule of proof |
 |---|---|
-| EC2 vs Lambda | EC2 = servidor gerenciado pelo cliente; Lambda = execução sem servidor |
-| EBS vs S3 | EBS = bloco para instância; S3 = objetos via API |
+| EC2 vs Lambda | EC2 = customer managed server; Lambda = serverless execution |
+| EBS vs S3 | EBS = block for instance; S3 = objects via API |
 
-## Ponte para o próximo módulo
-Depois de entender computação, revise segurança: quem pode criar, acessar e auditar esses recursos.
+## Bridge to next module
+After you understand computing, review security: who can create, access, and audit these resources.
 
-## Continuidade
-Trilha de arquitetura: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+## Continuity
+Architecture Track: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
-> Ponte prática: depois de fixar o serviço, veja como ele aparece em arquiteturas de dados na AWS: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+> Practical bridge: After pinning the service, see how it appears in data architectures on AWS: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

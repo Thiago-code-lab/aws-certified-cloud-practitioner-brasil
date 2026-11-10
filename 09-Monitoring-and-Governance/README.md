@@ -1,47 +1,47 @@
-# Monitoramento e Governança
+# Monitoring and Governance
 
-Módulo para revisar observabilidade, auditoria e controle organizacional em nível inicial.
+Module to review observability, auditing and organizational control at an entry level.
 
-## Foco do módulo
-- CloudWatch para métricas, logs e alarmes.
-- CloudTrail para auditoria de API.
-- AWS Organizations e Tags para governança básica.
+## Module focus
+- CloudWatch for metrics, logs and alarms.
+- CloudTrail for API auditing.
+- AWS Organizations and Tags for basic governance.
 
-## Revisão rápida
-- CloudWatch observa desempenho e comportamento operacional.
-- CloudTrail registra ações na conta para auditoria.
-- Tags ajudam a organizar custo, dono e ambiente.
+## Quick Review
+- CloudWatch observes performance and operational behavior.
+- CloudTrail records actions on the account for auditing.
+- Tags help organize cost, owner and environment.
 
-## Sinais clássicos de prova
-- "Criar alarme de métrica" -> Amazon CloudWatch.
-- "Quem chamou uma API" -> AWS CloudTrail.
-- "Gerenciar várias contas" -> AWS Organizations.
+## Classic proof signals
+- "Create metric alarm" -> Amazon CloudWatch.
+- "Who called an API" -> AWS CloudTrail.
+- "Manage multiple accounts" -> AWS Organizations.
 
-## Erro comum
-Confundir CloudWatch com CloudTrail. CloudWatch monitora operação; CloudTrail audita ações.
+## Common error
+Confusing CloudWatch with CloudTrail. CloudWatch monitors operation; CloudTrail audits actions.
 
-## O que memorizar
-| Comparação | Regra mental de prova |
+## What to memorize
+| Comparison | Mental rule of proof |
 |---|---|
-| CloudWatch vs CloudTrail | Métricas/logs operacionais vs trilha de auditoria |
-| Tags vs Organizations | Tags organizam recursos; Organizations organiza contas |
+| CloudWatch vs CloudTrail | Operational metrics/logs vs audit trail |
+| Tags vs Organizations | Tags organize resources; Organizations organizes accounts |
 
-## Ponte para o próximo módulo
-Depois de governança, revise custos: monitoramento só vira controle quando gasto e alertas entram no ciclo.
+## Bridge to next module
+After governance, review costs: monitoring only becomes control when spent and alerts enter the cycle.
 
-## Continuidade
-Trilha de arquitetura: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+## Continuity
+Architecture Track: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
-> Ponte prática: depois de fixar o serviço, veja como ele aparece em arquiteturas de dados na AWS: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+> Practical bridge: After pinning the service, see how it appears in data architectures on AWS: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

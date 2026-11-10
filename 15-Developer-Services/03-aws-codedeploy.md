@@ -1,22 +1,22 @@
-﻿# Aws Codedeploy
+# AWS Codedeploy
 
-O AWS CodeDeploy automatiza a implantação de novas versões em destinos compatíveis.
+AWS CodeDeploy automates the deployment of new versions to supported targets.
 
-- Suporta estratégias como in-place e blue/green conforme a plataforma.
-- Controla fases, validações e reversão da implantação.
-- Reduz tarefas manuais e inconsistências entre ambientes.
-- **Dica de prova:** colocar uma versão em execução aponta para CodeDeploy; gerar o artefato aponta para CodeBuild.
+- Supports strategies such as in-place and blue/green depending on the platform.
+- Controls phases, validations and rollback of the deployment.
+- Reduces manual tasks and inconsistencies between environments.
+- **Test tip:** putting a running version points to CodeDeploy; generating the artifact points to CodeBuild.
 
-Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

@@ -1,25 +1,25 @@
-﻿# Aws Codecommit
+# AWS Codecommit
 
-O AWS CodeCommit é um serviço gerenciado de repositórios Git privados integrado a identidades e serviços AWS.
+AWS CodeCommit is a managed private Git repository service integrated with AWS identities and services.
 
-- Armazena código e histórico de versões.
-- Integra permissões por IAM e criptografia gerenciada.
-- Faz o papel de repositório; não compila nem implanta a aplicação.
-- **Dica de prova:** código-fonte aponta para repositório; build aponta para CodeBuild e implantação para CodeDeploy.
+- Stores code and version history.
+- Integrates permissions through IAM and managed encryption.
+- Plays the role of repository; does not compile or deploy the application.
+- **Test tip:** source code points to repository; build points to CodeBuild and deployment to CodeDeploy.
 
-Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
 
-> Recurso complementar: se quiser conectar este fundamento com pipelines e analytics na AWS, veja o curso Engenharia de Dados na AWS: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+> Complementary resource: if you want to connect this foundation with pipelines and analytics in AWS, see the Data Engineering in AWS course: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

@@ -1,40 +1,40 @@
-﻿# Lab 01 Iam Inicial
+# Lab 01 Initial Iam
 
-Este laboratório pratica identidades, grupos, políticas, MFA e menor privilégio no AWS IAM.
+This lab practices identities, groups, policies, MFA, and least privilege in AWS IAM.
 
-## Objetivo
+## Purpose
 
-Criar um usuário de estudo com acesso ao console por meio de um grupo, sem utilizar a conta-raiz nas tarefas diárias.
+Create a study user with access to the console through a group, without using the root account for daily tasks.
 
-## Passos
+## Steps
 
-1. Entre com a conta-raiz apenas para ativar MFA e revisar os contatos da conta.
-2. No IAM, crie um grupo administrativo para o laboratório e associe a política apropriada ao ambiente de estudo.
-3. Crie um usuário, adicione-o ao grupo e habilite acesso ao console.
-4. Entre com o novo usuário e confirme que o acesso esperado funciona.
-5. Revise o relatório de credenciais e remova credenciais que não serão usadas.
+1. Sign in with the root account only to enable MFA and review the account's contacts.
+2. In IAM, create an administrative group for the lab and associate the appropriate policy with the study environment.
+3. Create a user, add them to the group and enable console access.
+4. Log in with the new user and confirm that the expected access works.
+5. Review the credentials report and remove credentials that will not be used.
 
-## Verificação
+## Check
 
-- A conta-raiz possui MFA.
-- O usuário recebe permissões pelo grupo, não por várias políticas diretas.
-- Não existem access keys sem necessidade.
+- The root account has MFA.
+- User is granted permissions by group, not by multiple direct policies.
+- There are no unnecessary access keys.
 
-## Limpeza
+## Cleaning
 
-Remova o usuário e o grupo se a conta não continuar sendo usada para estudos.
+Remove the user and group if the account is no longer used for studies.
 
-Arquitetura: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
-IA na AWS: https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil
+Architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+AI on AWS: https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil
 
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

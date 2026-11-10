@@ -1,25 +1,25 @@
-﻿# Security Groups E Nacl
+# Security Groups E Nacl
 
-Security Groups e Network ACLs filtram tráfego em camadas diferentes da VPC.
+Security Groups and Network ACLs filter traffic at different layers of the VPC.
 
-- **Security Group:** atua no recurso, é stateful e possui apenas regras de permissão.
-- **NACL:** atua na subnet, é stateless e aceita permissão e negação.
-- Security Groups são o controle principal para instâncias e interfaces.
-- **Dica de prova:** bloqueio explícito por subnet aponta para NACL.
+- **Security Group:** acts on the resource, is stateful and has only permission rules.
+- **NACL:** acts on the subnet, is stateless and accepts permission and denial.
+- Security Groups are the primary control for instances and interfaces.
+- **Proof tip:** explicit block by subnet points to NACL.
 
-Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
 
-> Recurso complementar: se quiser conectar este fundamento com pipelines e analytics na AWS, veja o curso Engenharia de Dados na AWS: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+> Complementary resource: if you want to connect this foundation with pipelines and analytics in AWS, see the Data Engineering in AWS course: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

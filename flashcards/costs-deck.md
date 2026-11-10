@@ -1,144 +1,144 @@
-# Deck Custos e Suporte
+# Deck Costs and Support
 
 ## Card 01
-**Pergunta:** On-Demand é melhor quando o enunciado valoriza o quê?
+**Question:** On-Demand is better when the statement values what?
 
 <details>
-<summary><strong>Ver resposta</strong></summary>
+<summary><strong>View answer</strong></summary>
 
-**Resposta:**
-Flexibilidade sem compromisso. É adequado para workloads imprevisíveis, testes, picos curtos ou uso ainda sem padrão estável.
+**Answer:**
+Flexibility without compromise. It is suitable for unpredictable workloads, testing, short bursts or use without a stable pattern.
 
 </details>
 
 ## Card 02
-**Pergunta:** Reserved Instances e Savings Plans pedem qual condição antes de fazer sentido?
+**Question:** Reserved Instances and Savings Plans require which condition before making sense?
 
 <details>
-<summary><strong>Ver resposta</strong></summary>
+<summary><strong>View answer</strong></summary>
 
-**Resposta:**
-Uso previsível por longo período. O desconto vem do compromisso, então não é ideal para carga incerta.
+**Answer:**
+Predictable long-term use. The discount comes from the commitment, so it is not ideal for uncertain cargo.
 
 </details>
 
 ## Card 03
-**Pergunta:** Spot é resposta forte quando a carga tem qual característica?
+**Question:** Spot is a strong response when the load has which characteristic?
 
 <details>
-<summary><strong>Ver resposta</strong></summary>
+<summary><strong>View answer</strong></summary>
 
-**Resposta:**
-Tolerância a interrupção. Jobs batch, processamento reexecutável e tarefas flexíveis combinam com Spot.
+**Answer:**
+Interruption tolerance. Batch jobs, re-runable processing, and flexible tasks combine with Spot.
 
 </details>
 
 ## Card 04
-**Pergunta:** Qual é o risco que sempre acompanha Spot Instances?
+**Question:** What is the risk that always comes with Spot Instances?
 
 <details>
-<summary><strong>Ver resposta</strong></summary>
+<summary><strong>View answer</strong></summary>
 
-**Resposta:**
-Interrupção quando a AWS precisa da capacidade. A economia é alta, mas a aplicação precisa lidar com retomada ou reprocessamento.
+**Answer:**
+Outage when AWS needs the capacity. The savings are high, but the application needs to deal with resumption or reprocessing.
 
 </details>
 
 ## Card 05
-**Pergunta:** Qual ferramenta cria alerta quando o gasto se aproxima de um limite definido?
+**Question:** Which tool creates an alert when spending approaches a defined limit?
 
 <details>
-<summary><strong>Ver resposta</strong></summary>
+<summary><strong>View answer</strong></summary>
 
-**Resposta:**
-AWS Budgets. Memorize como alerta e controle por orçamento.
+**Answer:**
+AWS Budgets. Memorize how to alert and control by budget.
 
 </details>
 
 ## Card 06
-**Pergunta:** Qual ferramenta é mais indicada para explorar histórico, tendência e previsão de custos?
+**Question:** Which tool is best suited for exploring history, trends and cost forecasts?
 
 <details>
-<summary><strong>Ver resposta</strong></summary>
+<summary><strong>View answer</strong></summary>
 
-**Resposta:**
-AWS Cost Explorer. Ele ajuda a visualizar consumo passado, filtrar custos e apoiar previsão.
+**Answer:**
+AWS Cost Explorer. It helps visualize past consumption, filter costs and support forecasting.
 
 </details>
 
 ## Card 07
-**Pergunta:** Free Tier significa “não vou pagar nada na AWS”?
+**Question:** Does Free Tier mean "I won't pay anything on AWS"?
 
 <details>
-<summary><strong>Ver resposta</strong></summary>
+<summary><strong>View answer</strong></summary>
 
-**Resposta:**
-Não. O Free Tier tem limites por serviço, período e quantidade. Excedeu a cota, pode haver cobrança.
+**Answer:**
+No. Free Tier has limits per service, period and quantity. Exceeded quota, may incur charges.
 
 </details>
 
 ## Card 08
-**Pergunta:** Na prova, Pricing Calculator resolve qual tipo de decisão?
+**Question:** In the test, Pricing Calculator solves which type of decision?
 
 <details>
-<summary><strong>Ver resposta</strong></summary>
+<summary><strong>View answer</strong></summary>
 
-**Resposta:**
-Estimativa antes de usar. Ele calcula custo aproximado de arquitetura planejada, não auditoria de gasto real.
+**Answer:**
+Estimate before use. It calculates approximate cost of planned architecture, not audit of actual expenditure.
 
 </details>
 
 ## Card 09
-**Pergunta:** Trusted Advisor entra em custo por qual motivo?
+**Question:** Trusted Advisor goes into cost for what reason?
 
 <details>
-<summary><strong>Ver resposta</strong></summary>
+<summary><strong>View answer</strong></summary>
 
-**Resposta:**
-Ele aponta oportunidades como recursos ociosos, subutilizados ou configurações que afetam custo, segurança e resiliência.
+**Answer:**
+It points to opportunities such as idle, underutilized resources, or configurations that affect cost, security, and resiliency.
 
 </details>
 
 ## Card 10
-**Pergunta:** Qual plano de suporte é o mínimo para orientação técnica além do Basic?
+**Question:** What support plan is the minimum for technical guidance beyond Basic?
 
 <details>
-<summary><strong>Ver resposta</strong></summary>
+<summary><strong>View answer</strong></summary>
 
-**Resposta:**
-Developer. Ele adiciona suporte técnico para uso em desenvolvimento e cargas menos críticas.
+**Answer:**
+Developer. It adds technical support for development use and less critical loads.
 
 </details>
 
 ## Card 11
-**Pergunta:** Erro comum: escolher pelo menor preço por hora. Qual métrica falta considerar?
+**Question:** Common mistake: choosing the lowest hourly price. What metric remains to be considered?
 
 <details>
-<summary><strong>Ver resposta</strong></summary>
+<summary><strong>View answer</strong></summary>
 
-**Resposta:**
-Custo total: armazenamento, transferência de dados, licenças, suporte, tempo ocioso, recuperação e operação.
+**Answer:**
+Total cost: storage, data transfer, licenses, support, downtime, recovery, and operation.
 
 </details>
 
 ## Card 12
-**Pergunta:** Qual prática simples evita surpresa de cobrança sem criar processo pesado?
+**Question:** What simple practice avoids billing surprises without creating a cumbersome process?
 
 <details>
-<summary><strong>Ver resposta</strong></summary>
+<summary><strong>View answer</strong></summary>
 
-**Resposta:**
-Configurar Budgets com alertas e revisar Cost Explorer de forma recorrente, principalmente após criar novos recursos.
+**Answer:**
+Configure Budgets with alerts and review Cost Explorer on a recurring basis, especially after creating new resources.
 
 </details>
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

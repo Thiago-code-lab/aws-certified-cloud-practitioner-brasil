@@ -1,22 +1,22 @@
-﻿# Aws Organizations
+# AWS Organizations
 
-O AWS Organizations centraliza a administração de várias contas AWS e permite agrupá-las em unidades organizacionais (OUs).
+AWS Organizations centralizes the administration of multiple AWS accounts and allows you to group them into organizational units (OUs).
 
-- Consolida cobrança e facilita governança em escala.
-- **SCPs** definem o limite máximo de permissões; não concedem acesso por si só.
-- Separar produção, desenvolvimento e segurança em contas reduz o raio de impacto.
-- **Dica de prova:** governança de múltiplas contas aponta para Organizations; acesso dentro da conta usa IAM.
+- Consolidates billing and facilitates governance at scale.
+- **SCPs** define the maximum limit of permissions; they do not grant access by themselves.
+- Separating production, development and security into accounts reduces the impact radius.
+- **Test tip:** multiple account governance points to Organizations; Access within the account uses IAM.
 
-Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

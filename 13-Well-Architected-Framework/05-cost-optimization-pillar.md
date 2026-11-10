@@ -1,22 +1,22 @@
-﻿# Pilar Otimizacao Custos
+# Cost Optimization Pillar
 
-Otimização de custos busca entregar o resultado necessário pelo menor custo total adequado.
+Cost optimization seeks to deliver the required result at the lowest appropriate total cost.
 
-- Meça e atribua gastos com contas, tags e relatórios.
-- Elimine recursos ociosos e ajuste o tamanho à utilização.
-- Use compromissos apenas para demanda previsível.
-- **Dica de prova:** otimizar não significa escolher sempre a opção mais barata, mas evitar desperdício sem perder requisitos.
+- Measure and attribute spending with accounts, tags and reports.
+- Eliminate idle resources and scale to usage.
+- Use appointments only for predictable demand.
+- **Test tip:** optimizing does not mean always choosing the cheapest option, but avoiding waste without losing requirements.
 
-Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

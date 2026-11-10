@@ -1,25 +1,25 @@
-﻿# Amazon Bedrock
+#Amazon Bedrock
 
-O Amazon Bedrock permite criar aplicações de IA generativa usando modelos fundacionais por APIs gerenciadas.
+Amazon Bedrock enables you to build generative AI applications using foundational models via managed APIs.
 
-- Oferece escolha de modelos e recursos para personalização, agentes e bases de conhecimento.
-- A equipe não precisa administrar a infraestrutura de inferência dos modelos oferecidos.
-- Custo, latência, segurança dos dados e avaliação devem orientar a escolha.
-- **Dica de prova:** aplicação com modelo fundacional gerenciado aponta para Bedrock.
+- Provides choice of templates and features for customization, agents, and knowledge bases.
+- The team does not need to manage the inference infrastructure for the models offered.
+- Cost, latency, data security and evaluation should guide the choice.
+- **Test tip:** application with managed foundational model points to Bedrock.
 
-Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
 
-> Se o objetivo também for engenharia de dados, este curso ajuda a transformar a base de AWS em projetos: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+> If the objective is also data engineering, this course helps you transform the AWS base into projects: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

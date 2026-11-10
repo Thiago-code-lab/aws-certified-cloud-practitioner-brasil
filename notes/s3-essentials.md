@@ -1,40 +1,40 @@
-# S3 Essencial - Revisão de Prova
+# S3 Essential - Test Review
 
-## Revisão rápida
-- S3 é armazenamento de objetos, não volume de bloco.
-- Versionamento ajuda contra exclusão ou sobrescrita acidental.
-- Lifecycle otimiza custo com transição e expiração automática.
+## Quick Review
+- S3 is object storage, not block volume.
+- Versioning helps against accidental deletion or overwriting.
+- Lifecycle optimizes cost with transition and automatic expiration.
 
-## Sinal clássico de prova
-Se o enunciado falar em arquivamento de longo prazo com acesso raro, a pista costuma ser Glacier.
+## Classic proof signal
+If the statement talks about long-term archiving with rare access, the clue is usually Glacier.
 
-## Erro comum
-Usar S3 como se fosse disco de sistema operacional de EC2.
+## Common error
+Use S3 as if it were an EC2 operating system disk.
 
-## O que memorizar
-| Comparação | Regra mental |
+## What to memorize
+| Comparison | Mental rule |
 |---|---|
-| S3 Standard vs Glacier | Standard para uso frequente; Glacier para arquivo |
-| Versionamento vs Lifecycle | Recuperar versões vs automatizar ciclo de vida |
+| S3 Standard vs Glacier | Standard for frequent use; Glacier for archive |
+| Versioning vs Lifecycle | Recover versions vs automate lifecycle |
 
-## Pergunta de validação
-Um bucket recebe relatórios mensais e deve mover arquivos antigos para armazenamento mais barato sem ação manual. Qual recurso usar?
+## Validation question
+A bucket receives monthly reports and must move old files to cheaper storage without manual action. Which resource to use?
 
 <details>
-<summary><strong>Ver resposta</strong></summary>
+<summary><strong>View answer</strong></summary>
 
-**Resposta:**
+**Answer:**
 S3 Lifecycle.
 
 </details>
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

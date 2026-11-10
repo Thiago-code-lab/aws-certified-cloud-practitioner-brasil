@@ -1,47 +1,47 @@
-# Amazon S3
+#Amazon S3
 
-Módulo de armazenamento de objetos com foco em durabilidade, classes e custo.
+Object storage module focusing on durability, classes and cost.
 
-## Foco do módulo
-- Objetos, buckets e políticas de acesso.
-- Versionamento e lifecycle.
-- Classes de armazenamento e cenários típicos.
+## Module focus
+- Objects, buckets and access policies.
+- Versioning and lifecycle.
+- Typical storage classes and scenarios.
 
-## Revisão rápida
-- S3 é objeto, não bloco para boot de EC2.
-- Versionamento reduz risco de exclusão acidental.
-- Lifecycle move dados para classe mais barata conforme padrão de acesso.
+## Quick Review
+- S3 is an object, not a block for EC2 boot.
+- Versioning reduces the risk of accidental deletion.
+- Lifecycle moves data to cheaper class according to access pattern.
 
-## Sinais clássicos de prova
-- "Site estático simples" -> S3 static website hosting.
-- "Dados raramente acessados por anos" -> Glacier/Deep Archive.
-- "Controle de acesso em escala" -> IAM policy + bucket policy.
+## Classic proof signals
+- "Simple static website" -> S3 static website hosting.
+- "Data rarely accessed for years" -> Glacier/Deep Archive.
+- "Access control at scale" -> IAM policy + bucket policy.
 
-## Erro comum
-Escolher classe apenas pelo menor preço por GB e ignorar custo/tempo de recuperação.
+## Common error
+Choose class only for lowest price per GB and ignore cost/recovery time.
 
-## O que memorizar
-| Comparação | Regra mental de prova |
+## What to memorize
+| Comparison | Mental rule of proof |
 |---|---|
-| S3 Standard vs S3 Glacier | Standard para acesso frequente; Glacier para arquivo e acesso raro |
-| Versionamento vs Lifecycle | Versionamento protege histórico; Lifecycle otimiza custo ao longo do tempo |
+| S3 Standard vs S3 Glacier | Standard for frequent access; Glacier for archive and rare access |
+| Versioning vs Lifecycle | Versioning protects history; Lifecycle optimizes cost over time |
 
-## Ponte para o próximo módulo
-Depois de S3, avance para custos: como precificar uso, prever gasto e evitar surpresas.
+## Bridge to next module
+After S3, move on to costs: how to price usage, predict spending and avoid surprises.
 
-## Continuidade
-Trilha de arquitetura: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+## Continuity
+Architecture Track: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
-> Se o objetivo também for engenharia de dados, este curso ajuda a transformar a base de AWS em projetos: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+> If the objective is also data engineering, this course helps you transform the AWS base into projects: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

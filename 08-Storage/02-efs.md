@@ -1,25 +1,25 @@
-﻿# Efs
+#Efs
 
-O Amazon EFS oferece sistema de arquivos elástico e compartilhado para cargas Linux usando NFS.
+Amazon EFS provides elastic, shared file system for Linux payloads using NFS.
 
-- Várias instâncias podem montar o mesmo sistema ao mesmo tempo.
-- A capacidade cresce e diminui automaticamente.
-- Pode ser acessado por recursos em várias AZs.
-- **Dica de prova:** arquivos compartilhados por instâncias Linux apontam para EFS; disco individual aponta para EBS.
+- Multiple instances can mount the same system at the same time.
+- Capacity grows and shrinks automatically.
+- Can be accessed by resources in multiple AZs.
+- **Test tip:** files shared by Linux instances point to EFS; individual disk points to EBS.
 
-Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
 
-> Ponte prática: depois de fixar o serviço, veja como ele aparece em arquiteturas de dados na AWS: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+> Practical bridge: After pinning the service, see how it appears in data architectures on AWS: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

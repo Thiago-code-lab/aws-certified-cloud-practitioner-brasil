@@ -1,22 +1,22 @@
-﻿# Aws Kms E Secrets Manager
+# Aws Kms E Secrets Manager
 
-AWS KMS e AWS Secrets Manager protegem informações sensíveis, mas resolvem problemas diferentes.
+AWS KMS and AWS Secrets Manager protect sensitive information but solve different problems.
 
-- **KMS:** cria e controla chaves criptográficas usadas para proteger dados.
-- **Secrets Manager:** armazena senhas e tokens e pode automatizar sua rotação.
-- Nunca grave credenciais diretamente no código-fonte.
-- **Dica de prova:** chave de criptografia aponta para KMS; senha de banco com rotação aponta para Secrets Manager.
+- **KMS:** creates and controls cryptographic keys used to protect data.
+- **Secrets Manager:** stores passwords and tokens and can automate their rotation.
+- Never write credentials directly to source code.
+- **Test tip:** encryption key points to KMS; bank password with rotation points to Secrets Manager.
 
-Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

@@ -1,25 +1,25 @@
-﻿# Aws Health Dashboard
+# AWS Health Dashboard
 
-O AWS Health fornece informações sobre eventos da AWS que podem afetar recursos e contas.
+AWS Health provides information about AWS events that can affect resources and accounts.
 
-- A visão pública mostra a situação geral dos serviços.
-- A visão personalizada relaciona eventos aos recursos do cliente.
-- Notificações antecipadas ajudam a planejar manutenções e responder a incidentes.
-- **Dica de prova:** impacto de um evento AWS sobre seus recursos aponta para AWS Health; métricas internas apontam para CloudWatch.
+- The public view shows the general status of services.
+- Custom view relates events to customer resources.
+- Advance notifications help plan maintenance and respond to incidents.
+- **Test tip:** impact of an AWS event on your resources points to AWS Health; internal metrics point to CloudWatch.
 
-Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
 
-> Para estudar aplicações práticas em dados depois deste tópico, este curso de Engenharia de Dados na AWS complementa bem: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+> To study practical data applications after this topic, this Data Engineering course on AWS complements it well: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

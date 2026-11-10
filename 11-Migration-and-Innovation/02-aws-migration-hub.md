@@ -1,25 +1,25 @@
-﻿# Aws Migration Hub
+# AWS Migration Hub
 
-O AWS Migration Hub reúne visibilidade e acompanhamento de migrações de aplicações para a AWS.
+AWS Migration Hub brings together visibility and tracking of application migrations to AWS.
 
-- Centraliza progresso de ferramentas e ondas de migração.
-- Ajuda equipes a acompanhar inventário, status e problemas.
-- Não move sozinho todos os dados; coordena e apresenta o processo.
-- **Dica de prova:** painel central de uma migração com várias ferramentas aponta para Migration Hub.
+- Centralizes tool progress and migration waves.
+- Helps teams track inventory, status, and issues.
+- Does not move all data alone; coordinates and presents the process.
+- **Test tip:** central panel of a multi-tool migration points to Migration Hub.
 
-Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
 
-> Recurso complementar: se quiser conectar este fundamento com pipelines e analytics na AWS, veja o curso Engenharia de Dados na AWS: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+> Complementary resource: if you want to connect this foundation with pipelines and analytics in AWS, see the Data Engineering in AWS course: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

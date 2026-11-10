@@ -1,38 +1,38 @@
-﻿# Lab 02 Site Estatico S3
+# Lab 02 Static Site S3
 
-Este laboratório mostra como o S3 armazena objetos e pode entregar um site composto apenas por HTML, CSS e imagens.
+This lab shows how S3 stores objects and can deliver a website consisting of just HTML, CSS, and images.
 
-## Objetivo
+## Purpose
 
-Criar um bucket, enviar uma página simples e entender a diferença entre acesso privado, endpoint de website e distribuição segura por CloudFront.
+Create a bucket, submit a simple page, and understand the difference between private access, website endpoint, and secure distribution via CloudFront.
 
-## Passos
+## Steps
 
-1. Crie um bucket em uma Região próxima e mantenha o bloqueio de acesso público ativado.
-2. Envie um arquivo `index.html` sem dados sensíveis.
-3. Observe que um objeto privado não pode ser aberto anonimamente.
-4. Para um teste didático, revise a configuração de website estático e as permissões exigidas.
-5. Em uma arquitetura real, prefira CloudFront com acesso privado ao bucket para HTTPS e cache.
+1. Create a bucket in a nearby Region and keep public access blocking enabled.
+2. Send a file `index.html` without sensitive data.
+3. Note that a private object cannot be opened anonymously.
+4. For a teaching test, review the static website configuration and required permissions.
+5. In a real architecture, prefer CloudFront with private bucket access for HTTPS and cache.
 
-## Verificação
+## Check
 
-Confirme que a página correta é retornada pelo endpoint escolhido e que nenhum objeto além do necessário está exposto.
+Confirm that the correct page is returned by the chosen endpoint and that no objects other than those required are exposed.
 
-## Limpeza
+## Cleaning
 
-Exclua os objetos, a distribuição de teste se criada e, por fim, o bucket.
+Delete the objects, the test distribution if created, and finally the bucket.
 
-Arquitetura: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
-IA na AWS: https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil
+Architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+AI on AWS: https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil
 
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

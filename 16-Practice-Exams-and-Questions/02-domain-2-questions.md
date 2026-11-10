@@ -1,53 +1,53 @@
-﻿# Questões Domínio 2 - Segurança e Conformidade
+# Questions Domain 2 - Security and Compliance
 
-## Questão 1
-No modelo de responsabilidade compartilhada, quem configura permissões IAM da conta?
+## Question 1
+In the shared responsibility model, who sets up account IAM permissions?
 
 A) AWS
-B) Cliente
-C) Parceiro de faturamento
-D) Auditor externo
+B) Customer
+C) Billing partner
+D) External auditor
 
 <details>
-<summary><strong>Ver resposta</strong></summary>
+<summary><strong>View answer</strong></summary>
 
-✅ **Resposta correta:** B
+✅ **Correct answer:** B
 
-**Explicação:**
-O cliente é responsável por identidade e permissões na conta.
+**Explanation:**
+The customer is responsible for identity and permissions on the account.
 
-**Por que a alternativa A está errada:**
-A AWS protege a infraestrutura, não define políticas do cliente.
+**Why is option A wrong:**
+AWS protects infrastructure, does not define customer policies.
 
 </details>
 
 ---
 
-## Questão 2
-Qual prática segue o princípio de menor privilégio?
+## Question 2
+Which practice follows the principle of least privilege?
 
-A) Dar acesso administrador para todo time
-B) Dar somente permissões necessárias por função
-C) Compartilhar usuário root
-D) Remover MFA para facilitar login
+A) Give administrator access to the entire team
+B) Give only necessary permissions per role
+C) Share root user
+D) Remove MFA to make login easier
 
 <details>
-<summary><strong>Ver resposta</strong></summary>
+<summary><strong>View answer</strong></summary>
 
-✅ **Resposta correta:** B
+✅ **Correct answer:** B
 
-**Explicação:**
-Menor privilégio reduz superfície de risco.
+**Explanation:**
+Least privilege reduces risk surface.
 
-**Por que a alternativa A está errada:**
-Acesso total generalizado amplia risco operacional.
+**Why is option A wrong:**
+Pervasive full access increases operational risk.
 
 </details>
 
 ---
 
-## Questão 3
-Qual serviço é mais associado a auditoria de ações na conta AWS?
+## Question 3
+Which service is most associated with auditing actions in the AWS account?
 
 A) AWS CloudTrail
 B) Amazon Route 53
@@ -55,68 +55,68 @@ C) AWS Budgets
 D) Amazon EFS
 
 <details>
-<summary><strong>Ver resposta</strong></summary>
+<summary><strong>View answer</strong></summary>
 
-✅ **Resposta correta:** A
+✅ **Correct answer:** A
 
-**Explicação:**
-CloudTrail registra chamadas de API e eventos de governança.
+**Explanation:**
+CloudTrail logs API calls and governance events.
 
-**Por que a alternativa B está errada:**
-Route 53 é DNS, não trilha de auditoria.
+**Why option B is wrong:**
+Route 53 is DNS, not audit trail.
 
 </details>
 
 ---
 
-## Questão 4
-Para proteger segredos de aplicação (senhas/chaves), qual combinação é mais comum?
+## Question 4
+To protect application secrets (passwords/keys), which combination is most common?
 
-A) S3 público + ACL aberta
+A) Public S3 + open ACL
 B) Secrets Manager + IAM
-C) EC2 sem criptografia
-D) Snapshot manual local
+C) EC2 without encryption
+D) Local manual snapshot
 
 <details>
-<summary><strong>Ver resposta</strong></summary>
+<summary><strong>View answer</strong></summary>
 
-✅ **Resposta correta:** B
+✅ **Correct answer:** B
 
-**Explicação:**
-Secrets Manager centraliza e protege segredos com controle de acesso.
+**Explanation:**
+Secrets Manager centralizes and protects secrets with access control.
 
-**Por que a alternativa A está errada:**
-Exposição pública de dados sensíveis é prática insegura.
+**Why is option A wrong:**
+Public exposure of sensitive data is an unsafe practice.
 
 </details>
 
 ---
 
-## Questão 5
-Qual medida aumenta segurança da conta root?
+## Question 5
+Which measure increases root account security?
 
-A) Compartilhar senha com equipe
-B) Ativar MFA
-C) Desativar logs
-D) Criar chaves de acesso permanentes para root
+A) Share password with team
+B) Enable MFA
+C) Disable logs
+D) Create permanent access keys for root
 
 <details>
-<summary><strong>Ver resposta</strong></summary>
+<summary><strong>View answer</strong></summary>
 
-✅ **Resposta correta:** B
+✅ **Correct answer:** B
 
-**Explicação:**
-MFA adiciona segunda camada de autenticação.
+**Explanation:**
+MFA adds second layer of authentication.
 
-**Por que a alternativa D está errada:**
-Chaves permanentes de root aumentam risco severo.
+**Why option D is wrong:**
+Permanent root keys increase severe risk.
 
 </details>
 
 ---
 
-## Questão 6
-Qual serviço ajuda a detectar ameaças com análise contínua?
+## Question 6
+Which service helps detect threats with continuous analysis?
 
 A) Amazon GuardDuty
 B) AWS Snowball
@@ -124,29 +124,29 @@ C) Amazon SQS
 D) AWS Artifact
 
 <details>
-<summary><strong>Ver resposta</strong></summary>
+<summary><strong>View answer</strong></summary>
 
-✅ **Resposta correta:** A
+✅ **Correct answer:** A
 
-**Explicação:**
-GuardDuty identifica comportamentos suspeitos e possíveis ameaças.
+**Explanation:**
+GuardDuty identifies suspicious behavior and potential threats.
 
-**Por que a alternativa C está errada:**
-SQS é fila de mensagens, não detecção de ameaça.
+**Why option C is wrong:**
+SQS is message queuing, not threat detection.
 
 </details>
 
 
 
-> Trilha complementar: fundamentos de cloud ficam mais claros quando aplicados em pipelines de dados na AWS: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+> Complementary track: cloud fundamentals become clearer when applied to data pipelines in AWS: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

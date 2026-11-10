@@ -1,25 +1,25 @@
-﻿# Aws Application Discovery
+# AWS Application Discovery
 
-O AWS Application Discovery Service coleta informações sobre servidores e dependências em ambientes locais para planejar migrações.
+AWS Application Discovery Service collects information about servers and dependencies in on-premises environments to plan migrations.
 
-- Pode registrar configuração, uso e comunicação entre sistemas.
-- Os dados ajudam a agrupar aplicações e estimar capacidade.
-- Descoberta reduz decisões baseadas apenas em inventários manuais.
-- **Dica de prova:** mapear servidores e dependências antes de migrar aponta para Application Discovery Service.
+- Can record configuration, usage and communication between systems.
+- Data helps group applications and estimate capacity.
+- Discovery reduces decisions based solely on manual inventories.
+- **Test tip:** mapping servers and dependencies before migrating points to Application Discovery Service.
 
-Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
 
-> Para estudar aplicações práticas em dados depois deste tópico, este curso de Engenharia de Dados na AWS complementa bem: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+> To study practical data applications after this topic, this Data Engineering course on AWS complements it well: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

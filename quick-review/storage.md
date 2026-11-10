@@ -1,36 +1,36 @@
-# Revisão por Domínio - S3 e Armazenamento
+# Revision by Domain - S3 and Storage
 
-Use este bloco quando os erros envolverem S3, classes de armazenamento, backup ou tipo de volume.
+Use this block when errors involve S3, storage classes, backup, or volume type.
 
-## Revisão rápida
-- S3 armazena objetos em buckets.
-- EBS é bloco persistente para EC2.
-- EFS é sistema de arquivos compartilhado.
-- Lifecycle move ou expira objetos automaticamente para controlar custo.
+## Quick Review
+- S3 stores objects in buckets.
+- EBS is persistent block for EC2.
+- EFS is shared file system.
+- Lifecycle automatically moves or expires objects to control cost.
 
-## Sinais clássicos de prova
-- Se aparecer "objeto, backup, log ou site estático", pense em S3.
-- Se aparecer "disco para instância EC2", pense em EBS.
-- Se aparecer "arquivo compartilhado por múltiplas instâncias", pense em EFS.
-- Se aparecer "retenção longa e acesso raro", pense em Glacier.
+## Classic proof signals
+- If it says "object, backup, log, or static site", think S3.
+- If it says "disk for EC2 instance", think EBS.
+- If it says "file shared by multiple instances", think EFS.
+- If it says "long retention and rare access", think Glacier.
 
-## O que memorizar
-| Comparação | Regra mental |
+## What to memorize
+| Comparison | Mental rule |
 |---|---|
-| S3 Standard vs Glacier | Acesso frequente vs arquivamento |
-| S3 vs EBS | Objeto via API vs bloco para EC2 |
-| Versionamento vs Lifecycle | Recuperar histórico vs otimizar ciclo de vida |
+| S3 Standard vs Glacier | Hot Access vs Archiving |
+| S3 vs EBS | Object via API vs block for EC2 |
+| Versioning vs Lifecycle | Recover history vs optimize lifecycle |
 
-## Próxima revisão
-Depois deste bloco, avance para [custos](./custos.md): storage quase sempre envolve custo, retenção e recuperação.
+## Next review
+After this block, move on to [costs](./costs.md): storage almost always involves cost, retention, and recovery.
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

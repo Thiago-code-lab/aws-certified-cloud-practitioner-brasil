@@ -1,25 +1,25 @@
-﻿# Programas Conformidade
+# Compliance Programs
 
-Programas de conformidade demonstram que a AWS atende controles e padrões reconhecidos, conforme o serviço e a Região.
+Compliance programs demonstrate that AWS meets recognized controls and standards, depending on the service and Region.
 
-- A AWS fornece evidências sobre sua parte da responsabilidade compartilhada.
-- O cliente ainda configura sua carga e seus processos conforme os requisitos aplicáveis.
-- A elegibilidade varia por serviço; confirme o escopo antes de implantar.
-- **Dica de prova:** usar a AWS não torna uma aplicação automaticamente compatível com uma norma.
+- AWS provides evidence about its share of shared responsibility.
+- The customer still configures its load and processes according to the applicable requirements.
+- Eligibility varies by service; confirm the scope before deploying.
+- **Test tip:** using AWS does not automatically make an application compliant with a standard.
 
-Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
 
-> Aprofundamento opcional: para levar este conceito para projetos de dados na AWS, use como próximo passo: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+> Optional Deep Dive: To bring this concept to data projects on AWS, use as a next step: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

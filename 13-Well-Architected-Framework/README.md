@@ -1,47 +1,47 @@
 # Well-Architected Framework
 
-Módulo para reconhecer os pilares de qualidade de workloads na AWS.
+Module to recognize the quality pillars of workloads in AWS.
 
-## Foco do módulo
-- Pilares do AWS Well-Architected Framework.
-- Relação entre segurança, confiabilidade, custo e operação.
-- Uso do framework como revisão de qualidade.
+## Module focus
+- Pillars of AWS Well-Architected Framework.
+- Relationship between safety, reliability, cost and operation.
+- Using the framework as a quality review.
 
-## Revisão rápida
-- Well-Architected orienta boas decisões para workloads.
-- Não é uma ferramenta de migração; é um modelo de avaliação e melhoria.
-- A prova cobra nomes e intenção dos pilares, não desenho avançado.
+## Quick Review
+- Well-Architected guides good decisions for workloads.
+- Not a migration tool; It is a model for evaluation and improvement.
+- The test asks for names and intention of the pillars, not advanced design.
 
-## Sinais clássicos de prova
-- "Revisar qualidade de arquitetura" -> Well-Architected Framework.
-- "Reduzir desperdício" -> pilar de otimização de custos.
-- "Recuperar de falhas" -> pilar de confiabilidade.
+## Classic proof signals
+- "Review architectural quality" -> Well-Architected Framework.
+- "Reduce waste" -> cost optimization pillar.
+- "Recover from failures" -> reliability pillar.
 
-## Erro comum
-Confundir Well-Architected com CAF. CAF ajuda adoção organizacional; Well-Architected avalia workloads.
+## Common error
+Confusing Well-Architected with CAF. CAF helps organizational adoption; Well-Architected evaluates workloads.
 
-## O que memorizar
-| Comparação | Regra mental de prova |
+## What to memorize
+| Comparison | Mental rule of proof |
 |---|---|
-| Confiabilidade vs Performance | Continuar operando vs responder rápido |
-| Segurança vs Governança | Controles de proteção vs regras e direção organizacional |
+| Reliability vs Performance | Continue operating vs responding quickly |
+| Security vs Governance | Protective controls vs rules and organizational direction |
 
-## Ponte para o próximo módulo
-Depois de arquitetura, avance para IA e ML: reconheça serviços de inovação sem aprofundar em implementação.
+## Bridge to next module
+After architecture, move on to AI and ML: recognize innovative services without delving into implementation.
 
-## Continuidade
-Trilha de arquitetura: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+## Continuity
+Architecture Track: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
-> Quando este assunto aparecer em cenários de dados, vale revisar o curso Engenharia de Dados na AWS: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+> When this subject appears in data scenarios, it is worth reviewing the Data Engineering on AWS course: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

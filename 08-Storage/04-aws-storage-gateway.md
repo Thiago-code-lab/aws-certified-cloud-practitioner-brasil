@@ -1,25 +1,25 @@
-﻿# Aws Storage Gateway
+# AWS Storage Gateway
 
-O AWS Storage Gateway conecta ambientes locais ao armazenamento da AWS em uma arquitetura híbrida.
+AWS Storage Gateway connects on-premises environments to AWS storage in a hybrid architecture.
 
-- Mantém interfaces conhecidas localmente enquanto usa a AWS para armazenamento ou proteção.
-- Atende compartilhamento de arquivos, volumes e backup em fita virtual.
-- Pode manter cache local para dados frequentes.
-- **Dica de prova:** integração de armazenamento local com AWS aponta para Storage Gateway.
+- Maintain known interfaces locally while using AWS for storage or protection.
+- Supports file sharing, volumes and virtual tape backup.
+- Can maintain local cache for frequent data.
+- **Test tip:** local storage integration with AWS points to Storage Gateway.
 
-Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
 
-> Se o objetivo também for engenharia de dados, este curso ajuda a transformar a base de AWS em projetos: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+> If the objective is also data engineering, this course helps you transform the AWS base into projects: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

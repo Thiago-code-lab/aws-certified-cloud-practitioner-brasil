@@ -1,25 +1,25 @@
-﻿# Planos De Suporte
+# Support Plans
 
-Os planos do AWS Support variam em canais, tempo de resposta e nível de acompanhamento.
+AWS Support plans vary in channels, response time, and tracking level.
 
-- **Basic:** incluído para todas as contas, com ajuda de conta e cobrança e recursos de autoatendimento.
-- **Business Support+:** suporte técnico 24x7 e resposta adequada a cargas de produção.
-- **Enterprise Support:** adiciona acompanhamento de TAM e resposta mais rápida para sistemas críticos.
-- **Unified Operations:** nível mais amplo para operações essenciais em grande escala.
-- **Atenção em 2026:** Developer, Business e Enterprise On-Ramp estão em transição, mas ainda podem aparecer no guia CLF-C02.
+- **Basic:** included for all accounts, with account and billing help and self-service features.
+- **Business Support+:** 24x7 technical support and adequate response to production loads.
+- **Enterprise Support:** adds TAM tracking and faster response for critical systems.
+- **Unified Operations:** broader level for large-scale essential operations.
+- **Attention in 2026:** Developer, Business and Enterprise On-Ramp are in transition, but may still appear in the CLF-C02 guide.
 
-Compare os [planos atuais do AWS Support](https://aws.amazon.com/premiumsupport/plans/) antes de contratar.
+Compare current AWS Support](https://aws.amazon.com/premiumsupport/plans/) plans before hiring.
 
-Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

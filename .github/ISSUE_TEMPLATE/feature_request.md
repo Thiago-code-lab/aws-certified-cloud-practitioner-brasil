@@ -1,9 +1,9 @@
-﻿---
+---
 name: '✨ Feature request'
-about: 'Sugerir melhoria de conteúdo'
+about: 'Suggest content improvement'
 title: '[FEAT] '
 labels: enhancement
 ---
 
-## Sugestão
-Descreva a melhoria proposta.
+## Suggestion
+Describe the proposed improvement.

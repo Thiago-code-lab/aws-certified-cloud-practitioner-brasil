@@ -1,22 +1,22 @@
-﻿# Amazon Lex
+#Amazon Lex
 
-O Amazon Lex cria interfaces de conversa por texto e voz usando reconhecimento de fala e compreensão de linguagem.
+Amazon Lex creates text and voice conversation interfaces using speech recognition and language understanding.
 
-- Organiza conversas em intenções, frases e slots.
-- Pode acionar Lambda para executar lógica de negócio.
-- É usado em chatbots, assistentes e atendimento automatizado.
-- **Dica de prova:** bot conversacional com coleta de informações aponta para Lex.
+- Organizes conversations into intents, phrases, and slots.
+- Can trigger Lambda to execute business logic.
+- It is used in chatbots, assistants and automated service.
+- **Test tip:** conversational bot with information collection points to Lex.
 
-Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

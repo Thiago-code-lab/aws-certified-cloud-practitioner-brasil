@@ -1,76 +1,76 @@
-﻿# Questões Domínio 1 - Conceitos de Nuvem
+# Questions Domain 1 - Cloud Concepts
 
-## Questão 1
-Uma empresa quer substituir compra de servidores físicos por um modelo em que paga apenas o consumo mensal. Qual benefício da nuvem está sendo priorizado?
+## Question 1
+A company wants to replace the purchase of physical servers with a model in which it only pays for monthly consumption. Which benefit of the cloud is being prioritized?
 
-A) Alta latência garantida
-B) Elasticidade com pagamento sob demanda
-C) Controle manual de hardware
-D) Contrato fixo de 5 anos
+A) Guaranteed high latency
+B) Elasticity with on-demand payment
+C) Hardware manual control
+D) 5-year fixed contract
 
 <details>
-<summary><strong>Ver resposta</strong></summary>
+<summary><strong>View answer</strong></summary>
 
-✅ **Resposta correta:** B
+✅ **Correct answer:** B
 
-**Explicação:**
-Pagamento sob demanda e elasticidade são benefícios clássicos da nuvem.
+**Explanation:**
+Payment on demand and elasticity are classic cloud benefits.
 
-**Por que a alternativa A está errada:**
-Latência alta não é benefício de nuvem.
+**Why is option A wrong:**
+High latency is not a cloud benefit.
 
 </details>
 
 ---
 
-## Questão 2
-Qual opção descreve corretamente uma Região AWS?
+## Question 2
+Which option correctly describes an AWS Region?
 
-A) Um único datacenter
-B) Um conjunto de AZs em uma área geográfica
-C) Um serviço global sem localização
-D) Uma rede privada do cliente
+A) A single data center
+B) A collection of AZs in a geographic area
+C) A global service without localization
+D) A customer's private network
 
 <details>
-<summary><strong>Ver resposta</strong></summary>
+<summary><strong>View answer</strong></summary>
 
-✅ **Resposta correta:** B
+✅ **Correct answer:** B
 
-**Explicação:**
-Região é composta por múltiplas AZs fisicamente separadas.
+**Explanation:**
+Region is made up of multiple physically separated AZs.
 
-**Por que a alternativa A está errada:**
-Uma Região não é um único datacenter.
+**Why is option A wrong:**
+A Region is not a single data center.
 
 </details>
 
 ---
 
-## Questão 3
-Uma startup precisa lançar um protótipo rapidamente, com mínimo investimento inicial. Qual característica da nuvem mais ajuda?
+## Question 3
+A startup needs to launch a prototype quickly, with minimal initial investment. Which feature of the cloud helps the most?
 
-A) CapEx elevado
-B) Provisionamento lento
-C) Agilidade de provisionamento
-D) Bloqueio de escalabilidade
+A) High CapEx
+B) Slow provisioning
+C) Provisioning agility
+D) Scalability lock
 
 <details>
-<summary><strong>Ver resposta</strong></summary>
+<summary><strong>View answer</strong></summary>
 
-✅ **Resposta correta:** C
+✅ **Correct answer:** C
 
-**Explicação:**
-A nuvem acelera criação de recursos e time-to-market.
+**Explanation:**
+The cloud accelerates resource creation and time-to-market.
 
-**Por que a alternativa A está errada:**
-A proposta da nuvem reduz investimento inicial (CapEx).
+**Why is option A wrong:**
+The cloud proposal reduces initial investment (CapEx).
 
 </details>
 
 ---
 
-## Questão 4
-Qual modelo de serviço oferece infraestrutura virtual, como instâncias e rede básica?
+## Question 4
+Which service model provides virtual infrastructure such as instances and core networking?
 
 A) SaaS
 B) PaaS
@@ -78,75 +78,75 @@ C) IaaS
 D) DaaS
 
 <details>
-<summary><strong>Ver resposta</strong></summary>
+<summary><strong>View answer</strong></summary>
 
-✅ **Resposta correta:** C
+✅ **Correct answer:** C
 
-**Explicação:**
-IaaS fornece recursos de infraestrutura sob demanda.
+**Explanation:**
+IaaS provides infrastructure resources on demand.
 
-**Por que a alternativa A está errada:**
-SaaS entrega aplicação pronta, não infraestrutura.
+**Why is option A wrong:**
+SaaS delivers ready-made applications, not infrastructure.
 
 </details>
 
 ---
 
-## Questão 5
-No contexto AWS, alta disponibilidade é normalmente obtida com:
+## Question 5
+In the AWS context, high availability is typically achieved with:
 
-A) Uso de uma única AZ
-B) Distribuição em múltiplas AZs
-C) Apenas backup local
-D) Aumento do tamanho de disco
+A) Use of a single AZ
+B) Distribution across multiple AZs
+C) Local backup only
+D) Increased disk size
 
 <details>
-<summary><strong>Ver resposta</strong></summary>
+<summary><strong>View answer</strong></summary>
 
-✅ **Resposta correta:** B
+✅ **Correct answer:** B
 
-**Explicação:**
-Múltiplas AZs reduzem impacto de falhas locais.
+**Explanation:**
+Multiple AZs reduce impact of local failures.
 
-**Por que a alternativa A está errada:**
-Uma única AZ aumenta risco de indisponibilidade.
+**Why is option A wrong:**
+A single AZ increases the risk of unavailability.
 
 </details>
 
 ---
 
-## Questão 6
-Qual item melhor representa escalabilidade?
+## Question 6
+Which item best represents scalability?
 
-A) Manter capacidade fixa
-B) Ajustar recursos conforme demanda
-C) Comprar servidores de reserva anuais
-D) Remover monitoramento
+A) Maintain fixed capacity
+B) Adjust resources according to demand
+C) Purchase annual backup servers
+D) Remove monitoring
 
 <details>
-<summary><strong>Ver resposta</strong></summary>
+<summary><strong>View answer</strong></summary>
 
-✅ **Resposta correta:** B
+✅ **Correct answer:** B
 
-**Explicação:**
-Escalabilidade é aumentar ou reduzir capacidade conforme necessidade.
+**Explanation:**
+Scalability means increasing or reducing capacity as needed.
 
-**Por que a alternativa C está errada:**
-Compra antecipada fixa não representa ajuste dinâmico.
+**Why option C is wrong:**
+Fixed advance purchase does not represent dynamic adjustment.
 
 </details>
 
 
 
-> Se o objetivo também for engenharia de dados, este curso ajuda a transformar a base de AWS em projetos: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+> If the objective is also data engineering, this course helps you transform the AWS base into projects: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

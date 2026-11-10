@@ -1,47 +1,47 @@
-# Inteligência Artificial e ML
+# Artificial Intelligence and ML
 
-Módulo introdutório para reconhecer serviços de IA/ML citados no ecossistema AWS.
+Introductory module to recognize AI/ML services cited in the AWS ecosystem.
 
-## Foco do módulo
-- Serviços gerenciados de IA em alto nível.
-- Diferença entre usar IA pronta e treinar modelos.
-- Casos simples: texto, imagem, previsão e assistentes.
+## Module focus
+- High-end AI managed services.
+- Difference between using ready-made AI and training models.
+- Simple cases: text, image, prediction and wizards.
 
-## Revisão rápida
-- Serviços gerenciados reduzem necessidade de operar infraestrutura de ML.
-- Amazon SageMaker aparece quando o foco é construir, treinar e implantar modelos.
-- Serviços de IA prontos aparecem quando o enunciado pede capacidade específica.
+## Quick Review
+- Managed services reduce the need to operate ML infrastructure.
+- Amazon SageMaker appears when the focus is on building, training, and deploying models.
+- Ready AI services appear when the statement asks for specific capability.
 
-## Sinais clássicos de prova
-- "Construir e treinar modelos de ML" -> Amazon SageMaker.
-- "Adicionar busca inteligente" -> Amazon Kendra em alto nível.
-- "IA generativa gerenciada" -> Amazon Bedrock.
+## Classic proof signals
+- "Build and train ML models" -> Amazon SageMaker.
+- "Add smart search" -> Amazon Kendra at high level.
+- "Managed generative AI" -> Amazon Bedrock.
 
-## Erro comum
-Escolher SageMaker para qualquer cenário de IA. Se o enunciado pede capacidade pronta, um serviço de IA gerenciado pode ser mais simples.
+## Common error
+Choose SageMaker for any AI scenario. If the statement calls for out-of-the-box capability, a managed AI service may be simpler.
 
-## O que memorizar
-| Comparação | Regra mental de prova |
+## What to memorize
+| Comparison | Mental rule of proof |
 |---|---|
-| SageMaker vs serviço pronto | SageMaker constrói modelo; serviço pronto entrega capacidade |
-| Bedrock vs infraestrutura própria | Bedrock simplifica acesso a modelos fundacionais |
+| SageMaker vs out-of-the-box service | SageMaker builds model; ready service delivery capacity |
+| Bedrock vs own infrastructure | Bedrock Simplifies Access to Foundational Templates |
 
-## Ponte para o próximo módulo
-Depois de IA, revise serviços para desenvolvedor: como times entregam e operam mudanças.
+## Bridge to next module
+After IA, review developer services: how teams deliver and operate change.
 
-## Continuidade
-Trilha de IA na AWS: https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil
+## Continuity
+AI Track on AWS: https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil
 
 
-> Próximo passo sugerido: aplicar estes conceitos em cenários de engenharia de dados na AWS: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+> Suggested next step: apply these concepts in data engineering scenarios on AWS: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

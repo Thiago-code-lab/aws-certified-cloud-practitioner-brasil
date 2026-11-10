@@ -1,25 +1,25 @@
-﻿# Resultados Transformacao
+# Transformation Results
 
-A transformação em nuvem busca resultados mensuráveis, e não apenas mover servidores.
+Cloud transformation seeks measurable results, not just moving servers.
 
-- Pode aumentar receita, eficiência operacional e agilidade.
-- Pode reduzir riscos e apoiar metas ambientais e sociais.
-- Resultados devem ter responsáveis, métricas e revisões frequentes.
-- **Dica de prova:** cada iniciativa técnica deve estar ligada a um resultado de negócio verificável.
+- Can increase revenue, operational efficiency and agility.
+- Can reduce risks and support environmental and social goals.
+- Results must have accountability, metrics and frequent reviews.
+- **Test tip:** each technical initiative must be linked to a verifiable business result.
 
-Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
 
-> Se o objetivo também for engenharia de dados, este curso ajuda a transformar a base de AWS em projetos: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+> If the objective is also data engineering, this course helps you transform the AWS base into projects: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

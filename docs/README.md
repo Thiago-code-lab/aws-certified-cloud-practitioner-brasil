@@ -1,9 +1,9 @@
-# Guias de estudo
+# Study Guides
 
-Esta pasta reúne orientações para usar o material, preparar-se para o exame e continuar os estudos depois da trilha.
+This folder contains guidelines for using the material, preparing for the exam and continuing your studies after the trail.
 
-- [Fluxo de estudo](study-flow.md): rotina de teoria, prática e revisão.
-- [Guia do exame](exam-guide.md): estratégia para interpretar questões e priorizar temas.
-- [Próximos passos](next-steps.md): checklist final e continuidade após o CLF-C02.
+- [Study flow](study-flow.md): theory, practice and review routine.
+- [Exam guide](exam-guide.md): strategy for interpreting questions and prioritizing topics.
+- [Next steps](next-steps.md): final checklist and continuity after CLF-C02.
 
-Use estes guias como apoio de organização; confirme regras e formato atuais na página oficial da certificação antes de agendar a prova.
+Use these guides as organizational support; confirm current rules and format on the official certification page before scheduling the test.

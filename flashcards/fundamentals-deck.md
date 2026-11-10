@@ -1,144 +1,144 @@
-# Deck Fundamentos de Nuvem
+# Cloud Fundamentals Deck
 
 ## Card 01
-**Pergunta:** Se a prova citar “aumentar e reduzir recursos conforme a demanda muda”, qual conceito ela quer testar?
+**Question:** If the test mentions "increasing and reducing resources as demand changes", which concept does it want to test?
 
 <details>
-<summary><strong>Ver resposta</strong></summary>
+<summary><strong>View answer</strong></summary>
 
-**Resposta:**
-Elasticidade. O sinal de memorização é ajuste dinâmico: recursos sobem em pico e descem quando a demanda cai.
+**Answer:**
+Elasticity. The memorization signal is dynamic adjustment: resources rise at a peak and fall when demand falls.
 
 </details>
 
 ## Card 02
-**Pergunta:** Escalabilidade é a mesma coisa que elasticidade?
+**Question:** Is scalability the same thing as elasticity?
 
 <details>
-<summary><strong>Ver resposta</strong></summary>
+<summary><strong>View answer</strong></summary>
 
-**Resposta:**
-Não. Escalabilidade é a capacidade de crescer sem perder desempenho; elasticidade é ajustar capacidade automaticamente ao volume real de uso.
+**Answer:**
+No. Scalability is the ability to grow without losing performance; elasticity is to automatically adjust capacity to the actual volume of use.
 
 </details>
 
 ## Card 03
-**Pergunta:** Em uma questão sobre baixa latência para usuários brasileiros, a primeira decisão costuma envolver o quê?
+**Question:** In a question about low latency for Brazilian users, the first decision usually involves what?
 
 <details>
-<summary><strong>Ver resposta</strong></summary>
+<summary><strong>View answer</strong></summary>
 
-**Resposta:**
-Escolha de Região. A Região define proximidade geográfica, residência de dados e impacto direto na latência.
+**Answer:**
+Choice of Region. Region defines geographic proximity, data residency and direct impact on latency.
 
 </details>
 
 ## Card 04
-**Pergunta:** O que uma Zona de Disponibilidade representa na infraestrutura global da AWS?
+**Question:** What does an Availability Zone represent in the global AWS infrastructure?
 
 <details>
-<summary><strong>Ver resposta</strong></summary>
+<summary><strong>View answer</strong></summary>
 
-**Resposta:**
-Um ou mais data centers isolados dentro de uma Região. AZs diferentes reduzem impacto de falhas locais.
+**Answer:**
+One or more isolated data centers within a Region. Different AZs reduce the impact of local failures.
 
 </details>
 
 ## Card 05
-**Pergunta:** Quando a resposta mais provável é Multi-AZ, qual pista o enunciado normalmente dá?
+**Question:** When the most likely answer is Multi-AZ, what clue does the statement typically give?
 
 <details>
-<summary><strong>Ver resposta</strong></summary>
+<summary><strong>View answer</strong></summary>
 
-**Resposta:**
-Continuidade durante falha de um data center ou componente local. Multi-AZ é pista forte para alta disponibilidade dentro da mesma Região.
+**Answer:**
+Continuity during failure of a data center or on-premises component. Multi-AZ is a strong track for high availability within the same Region.
 
 </details>
 
 ## Card 06
-**Pergunta:** Qual benefício da nuvem troca investimento inicial em hardware por pagamento operacional?
+**Question:** What benefit of the cloud exchanges initial hardware investment for operational payment?
 
 <details>
-<summary><strong>Ver resposta</strong></summary>
+<summary><strong>View answer</strong></summary>
 
-**Resposta:**
-Trocar CAPEX por OPEX. Em vez de comprar capacidade antes, a empresa paga recursos conforme usa.
+**Answer:**
+Exchange CAPEX for OPEX. Instead of purchasing capacity up front, the company pays for resources as they use them.
 
 </details>
 
 ## Card 07
-**Pergunta:** “Provisionar ambiente em minutos” aponta para qual vantagem central da nuvem?
+**Question:** "Provision environment in minutes" points to what core advantage of the cloud?
 
 <details>
-<summary><strong>Ver resposta</strong></summary>
+<summary><strong>View answer</strong></summary>
 
-**Resposta:**
-Agilidade. A nuvem reduz tempo de espera por infraestrutura e acelera experimentos, testes e lançamentos.
+**Answer:**
+Agility. The cloud reduces infrastructure wait times and speeds up experiments, testing and launches.
 
 </details>
 
 ## Card 08
-**Pergunta:** No modelo de responsabilidade compartilhada, o que fica “da nuvem” e o que fica “na nuvem”?
+**Question:** In the shared responsibility model, what stays "in the cloud" and what stays "in the cloud"?
 
 <details>
-<summary><strong>Ver resposta</strong></summary>
+<summary><strong>View answer</strong></summary>
 
-**Resposta:**
-A AWS protege a infraestrutura da nuvem. O cliente protege o que coloca na nuvem: dados, identidades, permissões e configurações.
+**Answer:**
+AWS secures your cloud infrastructure. The customer protects what they put in the cloud: data, identities, permissions and configurations.
 
 </details>
 
 ## Card 09
-**Pergunta:** Alta disponibilidade e tolerância a falhas são sinônimos perfeitos?
+**Question:** Are high availability and fault tolerance perfect synonyms?
 
 <details>
-<summary><strong>Ver resposta</strong></summary>
+<summary><strong>View answer</strong></summary>
 
-**Resposta:**
-Não. Alta disponibilidade busca manter o serviço acessível; tolerância a falhas enfatiza continuar operando mesmo quando componentes falham.
+**Answer:**
+No. High availability seeks to keep the service accessible; Fault tolerance emphasizes continuing to operate even when components fail.
 
 </details>
 
 ## Card 10
-**Pergunta:** Qual é a ideia por trás de “economias de escala” em nuvem?
+**Question:** What is the idea behind cloud "economies of scale"?
 
 <details>
-<summary><strong>Ver resposta</strong></summary>
+<summary><strong>View answer</strong></summary>
 
-**Resposta:**
-A AWS opera em escala massiva e repassa eficiência de custos aos clientes por meio de preços e serviços compartilhados.
+**Answer:**
+AWS operates at massive scale and passes cost efficiencies to customers through shared pricing and services.
 
 </details>
 
 ## Card 11
-**Pergunta:** Se a empresa quer parar de adivinhar capacidade futura, qual princípio de nuvem resolve melhor?
+**Question:** If the company wants to stop guessing about future capacity, which cloud principle solves it best?
 
 <details>
-<summary><strong>Ver resposta</strong></summary>
+<summary><strong>View answer</strong></summary>
 
-**Resposta:**
-Capacidade sob demanda. O foco é reduzir superprovisionamento e subprovisionamento, ajustando recursos quando necessário.
+**Answer:**
+Capacity on demand. The focus is to reduce over-provisioning and under-provisioning, adjusting resources when necessary.
 
 </details>
 
 ## Card 12
-**Pergunta:** Erro de prova: escolher Multi-Region sempre que aparecer “alta disponibilidade”. Qual é o ajuste correto?
+**Question:** Test error: choosing Multi-Region whenever "high availability" appears. What is the correct setting?
 
 <details>
-<summary><strong>Ver resposta</strong></summary>
+<summary><strong>View answer</strong></summary>
 
-**Resposta:**
-Para CLF-C02, Multi-AZ costuma ser a resposta suficiente para alta disponibilidade regional. Multi-Region entra quando há desastre regional, latência global ou requisitos geográficos.
+**Answer:**
+For CLF-C02, Multi-AZ is often a sufficient answer for regional high availability. Multi-Region comes in when there is regional disaster, global latency or geographic requirements.
 
 </details>
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

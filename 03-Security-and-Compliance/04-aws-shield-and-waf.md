@@ -1,25 +1,25 @@
-﻿# Aws Shield E Waf
+# Aws Shield E Waf
 
-AWS Shield e AWS WAF protegem aplicações contra ameaças de rede e tráfego web malicioso.
+AWS Shield and AWS WAF protect applications against network threats and malicious web traffic.
 
-- **Shield Standard:** proteção automática contra ataques DDoS comuns.
-- **Shield Advanced:** proteção ampliada e suporte para cargas críticas.
-- **WAF:** filtra requisições HTTP/HTTPS por IP, padrão ou taxa.
-- **Dica de prova:** DDoS aponta para Shield; bloquear SQL injection, bots ou IPs aponta para WAF.
+- **Shield Standard:** automatic protection against common DDoS attacks.
+- **Shield Advanced:** expanded protection and support for critical loads.
+- **WAF:** filters HTTP/HTTPS requests by IP, pattern or rate.
+- **Test tip:** DDoS points to Shield; block SQL injection, bots or IPs points to WAF.
 
-Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
 
-> Se o objetivo também for engenharia de dados, este curso ajuda a transformar a base de AWS em projetos: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+> If the objective is also data engineering, this course helps you transform the AWS base into projects: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

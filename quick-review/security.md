@@ -1,35 +1,35 @@
-# Revisão por Domínio - IAM e Segurança
+# Domain Review - IAM and Security
 
-Use este bloco quando os erros envolverem acesso, auditoria, criptografia ou responsabilidade do cliente.
+Use this block when errors involve access, auditing, encryption, or customer responsibility.
 
-## Revisão rápida
-- Root deve ser protegido com MFA e evitado no uso diário.
-- IAM User é identidade persistente; IAM Role é assumida temporariamente.
-- CloudTrail registra chamadas de API para auditoria.
-- KMS centraliza chaves de criptografia gerenciadas.
+## Quick Review
+- Root should be protected with MFA and avoided in daily use.
+- IAM User is persistent identity; IAM Role is assumed temporarily.
+- CloudTrail logs API calls for auditing.
+- KMS centralizes managed encryption keys.
 
-## Sinais clássicos de prova
-- Se aparecer "quem fez o quê na conta", pense em CloudTrail.
-- Se aparecer "acesso temporário entre serviços", pense em IAM Role.
-- Se aparecer "relatórios de compliance da AWS", pense em AWS Artifact.
+## Classic proof signals
+- If it says "who did what in the account", think CloudTrail.
+- If it says "temporary access between services", think IAM Role.
+- If you see "AWS compliance reports", think AWS Artifact.
 
-## O que memorizar
-| Comparação | Regra mental |
+## What to memorize
+| Comparison | Mental rule |
 |---|---|
-| IAM User vs Role | User = longo prazo; Role = acesso assumido |
-| MFA vs política IAM | MFA autentica; política autoriza |
-| CloudTrail vs CloudWatch | Auditoria de API vs métricas/logs operacionais |
+| IAM User vs Role | User = long term; Role = assumed access |
+| MFA vs IAM policy | authentic MFA; policy authorizes |
+| CloudTrail vs CloudWatch | API audit vs operational metrics/logs |
 
-## Próxima revisão
-Depois deste bloco, avance para [armazenamento](./armazenamento.md): permissões e dados aparecem juntos em muitas questões.
+## Next review
+After this block, proceed to [storage](./storage.md): permissions and data appear together in many questions.
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

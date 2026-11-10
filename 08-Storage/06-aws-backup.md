@@ -1,25 +1,25 @@
-﻿# Aws Backup
+# AWS Backup
 
-O AWS Backup centraliza políticas, agendamentos, retenção e auditoria de backups de serviços compatíveis.
+AWS Backup centralizes policies, scheduling, retention, and auditing of supported service backups.
 
-- Planos aplicam regras consistentes a vários recursos e contas.
-- Backups podem ser copiados entre contas e Regiões.
-- A estratégia ainda deve definir RPO, RTO e testes de restauração.
-- **Dica de prova:** gestão centralizada de backups entre serviços aponta para AWS Backup.
+- Plans apply consistent rules to multiple resources and accounts.
+- Backups can be copied between accounts and Regions.
+- The strategy must still define RPO, RTO and restoration tests.
+- **Test tip:** centralized management of backups between services points to AWS Backup.
 
-Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
 
-> Próximo passo sugerido: aplicar estes conceitos em cenários de engenharia de dados na AWS: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+> Suggested next step: apply these concepts in data engineering scenarios on AWS: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

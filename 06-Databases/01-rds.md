@@ -1,25 +1,25 @@
-﻿# Rds
+# Rds
 
-O Amazon RDS gerencia bancos relacionais e automatiza provisionamento, backups, patches e substituição da infraestrutura.
+Amazon RDS manages relational databases and automates infrastructure provisioning, backups, patches, and replacement.
 
-- Suporta mecanismos populares como PostgreSQL, MySQL, MariaDB, Oracle e SQL Server.
-- **Multi-AZ:** aumenta disponibilidade com réplica de espera.
-- **Read Replica:** escala leituras; não substitui Multi-AZ.
-- **Dica de prova:** aplicação SQL transacional com menos operação aponta para RDS.
+- Supports popular engines such as PostgreSQL, MySQL, MariaDB, Oracle and SQL Server.
+- **Multi-AZ:** increases availability with standby replica.
+- **Read Replica:** scales reads; does not replace Multi-AZ.
+- **Test tip:** transactional SQL application with fewer operations points to RDS.
 
-Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
 
-> Para estudar aplicações práticas em dados depois deste tópico, este curso de Engenharia de Dados na AWS complementa bem: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+> To study practical data applications after this topic, this Data Engineering course on AWS complements it well: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

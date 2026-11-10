@@ -1,26 +1,26 @@
-﻿# Tipos De Instancia
+# Instance Types
 
-O Amazon EC2 oferece máquinas virtuais com combinações diferentes de CPU, memória, armazenamento e rede. A família deve acompanhar o perfil da carga.
+Amazon EC2 offers virtual machines with different combinations of CPU, memory, storage, and networking. The family must follow the load profile.
 
-- **Uso geral:** equilíbrio para aplicações web e sistemas corporativos.
-- **Computação:** mais CPU para processamento intensivo.
-- **Memória:** bancos em memória e análises com grandes conjuntos de dados.
-- **Computação acelerada:** GPUs e aceleradores para gráficos ou machine learning.
-- **Dica de prova:** escolha pelo recurso dominante da aplicação, não apenas pelo tamanho da instância.
+- **General use:** balance for web applications and enterprise systems.
+- **Compute:** more CPU for intensive processing.
+- **Memory:** in-memory banks and analyzes with large data sets.
+- **Accelerated computing:** GPUs and accelerators for graphics or machine learning.
+- **Test tip:** choose the dominant resource of the application, not just the size of the instance.
 
-Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
 
-> Aprofundamento opcional: para levar este conceito para projetos de dados na AWS, use como próximo passo: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+> Optional Deep Dive: To bring this concept to data projects on AWS, use as a next step: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

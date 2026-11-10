@@ -1,47 +1,47 @@
-# Serviços para Desenvolvedor
+# Developer Services
 
-Módulo para reconhecer ferramentas de entrega, automação e integração no nível Cloud Practitioner.
+Module to recognize delivery, automation and integration tools at the Cloud Practitioner level.
 
-## Foco do módulo
-- Conceitos de CI/CD em alto nível.
-- CodeCommit, CodeBuild, CodeDeploy e CodePipeline.
-- Infraestrutura como código e automação básica.
+## Module focus
+- High-level CI/CD concepts.
+- CodeCommit, CodeBuild, CodeDeploy and CodePipeline.
+- Infrastructure as code and basic automation.
 
-## Revisão rápida
-- CodePipeline orquestra etapas de entrega.
-- CodeBuild compila e testa código.
-- CloudFormation descreve infraestrutura como código.
+## Quick Review
+- CodePipeline orchestrates delivery steps.
+- CodeBuild compiles and tests code.
+- CloudFormation describes infrastructure as code.
 
-## Sinais clássicos de prova
-- "Pipeline de entrega" -> AWS CodePipeline.
-- "Compilar e testar código" -> AWS CodeBuild.
-- "Criar infraestrutura por template" -> AWS CloudFormation.
+## Classic proof signals
+- "Delivery pipeline" -> AWS CodePipeline.
+- "Compile and test code" -> AWS CodeBuild.
+- "Create infrastructure by template" -> AWS CloudFormation.
 
-## Erro comum
-Confundir ferramenta de build com ferramenta de pipeline. Build executa etapa; pipeline coordena fluxo.
+## Common error
+Confusing build tool with pipeline tool. Build executes step; pipeline coordinates flow.
 
-## O que memorizar
-| Comparação | Regra mental de prova |
+## What to memorize
+| Comparison | Mental rule of proof |
 |---|---|
-| CodeBuild vs CodePipeline | Build executa; Pipeline orquestra |
-| Console manual vs CloudFormation | Manual é pontual; template é repetível |
+| CodeBuild vs CodePipeline | Build executes; Orchestral pipeline |
+| Manual Console vs CloudFormation | Manual is punctual; template is repeatable |
 
-## Ponte de consolidação
-Depois deste módulo, volte para quick-review e flashcards para consolidar sinais de prova por domínio.
+## Consolidation bridge
+After this module, return to quick-review and flashcards to consolidate proof signals by domain.
 
-## Continuidade
-Trilha de arquitetura: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+## Continuity
+Architecture Track: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
-> Para aprofundar com projetos de dados na AWS, este material pode complementar a revisão: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+> To delve deeper into data projects in AWS, this material can complement the review: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

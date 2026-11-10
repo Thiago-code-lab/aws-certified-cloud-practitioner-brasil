@@ -1,22 +1,22 @@
-﻿# Amazon Sagemaker
+# Amazon Sagemaker
 
-O Amazon SageMaker reúne recursos gerenciados para criar, treinar, ajustar e implantar modelos de machine learning.
+Amazon SageMaker brings together managed resources to create, train, tune, and deploy machine learning models.
 
-- Atende preparação de dados, experimentos, treinamento e inferência.
-- Reduz a necessidade de administrar infraestrutura de ML.
-- É indicado quando a equipe precisa desenvolver ou operar modelos próprios.
-- **Dica de prova:** ciclo de vida completo de ML aponta para SageMaker; consumir um modelo fundacional pronto pode apontar para Bedrock.
+- Serves data preparation, experiments, training and inference.
+- Reduces the need to administer ML infrastructure.
+- It is recommended when the team needs to develop or operate its own models.
+- **Test tip:** complete ML lifecycle points to SageMaker; consuming a ready-made foundational model can point to Bedrock.
 
-Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

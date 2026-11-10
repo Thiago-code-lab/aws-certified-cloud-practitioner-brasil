@@ -1,24 +1,24 @@
-﻿# O Que E Nuvem
+# What Is Cloud
 
-Computação em nuvem entrega recursos de TI pela internet sob demanda. Em vez de comprar servidores com antecedência, a empresa provisiona capacidade em minutos e paga conforme o uso.
+Cloud computing delivers IT resources over the internet on demand. Instead of purchasing servers in advance, the company provisions capacity in minutes and pays as it goes.
 
-- **Use quando:** precisar ganhar agilidade, variar a capacidade ou testar uma solução com baixo investimento inicial.
-- **Responsabilidade:** a AWS opera a infraestrutura física; o cliente configura e protege seus dados e recursos.
-- **Dica de prova:** “capacidade sob demanda” e “pagamento pelo consumo” apontam para cloud computing.
+- **Use when:** you need to gain agility, vary capacity or test a solution with low initial investment.
+- **Responsibility:** AWS operates the physical infrastructure; the customer configures and protects its data and resources.
+- **Test tip:** "capacity on demand" and "pay for consumption" point to cloud computing.
 
-Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
 
-> Recurso complementar: se quiser conectar este fundamento com pipelines e analytics na AWS, veja o curso Engenharia de Dados na AWS: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+> Complementary resource: if you want to connect this foundation with pipelines and analytics in AWS, see the Data Engineering in AWS course: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

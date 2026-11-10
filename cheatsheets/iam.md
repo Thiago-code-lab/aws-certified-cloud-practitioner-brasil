@@ -1,35 +1,35 @@
-﻿# Iam
+#Iam
 
-## Identidades
+## Identities
 
-- **Usuário:** identidade de longo prazo; use apenas quando necessário.
-- **Grupo:** reúne usuários com permissões semelhantes.
-- **Função:** oferece credenciais temporárias para pessoas, serviços e aplicações.
-- **Federação:** usa um provedor de identidade externo para acesso à AWS.
+- **User:** long-term identity; use only when necessary.
+- **Group:** brings together users with similar permissions.
+- **Function:** offers temporary credentials for people, services and applications.
+- **Federation:** uses an external identity provider for access to AWS.
 
-## Políticas
+## Policies
 
-- Uma política define ações, recursos e condições permitidas ou negadas.
-- Uma negação explícita prevalece sobre permissões.
-- SCP limita o máximo permitido em contas do Organizations, mas não concede acesso.
+- A policy defines allowed or denied actions, resources, and conditions.
+- An explicit deny takes precedence over permissions.
+- SCP limits the maximum allowed on Organizations accounts, but does not grant access.
 
-## Boas práticas
+## Good practices
 
-- Ative MFA, aplique menor privilégio e revise credenciais.
-- Evite access keys permanentes e nunca use a conta-raiz no trabalho diário.
-- Não armazene segredos no código; use serviços próprios para credenciais e rotação.
+- Enable MFA, apply least privilege, and review credentials.
+- Avoid permanent access keys and never use the root account in daily work.
+- Do not store secrets in code; use your own services for credentials and rotation.
 
-Arquitetura: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
-IA na AWS: https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil
+Architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+AI on AWS: https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil
 
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

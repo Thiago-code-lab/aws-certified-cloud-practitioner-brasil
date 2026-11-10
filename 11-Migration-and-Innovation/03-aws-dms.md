@@ -1,25 +1,25 @@
-﻿# Aws Dms
+# Aws Dms
 
-O AWS Database Migration Service (AWS DMS) migra e replica bancos com pouco tempo de indisponibilidade.
+AWS Database Migration Service (AWS DMS) migrates and replicates databases with little downtime.
 
-- A origem pode continuar em uso enquanto as mudanças são replicadas.
-- Atende migrações entre mecanismos iguais ou diferentes.
-- Mudanças de mecanismo podem exigir conversão do esquema.
-- **Dica de prova:** replicação contínua de banco aponta para DMS; arquivos gerais apontam para DataSync.
+- The source can continue to be in use while changes are replicated.
+- Supports migrations between the same or different mechanisms.
+- Engine changes may require schema conversion.
+- **Test tip:** continuous database replication points to DMS; general files point to DataSync.
 
-Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
 
-> Aprofundamento opcional: para levar este conceito para projetos de dados na AWS, use como próximo passo: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+> Optional Deep Dive: To bring this concept to data projects on AWS, use as a next step: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

@@ -1,22 +1,22 @@
-﻿# Perspectiva Governance
+# Governance Perspective
 
-A perspectiva Governance alinha iniciativas de nuvem com controle, risco, finanças e conformidade.
+The Governance perspective aligns cloud initiatives with governance, risk, finance, and compliance.
 
-- Define políticas, responsabilidades e mecanismos de decisão.
-- Acompanha portfólio, custos, benefícios e riscos.
-- Evita crescimento sem padrões ou prestação de contas.
-- **Dica de prova:** governança de portfólio, risco e valor aponta para esta perspectiva.
+- Defines policies, responsibilities and decision mechanisms.
+- Monitors portfolio, costs, benefits and risks.
+- Avoids growth without standards or accountability.
+- **Proof tip:** portfolio governance, risk and value points to this perspective.
 
-Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

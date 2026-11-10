@@ -1,9 +1,9 @@
-﻿---
+---
 name: '🐞 Bug report'
-about: 'Reportar erro de conteúdo ou link quebrado'
+about: 'Report content error or broken link'
 title: '[BUG] '
 labels: bug
 ---
 
-## Descrição
-Descreva o problema.
+## Description
+Describe the problem.

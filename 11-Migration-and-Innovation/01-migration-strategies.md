@@ -1,23 +1,23 @@
-﻿# Estrategias Migracao
+# Migration Strategies
 
-As estratégias de migração, conhecidas como “Rs”, descrevem como cada aplicação será tratada.
+Migration strategies, known as "Rs," describe how each application will be handled.
 
-- **Rehost:** mover com poucas mudanças.
-- **Replatform:** fazer ajustes limitados e adotar alguns serviços gerenciados.
-- **Refactor:** redesenhar para aproveitar melhor a nuvem.
-- **Retire/Retain/Repurchase:** desativar, manter por enquanto ou trocar por outra solução.
-- **Dica de prova:** a estratégia depende de prazo, risco, valor e esforço, não de uma regra única.
+- **Rehost:** move with few changes.
+- **Replatform:** make limited adjustments and adopt some managed services.
+- **Refactor:** redesign to make better use of the cloud.
+- **Retire/Retain/Repurchase:** deactivate, keep for now or exchange for another solution.
+- **Test tip:** the strategy depends on deadline, risk, value and effort, not on a single rule.
 
-Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

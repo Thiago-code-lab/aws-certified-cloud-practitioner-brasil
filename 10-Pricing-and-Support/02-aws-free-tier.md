@@ -1,27 +1,27 @@
-﻿# Aws Free Tier
+# AWS Free Tier
 
-O AWS Free Tier oferece créditos e cotas gratuitas para novos clientes, de acordo com o tipo de conta e os limites vigentes.
+AWS Free Tier offers free credits and quotas to new customers, according to the type of account and current limits.
 
-- Novos clientes recebem USD 100 em créditos e podem obter até USD 100 adicionais por atividades elegíveis.
-- O plano gratuito dura até seis meses ou até os créditos terminarem; o plano pago permite uso mais amplo e cobra o excedente.
-- Mais de 30 serviços possuem cotas mensais gratuitas, mas nem todo recurso ou consumo está incluído.
-- **Boa prática:** acompanhe os créditos no console e configure AWS Budgets antes de criar laboratórios.
+- New customers receive $100 in credits and can get up to an additional $100 for eligible activities.
+- The free plan lasts up to six months or until credits run out; the paid plan allows for wider use and charges overages.
+- More than 30 services have free monthly quotas, but not every resource or consumption is included.
+- **Best practice:** keep track of credits in the console and configure AWS Budgets before creating labs.
 
-Consulte sempre os [termos atuais do AWS Free Tier](https://aws.amazon.com/free/) antes de criar a conta.
+Always check the current AWS Free Tier](https://aws.amazon.com/free/) terms before creating an account.
 
-Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
 
-> Para aprofundar com projetos de dados na AWS, este material pode complementar a revisão: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+> To delve deeper into data projects in AWS, this material can complement the review: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

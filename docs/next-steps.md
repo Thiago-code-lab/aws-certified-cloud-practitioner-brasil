@@ -1,32 +1,32 @@
-﻿# Next Steps
+# Next Steps
 
-Depois de concluir os módulos, transforme a revisão em uma decisão baseada em evidências.
+After completing the modules, turn the review into an evidence-based decision.
 
-## Antes da prova
+## Before the test
 
-- Faça ao menos um simulado completo em condições próximas às reais.
-- Revise os erros por domínio e repita apenas os temas com baixa precisão.
-- Confirme regras, identificação, horário e requisitos técnicos no portal oficial do exame.
-- Não tente aprender dezenas de serviços novos na véspera.
+- Carry out at least one complete simulation in conditions close to real ones.
+- Review errors by domain and repeat only themes with low accuracy.
+- Confirm rules, identification, schedule and technical requirements on the official exam portal.
+- Don't try to learn dozens of new services the day before.
 
-## Depois da trilha
+## After the trail
 
-- Refaça os laboratórios com menor privilégio e orçamento configurado.
-- Monte uma arquitetura pequena com S3, Lambda, API Gateway e monitoramento.
-- Escolha a próxima certificação pelo objetivo profissional: arquitetura, desenvolvimento, operações, dados ou IA.
-- Continue consultando a documentação oficial, pois serviços e condições comerciais mudam.
+- Redo labs with lowest privilege and configured budget.
+- Build a small architecture with S3, Lambda, API Gateway and monitoring.
+- Choose your next certification by professional objective: architecture, development, operations, data or AI.
+- Continue to consult the official documentation as services and commercial conditions change.
 
-Arquitetura: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
-IA na AWS: https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil
+Architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+AI on AWS: https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil
 
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

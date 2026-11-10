@@ -1,25 +1,25 @@
-﻿# Api Gateway
+# Api Gateway
 
-O Amazon API Gateway cria, publica, protege e monitora APIs que servem como entrada para aplicações.
+Amazon API Gateway creates, publishes, secures, and monitors APIs that serve as input to applications.
 
-- Pode encaminhar chamadas para Lambda, serviços HTTP e outros destinos.
-- Oferece autenticação, limitação de taxa, estágios e métricas.
-- É comum em APIs serverless combinado com Lambda.
-- **Dica de prova:** expor uma função como API HTTP gerenciada aponta para API Gateway.
+- Can forward calls to Lambda, HTTP services, and other destinations.
+- Provides authentication, rate limiting, stages, and metrics.
+- It is common in serverless APIs combined with Lambda.
+- **Test tip:** exposing a function as a managed HTTP API points to API Gateway.
 
-Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
 
-> Trilha complementar: fundamentos de cloud ficam mais claros quando aplicados em pipelines de dados na AWS: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+> Complementary track: cloud fundamentals become clearer when applied to data pipelines in AWS: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

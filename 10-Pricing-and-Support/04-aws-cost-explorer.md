@@ -1,25 +1,25 @@
-﻿# Aws Cost Explorer
+# Aws Cost Explorer
 
-O AWS Cost Explorer visualiza e analisa custos e uso históricos, atuais e previstos.
+AWS Cost Explorer views and analyzes historical, current, and forecasted costs and usage.
 
-- Filtra gastos por serviço, conta, Região, tag e outras dimensões.
-- Ajuda a identificar tendências e principais fontes de custo.
-- Pode apoiar análise de compromissos e rightsizing.
-- **Dica de prova:** investigar por que a conta aumentou aponta para Cost Explorer; ser avisado de um limite aponta para Budgets.
+- Filters expenses by service, account, Region, tag and other dimensions.
+- Helps identify trends and main cost sources.
+- Can support commitment analysis and rightsizing.
+- **Test tip:** investigating why the bill increased points to Cost Explorer; being warned of a limit points to Budgets.
 
-Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
 
-> Se o objetivo também for engenharia de dados, este curso ajuda a transformar a base de AWS em projetos: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+> If the objective is also data engineering, this course helps you transform the AWS base into projects: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

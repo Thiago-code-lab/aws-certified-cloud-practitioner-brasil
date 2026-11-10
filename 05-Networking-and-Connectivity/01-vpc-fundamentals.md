@@ -1,25 +1,25 @@
-﻿# Vpc Fundamentos
+# Vpc Fundamentals
 
-A Amazon VPC é uma rede virtual isolada na AWS. Nela você define endereços IP, sub-redes, rotas e controles de tráfego.
+Amazon VPC is an isolated virtual network on AWS. Here you define IP addresses, subnets, routes and traffic controls.
 
-- Cada VPC pertence a uma Região e pode abranger várias AZs.
-- Sub-redes pertencem a uma única AZ.
-- Tabelas de rotas determinam o próximo destino do tráfego.
-- **Dica de prova:** VPC fornece isolamento lógico; alta disponibilidade vem da distribuição entre AZs.
+- Each VPC belongs to a Region and can span multiple AZs.
+- Subnets belong to a single AZ.
+- Route tables determine the next destination of traffic.
+- **Test tip:** VPC provides logical isolation; High availability comes from distribution across AZs.
 
-Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
 
-> Trilha complementar: fundamentos de cloud ficam mais claros quando aplicados em pipelines de dados na AWS: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+> Complementary track: cloud fundamentals become clearer when applied to data pipelines in AWS: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

@@ -1,22 +1,22 @@
-﻿# Aws Marketplace
+# AWS Marketplace
 
-O AWS Marketplace é um catálogo para descobrir, comprar e implantar software e serviços de terceiros na AWS.
+AWS Marketplace is a catalog for discovering, purchasing, and deploying third-party software and services on AWS.
 
-- Reúne soluções como imagens de máquina, SaaS, dados e serviços profissionais.
-- Cobrança e contratos podem ser consolidados pela conta AWS.
-- O cliente deve avaliar licenças, segurança, suporte e custos do fornecedor.
-- **Dica de prova:** adquirir uma solução pronta de parceiro com cobrança integrada aponta para Marketplace.
+- Brings together solutions such as machine imaging, SaaS, data and professional services.
+- Billing and contracts can be consolidated by AWS account.
+- Customer must evaluate vendor licenses, security, support, and costs.
+- **Test tip:** purchasing a ready-made solution from a partner with integrated billing points to Marketplace.
 
-Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/

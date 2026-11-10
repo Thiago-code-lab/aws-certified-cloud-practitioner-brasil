@@ -1,47 +1,47 @@
-# Computação Serverless
+# Serverless Computing
 
-Módulo para reconhecer serviços sem servidor e padrões simples orientados a eventos.
+Module for recognizing serverless services and simple event-driven patterns.
 
-## Foco do módulo
-- AWS Lambda para execução de código sob demanda.
-- API Gateway como entrada para APIs.
-- SQS e SNS como integração desacoplada.
+## Module focus
+- AWS Lambda for on-demand code execution.
+- API Gateway as input for APIs.
+- SQS and SNS as decoupled integration.
 
-## Revisão rápida
-- Lambda executa código sem provisionar servidor.
-- API Gateway expõe APIs e pode acionar Lambda.
-- SQS enfileira mensagens; SNS publica notificações para assinantes.
+## Quick Review
+- Lambda runs code without provisioning server.
+- API Gateway exposes APIs and can trigger Lambda.
+- SQS queues messages; SNS publishes notifications to subscribers.
 
-## Sinais clássicos de prova
-- "Executar código curto em resposta a evento" -> AWS Lambda.
-- "Criar endpoint de API gerenciado" -> Amazon API Gateway.
-- "Desacoplar componentes com fila" -> Amazon SQS.
+## Classic proof signals
+- "Execute short code in response to event" -> AWS Lambda.
+- "Create managed API endpoint" -> Amazon API Gateway.
+- "Decouple components with queue" -> Amazon SQS.
 
-## Erro comum
-Escolher EC2 para tarefas event-driven simples quando o enunciado pede menor operação.
+## Common error
+Choose EC2 for simple event-driven tasks when the statement requires smaller operations.
 
-## O que memorizar
-| Comparação | Regra mental de prova |
+## What to memorize
+| Comparison | Mental rule of proof |
 |---|---|
-| Lambda vs EC2 | Lambda = evento sem servidor; EC2 = servidor configurável |
-| SQS vs SNS | SQS = fila; SNS = publicação/notificação |
+| Lambda vs EC2 | Lambda = serverless event; EC2 = configurable server |
+| SQS vs SNS | SQS = queue; SNS = publication/notification |
 
-## Ponte para o próximo módulo
-Depois de serverless, revise armazenamento geral: escolha correta entre objeto, bloco e arquivo.
+## Bridge to next module
+After serverless, review general storage: correct choice between object, block and file.
 
-## Continuidade
-Trilha de arquitetura: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+## Continuity
+Architecture Track: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
 
 
-> Quando este assunto aparecer em cenários de dados, vale revisar o curso Engenharia de Dados na AWS: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+> When this subject appears in data scenarios, it is worth reviewing the Data Engineering on AWS course: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+CloudStudy is available to help learners study AWS. Explore the platform at https://app.cloudstudy.com.br/. These open-source GitHub study materials are free; platform features may have separate terms.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
+Follow CloudStudy to keep up with new materials, updates and content about AWS certifications:
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/
