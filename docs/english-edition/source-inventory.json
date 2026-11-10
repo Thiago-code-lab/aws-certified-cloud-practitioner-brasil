@@ -1,0 +1,4304 @@
+{
+  "source_commit": "a59548c0d73c9da1cb20e7314cf46f983088e97a",
+  "file_count": 180,
+  "markdown_count": 172,
+  "files": [
+    {
+      "original_path": ".github/CODE_OF_CONDUCT.md",
+      "target_path": ".github/CODE_OF_CONDUCT.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "0fdae682b086961bfec987dafaf6f77ca96e2a4e3faa95a7af4a2260a038618a",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "📜 Código de Conduta\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": []
+    },
+    {
+      "original_path": ".github/CONTRIBUTING.md",
+      "target_path": ".github/CONTRIBUTING.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "c9034f26103334dde7473b152f361d79f812fdea2b968c6ffb9f4b0d966bda69",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "🤝 Como Contribuir\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": []
+    },
+    {
+      "original_path": ".github/ISSUE_TEMPLATE/bug_report.md",
+      "target_path": ".github/ISSUE_TEMPLATE/bug_report.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "6587611c7812729c17f26d0f12d8c81f302baeb53930499b7d0c926f85e6dd66",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Descrição\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": []
+    },
+    {
+      "original_path": ".github/ISSUE_TEMPLATE/feature_request.md",
+      "target_path": ".github/ISSUE_TEMPLATE/feature_request.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "222a2f7a8692612cdf7875b877471419caac577782a47720fee1b8c58eef5660",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Sugestão\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": []
+    },
+    {
+      "original_path": "01-Introducao-Computacao-em-Nuvem/01-o-que-e-nuvem.md",
+      "target_path": "01-Introduction-to-Cloud-Computing/01-what-is-cloud-computing.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "0ce9bede70135ba6c0e0af3dfc6a3633f2fe7a174a574ecc4fa41613bb9a6935",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "O Que E Nuvem\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9"
+      ]
+    },
+    {
+      "original_path": "01-Introducao-Computacao-em-Nuvem/02-modelos-de-servico.md",
+      "target_path": "01-Introduction-to-Cloud-Computing/02-service-models.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "c0955975cf1a8340545a08c64a8a1b29c04423fd2025981ac278c05f499d57a9",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Modelos De Servico\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/"
+      ]
+    },
+    {
+      "original_path": "01-Introducao-Computacao-em-Nuvem/03-modelos-de-implantacao.md",
+      "target_path": "01-Introduction-to-Cloud-Computing/03-deployment-models.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "85df13321e065d0262d3137f9c3e6cba0235cab75f5eec79602ace922bb31ede",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Modelos De Implantacao\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9"
+      ]
+    },
+    {
+      "original_path": "01-Introducao-Computacao-em-Nuvem/04-regioes-e-zonas.md",
+      "target_path": "01-Introduction-to-Cloud-Computing/04-regions-and-availability-zones.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "bb81dc8b3cae977021dacd33136f94d712d853bfa004e0f84412d4651f3fb160",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Regioes E Zonas\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/"
+      ]
+    },
+    {
+      "original_path": "01-Introducao-Computacao-em-Nuvem/05-beneficios-da-nuvem.md",
+      "target_path": "01-Introduction-to-Cloud-Computing/05-cloud-benefits.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "2aeb62012606b7586a816f7cef5cbd860197d5e297ec0d3a9510f0e1c34e5789",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Beneficios Da Nuvem\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/"
+      ]
+    },
+    {
+      "original_path": "01-Introducao-Computacao-em-Nuvem/README.md",
+      "target_path": "01-Introduction-to-Cloud-Computing/README.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "cfcede5d2e590e0c5e768e37bf7a4422cada8be84f5ea276b24c67c8ab0c1341",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Introdução à Computação em Nuvem\r",
+          "Foco do módulo\r",
+          "Revisão rápida\r",
+          "Sinais clássicos de prova\r",
+          "Erro comum\r",
+          "O que memorizar\r",
+          "Ponte para o próximo módulo\r",
+          "Continuidade\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/"
+      ]
+    },
+    {
+      "original_path": "02-Amazon-EC2/01-tipos-de-instancia.md",
+      "target_path": "02-Amazon-EC2/01-instance-types.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "e9e9618306c45adaee0bdb895dcaffb28437463e40b05e3000ac7f7650a0596f",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Tipos De Instancia\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9"
+      ]
+    },
+    {
+      "original_path": "02-Amazon-EC2/02-modelos-de-preco.md",
+      "target_path": "02-Amazon-EC2/02-purchasing-options.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "57cc8b7656c1e77cf22a6930da62c147ca0b47a1538ea5167329684ae22aa82a",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Modelos De Preco\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9"
+      ]
+    },
+    {
+      "original_path": "02-Amazon-EC2/03-auto-scaling.md",
+      "target_path": "02-Amazon-EC2/03-auto-scaling.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "60139b41935363ce43cc2db04a7faed0b643d8957fb8880b3a3a2d0a671daa39",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Auto Scaling\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9"
+      ]
+    },
+    {
+      "original_path": "02-Amazon-EC2/04-elastic-load-balancing.md",
+      "target_path": "02-Amazon-EC2/04-elastic-load-balancing.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "bfaa92285a65aadbd2dc7875c50f8ef398c05b8ecebf07f8488a4274a7f719a1",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Elastic Load Balancing\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9"
+      ]
+    },
+    {
+      "original_path": "02-Amazon-EC2/05-user-data-e-metadata.md",
+      "target_path": "02-Amazon-EC2/05-user-data-and-metadata.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "94e6f78decb3449c283220c6e02fd361c59a9036eca958254cbb9a5f6c2084b4",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "User Data E Metadata\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/"
+      ]
+    },
+    {
+      "original_path": "02-Amazon-EC2/README.md",
+      "target_path": "02-Amazon-EC2/README.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "11388fb6bad56879365dfcf6ee5c95708678cc523aaa5a60809bb22c7543eb0a",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Amazon EC2\r",
+          "Foco do módulo\r",
+          "Revisão rápida\r",
+          "Sinais clássicos de prova\r",
+          "Erro comum\r",
+          "O que memorizar\r",
+          "Ponte para o próximo módulo\r",
+          "Continuidade\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9"
+      ]
+    },
+    {
+      "original_path": "03-Segurança-e-Conformidade/01-modelo-responsabilidade-compartilhada.md",
+      "target_path": "03-Security-and-Compliance/01-shared-responsibility-model.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "ee94be25500bc07ea5f650e57979eb6ff1237846980a6ce3b28eb734e7eef8e6",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Modelo Responsabilidade Compartilhada\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/"
+      ]
+    },
+    {
+      "original_path": "03-Segurança-e-Conformidade/02-iam.md",
+      "target_path": "03-Security-and-Compliance/02-iam.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "8d7f4048e3b87747495985c5f94fe3ef8c6175f22bc694a8624ef731c7a74475",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Iam\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9"
+      ]
+    },
+    {
+      "original_path": "03-Segurança-e-Conformidade/03-aws-organizations.md",
+      "target_path": "03-Security-and-Compliance/03-aws-organizations.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "401ea9785ffd773e7036ca2aa264d8508e5d306af48f57e2f129f48a266798b1",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Aws Organizations\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/"
+      ]
+    },
+    {
+      "original_path": "03-Segurança-e-Conformidade/04-aws-shield-e-waf.md",
+      "target_path": "03-Security-and-Compliance/04-aws-shield-and-waf.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "268ed1f3ff2d38a6621b5dee90dd4b29a2731821b6a2e7d4baf08d8e097aa3e2",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Aws Shield E Waf\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9"
+      ]
+    },
+    {
+      "original_path": "03-Segurança-e-Conformidade/05-aws-inspector-e-guardduty.md",
+      "target_path": "03-Security-and-Compliance/05-amazon-inspector-and-guardduty.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "a0f942cb363aa2296fde95d0b9f7de37119c975d268170c0f5a7741ca6843f1a",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Aws Inspector E Guardduty\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9"
+      ]
+    },
+    {
+      "original_path": "03-Segurança-e-Conformidade/06-aws-kms-e-secrets-manager.md",
+      "target_path": "03-Security-and-Compliance/06-aws-kms-and-secrets-manager.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "0db7366b057ca7e327c43c6dfd81fa401da960bd7bc274f65858a110b744b97f",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Aws Kms E Secrets Manager\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/"
+      ]
+    },
+    {
+      "original_path": "03-Segurança-e-Conformidade/07-aws-config.md",
+      "target_path": "03-Security-and-Compliance/07-aws-config.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "ecad5d490fde7cd03a1cadd730e3bab28ccbe1fe2ae2ad2b8dac79cdf0a7d665",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Aws Config\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9"
+      ]
+    },
+    {
+      "original_path": "03-Segurança-e-Conformidade/08-aws-cloudtrail.md",
+      "target_path": "03-Security-and-Compliance/08-aws-cloudtrail.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "6286e3dc8769be22cb013ca261073f4fb8682c99da98f8f0695e6cb15de003d9",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Aws Cloudtrail\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9"
+      ]
+    },
+    {
+      "original_path": "03-Segurança-e-Conformidade/09-aws-artifact.md",
+      "target_path": "03-Security-and-Compliance/09-aws-artifact.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "fe7422b6e89800504fa91ee4d69c93cbc5b9359a8bcdd6ac075fceb25c8d2d55",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Aws Artifact\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/"
+      ]
+    },
+    {
+      "original_path": "03-Segurança-e-Conformidade/10-programas-conformidade.md",
+      "target_path": "03-Security-and-Compliance/10-compliance-programs.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "f01a974ddbedb6e035caf48d29ba7eb8e95c37e77648715ce21012285e10e8d3",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Programas Conformidade\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9"
+      ]
+    },
+    {
+      "original_path": "03-Segurança-e-Conformidade/README.md",
+      "target_path": "03-Security-and-Compliance/README.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "08a52529be2c4776f74f2bd70a252f63cbd6e909ef64831ceb26e7042f3ed3e8",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Segurança e Conformidade\r",
+          "Foco do módulo\r",
+          "Revisão rápida\r",
+          "Sinais clássicos de prova\r",
+          "Erro comum\r",
+          "O que memorizar\r",
+          "Ponte para o próximo módulo\r",
+          "Continuidade\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9"
+      ]
+    },
+    {
+      "original_path": "04-Amazon-S3/01-conceitos-basicos.md",
+      "target_path": "04-Amazon-S3/01-basic-concepts.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "e2a68173bc8d4d16353f1ee74aeda46432f2bd584dc8d6b5c3424442f5ec1ee3",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Conceitos Basicos\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/"
+      ]
+    },
+    {
+      "original_path": "04-Amazon-S3/02-classes-de-armazenamento.md",
+      "target_path": "04-Amazon-S3/02-storage-classes.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "f48edd75e911cc9807de2abee8b9a9d3211b03ae7a240e325900baf02c8c3d8c",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Classes De Armazenamento\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/"
+      ]
+    },
+    {
+      "original_path": "04-Amazon-S3/03-politicas-e-acls.md",
+      "target_path": "04-Amazon-S3/03-policies-and-acls.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "f68db73165c0ba6d3a20c57ab3c60a0f8622c76e872ba3f96a149bd29c3faee7",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Politicas E Acls\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9"
+      ]
+    },
+    {
+      "original_path": "04-Amazon-S3/04-versionamento-e-lifecycle.md",
+      "target_path": "04-Amazon-S3/04-versioning-and-lifecycle.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "cc66cdb8a7004a52113af9c55da18ebede6f7ba0e4e2bc966b6e869a85560b10",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Versionamento E Lifecycle\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9"
+      ]
+    },
+    {
+      "original_path": "04-Amazon-S3/05-s3-transfer-acceleration.md",
+      "target_path": "04-Amazon-S3/05-s3-transfer-acceleration.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "b3af4635e724ec43802e8a9d7513cf57683d7dbccfe7b9a7e8aa11d9daf9ab61",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "S3 Transfer Acceleration\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9"
+      ]
+    },
+    {
+      "original_path": "04-Amazon-S3/06-static-website.md",
+      "target_path": "04-Amazon-S3/06-static-website.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "9324295aff214ddce14880267f8c26554f8c86f949040dfcacb2f85a2af67271",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Static Website\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9"
+      ]
+    },
+    {
+      "original_path": "04-Amazon-S3/README.md",
+      "target_path": "04-Amazon-S3/README.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "068dccb429c92f21ce0a0766984dc97c71902f2cd0bf2746547912b56692073c",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Amazon S3\r",
+          "Foco do módulo\r",
+          "Revisão rápida\r",
+          "Sinais clássicos de prova\r",
+          "Erro comum\r",
+          "O que memorizar\r",
+          "Ponte para o próximo módulo\r",
+          "Continuidade\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9"
+      ]
+    },
+    {
+      "original_path": "05-Redes-e-Conectividade/01-vpc-fundamentos.md",
+      "target_path": "05-Networking-and-Connectivity/01-vpc-fundamentals.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "25fe955edee8b53a437545163045eae23c1fe17361916c9521749640b13daa84",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Vpc Fundamentos\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9"
+      ]
+    },
+    {
+      "original_path": "05-Redes-e-Conectividade/02-subnets-publicas-privadas.md",
+      "target_path": "05-Networking-and-Connectivity/02-public-and-private-subnets.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "92add6143d27e1d443313a980d3e2b0966d8da2a20648ff10bc05ced56132f81",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Subnets Publicas Privadas\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9"
+      ]
+    },
+    {
+      "original_path": "05-Redes-e-Conectividade/03-internet-gateway-e-nat.md",
+      "target_path": "05-Networking-and-Connectivity/03-internet-gateway-and-nat.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "b80e64f23dc7a2ff2d471d92c43d0c21a9d6af4a2c348481a6f8b277d7cb481f",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Internet Gateway E Nat\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/"
+      ]
+    },
+    {
+      "original_path": "05-Redes-e-Conectividade/04-security-groups-e-nacl.md",
+      "target_path": "05-Networking-and-Connectivity/04-security-groups-and-network-acls.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "37dac92a767c3ce66a5ee1e630563c52c58b9fc862741db6a00385a8e38bcd64",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Security Groups E Nacl\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9"
+      ]
+    },
+    {
+      "original_path": "05-Redes-e-Conectividade/05-vpc-peering-e-transit-gateway.md",
+      "target_path": "05-Networking-and-Connectivity/05-vpc-peering-and-transit-gateway.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "522b13b1e597ff7107cb82439b768b983c17da05e52d9afd658d7fb706d3c3d8",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Vpc Peering E Transit Gateway\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/"
+      ]
+    },
+    {
+      "original_path": "05-Redes-e-Conectividade/06-direct-connect-e-vpn.md",
+      "target_path": "05-Networking-and-Connectivity/06-direct-connect-and-vpn.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "ee4786b4298b67ebcdc78582610172d6613e0b7a6f1a7be5a99309f76e4982a4",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Direct Connect E Vpn\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/"
+      ]
+    },
+    {
+      "original_path": "05-Redes-e-Conectividade/07-route53.md",
+      "target_path": "05-Networking-and-Connectivity/07-route-53.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "b20bfd225a67b6c36683bc58e02f67107ec355dd4a0cab4d713cd6cf931e3cb8",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Route53\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/"
+      ]
+    },
+    {
+      "original_path": "05-Redes-e-Conectividade/README.md",
+      "target_path": "05-Networking-and-Connectivity/README.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "7c893e50f96799a010cb247293a6f2b12225829bac598880a04584e498f0159c",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Redes e Conectividade\r",
+          "Foco do módulo\r",
+          "Revisão rápida\r",
+          "Sinais clássicos de prova\r",
+          "Erro comum\r",
+          "O que memorizar\r",
+          "Ponte para o próximo módulo\r",
+          "Continuidade\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9"
+      ]
+    },
+    {
+      "original_path": "06-Banco-de-Dados/01-rds.md",
+      "target_path": "06-Databases/01-rds.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "49e5bce13619b052eaeb6c928c48196c106462dc1390ef7d231ae3b359ff9c1d",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Rds\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9"
+      ]
+    },
+    {
+      "original_path": "06-Banco-de-Dados/02-aurora.md",
+      "target_path": "06-Databases/02-aurora.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "18326c7348d42afea7cb86d3b438d76253da3fd6bf29ce42adfd72d746f18435",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Aurora\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/"
+      ]
+    },
+    {
+      "original_path": "06-Banco-de-Dados/03-dynamodb.md",
+      "target_path": "06-Databases/03-dynamodb.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "2745ec8b584c8fea271c9fbb6fe4ce068e94f5b500e1b7379eaaaf0a03401f42",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Dynamodb\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/"
+      ]
+    },
+    {
+      "original_path": "06-Banco-de-Dados/04-elasticache.md",
+      "target_path": "06-Databases/04-elasticache.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "4a8746e08a5746bdf472ac74d5be4795b8f9b2acb7bd2841d769d1220da5a76c",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Elasticache\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9"
+      ]
+    },
+    {
+      "original_path": "06-Banco-de-Dados/05-redshift.md",
+      "target_path": "06-Databases/05-redshift.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "e6c4ee080e8c27c037ec342f594d8018d7b0f379034ecdfe87ec8e310fe3ca5e",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Redshift\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9"
+      ]
+    },
+    {
+      "original_path": "06-Banco-de-Dados/06-documentdb-e-neptune.md",
+      "target_path": "06-Databases/06-documentdb-and-neptune.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "3ab7745a225d2175059fa02eb67dbbe7c5935cd0040b72c133e6736280e3f788",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Documentdb E Neptune\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/"
+      ]
+    },
+    {
+      "original_path": "06-Banco-de-Dados/07-database-migration-service.md",
+      "target_path": "06-Databases/07-database-migration-service.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "cdf3708d638973d877819e82dbcd63072fde75147d99ecd92838c6a2c2913465",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Database Migration Service\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9"
+      ]
+    },
+    {
+      "original_path": "06-Banco-de-Dados/README.md",
+      "target_path": "06-Databases/README.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "cea94abfbdb6ae7901d02b48a841f695212951621a7b1d954f3ba918b478abdf",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Banco de Dados\r",
+          "Foco do módulo\r",
+          "Revisão rápida\r",
+          "Sinais clássicos de prova\r",
+          "Erro comum\r",
+          "O que memorizar\r",
+          "Ponte para o próximo módulo\r",
+          "Continuidade\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9"
+      ]
+    },
+    {
+      "original_path": "07-Computacao-Serverless/01-aws-lambda.md",
+      "target_path": "07-Serverless-Computing/01-aws-lambda.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "02bc4a8dfb585beb72b18eac371d3f97fea61ad2e3a24993fbd3b878c85e997a",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Aws Lambda\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9"
+      ]
+    },
+    {
+      "original_path": "07-Computacao-Serverless/02-api-gateway.md",
+      "target_path": "07-Serverless-Computing/02-api-gateway.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "aed8af04e3c3fdf4f559df72db3d0f1e48e2328e9619fc89dc067a372560e5d4",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Api Gateway\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9"
+      ]
+    },
+    {
+      "original_path": "07-Computacao-Serverless/03-aws-fargate.md",
+      "target_path": "07-Serverless-Computing/03-aws-fargate.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "652c611691b34881d54cc900903f46abd502d1dd64eb7ae5c7af987c0a5f7352",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Aws Fargate\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9"
+      ]
+    },
+    {
+      "original_path": "07-Computacao-Serverless/04-amazon-ecs-e-eks.md",
+      "target_path": "07-Serverless-Computing/04-amazon-ecs-and-eks.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "a6664f5ff18f901f28d64407f2419d4bceb78b26181208c05c21762e20a90a50",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Amazon Ecs E Eks\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9"
+      ]
+    },
+    {
+      "original_path": "07-Computacao-Serverless/05-aws-step-functions.md",
+      "target_path": "07-Serverless-Computing/05-aws-step-functions.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "af7652f9647ba84c7008c4fe9224c599750354d846566aa63c46db433e226ac2",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Aws Step Functions\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9"
+      ]
+    },
+    {
+      "original_path": "07-Computacao-Serverless/06-amazon-eventbridge.md",
+      "target_path": "07-Serverless-Computing/06-amazon-eventbridge.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "3643c1ba89eb194c4003859050bc21b307b0aa93b42fe779d4c0d5d51addeb23",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Amazon Eventbridge\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9"
+      ]
+    },
+    {
+      "original_path": "07-Computacao-Serverless/README.md",
+      "target_path": "07-Serverless-Computing/README.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "670766adca8386aaa4fa8cf0a9ad450be954b5c3c7fed18514a611db62d631d9",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Computação Serverless\r",
+          "Foco do módulo\r",
+          "Revisão rápida\r",
+          "Sinais clássicos de prova\r",
+          "Erro comum\r",
+          "O que memorizar\r",
+          "Ponte para o próximo módulo\r",
+          "Continuidade\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9"
+      ]
+    },
+    {
+      "original_path": "08-Armazenamento/01-ebs.md",
+      "target_path": "08-Storage/01-ebs.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "60f5e5f6c9b20a83650be724cfbd0ce010800df93db7513d2a49524cc32364ae",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Ebs\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9"
+      ]
+    },
+    {
+      "original_path": "08-Armazenamento/02-efs.md",
+      "target_path": "08-Storage/02-efs.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "5c21b061788b47a8f415dfbe454528fab7d4e0b5599bc023894249d1a447b6a7",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Efs\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9"
+      ]
+    },
+    {
+      "original_path": "08-Armazenamento/03-fsx.md",
+      "target_path": "08-Storage/03-fsx.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "ff948251f6c36379ca6425111f9d8ab4bc5bbf9a672f0e52f9e25045089648e8",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Fsx\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9"
+      ]
+    },
+    {
+      "original_path": "08-Armazenamento/04-aws-storage-gateway.md",
+      "target_path": "08-Storage/04-aws-storage-gateway.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "715c512306f06996c22d1cc2256d9850b14bab40b60edc433eee460c0623aefd",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Aws Storage Gateway\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9"
+      ]
+    },
+    {
+      "original_path": "08-Armazenamento/05-aws-snow-family.md",
+      "target_path": "08-Storage/05-aws-snow-family.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "d4e768e135dea6302f409cf2c7975e40a51a0d4d6c782a1f3e33b3e9e9b00920",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Aws Snow Family\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9"
+      ]
+    },
+    {
+      "original_path": "08-Armazenamento/06-aws-backup.md",
+      "target_path": "08-Storage/06-aws-backup.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "1e160f75b65b66951321b228e28f0860f255ba229a61118931a0ab0e7fd6bd8b",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Aws Backup\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9"
+      ]
+    },
+    {
+      "original_path": "08-Armazenamento/README.md",
+      "target_path": "08-Storage/README.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "ef47cbce01c2170b146e0dffec00e93853943afe599b2893f200376598a5639e",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Armazenamento\r",
+          "Foco do módulo\r",
+          "Revisão rápida\r",
+          "Sinais clássicos de prova\r",
+          "Erro comum\r",
+          "O que memorizar\r",
+          "Ponte para o próximo módulo\r",
+          "Continuidade\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/"
+      ]
+    },
+    {
+      "original_path": "09-Monitoramento-e-Governanca/01-cloudwatch.md",
+      "target_path": "09-Monitoring-and-Governance/01-cloudwatch.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "91c639e614625c120a3a81faedd52c29c3f01010268726ba0d4a9bb0179698db",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Cloudwatch\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9"
+      ]
+    },
+    {
+      "original_path": "09-Monitoramento-e-Governanca/02-cloudtrail.md",
+      "target_path": "09-Monitoring-and-Governance/02-cloudtrail.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "e20eb2fb7cbd81c697b9ca37a4524d1aee19ed6563b03c9c7c5db65f8d7a12cb",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Cloudtrail\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9"
+      ]
+    },
+    {
+      "original_path": "09-Monitoramento-e-Governanca/03-aws-config.md",
+      "target_path": "09-Monitoring-and-Governance/03-aws-config.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "a68f682e0da7bea2df6ef7325c63b1942f69838027c50c6270a1a21d3372ecd7",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Aws Config\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/"
+      ]
+    },
+    {
+      "original_path": "09-Monitoramento-e-Governanca/04-aws-trusted-advisor.md",
+      "target_path": "09-Monitoring-and-Governance/04-aws-trusted-advisor.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "c1cb772bdd99df08140cdca2f416304c94071dcc08d0aa7058147cd8ab6c0e64",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Aws Trusted Advisor\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/"
+      ]
+    },
+    {
+      "original_path": "09-Monitoramento-e-Governanca/05-aws-health-dashboard.md",
+      "target_path": "09-Monitoring-and-Governance/05-aws-health-dashboard.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "94d7f74e5c531100c811bfddcce93ad751d5268765b541947ae4bf7f8531b5fe",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Aws Health Dashboard\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9"
+      ]
+    },
+    {
+      "original_path": "09-Monitoramento-e-Governanca/06-aws-systems-manager.md",
+      "target_path": "09-Monitoring-and-Governance/06-aws-systems-manager.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "513a8940b38d44ee38cf44238c8529c16e11aaa05ffa40ae89a6c82a32017bbd",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Aws Systems Manager\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9"
+      ]
+    },
+    {
+      "original_path": "09-Monitoramento-e-Governanca/07-aws-compute-optimizer.md",
+      "target_path": "09-Monitoring-and-Governance/07-aws-compute-optimizer.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "5e309ce869beb8272ea6125a8764fd4c03c9d353cbcb85c9972276055e0af8c8",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Aws Compute Optimizer\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9"
+      ]
+    },
+    {
+      "original_path": "09-Monitoramento-e-Governanca/README.md",
+      "target_path": "09-Monitoring-and-Governance/README.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "c4931c88191d3d82b012210cd232a07dfe36a335a6ccbb4155ee9cf8c2756986",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Monitoramento e Governança\r",
+          "Foco do módulo\r",
+          "Revisão rápida\r",
+          "Sinais clássicos de prova\r",
+          "Erro comum\r",
+          "O que memorizar\r",
+          "Ponte para o próximo módulo\r",
+          "Continuidade\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9"
+      ]
+    },
+    {
+      "original_path": "10-Precificacao-e-Suporte/01-modelo-de-preco-aws.md",
+      "target_path": "10-Pricing-and-Support/01-aws-pricing-model.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "6fece881fc3b79497ee03256747c1362075a92e66c324898820cd6f14aa7bfd4",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Modelo De Preco Aws\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/"
+      ]
+    },
+    {
+      "original_path": "10-Precificacao-e-Suporte/02-aws-free-tier.md",
+      "target_path": "10-Pricing-and-Support/02-aws-free-tier.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "4776cc38fd3518f61dd50f7c44e720e14a7f21bb9ceddce9596f266be524456e",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Aws Free Tier\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://aws.amazon.com/free/",
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9"
+      ]
+    },
+    {
+      "original_path": "10-Precificacao-e-Suporte/03-aws-pricing-calculator.md",
+      "target_path": "10-Pricing-and-Support/03-aws-pricing-calculator.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "403ca67450fde14fb6e5656e67cbb58a8ad2753c54fad9cc4fecd8cf41a13bb3",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Aws Pricing Calculator\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/"
+      ]
+    },
+    {
+      "original_path": "10-Precificacao-e-Suporte/04-aws-cost-explorer.md",
+      "target_path": "10-Pricing-and-Support/04-aws-cost-explorer.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "e774edc7236251c4033dcc4a0f5b96c785aaaa7aace1450ba7ffbcacc56aecfe",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Aws Cost Explorer\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9"
+      ]
+    },
+    {
+      "original_path": "10-Precificacao-e-Suporte/05-aws-budgets.md",
+      "target_path": "10-Pricing-and-Support/05-aws-budgets.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "14c2ae7ce8eac2cd9f0e764f3f66140ba3319bd3d29bc6c8fc82a88e4ecac20d",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Aws Budgets\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9"
+      ]
+    },
+    {
+      "original_path": "10-Precificacao-e-Suporte/06-planos-de-suporte.md",
+      "target_path": "10-Pricing-and-Support/06-support-plans.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "fd6068637646725a4729d7002632b37a3ae7f70bcd1dc04238dc8069a64e1654",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Planos De Suporte\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://aws.amazon.com/premiumsupport/plans/",
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/"
+      ]
+    },
+    {
+      "original_path": "10-Precificacao-e-Suporte/07-aws-marketplace.md",
+      "target_path": "10-Pricing-and-Support/07-aws-marketplace.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "04de065dbe1a5c00f3476b508e6c78ee2e0ec34c9c996d327356c651363e2738",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Aws Marketplace\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/"
+      ]
+    },
+    {
+      "original_path": "10-Precificacao-e-Suporte/08-aws-billing-dashboard.md",
+      "target_path": "10-Pricing-and-Support/08-aws-billing-dashboard.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "1c3aa39c1c0a037bde20ff7a131d1655ef9c75c6019008101dce67750342bb7c",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Aws Billing Dashboard\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/"
+      ]
+    },
+    {
+      "original_path": "10-Precificacao-e-Suporte/README.md",
+      "target_path": "10-Pricing-and-Support/README.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "187309aa51bf42aae6e269d2c1b5b36796114ccb48f2cdb576a37f2c9a6df457",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Precificação e Suporte\r",
+          "Foco do módulo\r",
+          "Revisão rápida\r",
+          "Sinais clássicos de prova\r",
+          "Erro comum\r",
+          "O que memorizar\r",
+          "Ponte de consolidação\r",
+          "Continuidade\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9"
+      ]
+    },
+    {
+      "original_path": "11-Migracao-e-Inovacao/01-estrategias-migracao.md",
+      "target_path": "11-Migration-and-Innovation/01-migration-strategies.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "810976547121bf88a0ae24a9fbf79bffe73124a9ae06825cdc9186111a7bfa10",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Estrategias Migracao\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/"
+      ]
+    },
+    {
+      "original_path": "11-Migracao-e-Inovacao/02-aws-migration-hub.md",
+      "target_path": "11-Migration-and-Innovation/02-aws-migration-hub.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "97b465c2144313a2a7feecc43925bb09a69981eec55d87c0ab327c1872393b5a",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Aws Migration Hub\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9"
+      ]
+    },
+    {
+      "original_path": "11-Migracao-e-Inovacao/03-aws-dms.md",
+      "target_path": "11-Migration-and-Innovation/03-aws-dms.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "580db680df7e38e5ef86cacee43be3b1c1fe0572d841ca8f26cedbc86c263a23",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Aws Dms\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9"
+      ]
+    },
+    {
+      "original_path": "11-Migracao-e-Inovacao/04-aws-application-discovery.md",
+      "target_path": "11-Migration-and-Innovation/04-aws-application-discovery.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "50e2d16bbd088c98646073b0f3f0187a43b53580ff21c806c33d839acdb7255f",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Aws Application Discovery\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9"
+      ]
+    },
+    {
+      "original_path": "11-Migracao-e-Inovacao/05-aws-mainframe-modernization.md",
+      "target_path": "11-Migration-and-Innovation/05-aws-mainframe-modernization.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "00bd36220709f8c9956591779965a0405bd93a175d0b284fd4502f5274804913",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Aws Mainframe Modernization\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9"
+      ]
+    },
+    {
+      "original_path": "11-Migracao-e-Inovacao/06-aws-datasync.md",
+      "target_path": "11-Migration-and-Innovation/06-aws-datasync.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "46dc8d8d835f7bc237c5a1aa99e45456742b6cfb1f096d22414e2eebee215b5e",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Aws Datasync\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/"
+      ]
+    },
+    {
+      "original_path": "11-Migracao-e-Inovacao/README.md",
+      "target_path": "11-Migration-and-Innovation/README.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "f1dba7c8c9dd5f60fa2360ead4f8bcd1ac33b9910de5358815b8fa2bfc0794ed",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Migração e Inovação\r",
+          "Foco do módulo\r",
+          "Revisão rápida\r",
+          "Sinais clássicos de prova\r",
+          "Erro comum\r",
+          "O que memorizar\r",
+          "Ponte para o próximo módulo\r",
+          "Continuidade\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9"
+      ]
+    },
+    {
+      "original_path": "12-CAF-Cloud-Adoption-Framework/01-visao-geral-caf.md",
+      "target_path": "12-CAF-Cloud-Adoption-Framework/01-caf-overview.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "8dc8636f4d97102779447bea34fa612202bd35c8cafe922559f1f68137a34eb5",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Visao Geral Caf\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/"
+      ]
+    },
+    {
+      "original_path": "12-CAF-Cloud-Adoption-Framework/02-perspectiva-business.md",
+      "target_path": "12-CAF-Cloud-Adoption-Framework/02-business-perspective.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "cd0b40c3b86a9d79877d1fde6d7c5ae4e52be9fe06e5c89ac3202df7ca2690ef",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Perspectiva Business\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9"
+      ]
+    },
+    {
+      "original_path": "12-CAF-Cloud-Adoption-Framework/03-perspectiva-people.md",
+      "target_path": "12-CAF-Cloud-Adoption-Framework/03-people-perspective.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "9323488985ec3d8801f6388f3944e5da8435dda8aacdc8ff0c43fb96e7f5e4d3",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Perspectiva People\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/"
+      ]
+    },
+    {
+      "original_path": "12-CAF-Cloud-Adoption-Framework/04-perspectiva-governance.md",
+      "target_path": "12-CAF-Cloud-Adoption-Framework/04-governance-perspective.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "6167ffba1d3114c93f93bf36f7d707361062359209867a60586def64f0d529b3",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Perspectiva Governance\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/"
+      ]
+    },
+    {
+      "original_path": "12-CAF-Cloud-Adoption-Framework/05-perspectiva-platform.md",
+      "target_path": "12-CAF-Cloud-Adoption-Framework/05-platform-perspective.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "32d0b4957e8b7d786356b46328adae39ac18f5ff2b6b8921bd3df85f5d9ec5be",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Perspectiva Platform\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9"
+      ]
+    },
+    {
+      "original_path": "12-CAF-Cloud-Adoption-Framework/06-perspectiva-security.md",
+      "target_path": "12-CAF-Cloud-Adoption-Framework/06-security-perspective.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "82b966301894891e0dc457f34ea1ecd0a98b4e28e1cbd89666bf1f8faed339d3",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Perspectiva Security\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/"
+      ]
+    },
+    {
+      "original_path": "12-CAF-Cloud-Adoption-Framework/07-perspectiva-operations.md",
+      "target_path": "12-CAF-Cloud-Adoption-Framework/07-operations-perspective.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "342f0bfa303957e5c0e1007126bbb75012780604d58fafea3f48d883d30c56a1",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Perspectiva Operations\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/"
+      ]
+    },
+    {
+      "original_path": "12-CAF-Cloud-Adoption-Framework/08-resultados-transformacao.md",
+      "target_path": "12-CAF-Cloud-Adoption-Framework/08-transformation-outcomes.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "26b0e5f458b6e7857983a8c1c1ad949b0c8ac6f5f06614651ea3dbc0e1dd70c8",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Resultados Transformacao\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9"
+      ]
+    },
+    {
+      "original_path": "12-CAF-Cloud-Adoption-Framework/README.md",
+      "target_path": "12-CAF-Cloud-Adoption-Framework/README.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "fe760fa659bfdfc4f51214fef2c15bad602ff096c775a67c642fc4772019bf08",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "CAF Cloud Adoption Framework\r",
+          "Foco do módulo\r",
+          "Revisão rápida\r",
+          "Sinais clássicos de prova\r",
+          "Erro comum\r",
+          "O que memorizar\r",
+          "Ponte para o próximo módulo\r",
+          "Continuidade\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9"
+      ]
+    },
+    {
+      "original_path": "13-Well-Architected-Framework/01-pilar-excelencia-operacional.md",
+      "target_path": "13-Well-Architected-Framework/01-operational-excellence-pillar.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "4ea7c88249857cda51d2be54bf2387255aa740c52a1d64f80f718710301e120d",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Pilar Excelencia Operacional\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9"
+      ]
+    },
+    {
+      "original_path": "13-Well-Architected-Framework/02-pilar-seguranca.md",
+      "target_path": "13-Well-Architected-Framework/02-security-pillar.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "769069295d587b1918d3e7744e3b57cbd6436095fa91d46a211adf717e3bcb26",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Pilar Seguranca\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/"
+      ]
+    },
+    {
+      "original_path": "13-Well-Architected-Framework/03-pilar-confiabilidade.md",
+      "target_path": "13-Well-Architected-Framework/03-reliability-pillar.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "16859604157ca715b0d4805159966cf85ed08a6f2ab615fe7a7edb545718caf5",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Pilar Confiabilidade\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9"
+      ]
+    },
+    {
+      "original_path": "13-Well-Architected-Framework/04-pilar-eficiencia-desempenho.md",
+      "target_path": "13-Well-Architected-Framework/04-performance-efficiency-pillar.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "6d154f08404e03755e0c3bb2b510880ad723e5cf91a6cb2691671285ae9030d8",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Pilar Eficiencia Desempenho\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/"
+      ]
+    },
+    {
+      "original_path": "13-Well-Architected-Framework/05-pilar-otimizacao-custos.md",
+      "target_path": "13-Well-Architected-Framework/05-cost-optimization-pillar.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "d393950448e7af579721e3d8fb43ce6ea66e3d2fd72901bed3a099245ef6417a",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Pilar Otimizacao Custos\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/"
+      ]
+    },
+    {
+      "original_path": "13-Well-Architected-Framework/06-pilar-sustentabilidade.md",
+      "target_path": "13-Well-Architected-Framework/06-sustainability-pillar.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "45284b2ee9b8fe8edb22dbfde7f52086ad6b7ac7f90ed663bfded2889eaaee42",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Pilar Sustentabilidade\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9"
+      ]
+    },
+    {
+      "original_path": "13-Well-Architected-Framework/07-lens-especializadas.md",
+      "target_path": "13-Well-Architected-Framework/07-specialized-lenses.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "f44eeda74cb01e046c23d3131b83d3d00014652b3669166c7207862de60b1942",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Lens Especializadas\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9"
+      ]
+    },
+    {
+      "original_path": "13-Well-Architected-Framework/README.md",
+      "target_path": "13-Well-Architected-Framework/README.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "f30bbf4fce1836eb6800e40d6de5974aef00809e2ee2bc66b563ce752d2f201e",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Well-Architected Framework\r",
+          "Foco do módulo\r",
+          "Revisão rápida\r",
+          "Sinais clássicos de prova\r",
+          "Erro comum\r",
+          "O que memorizar\r",
+          "Ponte para o próximo módulo\r",
+          "Continuidade\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9"
+      ]
+    },
+    {
+      "original_path": "14-Inteligencia-Artificial-e-ML/01-amazon-sagemaker.md",
+      "target_path": "14-Artificial-Intelligence-and-ML/01-amazon-sagemaker.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "02578f9923acb0600d732ef6f69dbc25c83f1efc2d0e1e2d2fcfd0eb723ef508",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Amazon Sagemaker\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/"
+      ]
+    },
+    {
+      "original_path": "14-Inteligencia-Artificial-e-ML/02-amazon-rekognition.md",
+      "target_path": "14-Artificial-Intelligence-and-ML/02-amazon-rekognition.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "6ba283321a57c245f52bf937d1c7ef58c982983240f00f5f73e431596f6236e9",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Amazon Rekognition\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9"
+      ]
+    },
+    {
+      "original_path": "14-Inteligencia-Artificial-e-ML/03-amazon-comprehend.md",
+      "target_path": "14-Artificial-Intelligence-and-ML/03-amazon-comprehend.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "0e1c39158c2fae3e854f481d114681a6edc348d25126125a68031c299910d085",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Amazon Comprehend\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9"
+      ]
+    },
+    {
+      "original_path": "14-Inteligencia-Artificial-e-ML/04-amazon-polly-e-transcribe.md",
+      "target_path": "14-Artificial-Intelligence-and-ML/04-amazon-polly-and-transcribe.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "4a1aed29ba053ee29cf94c433b1104c97da99302ecb8cc3edaa729151a5e43a1",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Amazon Polly E Transcribe\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9"
+      ]
+    },
+    {
+      "original_path": "14-Inteligencia-Artificial-e-ML/05-amazon-lex.md",
+      "target_path": "14-Artificial-Intelligence-and-ML/05-amazon-lex.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "1e7675bad1b6893b7377d1692981cb42db9152402bd13dd64843fc2cfdfc272e",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Amazon Lex\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/"
+      ]
+    },
+    {
+      "original_path": "14-Inteligencia-Artificial-e-ML/06-amazon-kendra.md",
+      "target_path": "14-Artificial-Intelligence-and-ML/06-amazon-kendra.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "a83dbf19d320f8bc579a48a9bc3e1ca0f785148df5b19bdacaafb8204cd09cd8",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Amazon Kendra\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/"
+      ]
+    },
+    {
+      "original_path": "14-Inteligencia-Artificial-e-ML/07-amazon-bedrock.md",
+      "target_path": "14-Artificial-Intelligence-and-ML/07-amazon-bedrock.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "c57aa6a454d00cd5004faa9e97b8374602f4cf09ce81c376d5ccfcf8b6446712",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Amazon Bedrock\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9"
+      ]
+    },
+    {
+      "original_path": "14-Inteligencia-Artificial-e-ML/08-amazon-q.md",
+      "target_path": "14-Artificial-Intelligence-and-ML/08-amazon-q.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "9af73edd3b3b4ada3203c7437769f8c4e8514d1ec504f78f1754d6bc2f8551dc",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Amazon Q\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9"
+      ]
+    },
+    {
+      "original_path": "14-Inteligencia-Artificial-e-ML/README.md",
+      "target_path": "14-Artificial-Intelligence-and-ML/README.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "de5d30663c218e47add9a88af0cd8f1d8c465cd96a73e7864aa35af7eda7b84a",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Inteligência Artificial e ML\r",
+          "Foco do módulo\r",
+          "Revisão rápida\r",
+          "Sinais clássicos de prova\r",
+          "Erro comum\r",
+          "O que memorizar\r",
+          "Ponte para o próximo módulo\r",
+          "Continuidade\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9"
+      ]
+    },
+    {
+      "original_path": "15-Servicos-Desenvolvedor/01-aws-codecommit.md",
+      "target_path": "15-Developer-Services/01-aws-codecommit.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "4c113c8ef106632de82ddda20e587d6f008cd32b4778007d142a618bd22aed37",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Aws Codecommit\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9"
+      ]
+    },
+    {
+      "original_path": "15-Servicos-Desenvolvedor/02-aws-codebuild.md",
+      "target_path": "15-Developer-Services/02-aws-codebuild.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "b8d09b0ceb83904adfaf60515e9af3e9e3ea2f42115e67625988539fcabcc2e2",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Aws Codebuild\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9"
+      ]
+    },
+    {
+      "original_path": "15-Servicos-Desenvolvedor/03-aws-codedeploy.md",
+      "target_path": "15-Developer-Services/03-aws-codedeploy.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "4ed45f4c624ba95331cdf3ce9ef7a0dad922c2f3060bdc8212d1619b9bd37cbd",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Aws Codedeploy\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/"
+      ]
+    },
+    {
+      "original_path": "15-Servicos-Desenvolvedor/04-aws-codepipeline.md",
+      "target_path": "15-Developer-Services/04-aws-codepipeline.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "facde0d8482137697fe002a13b85ef88aeae9c5f1c0861de85ebc8ce546a080e",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Aws Codepipeline\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/"
+      ]
+    },
+    {
+      "original_path": "15-Servicos-Desenvolvedor/05-aws-cdk-e-cloudformation.md",
+      "target_path": "15-Developer-Services/05-aws-cdk-and-cloudformation.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "63c7e014bc2a43e3105f06cff361eb9584258e9e7bb41bb01ec8befaf74bea9b",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Aws Cdk E Cloudformation\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9"
+      ]
+    },
+    {
+      "original_path": "15-Servicos-Desenvolvedor/06-aws-sam.md",
+      "target_path": "15-Developer-Services/06-aws-sam.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "8abfb19929557bbf4ce71ec599206de0408888483961b241926000595553a566",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Aws Sam\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9"
+      ]
+    },
+    {
+      "original_path": "15-Servicos-Desenvolvedor/07-aws-amplify.md",
+      "target_path": "15-Developer-Services/07-aws-amplify.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "1790212e38853748dd876d134944f19eceadb366ab1544c953c120cf9b5de9db",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Aws Amplify\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9"
+      ]
+    },
+    {
+      "original_path": "15-Servicos-Desenvolvedor/08-aws-x-ray.md",
+      "target_path": "15-Developer-Services/08-aws-x-ray.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "5ebd975810cb789133a97030f03f2189f2fde0ab543fc192112c969ea9e0ae56",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Aws X Ray\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9"
+      ]
+    },
+    {
+      "original_path": "15-Servicos-Desenvolvedor/README.md",
+      "target_path": "15-Developer-Services/README.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "b4ec40606fcb2a0954e214f3462177cc8e0fa8c0dcddb0d5c4d8c6e3b5c78379",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Serviços para Desenvolvedor\r",
+          "Foco do módulo\r",
+          "Revisão rápida\r",
+          "Sinais clássicos de prova\r",
+          "Erro comum\r",
+          "O que memorizar\r",
+          "Ponte de consolidação\r",
+          "Continuidade\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9"
+      ]
+    },
+    {
+      "original_path": "16-Simulados-e-Questoes/01-questoes-dominio-1.md",
+      "target_path": "16-Practice-Exams-and-Questions/01-domain-1-questions.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "0a5eb9ec9a02a5398285aa9d71a4e53f25a3c92fe980b07cbcaf79d040d5c17e",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Questões Domínio 1 - Conceitos de Nuvem\r",
+          "Questão 1\r",
+          "Questão 2\r",
+          "Questão 3\r",
+          "Questão 4\r",
+          "Questão 5\r",
+          "Questão 6\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 6,
+        "question_count": 6,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9"
+      ]
+    },
+    {
+      "original_path": "16-Simulados-e-Questoes/02-questoes-dominio-2.md",
+      "target_path": "16-Practice-Exams-and-Questions/02-domain-2-questions.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "bf81da515e7dd4f27cfdbe166220f950b1d6e2ee91a20375a11ebccda2e23957",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Questões Domínio 2 - Segurança e Conformidade\r",
+          "Questão 1\r",
+          "Questão 2\r",
+          "Questão 3\r",
+          "Questão 4\r",
+          "Questão 5\r",
+          "Questão 6\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 6,
+        "question_count": 6,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9"
+      ]
+    },
+    {
+      "original_path": "16-Simulados-e-Questoes/03-questoes-dominio-3.md",
+      "target_path": "16-Practice-Exams-and-Questions/03-domain-3-questions.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "0cf92262118624b7a65e1dc92c9dc0f9e422a2af0409b4da69609697467259e4",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Questões Domínio 3 - Tecnologia e Serviços AWS\r",
+          "Questão 1\r",
+          "Questão 2\r",
+          "Questão 3\r",
+          "Questão 4\r",
+          "Questão 5\r",
+          "Questão 6\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 6,
+        "question_count": 6,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9"
+      ]
+    },
+    {
+      "original_path": "16-Simulados-e-Questoes/04-questoes-dominio-4.md",
+      "target_path": "16-Practice-Exams-and-Questions/04-domain-4-questions.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "264c1363025aab09eef1a4311764a1e1ae50d03864f82397b9acb55a1730f374",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Questões Domínio 4 - Billing, Pricing e Suporte\r",
+          "Questão 1\r",
+          "Questão 2\r",
+          "Questão 3\r",
+          "Questão 4\r",
+          "Questão 5\r",
+          "Questão 6\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 6,
+        "question_count": 6,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9"
+      ]
+    },
+    {
+      "original_path": "16-Simulados-e-Questoes/05-questoes-dominio-5.md",
+      "target_path": "16-Practice-Exams-and-Questions/cross-domain-review-questions.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "0a3a5ef6fbe1ed4e489a4f4d9c671af1739e8df1d088d254cc242ec4207b61dd",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Questões Domínio 5 - Revisão Integrada\r",
+          "Questão 1\r",
+          "Questão 2\r",
+          "Questão 3\r",
+          "Questão 4\r",
+          "Questão 5\r",
+          "Questão 6\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 6,
+        "question_count": 6,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9"
+      ]
+    },
+    {
+      "original_path": "16-Simulados-e-Questoes/05-simulado-completo-65q.md",
+      "target_path": "16-Practice-Exams-and-Questions/10-question-practice-exam.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "d634f98d414f3747820a678453620c3f94f5fff0d77d9a466630042f1541f18f",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Simulado Completo - Revisão Final CLF-C02\r",
+          "Questão 1\r",
+          "Questão 2\r",
+          "Questão 3\r",
+          "Questão 4\r",
+          "Questão 5\r",
+          "Questão 6\r",
+          "Questão 7\r",
+          "Questão 8\r",
+          "Questão 9\r",
+          "Questão 10\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 10,
+        "question_count": 10,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/"
+      ]
+    },
+    {
+      "original_path": "16-Simulados-e-Questoes/README.md",
+      "target_path": "16-Practice-Exams-and-Questions/README.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "698a285a552acd4c290237752857ce4eca17623e80ffe8981ac8b92b99c1c8f1",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Simulados e Questões - CLF-C02\r",
+          "Como usar\r",
+          "Cobertura\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 1,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9"
+      ]
+    },
+    {
+      "original_path": "16-Simulados-e-Questoes/gabaritos/README.md",
+      "target_path": "16-Practice-Exams-and-Questions/answer-keys/README.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "21e882fa7112bddbba8d3e8d3f7e8a93f91885e306a87b28e1fb8556838e66c3",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Gabaritos\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": []
+    },
+    {
+      "original_path": "16-Simulados-e-Questoes/gabaritos/gabarito-dominio-1.md",
+      "target_path": "16-Practice-Exams-and-Questions/answer-keys/domain-1-answer-key.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "22111fe912228622ca5d396ceae8651c70b0661a6da4b266ac4e330c412e4501",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Gabarito D1\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.linkedin.com/in/analyticsthiagocardoso",
+        "https://www.linkedin.com/in/lucas-del-puerto/",
+        "https://www.linkedin.com/in/pedroalbertini/"
+      ]
+    },
+    {
+      "original_path": "16-Simulados-e-Questoes/gabaritos/gabarito-dominio-2.md",
+      "target_path": "16-Practice-Exams-and-Questions/answer-keys/domain-2-answer-key.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "5e5c7be0ef82d9d427fca38e2e7cf463d6c590deb95b7b201039cbd3fff81687",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Gabarito D2\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.linkedin.com/in/analyticsthiagocardoso",
+        "https://www.linkedin.com/in/lucas-del-puerto/",
+        "https://www.linkedin.com/in/pedroalbertini/",
+        "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9"
+      ]
+    },
+    {
+      "original_path": "16-Simulados-e-Questoes/gabaritos/gabarito-dominio-3.md",
+      "target_path": "16-Practice-Exams-and-Questions/answer-keys/domain-3-answer-key.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "118c672954a7b35c06f58fd0401ea643994bc991b906b20f071e65ab2f494084",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Gabarito D3\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.linkedin.com/in/analyticsthiagocardoso",
+        "https://www.linkedin.com/in/lucas-del-puerto/",
+        "https://www.linkedin.com/in/pedroalbertini/",
+        "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9"
+      ]
+    },
+    {
+      "original_path": "16-Simulados-e-Questoes/gabaritos/gabarito-dominio-4.md",
+      "target_path": "16-Practice-Exams-and-Questions/answer-keys/domain-4-answer-key.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "a16de745e14fa2e63833804712455d57cc152d13ba0de894936f100ae76f2662",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Gabarito D4\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.linkedin.com/in/analyticsthiagocardoso",
+        "https://www.linkedin.com/in/lucas-del-puerto/",
+        "https://www.linkedin.com/in/pedroalbertini/",
+        "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9"
+      ]
+    },
+    {
+      "original_path": "16-Simulados-e-Questoes/gabaritos/gabarito-simulado-completo.md",
+      "target_path": "16-Practice-Exams-and-Questions/answer-keys/practice-exam-answer-key.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "dfc0ec1d2a243f32cc3d4bf1766ad6ee87b23d5f7a695dae77f7ad36f191a9c4",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Gabarito Simulado Completo (65)\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.linkedin.com/in/analyticsthiagocardoso",
+        "https://www.linkedin.com/in/lucas-del-puerto/",
+        "https://www.linkedin.com/in/pedroalbertini/",
+        "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9"
+      ]
+    },
+    {
+      "original_path": "17-Glossario/README.md",
+      "target_path": "17-Glossary/README.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "d36ddebdf401fed47f15ad1d77164a20942668b8064e987418215356f7b84d1c",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Glossario\r",
+          "Foco\r",
+          "Continuidade\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9"
+      ]
+    },
+    {
+      "original_path": "18-Recursos-e-Links/README.md",
+      "target_path": "18-Resources-and-Links/README.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "6357ee3a8a943d9970635d681ad1288c17f53b24f42d27735256c9ee430d7f29",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Recursos E Links\r",
+          "Foco\r",
+          "Continuidade\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9"
+      ]
+    },
+    {
+      "original_path": "LICENSE",
+      "target_path": "LICENSE",
+      "file_type": "license",
+      "translation_classification": "preserve-license",
+      "original_hash": "326149bbc66a39189a644f72012dec26d2f9738d68b3b4b27deb6d26dab829e7",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": []
+    },
+    {
+      "original_path": "README.md",
+      "target_path": "README.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "2259d49bec305fd691d6d8254c11a48e1a6edcb96d789b6bab159ac513cf8ee9",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Visão Geral\r",
+          "Roadmap de Estudo\r",
+          "Rota de Revisão Recomendada\r",
+          "Ecossistema de Revisão\r",
+          "Módulos\r",
+          "Próximas Trilhas AWS\r",
+          "Licença\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://chat.whatsapp.com/Lsuexbkt1oELAGX8nCH2La?mode=gi_t",
+        "https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil",
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://img.shields.io/badge/Conteudo-PT--BR-0284c7?style=for-the-badge&labelColor=0f172a",
+        "https://img.shields.io/badge/Curso%20na%20Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white",
+        "https://img.shields.io/badge/ENTRAR_NA_WAITLIST-CloudStudy-2563EB?style=for-the-badge&logo=amazonaws&logoColor=white",
+        "https://img.shields.io/badge/Foundation-Cloud%20Journey-0f766e?style=for-the-badge&labelColor=0f172a",
+        "https://img.shields.io/badge/Grupo%20CloudStudy-25D366?style=for-the-badge&logo=whatsapp&logoColor=white",
+        "https://img.shields.io/badge/Instagram-@cloudstudy.ai-E4405F?style=for-the-badge&logo=instagram&logoColor=white",
+        "https://img.shields.io/badge/Open%20Source-Educacional-1e40af?style=for-the-badge&labelColor=0f172a",
+        "https://img.shields.io/badge/🌐_CloudStudy-cloudstudy.com.br-2563EB?style=for-the-badge",
+        "https://img.shields.io/github/forks/Thiago-code-lab/aws-certified-cloud-practitioner-brasil?style=for-the-badge&label=Forks&color=1d4ed8",
+        "https://img.shields.io/github/last-commit/Thiago-code-lab/aws-certified-cloud-practitioner-brasil?style=for-the-badge&label=Ultimo%20commit&color=334155",
+        "https://img.shields.io/github/license/Thiago-code-lab/aws-certified-cloud-practitioner-brasil?style=for-the-badge&label=MIT&color=0f766e",
+        "https://img.shields.io/github/stars/Thiago-code-lab/aws-certified-cloud-practitioner-brasil?style=for-the-badge&label=Stars&color=2563eb",
+        "https://www.cloudstudy.com.br/",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/",
+        "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9"
+      ]
+    },
+    {
+      "original_path": "assets/CloudPractitioner (1).png",
+      "target_path": "assets/CloudPractitioner (1).png",
+      "file_type": ".png",
+      "translation_classification": "preserve-binary",
+      "original_hash": "2932ec98c0eac6d8d9cee508ba1470afa9da3194ae094387f158381f32c66db0",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": []
+    },
+    {
+      "original_path": "assets/CloudPractitioner-Banner.png",
+      "target_path": "assets/CloudPractitioner-Banner.png",
+      "file_type": ".png",
+      "translation_classification": "preserve-binary",
+      "original_hash": "57c28639be95012504155a38d1392cf3c75f37eb2429a10112dd519bf6dbd06f",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": []
+    },
+    {
+      "original_path": "assets/Free-open-repo.png",
+      "target_path": "assets/Free-open-repo.png",
+      "file_type": ".png",
+      "translation_classification": "preserve-binary",
+      "original_hash": "239c9718e5809710bf4e28f7dbd24fe30fbb0a83df0386bf5283d24136f710f5",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": []
+    },
+    {
+      "original_path": "assets/Logo-CloudStudy.png",
+      "target_path": "assets/Logo-CloudStudy.png",
+      "file_type": ".png",
+      "translation_classification": "preserve-binary",
+      "original_hash": "020c13830d14b33100f8238b7a1edd95798b44c23b0e504d9eaf9e0bae4cb3c8",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": []
+    },
+    {
+      "original_path": "assets/README.md",
+      "target_path": "assets/README.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "c627d6d55d6c2847110664abe48f39be28b7733496f3d497cf0b2325bf934a2e",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Recursos visuais\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": []
+    },
+    {
+      "original_path": "cheatsheets/README.md",
+      "target_path": "cheatsheets/README.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "1ef785d638e8eaf671a4036e4d83e1ecf150d1b56a83d2f7e0a85d89eb64a084",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "README\r",
+          "Como usar\r",
+          "Conteúdo\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil",
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/"
+      ]
+    },
+    {
+      "original_path": "cheatsheets/conceitos-centrais.md",
+      "target_path": "cheatsheets/core-concepts.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "703ae5e7e1456430ff7ab46d91295ce496021f849441a63a1e3ceded2cf01797",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Conceitos Centrais\r",
+          "Nuvem\r",
+          "Infraestrutura global\r",
+          "Responsabilidade compartilhada\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil",
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/"
+      ]
+    },
+    {
+      "original_path": "cheatsheets/iam.md",
+      "target_path": "cheatsheets/iam.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "fecfec434a9b87e4732c3194cc17977ec03a5ea9e279063550c3c3c053496e59",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Iam\r",
+          "Identidades\r",
+          "Políticas\r",
+          "Boas práticas\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil",
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/"
+      ]
+    },
+    {
+      "original_path": "cheatsheets/precificacao.md",
+      "target_path": "cheatsheets/pricing.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "6ee956880b23b028dffcbb1e75f1d260a0a40a841a62f68d25642532cbccd015",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Precificacao\r",
+          "Modelos de compra\r",
+          "Ferramentas\r",
+          "Regra prática\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil",
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/"
+      ]
+    },
+    {
+      "original_path": "cheatsheets/s3.md",
+      "target_path": "cheatsheets/s3.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "fbd2e48727a76903ee2e1b2a49d77edb1ac81c055f688a39ff59316583c8329b",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "S3\r",
+          "Conceitos\r",
+          "Classes\r",
+          "Proteção e custo\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil",
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/"
+      ]
+    },
+    {
+      "original_path": "diagrams/README.md",
+      "target_path": "diagrams/README.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "42824ca4f4eb78c7534770cc729cf2eff6182e023abbdb0d7c16c78cbb3abf52",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "README\r",
+          "Como usar\r",
+          "Evolução recomendada\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil",
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/"
+      ]
+    },
+    {
+      "original_path": "diagrams/arquitetura-inicial.svg",
+      "target_path": "diagrams/basic-architecture.svg",
+      "file_type": ".svg",
+      "translation_classification": "translate-and-review",
+      "original_hash": "fbac024b20a5afaf348f39f59cc792724e5ec8d60f927aac9a0006ed761d4b53",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "http://www.w3.org/2000/svg"
+      ]
+    },
+    {
+      "original_path": "diagrams/fluxo-seguranca.svg",
+      "target_path": "diagrams/security-flow.svg",
+      "file_type": ".svg",
+      "translation_classification": "translate-and-review",
+      "original_hash": "8c0c78f547c32522586fdcd023f4fea3172a65ba2c0065ba1ef64ebdfdb52f15",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "http://www.w3.org/2000/svg"
+      ]
+    },
+    {
+      "original_path": "docs/README.md",
+      "target_path": "docs/README.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "612bc3375c3d137cbea9a71275af451d31b46a7e8ae2a7b0e31b1064ca71d904",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Guias de estudo\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": []
+    },
+    {
+      "original_path": "docs/exam-guide.md",
+      "target_path": "docs/exam-guide.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "3c333597e3ecbf239295cf9269296dc610697419b86db64883ce27e846d89dea",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Exam Guide\r",
+          "Como ler as questões\r",
+          "Pontos recorrentes\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil",
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/"
+      ]
+    },
+    {
+      "original_path": "docs/next-steps.md",
+      "target_path": "docs/next-steps.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "3443369703e50fcbcce0faf80f2bcce15ee447311b7b4e6f6bb2b7ec03c14f2b",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Next Steps\r",
+          "Antes da prova\r",
+          "Depois da trilha\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil",
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/"
+      ]
+    },
+    {
+      "original_path": "docs/study-flow.md",
+      "target_path": "docs/study-flow.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "7c8903fa6b8a2e11e6e53c5d6bcaf0e3ad8fa3edc34a8b7d030e24858e90d87b",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Study Flow\r",
+          "Ciclo recomendado\r",
+          "Ritmo simples\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil",
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/"
+      ]
+    },
+    {
+      "original_path": "flashcards/README.md",
+      "target_path": "flashcards/README.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "c01ae19ed177321157936bd8849218c1287b33791061882072ac84ad13caf3dd",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Flashcards CLF-C02 (PT-BR)\r",
+          "Decks disponíveis\r",
+          "Como usar\r",
+          "Escopo editorial\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 1,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil",
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/"
+      ]
+    },
+    {
+      "original_path": "flashcards/deck-custos.md",
+      "target_path": "flashcards/costs-deck.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "c2eb8239c7b9476975e807772f9d0c5ce69a0fabd4a47cb09bc70159ff06c91b",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Deck Custos e Suporte\r",
+          "Card 01\r",
+          "Card 02\r",
+          "Card 03\r",
+          "Card 04\r",
+          "Card 05\r",
+          "Card 06\r",
+          "Card 07\r",
+          "Card 08\r",
+          "Card 09\r",
+          "Card 10\r",
+          "Card 11\r",
+          "Card 12\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 12,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/"
+      ]
+    },
+    {
+      "original_path": "flashcards/deck-fundamentos.md",
+      "target_path": "flashcards/fundamentals-deck.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "00431aa4f8bb73e94d59555523c1d18f6f4d8abb6b71adb0b17d31f364b738e7",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Deck Fundamentos de Nuvem\r",
+          "Card 01\r",
+          "Card 02\r",
+          "Card 03\r",
+          "Card 04\r",
+          "Card 05\r",
+          "Card 06\r",
+          "Card 07\r",
+          "Card 08\r",
+          "Card 09\r",
+          "Card 10\r",
+          "Card 11\r",
+          "Card 12\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 12,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/"
+      ]
+    },
+    {
+      "original_path": "flashcards/deck-s3.md",
+      "target_path": "flashcards/s3-deck.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "c72cdbc96bf44b5cbaa9d87fde1b9ddab04a11b0923aaeda4560465ad2e02d4e",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Deck Amazon S3\r",
+          "Card 01\r",
+          "Card 02\r",
+          "Card 03\r",
+          "Card 04\r",
+          "Card 05\r",
+          "Card 06\r",
+          "Card 07\r",
+          "Card 08\r",
+          "Card 09\r",
+          "Card 10\r",
+          "Card 11\r",
+          "Card 12\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 12,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/"
+      ]
+    },
+    {
+      "original_path": "flashcards/deck-seguranca.md",
+      "target_path": "flashcards/security-deck.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "b8f145e45345f520fb6caafc342d771259accb705dd1ff581a63cf0050367bec",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Deck Segurança e IAM\r",
+          "Card 01\r",
+          "Card 02\r",
+          "Card 03\r",
+          "Card 04\r",
+          "Card 05\r",
+          "Card 06\r",
+          "Card 07\r",
+          "Card 08\r",
+          "Card 09\r",
+          "Card 10\r",
+          "Card 11\r",
+          "Card 12\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 12,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/"
+      ]
+    },
+    {
+      "original_path": "index.html",
+      "target_path": "index.html",
+      "file_type": ".html",
+      "translation_classification": "translate-and-review",
+      "original_hash": "ae529d7850f1b4c69d9272f7a1e441a7a66896a7c5ff78c9ceae66eed2acb1f2",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "http://www.w3.org/2000/svg'%3E%3Cfilter",
+        "https://aws.amazon.com/certification/certified-cloud-practitioner/",
+        "https://fonts.googleapis.com",
+        "https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&family=Syne:wght@400;700;800&family=Fira+Code:wght@300;400;500&display=swap",
+        "https://github.com/Thiago-code-lab/aws-cloud-practitioner-brasil",
+        "https://github.com/Thiago-code-lab/aws-cloud-practitioner-brasil.git",
+        "https://skillbuilder.aws",
+        "https://www.linkedin.com/in/analyticsthiagocardoso"
+      ]
+    },
+    {
+      "original_path": "labs/README.md",
+      "target_path": "labs/README.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "144effc83a692048d582f95b06d457975436856df73f31beb8186a201f2c579c",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "README\r",
+          "Ordem sugerida\r",
+          "Antes de começar\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil",
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/"
+      ]
+    },
+    {
+      "original_path": "labs/lab-01-iam-inicial.md",
+      "target_path": "labs/lab-01-iam-setup.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "dd89b54d17f734340eb94796e5655507160cd7f4cf2f3e1aeb37c0c12b7b43da",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Lab 01 Iam Inicial\r",
+          "Objetivo\r",
+          "Passos\r",
+          "Verificação\r",
+          "Limpeza\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil",
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/"
+      ]
+    },
+    {
+      "original_path": "labs/lab-02-site-estatico-s3.md",
+      "target_path": "labs/lab-02-s3-static-website.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "75cab398810c9a3423d3bc0ebc8940a9c97283c13d89a2fb95d490792d6abf0d",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Lab 02 Site Estatico S3\r",
+          "Objetivo\r",
+          "Passos\r",
+          "Verificação\r",
+          "Limpeza\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil",
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/"
+      ]
+    },
+    {
+      "original_path": "labs/lab-03-cloudwatch-basico.md",
+      "target_path": "labs/lab-03-basic-cloudwatch.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "99154a7403bd7e3f0656e8f6168e16efae3d265cc5424fb3960e1b7520e22735",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Lab 03 Cloudwatch Basico\r",
+          "Objetivo\r",
+          "Passos\r",
+          "Verificação\r",
+          "Limpeza\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil",
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/"
+      ]
+    },
+    {
+      "original_path": "notes/README.md",
+      "target_path": "notes/README.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "b8f3621ac1afabc211d5f59696b43380dfc50e6ab0d05cac51c7f5ddd78fc082",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Notas de Revisão\r",
+          "Blocos disponíveis\r",
+          "Como usar\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil",
+        "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil",
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/"
+      ]
+    },
+    {
+      "original_path": "notes/custos-e-suporte.md",
+      "target_path": "notes/costs-and-support.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "402756f31cdb4ee6032d49bb956b680ce2038c4993161429f9fd1c3e0c8e7692",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Custos e Suporte - Revisão de Prova\r",
+          "Revisão rápida\r",
+          "Sinal clássico de prova\r",
+          "Erro comum\r",
+          "O que memorizar\r",
+          "Pergunta de validação\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 1,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/"
+      ]
+    },
+    {
+      "original_path": "notes/fundamentos-aws.md",
+      "target_path": "notes/aws-fundamentals.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "481c91336054c0a14540af6314ad654cb25ff70fcaa828b808257da40d8278f6",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Fundamentos AWS - Revisão de Prova\r",
+          "Revisão rápida\r",
+          "Sinal clássico de prova\r",
+          "Erro comum\r",
+          "O que memorizar\r",
+          "Pergunta de validação\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 1,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/"
+      ]
+    },
+    {
+      "original_path": "notes/s3-essencial.md",
+      "target_path": "notes/s3-essentials.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "1fe66be9b99efe041ba60f438a4e6cd14b6dca084ffe10555fee2b238b5193fc",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "S3 Essencial - Revisão de Prova\r",
+          "Revisão rápida\r",
+          "Sinal clássico de prova\r",
+          "Erro comum\r",
+          "O que memorizar\r",
+          "Pergunta de validação\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 1,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/"
+      ]
+    },
+    {
+      "original_path": "notes/seguranca-essencial.md",
+      "target_path": "notes/security-essentials.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "e8b85e04ecbd29a1de53b1c260ed6ac4f9e755032bb95fe9207a7ec9c29cedfa",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Segurança Essencial - Revisão de Prova\r",
+          "Revisão rápida\r",
+          "Sinal clássico de prova\r",
+          "Erro comum\r",
+          "O que memorizar\r",
+          "Pergunta de validação\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 1,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/"
+      ]
+    },
+    {
+      "original_path": "quick-review/README.md",
+      "target_path": "quick-review/README.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "7df1204ebbe07492fad8e944a11f9df39ed853e9966e33122c3de30b385e3353",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Revisão Rápida - CLF-C02\r",
+          "Revisão por domínio\r",
+          "Fluxo sugerido\r",
+          "Mini treino diagnóstico\r",
+          "Questão 1\r",
+          "Questão 2\r",
+          "Questão 3\r",
+          "Questão 4\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 4,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/"
+      ]
+    },
+    {
+      "original_path": "quick-review/armazenamento.md",
+      "target_path": "quick-review/storage.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "699185876a93e1b3add4faa4c8013ca696d5d9cdde594ad91c5913220b86a96d",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Revisão por Domínio - S3 e Armazenamento\r",
+          "Revisão rápida\r",
+          "Sinais clássicos de prova\r",
+          "O que memorizar\r",
+          "Próxima revisão\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/"
+      ]
+    },
+    {
+      "original_path": "quick-review/checklist-vespera.md",
+      "target_path": "quick-review/exam-eve-checklist.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "9ca557e2f879708d97a34aa304c55947325c63893ed983a5b0878cc5e67638fc",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Checklist de Véspera\r",
+          "Fundamentos\r",
+          "IAM e segurança\r",
+          "S3 e armazenamento\r",
+          "Custos e precificação\r",
+          "Validação rápida\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/"
+      ]
+    },
+    {
+      "original_path": "quick-review/custos.md",
+      "target_path": "quick-review/costs.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "29ce25143a8b71a5e1390ae8f0e8a6fb7e1ea01cf69249cc0b4319cfacf03ec1",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Revisão por Domínio - Custos e Precificação\r",
+          "Revisão rápida\r",
+          "Sinais clássicos de prova\r",
+          "O que memorizar\r",
+          "Próxima revisão\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/"
+      ]
+    },
+    {
+      "original_path": "quick-review/erros-frequentes.md",
+      "target_path": "quick-review/common-mistakes.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "3f55f26397c1bccef46a30126e9b6ce7379f0b517adc651361c157800d9a818a",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Erros Frequentes\r",
+          "Fundamentos\r",
+          "Segurança\r",
+          "S3 e armazenamento\r",
+          "Custos\r",
+          "Correção prática\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/"
+      ]
+    },
+    {
+      "original_path": "quick-review/fundamentos.md",
+      "target_path": "quick-review/fundamentals.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "0daa82fde31ed5bc8120199d86cd64e24425882e8a70801b522391a130a5a333",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Revisão por Domínio - Fundamentos de Nuvem\r",
+          "Revisão rápida\r",
+          "Sinais clássicos de prova\r",
+          "O que memorizar\r",
+          "Próxima revisão\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/"
+      ]
+    },
+    {
+      "original_path": "quick-review/seguranca.md",
+      "target_path": "quick-review/security.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "44da873e4d7d2a30615bbb39fd59315bcc2c95d295bb702b29ad9680cefc450d",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Revisão por Domínio - IAM e Segurança\r",
+          "Revisão rápida\r",
+          "Sinais clássicos de prova\r",
+          "O que memorizar\r",
+          "Próxima revisão\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/"
+      ]
+    },
+    {
+      "original_path": "quick-review/servicos-chave.md",
+      "target_path": "quick-review/key-services.md",
+      "file_type": ".md",
+      "translation_classification": "translate-and-review",
+      "original_hash": "7d58ad8de9ca73f9c13852242a77de0a907a5d734311dd565b3821ae07741868",
+      "reviewed_english_hash": null,
+      "educational_structure": {
+        "headings": [
+          "Serviços-Chave\r",
+          "Fundamentos\r",
+          "IAM e segurança\r",
+          "S3 e armazenamento\r",
+          "Custos e precificação\r",
+          "Comparações rápidas\r",
+          "Dica final\r",
+          "☁️ Acompanhe a CloudStudy\r"
+        ],
+        "details_blocks": 0,
+        "question_count": 0,
+        "fenced_code_blocks": 0
+      },
+      "technical_dependencies": [
+        "https://www.instagram.com/cloudstudy.ai/",
+        "https://www.linkedin.com/company/cloudstudy-ai/"
+      ]
+    }
+  ]
+}
