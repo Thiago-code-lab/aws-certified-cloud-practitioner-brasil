@@ -1,11 +1,11 @@
-# Deployment Models
+# Cloud Deployment Models
 
-The deployment model describes where workloads run and how they connect.
+Deployment models describe where workloads run and how the environments are connected.
 
-- **Public cloud:** resources from a provider like AWS, with scale and billing per use.
-- **Private cloud:** environment dedicated to an organization, with greater control and operational costs.
-- **Hybrid:** integrates local and cloud infrastructure; It is common in gradual migrations or specific requirements.
-- **Exam tip:** "maintain part of the datacenter and integrate with AWS" indicates hybrid architecture.
+- **Public cloud:** provider-operated resources, such as AWS, with scale and usage-based billing.
+- **Private cloud:** an environment dedicated to one organization, offering additional control and operational costs.
+- **Hybrid cloud:** integrates on-premises infrastructure and cloud resources; common for gradual migrations or specific requirements.
+- **Exam tip:** “keep part of the workload in a data center and connect it to AWS” means hybrid architecture.
 
 Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 

@@ -77,7 +77,7 @@
       "file_type": ".md",
       "translation_classification": "translate-and-review",
       "original_hash": "0ce9bede70135ba6c0e0af3dfc6a3633f2fe7a174a574ecc4fa41613bb9a6935",
-      "reviewed_english_hash": "51f158fb8d4be225cefbd1987532491f9150352a1eb1d7144dde17e2ca491ca2",
+      "reviewed_english_hash": "2f5cc51104e609ed7c5c5d59cd5018facd046933a53d6d9344a34da2f7659678",
       "educational_structure": {
         "headings": [
           "O Que E Nuvem\r",
@@ -100,7 +100,7 @@
       "file_type": ".md",
       "translation_classification": "translate-and-review",
       "original_hash": "c0955975cf1a8340545a08c64a8a1b29c04423fd2025981ac278c05f499d57a9",
-      "reviewed_english_hash": "9d0d06cedba96db48dd8d9145de0088ed115b5a3304dedd6f400d8bffc5365f3",
+      "reviewed_english_hash": "646f42b68db3a7fb36b6a96a54e172ba1c71b825c899164acaa5b2ed5fe8fd54",
       "educational_structure": {
         "headings": [
           "Modelos De Servico\r",
@@ -122,7 +122,7 @@
       "file_type": ".md",
       "translation_classification": "translate-and-review",
       "original_hash": "85df13321e065d0262d3137f9c3e6cba0235cab75f5eec79602ace922bb31ede",
-      "reviewed_english_hash": "e1d1ab8492b5df57a90b56289270ee175e931eda8a19ade4b8facbc30886d1f3",
+      "reviewed_english_hash": "67d9a985943158ae1bf8d776c91e84a4531511155fe7860f169920650cc9763d",
       "educational_structure": {
         "headings": [
           "Modelos De Implantacao\r",
@@ -145,7 +145,7 @@
       "file_type": ".md",
       "translation_classification": "translate-and-review",
       "original_hash": "bb81dc8b3cae977021dacd33136f94d712d853bfa004e0f84412d4651f3fb160",
-      "reviewed_english_hash": "da6b69311b41cb4620d8f21256ce30fe2d1a9057156560b522babc49d504f281",
+      "reviewed_english_hash": "a8d5a6ffb97a95a00d5dee869ca05331ec810c6aab55dbe0927381beb2f77fe9",
       "educational_structure": {
         "headings": [
           "Regioes E Zonas\r",
@@ -167,7 +167,7 @@
       "file_type": ".md",
       "translation_classification": "translate-and-review",
       "original_hash": "2aeb62012606b7586a816f7cef5cbd860197d5e297ec0d3a9510f0e1c34e5789",
-      "reviewed_english_hash": "ccb9244811dd0749698bebc06f35982387a3b7a448b624899bb5503919bacbb7",
+      "reviewed_english_hash": "c16152b914bf002997e20e858c44ba1bf89d5ab604625366b8706e93061d704d",
       "educational_structure": {
         "headings": [
           "Beneficios Da Nuvem\r",
@@ -218,7 +218,7 @@
       "file_type": ".md",
       "translation_classification": "translate-and-review",
       "original_hash": "e9e9618306c45adaee0bdb895dcaffb28437463e40b05e3000ac7f7650a0596f",
-      "reviewed_english_hash": "1d5232f381522cc67ab20f376a1f7b443f23c2cf46ce9b603668e66b221cb013",
+      "reviewed_english_hash": "27c1fac948aa7d164670d025d0b3cf4502fe67a3ac9985b3f9608134b8229a56",
       "educational_structure": {
         "headings": [
           "Tipos De Instancia\r",
@@ -241,7 +241,7 @@
       "file_type": ".md",
       "translation_classification": "translate-and-review",
       "original_hash": "57cc8b7656c1e77cf22a6930da62c147ca0b47a1538ea5167329684ae22aa82a",
-      "reviewed_english_hash": "59f1b6bc38685fa889d72e96609a5ecb093fb7af144d3185bcf7cd31edc3ec8c",
+      "reviewed_english_hash": "bc0a87ca1e576398a99a12e5beef2e3070688b68a036fb69828fa522fb7a5f32",
       "educational_structure": {
         "headings": [
           "Modelos De Preco\r",
@@ -264,7 +264,7 @@
       "file_type": ".md",
       "translation_classification": "translate-and-review",
       "original_hash": "60139b41935363ce43cc2db04a7faed0b643d8957fb8880b3a3a2d0a671daa39",
-      "reviewed_english_hash": "956c847c6de3b210d7f097d9086ed40866250ad46a0c7565ae391a5c0091680b",
+      "reviewed_english_hash": "0d78769276321ca8151c9777220825a3066f384713ef2bf66e661d5f3c58d2e0",
       "educational_structure": {
         "headings": [
           "Auto Scaling\r",
@@ -287,7 +287,7 @@
       "file_type": ".md",
       "translation_classification": "translate-and-review",
       "original_hash": "bfaa92285a65aadbd2dc7875c50f8ef398c05b8ecebf07f8488a4274a7f719a1",
-      "reviewed_english_hash": "ecf0c9bb007910b935a9bed7096ab6d8e530bdab0ab82afe8e6bb05bbf4963b6",
+      "reviewed_english_hash": "2e63cc639ccda9d51462564202912c24083e2b5d44251f90f99dde172054009f",
       "educational_structure": {
         "headings": [
           "Elastic Load Balancing\r",
@@ -310,7 +310,7 @@
       "file_type": ".md",
       "translation_classification": "translate-and-review",
       "original_hash": "94e6f78decb3449c283220c6e02fd361c59a9036eca958254cbb9a5f6c2084b4",
-      "reviewed_english_hash": "4fc564001d5dd59123fb0901322d923883fa4196ee54c51177d2fd472d87d368",
+      "reviewed_english_hash": "9da639bb6bb0396033e1012baa02ae705716a3435fb7ede32c67051d9b4eac05",
       "educational_structure": {
         "headings": [
           "User Data E Metadata\r",

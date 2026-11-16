@@ -1,11 +1,11 @@
-# Regions and Availability Zones
+# AWS Regions and Availability Zones
 
-An AWS Region is a geographic area made up of several Availability Zones (AZs) isolated from each other. Distributing an application across AZs reduces the impact of a single location failure.
+An AWS Region is a geographic area made up of multiple isolated Availability Zones (AZs). Deploying across AZs limits the impact of a single-site failure.
 
-- **Region:** choose considering latency, price, compliance and availability of services.
-- **AZ:** use two or more for high availability within the Region.
-- **Points of presence:** bring services such as CloudFront and Route 53 closer to users.
-- **Exam tip:** multiple AZs increase availability; multiple Regions serve broader geographic recovery.
+- **Region:** select according to latency, pricing, compliance, and service availability.
+- **AZ:** use at least two for high availability within a Region.
+- **Edge locations:** help bring services such as CloudFront closer to users.
+- **Exam tip:** multiple AZs increase local availability; multiple Regions address broader geographic recovery.
 
 Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 

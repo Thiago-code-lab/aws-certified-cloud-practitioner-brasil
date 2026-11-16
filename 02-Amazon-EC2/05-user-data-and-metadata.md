@@ -1,11 +1,11 @@
-# User Data and Metadata
+# EC2 User Data and Instance Metadata
 
-User data and instance metadata help automate and identify EC2 instances, but they serve different purposes.
+EC2 user data and instance metadata help automate and identify instances, but serve different purposes.
 
-- **User data:** script provided at launch, used to install and start the application.
-- **Metadata:** data queried by the instance, such as IAM role ID, network, and temporary credentials.
-- Prefer IAM roles to permanent keys stored in user data.
-- **Exam tip:** automatic initialization points to user data; data from the instance itself points to metadata.
+- **User data:** a script provided at launch to install software or start an application.
+- **Instance metadata:** information retrieved from within the instance, such as ID, network settings, and temporary IAM role credentials.
+- Prefer IAM roles over permanent access keys stored in user data.
+- **Exam tip:** automatic setup points to user data; information about the running instance points to metadata.
 
 Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 

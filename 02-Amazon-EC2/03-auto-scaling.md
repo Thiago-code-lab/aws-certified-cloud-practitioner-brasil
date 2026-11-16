@@ -1,11 +1,11 @@
-# Auto Scaling
+# EC2 Auto Scaling
 
 EC2 Auto Scaling automatically adjusts the number of instances in a group to maintain performance and availability.
 
-- Defines **minimum**, **desired** and **maximum** capacity.
-- Can react to metrics, schedules or demand forecasts.
-- Replaces failed instances and distributes capacity across AZs.
-- **Exam tip:** Auto Scaling changes capacity; the load balancer distributes the requests.
+- Configure **minimum**, **desired**, and **maximum** capacity.
+- Scaling can respond to metrics, schedules, or predicted demand.
+- It can replace unhealthy instances and distribute capacity across AZs.
+- **Exam tip:** Auto Scaling changes capacity; a load balancer distributes requests.
 
 Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 

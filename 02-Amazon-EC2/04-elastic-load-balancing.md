@@ -1,11 +1,11 @@
 # Elastic Load Balancing
 
-Elastic Load Balancing distributes traffic across multiple healthy destinations, such as EC2 instances, containers, and Lambda functions.
+Elastic Load Balancing distributes incoming traffic across healthy targets, including EC2 instances, containers, and Lambda functions.
 
-- **Application Load Balancer:** HTTP/HTTPS traffic and rules by host or path.
-- **Network Load Balancer:** high-performance, low-latency TCP/UDP connections.
-- Health checks prevent unavailable destinations.
-- **Exam tip:** the balancer distributes traffic; Auto Scaling creates or removes capacity.
+- **Application Load Balancer:** HTTP/HTTPS traffic with host- and path-based routing rules.
+- **Network Load Balancer:** high-performance TCP/UDP connections with low latency.
+- Health checks help avoid routing to unhealthy targets.
+- **Exam tip:** load balancing distributes traffic; Auto Scaling adds or removes capacity.
 
 Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 

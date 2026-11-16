@@ -1,12 +1,12 @@
-# Instance Types
+# EC2 Instance Types
 
-Amazon EC2 offers virtual machines with different combinations of CPU, memory, storage, and networking. The family must follow the workworkload profile.
+Amazon EC2 offers virtual machines with different combinations of CPU, memory, storage, and networking. Select the family according to workload requirements.
 
-- **General use:** balance for web applications and enterprise systems.
-- **Compute:** more CPU for intensive processing.
-- **Memory:** in-memory databases and analytics with large data sets.
-- **Accelerated computing:** GPUs and accelerators for graphics or machine learning.
-- **Exam tip:** choose the dominant resource of the application, not just the size of the instance.
+- **General purpose:** balanced resources for web and business applications.
+- **Compute optimized:** additional CPU for compute-intensive processing.
+- **Memory optimized:** in-memory databases and analytics over large datasets.
+- **Accelerated computing:** GPUs or other accelerators for graphics and machine learning.
+- **Exam tip:** select an instance based on its dominant resource requirement, not just its size.
 
 Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 

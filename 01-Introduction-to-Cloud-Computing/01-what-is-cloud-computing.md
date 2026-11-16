@@ -1,10 +1,10 @@
 # What Is Cloud Computing
 
-Cloud computing delivers IT resources over the internet on demand. Instead of purchasing servers in advance, the company provisions capacity in minutes and pays as it goes.
+Cloud computing delivers IT resources on demand over the internet. Instead of purchasing servers upfront, organizations can provision capacity within minutes and pay according to actual use.
 
-- **Use when:** you need to gain agility, vary capacity or test a solution with low initial investment.
-- **Responsibility:** AWS operates the physical infrastructure; the customer configures and protects its data and resources.
-- **Exam tip:** "capacity on demand" and "pay for consumption" point to cloud computing.
+- **When to use it:** when you need agility, variable capacity, or a low-cost way to test a solution.
+- **Responsibility:** AWS operates the physical infrastructure; customers configure and protect their data and resources.
+- **Exam tip:** “on-demand capacity” and “pay-as-you-go” are clues for cloud computing.
 
 Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 

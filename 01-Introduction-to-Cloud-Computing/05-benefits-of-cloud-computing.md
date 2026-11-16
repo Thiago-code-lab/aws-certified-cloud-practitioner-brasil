@@ -1,12 +1,12 @@
-# Cloud Benefits
+# Benefits of Cloud Computing
 
-The cloud trades large upfront investments for variable expenses and allows you to experiment, scale, and deliver solutions faster.
+The cloud converts large upfront investments into variable expenses and enables faster experimentation, scaling, and delivery.
 
-- **Elasticity:** increases or reduces resources according to demand.
-- **Agility:** provisions environments in minutes, without waiting for hardware purchases.
-- **Economy of scale:** the provider spreads costs among many customers.
-- **Global reach:** allows you to deploy applications close to users.
-- **Exam tip:** capacity that automatically follows load is elasticity, not just scalability.
+- **Elasticity:** increases or decreases resources to match demand.
+- **Agility:** provisions environments in minutes without waiting for hardware procurement.
+- **Economies of scale:** the provider spreads infrastructure costs across many customers.
+- **Global reach:** deploys applications closer to users.
+- **Exam tip:** capacity that automatically follows demand describes elasticity, not merely scalability.
 
 Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 

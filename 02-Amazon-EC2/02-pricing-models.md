@@ -1,12 +1,12 @@
-# Purchasing Options
+# EC2 Pricing Models
 
-EC2 has purchasing models that balance flexibility, predictability and discounting.
+EC2 purchasing options balance flexibility, predictability, and discounts.
 
-- **On-Demand:** no long-term commitment; recommended for new or unpredictable workloads.
-- **Savings Plans/Reserved:** discount in exchange for usage commitment.
-- **Spot:** Idle capacity at a large discount, but subject to interruption.
-- **Dedicated Hosts:** dedicated physical server for isolation or specific licensing.
-- **Exam tip:** interruption-tolerant workload suggests Spot; Stable use suggests long-term commitment.
+- **On-Demand:** no long-term commitment; suitable for new or unpredictable workloads.
+- **Savings Plans / Reserved Instances:** discounts in exchange for a usage commitment.
+- **Spot Instances:** unused EC2 capacity at major discounts, but subject to interruption.
+- **Dedicated Hosts:** dedicated physical servers for isolation or specific licensing needs.
+- **Exam tip:** interruption-tolerant workloads suggest Spot; steady usage suggests a longer-term commitment.
 
 Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 

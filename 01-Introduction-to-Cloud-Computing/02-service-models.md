@@ -1,11 +1,11 @@
-# Service Models
+# Cloud Service Models
 
-Service models indicate how much of the technology is the responsibility of the provider and how much remains with the customer.
+Cloud service models determine which technology layers the provider manages and which remain the customer's responsibility.
 
-- **IaaS:** offers infrastructure; the customer still manages the operating system and applications.
-- **PaaS:** offers a managed platform for developing and publishing applications.
-- **SaaS:** delivers ready-to-use software to the end user.
-- **Mental rule:** from IaaS to SaaS, increases provider management and decreases customer operational control.
+- **IaaS:** provides infrastructure; the customer manages operating systems and applications.
+- **PaaS:** provides a managed platform for developing and deploying applications.
+- **SaaS:** provides ready-to-use software to end users.
+- **Remember:** moving from IaaS toward SaaS increases provider management and reduces customer operational control.
 
 Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 
