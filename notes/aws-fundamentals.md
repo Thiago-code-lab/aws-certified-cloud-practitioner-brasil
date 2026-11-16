@@ -1,11 +1,11 @@
-# AWS Fundamentals - Proof Review
+# AWS Fundamentals - Exam Review
 
 ## Quick Review
 - Cloud benefits: elasticity, agility, pay-as-you-go and scale.
 - Global infra: Region defines geography; AZ defines isolation within the Region.
 - Shared responsibility: AWS protects infrastructure; client protects data, access and configurations.
 
-## Classic proof signal
+## Common exam clue
 If the statement highlights continuity even with local failure, the most common clue is architecture in multiple AZs.
 
 ## Common error
@@ -17,6 +17,7 @@ Confusing elasticity (dynamic adjustment) with scalability (ability to grow sust
 | Region vs AZ | Region is geography; AZ is isolation |
 | CAPEX vs OPEX | Buy before vs pay as you go |
 
+<!-- question-id: CLF-NOTE-001; domain: 1; type: open-response -->
 ## Validation question
 A company wants to launch test environments in minutes without purchasing servers. Which benefit of the cloud is most evident?
 
@@ -25,6 +26,9 @@ A company wants to launch test environments in minutes without purchasing server
 
 **Answer:**
 Agility with self-service on demand.
+
+
+[AWS reference](https://aws.amazon.com/what-is-cloud-computing/)
 
 </details>
 

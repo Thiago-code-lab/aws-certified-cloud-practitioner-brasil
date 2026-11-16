@@ -1,11 +1,11 @@
-# Essential Safety - Proof Review
+# Essential Security - Exam Review
 
 ## Quick Review
 - IAM controls identities, permissions and roles.
-- MFA reduces risk of compromised credential, but does not replace lesser privilege.
+- MFA reduces risk of compromised credential, but does not replace least privilege.
 - CloudTrail logs API calls for auditing.
 
-## Classic proof signal
+## Common exam clue
 If it says "trace API calls", the normal association is CloudTrail.
 
 ## Common error
@@ -14,9 +14,10 @@ Assume that AWS sets account permissions for the customer.
 ## What to memorize
 | Comparison | Mental rule |
 |---|---|
-| IAM User vs Role | User is persistent; Role is temporary/assumed |
+| IAM User vs Role | User is persistent; Role is a persistent identity assumed using temporary credentials |
 | MFA vs IAM policy | MFA authenticates better; policy authorizes or denies |
 
+<!-- question-id: CLF-NOTE-002; domain: 2; type: open-response -->
 ## Validation question
 An application needs to access another AWS service without storing permanent keys. Which IAM feature should come to mind?
 
@@ -24,7 +25,10 @@ An application needs to access another AWS service without storing permanent key
 <summary><strong>View answer</strong></summary>
 
 **Answer:**
-IAM Role with minimum permissions for the task.
+IAM Role with least-privilege permissions for the task.
+
+
+[AWS reference](https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html)
 
 </details>
 

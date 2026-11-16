@@ -1,11 +1,11 @@
-# Costs and Support - Proof Review
+# Costs and Support - Exam Review
 
 ## Quick Review
 - On-Demand prioritizes flexibility; Spot prioritizes discounts with the risk of interruption.
 - Budgets creates budget alerts.
 - Cost Explorer analyzes history, trend and forecast.
 
-## Classic proof signal
+## Common exam clue
 If the scenario calls for actual spending forecast or trend, the associated service is Cost Explorer.
 
 ## Common error
@@ -17,14 +17,18 @@ Make decision only by hourly price and ignore total cost.
 | On-Demand vs Spot | No commitment vs interruption discount |
 | Budgets vs Cost Explorer | Limit alert vs spending analysis |
 
+<!-- question-id: CLF-NOTE-004; domain: 4; type: open-response -->
 ## Validation question
-Before creating features, a team wants to estimate the monthly cost of a planned architecture. Which tool is most suitable?
+Before creating resources, a team wants to estimate the monthly cost of a planned architecture. Which tool is most suitable?
 
 <details>
 <summary><strong>View answer</strong></summary>
 
 **Answer:**
 AWS Pricing Calculator.
+
+
+[AWS reference](https://docs.aws.amazon.com/pricing-calculator/latest/userguide/what-is-pricing-calculator.html)
 
 </details>
 

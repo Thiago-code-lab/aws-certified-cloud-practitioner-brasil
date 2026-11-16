@@ -18,7 +18,7 @@
 - The customer protects data, identities, permissions, and their settings.
 - The more managed the service, the more operational tasks fall to AWS.
 
-Architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 AI on AWS: https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil
 
 

@@ -16,7 +16,7 @@ Short retention aids, organized by CLF-C02 domain. Notes act as a bridge between
 3. If you make a mistake, open the corresponding flashcard deck.
 4. Before simulating, use [quick-review](../quick-review/README.md) as a checklist.
 
-Architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 AI on AWS: https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil
 
 ---

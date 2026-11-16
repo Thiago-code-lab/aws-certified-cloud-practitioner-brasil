@@ -1,4 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="360" viewBox="0 0 900 360">
+<svg role="img" aria-labelledby="diagram-title diagram-description" xmlns="http://www.w3.org/2000/svg" width="900" height="360" viewBox="0 0 900 360">
+  <title id="diagram-title">Essential Security Flow</title>
+  <desc id="diagram-description">Identity controls, CloudTrail audit events, and configured monitoring alerts form complementary security controls.</desc>
   <rect width="900" height="360" fill="#0f172a"/>
   <text x="40" y="42" fill="#f8fafc" font-family="Arial" font-size="24">Essential Security Flow</text>
   <rect x="60" y="100" width="180" height="80" rx="10" fill="#1e293b" stroke="#34d399"/>

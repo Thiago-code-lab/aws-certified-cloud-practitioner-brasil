@@ -5,7 +5,7 @@
 - Versioning helps against accidental deletion or overwriting.
 - Lifecycle optimizes cost with transition and automatic expiration.
 
-## Classic proof signal
+## Common exam clue
 If the statement talks about long-term archiving with rare access, the clue is usually Glacier.
 
 ## Common error
@@ -17,6 +17,7 @@ Use S3 as if it were an EC2 operating system disk.
 | S3 Standard vs Glacier | Standard for frequent use; Glacier for archive |
 | Versioning vs Lifecycle | Recover versions vs automate lifecycle |
 
+<!-- question-id: CLF-NOTE-003; domain: 3; type: open-response -->
 ## Validation question
 A bucket receives monthly reports and must move old files to cheaper storage without manual action. Which resource to use?
 
@@ -25,6 +26,9 @@ A bucket receives monthly reports and must move old files to cheaper storage wit
 
 **Answer:**
 S3 Lifecycle.
+
+
+[AWS reference](https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage-class-intro.html)
 
 </details>
 

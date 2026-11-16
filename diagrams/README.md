@@ -1,4 +1,4 @@
-#README
+# Architecture Diagrams
 
 Short-form supporting content for objective review and initial application.
 
@@ -8,11 +8,18 @@ Short-form supporting content for objective review and initial application.
 - Reinforce the topics with the highest incidence of errors.
 
 ## Recommended evolution
-AWS Architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+AWS Architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 AI on AWS: https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil
 
 
 ---
+
+## Diagram interpretation
+
+[Basic architecture](basic-architecture.svg) shows static delivery through CloudFront with S3 storage; use a private S3 REST origin and OAC for the secured pattern. [Security flow](security-flow.svg) shows complementary controls, not an automatically configured pipeline: CloudTrail events require an explicit monitoring integration, such as CloudWatch Logs metric filters and alarms or EventBridge rules, to trigger notifications.
+
+[AWS CloudTrail monitoring with CloudWatch Logs](https://docs.aws.amazon.com/awscloudtrail/latest/userguide/monitor-cloudtrail-log-files-with-cloudwatch-logs.html)
+
 
 ## ☁️ Follow CloudStudy
 

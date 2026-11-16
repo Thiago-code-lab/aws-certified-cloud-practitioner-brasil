@@ -12,13 +12,13 @@ This flow organizes a short and consistent preparation for AWS Certified Cloud P
 
 ## Simple rhythm
 
-- **Workdays:** 30 to 45 minutes of theory and active recovery.
+- **Workdays:** 30 to 45 minutes of theory and active recall.
 - **Weekend:** a short lab and question block.
-- **Last week:** timed simulations, error review and adequate rest.
+- **Last week:** timed practice exams, error review and adequate rest.
 
-Just avoid rereading. Trying to explain the answer and justify why the alternatives are wrong produces better retention.
+Avoid relying only on rereading. Trying to explain the answer and justify why the alternatives are wrong produces better retention.
 
-Architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 AI on AWS: https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil
 
 

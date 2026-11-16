@@ -1,10 +1,10 @@
-#Iam
+# IAM
 
 ## Identities
 
 - **User:** long-term identity; use only when necessary.
 - **Group:** brings together users with similar permissions.
-- **Function:** offers temporary credentials for people, services and applications.
+- **Role:** provides temporary credentials for people, services and applications.
 - **Federation:** uses an external identity provider for access to AWS.
 
 ## Policies
@@ -17,9 +17,9 @@
 
 - Enable MFA, apply least privilege, and review credentials.
 - Avoid permanent access keys and never use the root account in daily work.
-- Do not store secrets in code; use your own services for credentials and rotation.
+- Do not store secrets in code; use dedicated services such as AWS Secrets Manager for credentials and rotation.
 
-Architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 AI on AWS: https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil
 
 
@@ -35,3 +35,5 @@ Follow CloudStudy to keep up with new materials, updates and content about AWS c
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/
 
 ---
+
+Prefer federation for workforce access and roles for workloads. A role itself is persistent; the credentials obtained by assuming it expire. An applicable explicit Deny overrides an Allow.

@@ -2,7 +2,7 @@
 
 ## Purchase models
 
-- **On demand:** flexible and no commitment.
+- **On-Demand:** flexible and no commitment.
 - **Savings Plans/Reserved:** discount for predictable use with commitment.
 - **Spot:** big discount, but may be interrupted.
 - **Dedicated Host:** physical isolation or specific licensing.
@@ -17,9 +17,9 @@
 
 ## Rule of thumb
 
-Shut down idle resources, apply tags, choose appointments only after understanding demand, and factor data transfer into the total cost.
+Shut down idle resources, apply tags, choose commitments only after understanding demand, and factor data transfer into the total cost.
 
-Architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 AI on AWS: https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil
 
 

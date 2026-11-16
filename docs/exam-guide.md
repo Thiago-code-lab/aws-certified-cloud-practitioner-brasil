@@ -19,7 +19,7 @@ The CLF-C02 exam assesses fundamental-level understanding of cloud, security, AW
 
 Use the official exam page to confirm the current format, policies and content before scheduling.
 
-Architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 AI on AWS: https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil
 
 
