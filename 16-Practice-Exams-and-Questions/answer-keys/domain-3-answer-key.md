@@ -1,14 +1,19 @@
-# D3 Template
-1-A
-2-B
-3-C
-4-B
+# Domain 3 — Cloud Technology and Services (34%) — Answer Key
+
+1-B
+
+2-C
+
+3-A
+
+4-A
+
 5-B
+
 6-A
-7-C
-8-B
-9-A
-10-C
+
+See the [questions and option explanations](../03-domain-3-questions.md).
+
 ---
 
 Copyright credits:
@@ -20,6 +25,10 @@ Copyright credits:
 > When this subject appears in data scenarios, it is worth reviewing the Data Engineering on AWS course: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
+
+## Official AWS references
+
+- [AWS reference 1](https://docs.aws.amazon.com/aws-certification/latest/cloud-practitioner-02/cloud-practitioner-02.html)
 
 ## ☁️ Follow CloudStudy
 

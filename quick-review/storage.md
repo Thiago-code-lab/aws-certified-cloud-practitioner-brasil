@@ -1,4 +1,4 @@
-# Revision by Domain - S3 and Storage
+# Domain Review - S3 and Storage
 
 Use this block when errors involve S3, storage classes, backup, or volume type.
 
@@ -8,7 +8,7 @@ Use this block when errors involve S3, storage classes, backup, or volume type.
 - EFS is shared file system.
 - Lifecycle automatically moves or expires objects to control cost.
 
-## Classic proof signals
+## Common exam clues
 - If it says "object, backup, log, or static site", think S3.
 - If it says "disk for EC2 instance", think EBS.
 - If it says "file shared by multiple instances", think EFS.

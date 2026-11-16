@@ -1,4 +1,4 @@
-# Flashcards CLF-C02 (PT-BR)
+# CLF-C02 Flashcards (en-US)
 
 Short, purposeful decks for active review. Each deck has its own identity: fundamentals trains cloud concepts, security trains access decisions, S3 trains object storage, and costs trains economic choice.
 
@@ -20,7 +20,7 @@ Short, purposeful decks for active review. Each deck has its own identity: funda
 - Short answers, with memorization clues and test language.
 - Coverage aligned to the CLF-C02 level, without transforming the repository into a flashcard platform.
 
-Architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 AI on AWS: https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil
 
 ---

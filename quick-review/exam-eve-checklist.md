@@ -1,6 +1,6 @@
-# Eve Checklist
+# Exam-Eve Checklist
 
-Use as final scan. If you make a mistake, go back to the revision file for the indicated domain.
+Use this as a final review. If you make a mistake, go back to the revision file for the indicated domain.
 
 ## Fundamentals
 - I know how to differentiate between Region and AZ.
@@ -10,24 +10,24 @@ Use as final scan. If you make a mistake, go back to the revision file for the i
 
 ## IAM and security
 - I know when to use IAM Role instead of IAM User.
-- I know why root shouldn't be used in everyday life.
+- I know why the root user should not be used for everyday tasks.
 - I know how to associate CloudTrail with auditing.
 - Recommended review: [security.md](./security.md)
 
 ## S3 and storage
 - I know how to differentiate S3, EBS and EFS.
 - I know when to use versioning and lifecycle.
-- I know how to recognize Glacier scenes.
-- Revision indicated: [storage.md](./storage.md)
+- I know how to recognize S3 Glacier use cases.
+- Recommended review: [storage.md](./storage.md)
 
 ## Costs and pricing
 - I know how to differentiate On-Demand, Spot and usage commitment.
 - I know when to use Budgets, Cost Explorer and Pricing Calculator.
 - I remember that Free Tier has limits.
-- Revision indicated: [costs.md](./costs.md)
+- Recommended review: [costs.md](./costs.md)
 
 ## Quick Validation
-If you get more than 2 items wrong, do not proceed to the full simulation yet. Review the domain with error and solve 5 focused questions.
+If you get more than 2 items wrong, do not proceed to the full-length practice exam yet. Review the domain you struggled with and answer five focused questions.
 
 ---
 

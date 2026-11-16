@@ -1,14 +1,19 @@
-# Template D1
-1-C
+# Domain 1 — Cloud Concepts (24%) — Answer Key
+
+1-B
+
 2-B
-3-B
-4-B
-5-C
+
+3-C
+
+4-C
+
+5-B
+
 6-B
-7-C
-8-A
-9-B
-10-C
+
+See the [questions and option explanations](../01-domain-1-questions.md).
+
 ---
 
 Copyright credits:
@@ -17,6 +22,10 @@ Copyright credits:
 - Lucas Garcia - https://www.linkedin.com/in/lucas-del-puerto/
 
 ---
+
+## Official AWS references
+
+- [AWS reference 1](https://docs.aws.amazon.com/aws-certification/latest/cloud-practitioner-02/cloud-practitioner-02.html)
 
 ## ☁️ Follow CloudStudy
 

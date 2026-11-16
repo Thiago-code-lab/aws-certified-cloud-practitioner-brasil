@@ -1,14 +1,14 @@
-# Template D2
-1-A
-2-A
-3-B
+# Domain 2 — Security and Compliance (30%) — Answer Key
+
+1-B
+2-B
+3-A
 4-B
 5-B
 6-A
-7-B
-8-A
-9-B
-10-B
+
+See the [questions and option explanations](../02-domain-2-questions.md).
+
 ---
 
 Copyright credits:
@@ -20,6 +20,10 @@ Copyright credits:
 > To study practical data applications after this topic, this Data Engineering course on AWS complements it well: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
+
+## Official AWS references
+
+- [AWS reference 1](https://docs.aws.amazon.com/aws-certification/latest/cloud-practitioner-02/cloud-practitioner-02.html)
 
 ## ☁️ Follow CloudStudy
 

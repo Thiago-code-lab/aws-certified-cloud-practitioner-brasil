@@ -1,146 +1,215 @@
-# Questions Domain 1 - Cloud Concepts
+# Domain 1 Questions
 
+6 questions in their original source order. Each question has one correct answer and four alternatives.
+
+
+---
+
+<!-- question-id: CLF-D1-001; domain: 1; select: 1 -->
 ## Question 1
-A company wants to replace the purchase of physical servers with a model in which it only pays for monthly consumption. Which benefit of the cloud is being prioritized?
+
+A company wants to replace upfront server purchases with monthly usage-based charges. Which option best matches this goal? Select one answer.
 
 A) Guaranteed high latency
-B) Elasticity with on-demand payment
-C) Hardware manual control
-D) 5-year fixed contract
+
+B) Elasticity with pay-as-you-go pricing
+
+C) Manual hardware management
+
+D) A fixed five-year contract
 
 <details>
-<summary><strong>View answer</strong></summary>
+<summary><strong>View answer and explanations</strong></summary>
 
-✅ **Correct answer:** B
+**Correct answer:** B
 
-**Explanation:**
-Payment on demand and elasticity are classic cloud benefits.
+- **A — Incorrect:** High latency is a disadvantage, not a cloud benefit.
 
-**Why is option A wrong:**
-High latency is not a cloud benefit.
+- **B — Correct:** Usage-based pricing replaces upfront infrastructure purchases; elasticity also supports matching capacity to demand.
+
+- **C — Incorrect:** Managing physical hardware does not provide usage-based cloud billing.
+
+- **D — Incorrect:** A long fixed contract is not required for pay-as-you-go resources.
+
+**Official domain:** 1.
+
+[AWS reference](https://aws.amazon.com/what-is-cloud-computing/)
 
 </details>
 
 ---
 
+<!-- question-id: CLF-D1-002; domain: 3; select: 1 -->
 ## Question 2
-Which option correctly describes an AWS Region?
+
+Which statement correctly describes an AWS Region? Select one answer.
 
 A) A single data center
-B) A collection of AZs in a geographic area
-C) A global service without localization
-D) A customer's private network
+
+B) A group of Availability Zones in a geographic area
+
+C) A global service with no geographic location
+
+D) A customer-owned private network
 
 <details>
-<summary><strong>View answer</strong></summary>
+<summary><strong>View answer and explanations</strong></summary>
 
-✅ **Correct answer:** B
+**Correct answer:** B
 
-**Explanation:**
-Region is made up of multiple physically separated AZs.
+- **A — Incorrect:** A Region contains multiple Availability Zones, each with one or more data centers.
 
-**Why is option A wrong:**
-A Region is not a single data center.
+- **B — Correct:** A Region is a geographic area with multiple isolated Availability Zones.
+
+- **C — Incorrect:** A Region has a geographic location.
+
+- **D — Incorrect:** A customer network is not an AWS Region.
+
+**Official domain:** 3.
+
+[AWS reference](https://docs.aws.amazon.com/global-infrastructure/latest/regions/aws-regions-availability-zones.html)
 
 </details>
 
 ---
 
+<!-- question-id: CLF-D1-003; domain: 1; select: 1 -->
 ## Question 3
-A startup needs to launch a prototype quickly, with minimal initial investment. Which feature of the cloud helps the most?
 
-A) High CapEx
+A startup needs to launch a prototype quickly with minimal upfront investment. Which cloud characteristic helps most? Select one answer.
+
+A) High capital expenditure
+
 B) Slow provisioning
+
 C) Provisioning agility
-D) Scalability lock
+
+D) Blocked scalability
 
 <details>
-<summary><strong>View answer</strong></summary>
+<summary><strong>View answer and explanations</strong></summary>
 
-✅ **Correct answer:** C
+**Correct answer:** C
 
-**Explanation:**
-The cloud accelerates resource creation and time-to-market.
+- **A — Incorrect:** High upfront capital spending conflicts with the requirement.
 
-**Why is option A wrong:**
-The cloud proposal reduces initial investment (CapEx).
+- **B — Incorrect:** Slow provisioning delays the prototype.
+
+- **C — Correct:** On-demand provisioning reduces setup time and initial infrastructure investment.
+
+- **D — Incorrect:** Preventing scaling does not help launch or grow a prototype.
+
+**Official domain:** 1.
+
+[AWS reference](https://aws.amazon.com/what-is-cloud-computing/)
 
 </details>
 
 ---
 
+<!-- question-id: CLF-D1-004; domain: 1; select: 1 -->
 ## Question 4
-Which service model provides virtual infrastructure such as instances and core networking?
+
+Which service model provides virtual infrastructure such as instances and basic networking? Select one answer.
 
 A) SaaS
+
 B) PaaS
+
 C) IaaS
+
 D) DaaS
 
 <details>
-<summary><strong>View answer</strong></summary>
+<summary><strong>View answer and explanations</strong></summary>
 
-✅ **Correct answer:** C
+**Correct answer:** C
 
-**Explanation:**
-IaaS provides infrastructure resources on demand.
+- **A — Incorrect:** SaaS provides a ready-to-use application.
 
-**Why is option A wrong:**
-SaaS delivers ready-made applications, not infrastructure.
+- **B — Incorrect:** PaaS provides a managed application platform rather than primarily raw infrastructure.
+
+- **C — Correct:** Infrastructure as a Service provides compute, storage, and networking resources.
+
+- **D — Incorrect:** Desktop as a Service provides virtual desktops rather than the general infrastructure model described.
+
+**Official domain:** 1.
+
+[AWS reference](https://aws.amazon.com/what-is-cloud-computing/)
 
 </details>
 
 ---
 
+<!-- question-id: CLF-D1-005; domain: 1; select: 1 -->
 ## Question 5
-In the AWS context, high availability is typically achieved with:
 
-A) Use of a single AZ
-B) Distribution across multiple AZs
-C) Local backup only
-D) Increased disk size
+Which approach usually improves an application's availability within an AWS Region? Select one answer.
+
+A) Use a single Availability Zone
+
+B) Distribute the application across multiple Availability Zones
+
+C) Keep only a local backup
+
+D) Increase disk capacity
 
 <details>
-<summary><strong>View answer</strong></summary>
+<summary><strong>View answer and explanations</strong></summary>
 
-✅ **Correct answer:** B
+**Correct answer:** B
 
-**Explanation:**
-Multiple AZs reduce impact of local failures.
+- **A — Incorrect:** A single-zone deployment remains exposed to that zone becoming unavailable.
 
-**Why is option A wrong:**
-A single AZ increases the risk of unavailability.
+- **B — Correct:** Independent zones reduce the impact of a failure affecting one location when the application is designed for failover.
+
+- **C — Incorrect:** A backup supports recovery but does not keep the application serving traffic during a failure.
+
+- **D — Incorrect:** A larger disk alone does not add redundant application locations.
+
+**Official domain:** 1.
+
+[AWS reference](https://docs.aws.amazon.com/wellarchitected/latest/framework/rel_fault_isolation_multiaz_region_system.html)
 
 </details>
 
 ---
 
+<!-- question-id: CLF-D1-006; domain: 1; select: 1 -->
 ## Question 6
-Which item best represents scalability?
 
-A) Maintain fixed capacity
-B) Adjust resources according to demand
-C) Purchase annual backup servers
+Which option best represents scalability? Select one answer.
+
+A) Keep capacity fixed
+
+B) Adjust resource capacity to meet workload requirements
+
+C) Buy spare servers once per year
+
 D) Remove monitoring
 
 <details>
-<summary><strong>View answer</strong></summary>
+<summary><strong>View answer and explanations</strong></summary>
 
-✅ **Correct answer:** B
+**Correct answer:** B
 
-**Explanation:**
-Scalability means increasing or reducing capacity as needed.
+- **A — Incorrect:** Fixed capacity cannot accommodate changing capacity requirements.
 
-**Why option C is wrong:**
-Fixed advance purchase does not represent dynamic adjustment.
+- **B — Correct:** Scalability is the ability to change capacity; elasticity emphasizes dynamically matching capacity to demand.
+
+- **C — Incorrect:** Annual purchases alone do not demonstrate the ability to adjust capacity as required.
+
+- **D — Incorrect:** Removing monitoring does not increase capacity and reduces visibility.
+
+**Official domain:** 1.
+
+[AWS reference](https://aws.amazon.com/what-is-cloud-computing/)
 
 </details>
 
+## Official AWS references
 
-
-> If the objective is also data engineering, this course helps you transform the AWS base into projects: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
-
----
+- [AWS reference 1](https://docs.aws.amazon.com/aws-certification/latest/cloud-practitioner-02/cloud-practitioner-02.html)
 
 ## ☁️ Follow CloudStudy
 
@@ -150,5 +219,3 @@ Follow CloudStudy to keep up with new materials, updates and content about AWS c
 
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/
-
----

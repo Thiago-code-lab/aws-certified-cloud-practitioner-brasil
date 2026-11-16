@@ -6,9 +6,9 @@ Use this block when errors involve core concepts, global infrastructure, or clou
 - Region defines geographic location and impact on latency/compliance.
 - AZ provides isolation within a Region for high availability.
 - Elasticity adjusts resources according to demand; Scalability sustains growth.
-- Shared responsibility separates cloud security and cloud security.
+- The Shared Responsibility Model distinguishes AWS security of the cloud from customer security in the cloud.
 
-## Classic proof signals
+## Common exam clues
 - If "low latency for users from a country" appears, consider choosing a Region.
 - If "data center failure" appears, think multiple AZs.
 - If it says "get started quickly without buying hardware", think about agility and OPEX.

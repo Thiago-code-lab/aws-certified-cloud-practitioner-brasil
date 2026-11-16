@@ -1,146 +1,211 @@
-# Questions Domain 4 - Billing, Pricing and Support
+# Domain 4 Questions
 
+6 reviewed questions. Each question has one correct answer and four alternatives.
+<!-- question-id: CLF-D4-001; domain: 4; select: 1 -->
 ## Question 1
-Which AWS billing model is best suited for unpredictable load without commitment?
+
+Which EC2 purchasing option fits an unpredictable workload that requires uninterrupted instance capacity without a long-term commitment? Select one answer.
 
 A) Savings Plans
-B) Long-term Reserved Instance
+
+B) A long-term Reserved Instance commitment
+
 C) On-Demand
+
 D) Spot only
 
 <details>
-<summary><strong>View answer</strong></summary>
+<summary><strong>View answer and explanations</strong></summary>
 
-✅ **Correct answer:** C
+**Correct answer:** C
 
-**Explanation:**
-On-Demand offers uncompromised usage flexibility.
+- **A — Incorrect:** Savings Plans require a one- or three-year usage commitment.
 
-**Why is option A wrong:**
-Savings Plans require commitment for discount.
+- **B — Incorrect:** Reserved Instances involve a term commitment.
+
+- **C — Correct:** On-Demand does not require a long-term commitment and avoids the capacity-reclamation interruptions associated with Spot; it does not guarantee uninterrupted service or unlimited capacity.
+
+- **D — Incorrect:** Spot capacity can be reclaimed, conflicting with the interruption requirement.
+
+**Official domain:** 4.
+
+[AWS reference](https://aws.amazon.com/ec2/pricing/)
 
 </details>
 
 ---
 
+<!-- question-id: CLF-D4-002; domain: 4; select: 1 -->
 ## Question 2
-Which service helps you view historical cost by service and period?
+
+Which tool helps visualize historical costs by service and time period? Select one answer.
 
 A) AWS Cost Explorer
+
 B) AWS Shield
+
 C) Amazon VPC
+
 D) AWS Lambda
 
 <details>
-<summary><strong>View answer</strong></summary>
+<summary><strong>View answer and explanations</strong></summary>
 
-✅ **Correct answer:** A
+**Correct answer:** A
 
-**Explanation:**
-Cost Explorer analyzes spending and consumer trends.
+- **A — Correct:** Cost Explorer analyzes cost and usage history and trends.
 
-**Why option D is wrong:**
-Lambda executes code, does not perform cost analysis.
+- **B — Incorrect:** Shield provides DDoS protection.
+
+- **C — Incorrect:** VPC provides isolated virtual networking.
+
+- **D — Incorrect:** Lambda executes application code.
+
+**Official domain:** 4.
+
+[AWS reference](https://docs.aws.amazon.com/cost-management/latest/userguide/ce-what-is.html)
 
 </details>
 
 ---
 
+<!-- question-id: CLF-D4-003; domain: 4; select: 1 -->
 ## Question 3
-Which service allows you to set up alerts when spending approaches the limit?
+
+Which tool supports alerts when spending approaches a configured threshold? Select one answer.
 
 A) AWS Budgets
+
 B) Amazon Inspector
+
 C) AWS WAF
+
 D) AWS Glue
 
 <details>
-<summary><strong>View answer</strong></summary>
+<summary><strong>View answer and explanations</strong></summary>
 
-✅ **Correct answer:** A
+**Correct answer:** A
 
-**Explanation:**
-Budgets sends notifications based on defined thresholds.
+- **A — Correct:** Budgets can notify on actual or forecast cost thresholds; alerts are not an automatic spending cap.
 
-**Why option B is wrong:**
-Inspector deals with security and vulnerabilities.
+- **B — Incorrect:** Inspector assesses supported resources for vulnerabilities.
+
+- **C — Incorrect:** WAF filters web traffic.
+
+- **D — Incorrect:** Glue provides data integration.
+
+**Official domain:** 4.
+
+[AWS reference](https://docs.aws.amazon.com/cost-management/latest/userguide/budgets-managing-costs.html)
 
 </details>
 
 ---
 
+<!-- question-id: CLF-D4-004; domain: 4; select: 1 -->
 ## Question 4
-A load tolerates interruption and seeks the lowest possible computing cost. Which option to consider?
+
+A workload tolerates interruption and seeks discounted EC2 capacity. Which option should be considered? Select one answer.
 
 A) On-Demand
-B) Spot
-C) Dedicated Host
+
+B) Spot Instances
+
+C) Dedicated Hosts
+
 D) Enterprise Support
 
 <details>
-<summary><strong>View answer</strong></summary>
+<summary><strong>View answer and explanations</strong></summary>
 
-✅ **Correct answer:** B
+**Correct answer:** B
 
-**Explanation:**
-Spot offers big discount with risk of interruption.
+- **A — Incorrect:** On-Demand offers flexibility but does not use the discounted spare-capacity model.
 
-**Why is option A wrong:**
-On-Demand is flexible but typically more expensive than Spot.
+- **B — Correct:** Spot offers discounted spare capacity that AWS can reclaim; the workload must handle interruption.
+
+- **C — Incorrect:** Dedicated Hosts provide dedicated physical capacity for requirements such as licensing and isolation.
+
+- **D — Incorrect:** Enterprise Support is a support plan, not an EC2 purchasing option.
+
+**Official domain:** 4.
+
+[AWS reference](https://aws.amazon.com/ec2/pricing/)
 
 </details>
 
 ---
 
+<!-- question-id: CLF-D4-005; domain: 4; select: 1 -->
 ## Question 5
-What is the best use for AWS Pricing Calculator?
+
+What is the best use of AWS Pricing Calculator? Select one answer.
 
 A) Block IAM access
-B) Estimate architectural cost before deployment
-C) Make automatic deployment
+
+B) Estimate architecture costs before deployment
+
+C) Deploy resources automatically
+
 D) Detect malware
 
 <details>
-<summary><strong>View answer</strong></summary>
+<summary><strong>View answer and explanations</strong></summary>
 
-✅ **Correct answer:** B
+**Correct answer:** B
 
-**Explanation:**
-Pricing Calculator helps in advance financial planning.
+- **A — Incorrect:** IAM policies control access.
 
-**Why option C is wrong:**
-Deploy is delivery/infra tools function.
+- **B — Correct:** Pricing Calculator models estimated costs from configuration and usage assumptions; estimates are not billing guarantees.
+
+- **C — Incorrect:** Deployment requires infrastructure or delivery tools.
+
+- **D — Incorrect:** Malware detection requires security tooling, not a pricing estimator.
+
+**Official domain:** 4.
+
+[AWS reference](https://docs.aws.amazon.com/pricing-calculator/latest/userguide/what-is-pricing-calculator.html)
 
 </details>
 
 ---
 
+<!-- question-id: CLF-D4-006; domain: 4; select: 1 -->
 ## Question 6
-Which support plan includes guidance for more critical production environments?
 
-A) Basic
-B) Developer
-C) Business/Enterprise
-D) Free Tier
+Which current AWS Support plan is recommended for business-critical workloads and provides designated Technical Account Manager guidance? Select one answer.
+
+A) Basic Support
+
+B) AWS Free Tier
+
+C) Enterprise Support
+
+D) AWS Pricing Calculator
 
 <details>
-<summary><strong>View answer</strong></summary>
+<summary><strong>View answer and explanations</strong></summary>
 
-✅ **Correct answer:** C
+**Correct answer:** C
 
-**Explanation:**
-Business/Enterprise Plans include advanced support features.
+- **A — Incorrect:** Basic provides account and billing assistance and self-service resources, without designated TAM guidance.
 
-**Why is option A wrong:**
-Basic has reduced scope and no advanced guidance.
+- **B — Incorrect:** Free Tier is an eligibility and usage benefit program, not a support plan.
+
+- **C — Correct:** Enterprise Support provides designated TAM guidance for business-critical workloads; consult the current plan comparison for service terms.
+
+- **D — Incorrect:** Pricing Calculator estimates costs and is not a support plan.
+
+**Official domain:** 4.
+
+[AWS reference](https://aws.amazon.com/premiumsupport/plans/)
 
 </details>
 
+## Official AWS references
 
-
-> Complementary resource: if you want to connect this foundation with pipelines and analytics in AWS, see the Data Engineering in AWS course: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
-
----
+- [AWS reference 1](https://docs.aws.amazon.com/aws-certification/latest/cloud-practitioner-02/cloud-practitioner-02.html)
 
 ## ☁️ Follow CloudStudy
 

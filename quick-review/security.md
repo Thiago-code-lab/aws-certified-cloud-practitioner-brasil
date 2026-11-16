@@ -4,11 +4,11 @@ Use this block when errors involve access, auditing, encryption, or customer res
 
 ## Quick Review
 - Root should be protected with MFA and avoided in daily use.
-- IAM User is persistent identity; IAM Role is assumed temporarily.
+- IAM User is persistent identity; IAM roles are persistent identities assumed for temporary sessions.
 - CloudTrail logs API calls for auditing.
 - KMS centralizes managed encryption keys.
 
-## Classic proof signals
+## Common exam clues
 - If it says "who did what in the account", think CloudTrail.
 - If it says "temporary access between services", think IAM Role.
 - If you see "AWS compliance reports", think AWS Artifact.
@@ -17,7 +17,7 @@ Use this block when errors involve access, auditing, encryption, or customer res
 | Comparison | Mental rule |
 |---|---|
 | IAM User vs Role | User = long term; Role = assumed access |
-| MFA vs IAM policy | authentic MFA; policy authorizes |
+| MFA vs IAM policy | MFA strengthens authentication; policy authorizes |
 | CloudTrail vs CloudWatch | API audit vs operational metrics/logs |
 
 ## Next review

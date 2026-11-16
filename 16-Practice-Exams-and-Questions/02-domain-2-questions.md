@@ -1,146 +1,211 @@
-# Questions Domain 2 - Security and Compliance
+# Domain 2 Questions
 
+6 reviewed questions. Each question has one correct answer and four alternatives.
+<!-- question-id: CLF-D2-001; domain: 2; select: 1 -->
 ## Question 1
-In the shared responsibility model, who sets up account IAM permissions?
+
+Under the Shared Responsibility Model, who configures IAM permissions in a customer account? Select one answer.
 
 A) AWS
-B) Customer
-C) Billing partner
-D) External auditor
+
+B) The customer
+
+C) A billing partner by default
+
+D) An external auditor by default
 
 <details>
-<summary><strong>View answer</strong></summary>
+<summary><strong>View answer and explanations</strong></summary>
 
-✅ **Correct answer:** B
+**Correct answer:** B
 
-**Explanation:**
-The customer is responsible for identity and permissions on the account.
+- **A — Incorrect:** AWS secures the underlying cloud infrastructure; it does not choose the customer's identity policies.
 
-**Why is option A wrong:**
-AWS protects infrastructure, does not define customer policies.
+- **B — Correct:** The customer controls account identities, access policies, and permissions.
+
+- **C — Incorrect:** A billing relationship does not automatically delegate IAM administration.
+
+- **D — Incorrect:** An auditor evaluates controls; administration requires explicit delegated permissions.
+
+**Official domain:** 2.
+
+[AWS reference](https://aws.amazon.com/compliance/shared-responsibility-model/)
 
 </details>
 
 ---
 
+<!-- question-id: CLF-D2-002; domain: 2; select: 1 -->
 ## Question 2
-Which practice follows the principle of least privilege?
 
-A) Give administrator access to the entire team
-B) Give only necessary permissions per role
-C) Share root user
-D) Remove MFA to make login easier
+Which practice follows the principle of least privilege? Select one answer.
+
+A) Give every team member administrator access
+
+B) Grant only the permissions required for each role
+
+C) Share the root user
+
+D) Disable MFA to simplify sign-in
 
 <details>
-<summary><strong>View answer</strong></summary>
+<summary><strong>View answer and explanations</strong></summary>
 
-✅ **Correct answer:** B
+**Correct answer:** B
 
-**Explanation:**
-Least privilege reduces risk surface.
+- **A — Incorrect:** Broad administrator access exceeds most users' needs.
 
-**Why is option A wrong:**
-Pervasive full access increases operational risk.
+- **B — Correct:** Permissions should be limited to the actions and resources needed for the task.
+
+- **C — Incorrect:** Sharing root credentials removes individual accountability and grants excessive privilege.
+
+- **D — Incorrect:** Disabling MFA weakens authentication rather than limiting permissions.
+
+**Official domain:** 2.
+
+[AWS reference](https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html)
 
 </details>
 
 ---
 
+<!-- question-id: CLF-D2-003; domain: 2; select: 1 -->
 ## Question 3
-Which service is most associated with auditing actions in the AWS account?
+
+Which service records account activity for auditing? Select one answer.
 
 A) AWS CloudTrail
+
 B) Amazon Route 53
+
 C) AWS Budgets
+
 D) Amazon EFS
 
 <details>
-<summary><strong>View answer</strong></summary>
+<summary><strong>View answer and explanations</strong></summary>
 
-✅ **Correct answer:** A
+**Correct answer:** A
 
-**Explanation:**
-CloudTrail logs API calls and governance events.
+- **A — Correct:** CloudTrail records supported account actions as events, including API activity.
 
-**Why option B is wrong:**
-Route 53 is DNS, not audit trail.
+- **B — Incorrect:** Route 53 provides DNS, domain registration, and health checks.
+
+- **C — Incorrect:** Budgets tracks financial and usage thresholds.
+
+- **D — Incorrect:** EFS provides shared file storage.
+
+**Official domain:** 2.
+
+[AWS reference](https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-user-guide.html)
 
 </details>
 
 ---
 
+<!-- question-id: CLF-D2-004; domain: 2; select: 1 -->
 ## Question 4
-To protect application secrets (passwords/keys), which combination is most common?
 
-A) Public S3 + open ACL
-B) Secrets Manager + IAM
-C) EC2 without encryption
-D) Local manual snapshot
+Which combination is appropriate for securely storing application secrets and controlling access? Select one answer.
+
+A) A public S3 bucket with an open ACL
+
+B) AWS Secrets Manager with IAM
+
+C) An EC2 instance without encryption
+
+D) A manual local snapshot
 
 <details>
-<summary><strong>View answer</strong></summary>
+<summary><strong>View answer and explanations</strong></summary>
 
-✅ **Correct answer:** B
+**Correct answer:** B
 
-**Explanation:**
-Secrets Manager centralizes and protects secrets with access control.
+- **A — Incorrect:** Public access would expose confidential credentials.
 
-**Why is option A wrong:**
-Public exposure of sensitive data is an unsafe practice.
+- **B — Correct:** Secrets Manager stores secrets and integrates with IAM for access control; use supported rotation where appropriate.
+
+- **C — Incorrect:** An unencrypted instance alone provides neither secret lifecycle management nor suitable access controls.
+
+- **D — Incorrect:** A local snapshot is a backup mechanism, not a managed secret retrieval and access solution.
+
+**Official domain:** 2.
+
+[AWS reference](https://docs.aws.amazon.com/secretsmanager/latest/userguide/intro.html)
 
 </details>
 
 ---
 
+<!-- question-id: CLF-D2-005; domain: 2; select: 1 -->
 ## Question 5
-Which measure increases root account security?
 
-A) Share password with team
+Which action improves root user security? Select one answer.
+
+A) Share the password with the team
+
 B) Enable MFA
-C) Disable logs
-D) Create permanent access keys for root
+
+C) Disable logging
+
+D) Create permanent root access keys
 
 <details>
-<summary><strong>View answer</strong></summary>
+<summary><strong>View answer and explanations</strong></summary>
 
-✅ **Correct answer:** B
+**Correct answer:** B
 
-**Explanation:**
-MFA adds second layer of authentication.
+- **A — Incorrect:** Shared credentials increase exposure and reduce accountability.
 
-**Why option D is wrong:**
-Permanent root keys increase severe risk.
+- **B — Correct:** MFA strengthens root authentication; reserve root for tasks that require it.
+
+- **C — Incorrect:** Disabling logs reduces detection and auditability.
+
+- **D — Incorrect:** Root access keys grant highly privileged programmatic access and should not be created.
+
+**Official domain:** 2.
+
+[AWS reference](https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html)
 
 </details>
 
 ---
 
+<!-- question-id: CLF-D2-006; domain: 2; select: 1 -->
 ## Question 6
-Which service helps detect threats with continuous analysis?
+
+Which service continuously analyzes AWS data sources to detect threats? Select one answer.
 
 A) Amazon GuardDuty
+
 B) AWS Snowball
+
 C) Amazon SQS
+
 D) AWS Artifact
 
 <details>
-<summary><strong>View answer</strong></summary>
+<summary><strong>View answer and explanations</strong></summary>
 
-✅ **Correct answer:** A
+**Correct answer:** A
 
-**Explanation:**
-GuardDuty identifies suspicious behavior and potential threats.
+- **A — Correct:** GuardDuty analyzes supported data sources to identify suspicious activity and threats.
 
-**Why option C is wrong:**
-SQS is message queuing, not threat detection.
+- **B — Incorrect:** Snowball is a physical data transfer and edge device offering, not a threat detection service.
+
+- **C — Incorrect:** SQS is a message queue.
+
+- **D — Incorrect:** Artifact provides access to compliance reports and agreements.
+
+**Official domain:** 2.
+
+[AWS reference](https://docs.aws.amazon.com/guardduty/latest/ug/what-is-guardduty.html)
 
 </details>
 
+## Official AWS references
 
-
-> Complementary track: cloud fundamentals become clearer when applied to data pipelines in AWS: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
-
----
+- [AWS reference 1](https://docs.aws.amazon.com/aws-certification/latest/cloud-practitioner-02/cloud-practitioner-02.html)
 
 ## ☁️ Follow CloudStudy
 

@@ -1,5 +1,6 @@
 # Cloud Fundamentals Deck
 
+<!-- question-id: CLF-FLASH-CLOUD-001; domain: 1; type: open-response -->
 ## Card 01
 **Question:** If the test mentions "increasing and reducing resources as demand changes", which concept does it want to test?
 
@@ -9,8 +10,12 @@
 **Answer:**
 Elasticity. The memorization signal is dynamic adjustment: resources rise at a peak and fall when demand falls.
 
+
+[AWS reference](https://aws.amazon.com/what-is-cloud-computing/)
+
 </details>
 
+<!-- question-id: CLF-FLASH-CLOUD-002; domain: 1; type: open-response -->
 ## Card 02
 **Question:** Is scalability the same thing as elasticity?
 
@@ -18,12 +23,16 @@ Elasticity. The memorization signal is dynamic adjustment: resources rise at a p
 <summary><strong>View answer</strong></summary>
 
 **Answer:**
-No. Scalability is the ability to grow without losing performance; elasticity is to automatically adjust capacity to the actual volume of use.
+No. Scalability is the ability to change capacity to meet requirements; elasticity dynamically matches that capacity to demand, including scaling down.
+
+
+[AWS reference](https://aws.amazon.com/what-is-cloud-computing/)
 
 </details>
 
+<!-- question-id: CLF-FLASH-CLOUD-003; domain: 1; type: open-response -->
 ## Card 03
-**Question:** In a question about low latency for Brazilian users, the first decision usually involves what?
+**Question:** In a question about low latency for users in a particular geographic area, the first decision usually involves what?
 
 <details>
 <summary><strong>View answer</strong></summary>
@@ -31,8 +40,12 @@ No. Scalability is the ability to grow without losing performance; elasticity is
 **Answer:**
 Choice of Region. Region defines geographic proximity, data residency and direct impact on latency.
 
+
+[AWS reference](https://aws.amazon.com/what-is-cloud-computing/)
+
 </details>
 
+<!-- question-id: CLF-FLASH-CLOUD-004; domain: 1; type: open-response -->
 ## Card 04
 **Question:** What does an Availability Zone represent in the global AWS infrastructure?
 
@@ -42,8 +55,12 @@ Choice of Region. Region defines geographic proximity, data residency and direct
 **Answer:**
 One or more isolated data centers within a Region. Different AZs reduce the impact of local failures.
 
+
+[AWS reference](https://docs.aws.amazon.com/wellarchitected/latest/framework/rel_fault_isolation_multiaz_region_system.html)
+
 </details>
 
+<!-- question-id: CLF-FLASH-CLOUD-005; domain: 1; type: open-response -->
 ## Card 05
 **Question:** When the most likely answer is Multi-AZ, what clue does the statement typically give?
 
@@ -51,10 +68,14 @@ One or more isolated data centers within a Region. Different AZs reduce the impa
 <summary><strong>View answer</strong></summary>
 
 **Answer:**
-Continuity during failure of a data center or on-premises component. Multi-AZ is a strong track for high availability within the same Region.
+Continuity during a failure affecting an Availability Zone. A multi-zone deployment with failover supports high availability within a Region; it does not protect an on-premises component by itself.
+
+
+[AWS reference](https://docs.aws.amazon.com/wellarchitected/latest/framework/rel_fault_isolation_multiaz_region_system.html)
 
 </details>
 
+<!-- question-id: CLF-FLASH-CLOUD-006; domain: 1; type: open-response -->
 ## Card 06
 **Question:** What benefit of the cloud exchanges initial hardware investment for operational payment?
 
@@ -64,8 +85,12 @@ Continuity during failure of a data center or on-premises component. Multi-AZ is
 **Answer:**
 Exchange CAPEX for OPEX. Instead of purchasing capacity up front, the company pays for resources as they use them.
 
+
+[AWS reference](https://aws.amazon.com/what-is-cloud-computing/)
+
 </details>
 
+<!-- question-id: CLF-FLASH-CLOUD-007; domain: 1; type: open-response -->
 ## Card 07
 **Question:** "Provision environment in minutes" points to what core advantage of the cloud?
 
@@ -75,10 +100,14 @@ Exchange CAPEX for OPEX. Instead of purchasing capacity up front, the company pa
 **Answer:**
 Agility. The cloud reduces infrastructure wait times and speeds up experiments, testing and launches.
 
+
+[AWS reference](https://aws.amazon.com/what-is-cloud-computing/)
+
 </details>
 
+<!-- question-id: CLF-FLASH-CLOUD-008; domain: 1; type: open-response -->
 ## Card 08
-**Question:** In the shared responsibility model, what stays "in the cloud" and what stays "in the cloud"?
+**Question:** In the shared responsibility model, who is responsible for security "of" the cloud and security "in" the cloud?
 
 <details>
 <summary><strong>View answer</strong></summary>
@@ -86,8 +115,12 @@ Agility. The cloud reduces infrastructure wait times and speeds up experiments, 
 **Answer:**
 AWS secures your cloud infrastructure. The customer protects what they put in the cloud: data, identities, permissions and configurations.
 
+
+[AWS reference](https://aws.amazon.com/compliance/shared-responsibility-model/)
+
 </details>
 
+<!-- question-id: CLF-FLASH-CLOUD-009; domain: 1; type: open-response -->
 ## Card 09
 **Question:** Are high availability and fault tolerance perfect synonyms?
 
@@ -97,8 +130,12 @@ AWS secures your cloud infrastructure. The customer protects what they put in th
 **Answer:**
 No. High availability seeks to keep the service accessible; Fault tolerance emphasizes continuing to operate even when components fail.
 
+
+[AWS reference](https://docs.aws.amazon.com/wellarchitected/latest/framework/rel_fault_isolation_multiaz_region_system.html)
+
 </details>
 
+<!-- question-id: CLF-FLASH-CLOUD-010; domain: 1; type: open-response -->
 ## Card 10
 **Question:** What is the idea behind cloud "economies of scale"?
 
@@ -108,8 +145,12 @@ No. High availability seeks to keep the service accessible; Fault tolerance emph
 **Answer:**
 AWS operates at massive scale and passes cost efficiencies to customers through shared pricing and services.
 
+
+[AWS reference](https://aws.amazon.com/what-is-cloud-computing/)
+
 </details>
 
+<!-- question-id: CLF-FLASH-CLOUD-011; domain: 1; type: open-response -->
 ## Card 11
 **Question:** If the company wants to stop guessing about future capacity, which cloud principle solves it best?
 
@@ -119,8 +160,12 @@ AWS operates at massive scale and passes cost efficiencies to customers through 
 **Answer:**
 Capacity on demand. The focus is to reduce over-provisioning and under-provisioning, adjusting resources when necessary.
 
+
+[AWS reference](https://aws.amazon.com/what-is-cloud-computing/)
+
 </details>
 
+<!-- question-id: CLF-FLASH-CLOUD-012; domain: 1; type: open-response -->
 ## Card 12
 **Question:** Test error: choosing Multi-Region whenever "high availability" appears. What is the correct setting?
 
@@ -129,6 +174,9 @@ Capacity on demand. The focus is to reduce over-provisioning and under-provision
 
 **Answer:**
 For CLF-C02, Multi-AZ is often a sufficient answer for regional high availability. Multi-Region comes in when there is regional disaster, global latency or geographic requirements.
+
+
+[AWS reference](https://docs.aws.amazon.com/wellarchitected/latest/framework/rel_fault_isolation_multiaz_region_system.html)
 
 </details>
 

@@ -3,12 +3,12 @@
 Use this block when errors involve billing, alerts, pricing models, or support.
 
 ## Quick Review
-- On-Demand prioritizes flexibility without compromise.
-- Spot reduces cost in interruption-tolerant loads.
+- On-Demand prioritizes flexibility without a long-term commitment.
+- Spot reduces cost in interruption-tolerant workloads.
 - Reserved Instances and Savings Plans favor predictable usage.
-- Budgets alerts limits; Cost Explorer analyzes historical and trending spending.
+- AWS Budgets alerts you about spending thresholds; Cost Explorer analyzes historical and trending spending.
 
-## Classic proof signals
+## Common exam clues
 - If "alert when exceeding limit" appears, think of AWS Budgets.
 - If it says "analyze past cost and forecast", think Cost Explorer.
 - If it says "estimate before creating resources", think Pricing Calculator.

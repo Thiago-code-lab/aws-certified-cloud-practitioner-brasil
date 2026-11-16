@@ -8,7 +8,7 @@ Short list for corrective review. The idea is to reduce recurring errors, not to
 3. Forgetting that shared responsibility changes depending on the service, but data and permissions remain critical to the customer.
 
 ## Security
-4. You find that AWS configures IAM for the customer.
+4. Assuming that AWS configures IAM permissions for the customer.
 5. Use root as the operating account.
 6. Swap CloudTrail for CloudWatch in audit questions.
 

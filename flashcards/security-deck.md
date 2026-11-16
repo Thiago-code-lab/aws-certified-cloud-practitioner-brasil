@@ -1,5 +1,6 @@
 # Deck Security and IAM
 
+<!-- question-id: CLF-FLASH-IAM-001; domain: 2; type: open-response -->
 ## Card 01
 **Question:** Which account should be protected with MFA and avoided in daily use?
 
@@ -9,8 +10,12 @@
 **Answer:**
 The root account. It has broad privileges and should be reserved for exceptional tasks that require root.
 
+
+[AWS reference](https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html)
+
 </details>
 
+<!-- question-id: CLF-FLASH-IAM-002; domain: 2; type: open-response -->
 ## Card 02
 **Question:** In IAM, what is the difference between user and role?
 
@@ -20,8 +25,12 @@ The root account. It has broad privileges and should be reserved for exceptional
 **Answer:**
 User represents a persistent identity. Role is assumed temporarily by users, services or accounts, without permanent credentials of their own.
 
+
+[AWS reference](https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html)
+
 </details>
 
+<!-- question-id: CLF-FLASH-IAM-003; domain: 2; type: open-response -->
 ## Card 03
 **Question:** "Least privilege" should appear as which practical decision?
 
@@ -31,8 +40,12 @@ User represents a persistent identity. Role is assumed temporarily by users, ser
 **Answer:**
 Allow only necessary actions, on the necessary resources, for the necessary time. Broad permission for convenience is a sign of the wrong answer.
 
+
+[AWS reference](https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html)
+
 </details>
 
+<!-- question-id: CLF-FLASH-IAM-004; domain: 2; type: open-response -->
 ## Card 04
 **Question:** An app on EC2 needs to read objects on S3. Which approach is more suitable than saving keys on the server?
 
@@ -40,10 +53,14 @@ Allow only necessary actions, on the necessary resources, for the necessary time
 <summary><strong>View answer</strong></summary>
 
 **Answer:**
-Attach an IAM Role to the EC2 instance with minimum permissions for the required bucket.
+Attach an IAM Role to the EC2 instance with least-privilege permissions for the required bucket.
+
+
+[AWS reference](https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html)
 
 </details>
 
+<!-- question-id: CLF-FLASH-IAM-005; domain: 2; type: open-response -->
 ## Card 05
 **Question:** Which service logs API calls to answer "who did what, when, and from where"?
 
@@ -53,8 +70,12 @@ Attach an IAM Role to the EC2 instance with minimum permissions for the required
 **Answer:**
 AWS CloudTrail. It is the classic association for auditing actions in the AWS account.
 
+
+[AWS reference](https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-user-guide.html)
+
 </details>
 
+<!-- question-id: CLF-FLASH-IAM-006; domain: 2; type: open-response -->
 ## Card 06
 **Question:** AWS Shield, WAF and Security Groups protect exactly the same thing?
 
@@ -64,8 +85,12 @@ AWS CloudTrail. It is the classic association for auditing actions in the AWS ac
 **Answer:**
 No. Shield helps against DDoS, WAF filters HTTP/HTTPS web traffic, and Security Groups control network traffic on resources like EC2.
 
+
+[AWS reference](https://docs.aws.amazon.com/waf/latest/developerguide/shield-chapter.html)
+
 </details>
 
+<!-- question-id: CLF-FLASH-IAM-007; domain: 2; type: open-response -->
 ## Card 07
 **Question:** Which service centralizes creation and control of encryption keys?
 
@@ -73,10 +98,14 @@ No. Shield helps against DDoS, WAF filters HTTP/HTTPS web traffic, and Security 
 <summary><strong>View answer</strong></summary>
 
 **Answer:**
-AWS KMS. Remember how the managed key service for encryption integrated with AWS services.
+AWS KMS. KMS manages cryptographic keys and integrates with AWS services; customers still control appropriate permissions and key policies.
+
+
+[AWS reference](https://docs.aws.amazon.com/kms/latest/developerguide/overview.html)
 
 </details>
 
+<!-- question-id: CLF-FLASH-IAM-008; domain: 2; type: open-response -->
 ## Card 08
 **Question:** If the test asks for AWS compliance documents and audit reports, which service appears?
 
@@ -86,8 +115,12 @@ AWS KMS. Remember how the managed key service for encryption integrated with AWS
 **Answer:**
 AWS Artifact. It provides access to AWS compliance-related reports and agreements.
 
+
+[AWS reference](https://docs.aws.amazon.com/artifact/latest/ug/what-is-aws-artifact.html)
+
 </details>
 
+<!-- question-id: CLF-FLASH-IAM-009; domain: 2; type: open-response -->
 ## Card 09
 **Question:** Can the customer delegate the classification of their own data to AWS?
 
@@ -97,19 +130,27 @@ AWS Artifact. It provides access to AWS compliance-related reports and agreement
 **Answer:**
 No. Classification, governance, retention and protection of customer data remains the responsibility of the customer.
 
+
+[AWS reference](https://aws.amazon.com/compliance/shared-responsibility-model/)
+
 </details>
 
+<!-- question-id: CLF-FLASH-IAM-010; domain: 2; type: open-response -->
 ## Card 10
-**Question:** Which error is more dangerous: explicit Deny policy or too broad Allow?
+**Question:** How do an overly broad Allow and an explicit Deny affect IAM access?
 
 <details>
 <summary><strong>View answer</strong></summary>
 
 **Answer:**
-Allow too wide increases scratch surface. In IAM, an explicit Deny typically prevails and blocks access.
+An overly broad Allow increases the attack surface. An applicable explicit Deny overrides an Allow; an excessively broad Deny can also disrupt legitimate work. Evaluate both against least privilege and operational requirements.
+
+
+[AWS reference](https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html)
 
 </details>
 
+<!-- question-id: CLF-FLASH-IAM-011; domain: 2; type: open-response -->
 ## Card 11
 **Question:** Should GuardDuty be remembered as firewall, antivirus or threat detection?
 
@@ -119,16 +160,23 @@ Allow too wide increases scratch surface. In IAM, an explicit Deny typically pre
 **Answer:**
 Threat detection. It analyzes events and signals to point out suspicious behavior on the account.
 
+
+[AWS reference](https://docs.aws.amazon.com/guardduty/latest/ug/what-is-guardduty.html)
+
 </details>
 
+<!-- question-id: CLF-FLASH-IAM-012; domain: 2; type: open-response -->
 ## Card 12
-**Question:** Common proof error: "MFA overrides well-defined IAM policies." Why is it wrong?
+**Question:** Common exam mistake: "MFA overrides well-defined IAM policies." Why is it wrong?
 
 <details>
 <summary><strong>View answer</strong></summary>
 
 **Answer:**
 MFA strengthens authentication but does not define authorization. Correct access still depends on policies, roles and least privilege.
+
+
+[AWS reference](https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html)
 
 </details>
 

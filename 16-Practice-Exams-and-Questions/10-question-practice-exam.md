@@ -1,237 +1,349 @@
-# Complete Simulation - Final Review CLF-C02
+# Question Practice Exam
 
-This short simulation was designed for final training focusing on basic decision making.
+10 reviewed questions. Each question has one correct answer and four alternatives.
 
+A short supplementary exercise, not a full-length exam or a weighted exam simulation. The official exam has 65 questions; this exercise has 10.
+<!-- question-id: CLF-MOCK-001; domain: 1; select: 1 -->
 ## Question 1
-A company needs to scale quickly during peaks and reduce resources after the peak. Which benefit of the cloud best describes this?
+
+A company needs to rapidly add resources during peaks and release them afterward. Which cloud benefit describes this? Select one answer.
 
 A) Immutability
+
 B) Elasticity
+
 C) Dedicated physical isolation
+
 D) Fixed latency
 
 <details>
-<summary><strong>View answer</strong></summary>
+<summary><strong>View answer and explanations</strong></summary>
 
-✅ **Correct answer:** B
+**Correct answer:** B
 
-**Explanation:**
-Elasticity is capacity adjustment according to demand.
+- **A — Incorrect:** Immutability concerns replacing rather than modifying resources.
 
-**Why option C is wrong:**
-Dedicated physical is not the primary benefit of this scenario.
+- **B — Correct:** Elasticity matches capacity to changing demand, including scaling back down.
+
+- **C — Incorrect:** Dedicated isolation concerns tenancy, not matching capacity to load.
+
+- **D — Incorrect:** Cloud services do not promise universally fixed latency.
+
+**Official domain:** 1.
+
+[AWS reference](https://aws.amazon.com/what-is-cloud-computing/)
 
 </details>
 
 ---
 
+<!-- question-id: CLF-MOCK-002; domain: 2; select: 1 -->
 ## Question 2
-Which service is most appropriate for audit trail of actions on the account?
+
+Which service provides an audit trail of supported account actions? Select one answer.
 
 A) CloudTrail
+
 B) S3
+
 C) EBS
+
 D) Athena
 
 <details>
-<summary><strong>View answer</strong></summary>
+<summary><strong>View answer and explanations</strong></summary>
 
-✅ **Correct answer:** A
+**Correct answer:** A
 
-**Explanation:**
-CloudTrail logs events and API calls.
+- **A — Correct:** CloudTrail records supported account activity as events.
 
-**Why option B is wrong:**
-S3 stores objects, it is not audit trail by itself.
+- **B — Incorrect:** S3 can store CloudTrail logs, but does not itself capture account API activity.
+
+- **C — Incorrect:** EBS stores block data for EC2.
+
+- **D — Incorrect:** Athena queries data and can analyze logs, but is not the event recording service.
+
+**Official domain:** 2.
+
+[AWS reference](https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-user-guide.html)
 
 </details>
 
 ---
 
+<!-- question-id: CLF-MOCK-003; domain: 3; select: 1 -->
 ## Question 3
-Which option best represents managed relational banking on AWS?
+
+Which option is a managed relational database service? Select one answer.
 
 A) DynamoDB
+
 B) RDS
+
 C) ElastiCache
+
 D) S3
 
 <details>
-<summary><strong>View answer</strong></summary>
+<summary><strong>View answer and explanations</strong></summary>
 
-✅ **Correct answer:** B
+**Correct answer:** B
 
-**Explanation:**
-RDS is managed relational service.
+- **A — Incorrect:** DynamoDB is a NoSQL key-value and document database.
 
-**Why is option A wrong:**
-DynamoDB is NoSQL.
+- **B — Correct:** RDS provides managed relational databases.
+
+- **C — Incorrect:** ElastiCache provides in-memory caching.
+
+- **D — Incorrect:** S3 provides object storage.
+
+**Official domain:** 3.
+
+[AWS reference](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Welcome.html)
 
 </details>
 
 ---
 
+<!-- question-id: CLF-MOCK-004; domain: 4; select: 1 -->
 ## Question 4
-Which service helps monitor and forecast costs?
+
+Which tool supports tracking and forecasting AWS costs? Select one answer.
 
 A) Cost Explorer
+
 B) KMS
+
 C) Route 53
+
 D) ECS
 
 <details>
-<summary><strong>View answer</strong></summary>
+<summary><strong>View answer and explanations</strong></summary>
 
-✅ **Correct answer:** A
+**Correct answer:** A
 
-**Explanation:**
-Cost Explorer is aimed at cost and usage analysis.
+- **A — Correct:** Cost Explorer analyzes cost and usage and provides forecasts subject to available history.
 
-**Why option C is wrong:**
-Route 53 is DNS service.
+- **B — Incorrect:** KMS manages encryption keys.
+
+- **C — Incorrect:** Route 53 provides DNS and related services.
+
+- **D — Incorrect:** ECS orchestrates containers.
+
+**Official domain:** 4.
+
+[AWS reference](https://docs.aws.amazon.com/cost-management/latest/userguide/ce-what-is.html)
 
 </details>
 
 ---
 
+<!-- question-id: CLF-MOCK-005; domain: 2; select: 1 -->
 ## Question 5
-In the shared responsibility model, who sets the password policy for IAM users?
+
+Under the Shared Responsibility Model, who sets the password policy for IAM users in a customer account? Select one answer.
 
 A) AWS
-B) Customer
-C) AWS Support
-D) Training partner
+
+B) The customer
+
+C) AWS Support by default
+
+D) A training partner by default
 
 <details>
-<summary><strong>View answer</strong></summary>
+<summary><strong>View answer and explanations</strong></summary>
 
-✅ **Correct answer:** B
+**Correct answer:** B
 
-**Explanation:**
-Configuring customer identity and access is the customer's responsibility.
+- **A — Incorrect:** AWS manages cloud infrastructure, not the customer's IAM user password policy.
 
-**Why is option A wrong:**
-AWS does not set internal customer account policy.
+- **B — Correct:** The customer configures IAM account password requirements; federated identities instead use their identity provider's policies.
+
+- **C — Incorrect:** Support does not automatically administer customer identity settings.
+
+- **D — Incorrect:** A training relationship does not grant account administration permissions.
+
+**Official domain:** 2.
+
+[AWS reference](https://aws.amazon.com/compliance/shared-responsibility-model/)
 
 </details>
 
 ---
 
+<!-- question-id: CLF-MOCK-006; domain: 3; select: 1 -->
 ## Question 6
-Which service is used to host static objects and content?
+
+Which service stores objects and static content? Select one answer.
 
 A) S3
+
 B) Aurora
+
 C) EC2 Auto Scaling
+
 D) IAM
 
 <details>
-<summary><strong>View answer</strong></summary>
+<summary><strong>View answer and explanations</strong></summary>
 
-✅ **Correct answer:** A
+**Correct answer:** A
 
-**Explanation:**
-S3 is object storage and common base for static content.
+- **A — Correct:** S3 stores objects including static website assets.
 
-**Why option D is wrong:**
-IAM is about identity, not file hosting.
+- **B — Incorrect:** Aurora is a relational database.
+
+- **C — Incorrect:** EC2 Auto Scaling manages instance group capacity.
+
+- **D — Incorrect:** IAM controls identities and access.
+
+**Official domain:** 3.
+
+[AWS reference](https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html)
 
 </details>
 
 ---
 
+<!-- question-id: CLF-MOCK-007; domain: 1; select: 1 -->
 ## Question 7
-Which strategy usually increases web application availability?
 
-A) One instance in a single AZ
-B) Multiple AZs
-C) No backup
+Which approach generally improves web application availability? Select one answer.
+
+A) One instance in one Availability Zone
+
+B) Instances across multiple Availability Zones
+
+C) No backups
+
 D) No monitoring
 
 <details>
-<summary><strong>View answer</strong></summary>
+<summary><strong>View answer and explanations</strong></summary>
 
-✅ **Correct answer:** B
+**Correct answer:** B
 
-**Explanation:**
-Multiple AZs reduce impact of local failures.
+- **A — Incorrect:** A single instance and zone introduce single points of failure.
 
-**Why is option A wrong:**
-A single point of failure decreases availability.
+- **B — Correct:** A multi-zone design with appropriate routing and failover reduces localized failure impact.
+
+- **C — Incorrect:** Removing backups undermines recovery.
+
+- **D — Incorrect:** Removing monitoring delays failure detection.
+
+**Official domain:** 1.
+
+[AWS reference](https://docs.aws.amazon.com/wellarchitected/latest/framework/rel_fault_isolation_multiaz_region_system.html)
 
 </details>
 
 ---
 
+<!-- question-id: CLF-MOCK-008; domain: 3; select: 1 -->
 ## Question 8
-To perform function without managing server, the most direct choice is:
+
+Which service runs function code without the customer managing servers? Select one answer.
 
 A) Lambda
+
 B) EC2
+
 C) Redshift
+
 D) Direct Connect
 
 <details>
-<summary><strong>View answer</strong></summary>
+<summary><strong>View answer and explanations</strong></summary>
 
-✅ **Correct answer:** A
+**Correct answer:** A
 
-**Explanation:**
-Lambda is a serverless service for executing code.
+- **A — Correct:** Lambda manages the underlying function execution infrastructure.
 
-**Why option B is wrong:**
-EC2 requires instance management.
+- **B — Incorrect:** EC2 generally requires management of instances and guest operating systems.
+
+- **C — Incorrect:** Redshift is an analytical database service.
+
+- **D — Incorrect:** Direct Connect provides dedicated network connectivity.
+
+**Official domain:** 3.
+
+[AWS reference](https://docs.aws.amazon.com/lambda/latest/dg/welcome.html)
 
 </details>
 
 ---
 
+<!-- question-id: CLF-MOCK-009; domain: 2; select: 1 -->
 ## Question 9
-What security practice is recommended for the root account?
 
-A) Share credential with team
+Which root user security practice is recommended? Select one answer.
+
+A) Share root credentials with the team
+
 B) Disable MFA
-C) Enable MFA and reduce usage
-D) Create access keys for automation
+
+C) Enable MFA and limit root use
+
+D) Create root access keys for automation
 
 <details>
-<summary><strong>View answer</strong></summary>
+<summary><strong>View answer and explanations</strong></summary>
 
-✅ **Correct answer:** C
+**Correct answer:** C
 
-**Explanation:**
-Root must have MFA and restricted use.
+- **A — Incorrect:** Shared root credentials expose highly privileged access.
 
-**Why option D is wrong:**
-Permanent root keys are high risk.
+- **B — Incorrect:** Disabling MFA weakens authentication.
+
+- **C — Correct:** Protect root with MFA and use it only for tasks that require it; prefer federated roles for routine work.
+
+- **D — Incorrect:** Use roles and temporary credentials rather than root access keys.
+
+**Official domain:** 2.
+
+[AWS reference](https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html)
 
 </details>
 
 ---
 
+<!-- question-id: CLF-MOCK-010; domain: 4; select: 1 -->
 ## Question 10
-Which tool sends an alert when the cost exceeds a defined limit?
+
+Which tool can notify you when actual or forecast spending crosses a configured threshold? Select one answer.
 
 A) AWS Budgets
+
 B) AWS Artifact
+
 C) AWS Config
+
 D) CloudFront
 
 <details>
-<summary><strong>View answer</strong></summary>
+<summary><strong>View answer and explanations</strong></summary>
 
-✅ **Correct answer:** A
+**Correct answer:** A
 
-**Explanation:**
-Budgets generates cost, usage and forecast alerts.
+- **A — Correct:** Budgets supports cost, usage, and commitment monitoring and notifications; data updates and delivery can be delayed.
 
-**Why option C is wrong:**
-Config evaluates resource compliance, not financial budget.
+- **B — Incorrect:** Artifact provides compliance reports and agreements.
+
+- **C — Incorrect:** Config records resource configurations and evaluates rules.
+
+- **D — Incorrect:** CloudFront delivers cached content at edge locations.
+
+**Official domain:** 4.
+
+[AWS reference](https://docs.aws.amazon.com/cost-management/latest/userguide/budgets-managing-costs.html)
 
 </details>
 
+## Official AWS references
 
----
+- [AWS reference 1](https://docs.aws.amazon.com/aws-certification/latest/cloud-practitioner-02/cloud-practitioner-02.html)
 
 ## ☁️ Follow CloudStudy
 

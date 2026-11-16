@@ -1,14 +1,14 @@
-# Template D4
-1-A
-2-B
+# Domain 4 — Billing, Pricing, and Support (12%) — Answer Key
+
+1-C
+2-A
 3-A
 4-B
-5-A
-6-A
-7-B
-8-A
-9-A
-10-A
+5-B
+6-C
+
+See the [questions and option explanations](../04-domain-4-questions.md).
+
 ---
 
 Copyright credits:
@@ -17,9 +17,13 @@ Copyright credits:
 - Lucas Garcia - https://www.linkedin.com/in/lucas-del-puerto/
 
 
-> Career complement: anyone who wants to move from the cloud base to real data projects can follow here: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+> Career complement: anyone who wants to move from the cloud fundamentals to real data projects can follow here: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
+
+## Official AWS references
+
+- [AWS reference 1](https://docs.aws.amazon.com/aws-certification/latest/cloud-practitioner-02/cloud-practitioner-02.html)
 
 ## ☁️ Follow CloudStudy
 
