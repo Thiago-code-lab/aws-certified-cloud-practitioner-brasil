@@ -1,27 +1,24 @@
-﻿# Elastic Load Balancing
+# Elastic Load Balancing
 
-O Elastic Load Balancing distribui tráfego entre vários destinos saudáveis, como instâncias EC2, contêineres e funções Lambda.
+Elastic Load Balancing distributes incoming traffic across healthy targets, including EC2 instances, containers, and Lambda functions.
 
-- **Application Load Balancer:** tráfego HTTP/HTTPS e regras por host ou caminho.
-- **Network Load Balancer:** conexões TCP/UDP de alto desempenho e baixa latência.
-- Verificações de integridade evitam destinos indisponíveis.
-- **Dica de prova:** o balanceador distribui tráfego; o Auto Scaling cria ou remove capacidade.
-
-Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+- **Application Load Balancer:** HTTP/HTTPS traffic with host- and path-based routing rules.
+- **Network Load Balancer:** high-performance TCP/UDP connections with low latency.
+- Health checks help avoid routing to unhealthy targets.
+- **Exam tip:** load balancing distributes traffic; Auto Scaling adds or removes capacity.
 
 
+Learn more about AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 
-> Complemento de carreira: quem quer sair da base de cloud para projetos reais de dados pode seguir por aqui: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+> Additional practice: explore the AWS Data Engineering course: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+We are building a platform to make AWS certification study more practical, organized, and accessible.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
-
+Follow us for new AWS learning resources and updates:
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/
 
----

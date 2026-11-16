@@ -1,27 +1,24 @@
-﻿# Auto Scaling
+# EC2 Auto Scaling
 
-O EC2 Auto Scaling ajusta automaticamente a quantidade de instâncias de um grupo para manter desempenho e disponibilidade.
+EC2 Auto Scaling automatically adjusts the number of instances in a group to maintain performance and availability.
 
-- Define capacidade **mínima**, **desejada** e **máxima**.
-- Pode reagir a métricas, horários ou previsões de demanda.
-- Substitui instâncias com falha e distribui capacidade entre AZs.
-- **Dica de prova:** Auto Scaling altera a capacidade; o load balancer distribui as requisições.
-
-Aprofundamento em arquitetura AWS: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+- Configure **minimum**, **desired**, and **maximum** capacity.
+- Scaling can respond to metrics, schedules, or predicted demand.
+- It can replace unhealthy instances and distribute capacity across AZs.
+- **Exam tip:** Auto Scaling changes capacity; a load balancer distributes requests.
 
 
+Learn more about AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 
-> Quando este assunto aparecer em cenários de dados, vale revisar o curso Engenharia de Dados na AWS: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+> Additional practice: explore the AWS Data Engineering course: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+We are building a platform to make AWS certification study more practical, organized, and accessible.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
-
+Follow us for new AWS learning resources and updates:
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/
 
----

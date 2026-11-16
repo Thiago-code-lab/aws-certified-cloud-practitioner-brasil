@@ -1,49 +1,26 @@
 # Amazon EC2
 
-Módulo de computação virtual com foco em instâncias, modelos de compra e decisões básicas de disponibilidade.
+Virtual computing, instance choices, purchasing models, and basic availability decisions.
 
-## Foco do módulo
-- Instâncias EC2, AMI, tipos de instância e pares de chave.
-- EBS como volume de bloco para instâncias.
-- Auto Scaling e Elastic Load Balancing em nível introdutório.
-
-## Revisão rápida
-- EC2 é computação como serviço: você escolhe capacidade, sistema e configuração.
-- EBS é armazenamento de bloco persistente, diferente de S3.
-- Auto Scaling ajusta quantidade de instâncias; Load Balancer distribui tráfego.
-
-## Sinais clássicos de prova
-- "Servidor virtual na nuvem" -> Amazon EC2.
-- "Volume para anexar a uma instância" -> Amazon EBS.
-- "Distribuir tráfego entre instâncias" -> Elastic Load Balancing.
-
-## Erro comum
-Confundir aumentar o tamanho de uma instância com alta disponibilidade. Escala vertical melhora capacidade; alta disponibilidade exige redundância.
-
-## O que memorizar
-| Comparação | Regra mental de prova |
-|---|---|
-| EC2 vs Lambda | EC2 = servidor gerenciado pelo cliente; Lambda = execução sem servidor |
-| EBS vs S3 | EBS = bloco para instância; S3 = objetos via API |
-
-## Ponte para o próximo módulo
-Depois de entender computação, revise segurança: quem pode criar, acessar e auditar esses recursos.
-
-## Continuidade
-Trilha de arquitetura: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+- **Module focus:** EC2 instances, AMIs, instance families, key pairs, EBS, Auto Scaling, and Elastic Load Balancing.
+- **Quick review:** EC2 provides virtual servers; EBS is persistent block storage; Auto Scaling adjusts instance count and load balancing distributes traffic.
+- **Exam clues:** “virtual server” → EC2; “attachable block volume” → EBS; “distribute requests” → Elastic Load Balancing.
+- **Common mistake:** a larger instance provides more capacity but not redundancy or high availability.
+- **Remember:** EC2 means customer-managed servers, Lambda means serverless execution; EBS provides blocks and S3 provides objects.
+- **Next:** understand security controls governing access to resources.
 
 
-> Ponte prática: depois de fixar o serviço, veja como ele aparece em arquiteturas de dados na AWS: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+Learn more about AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
+
+> Additional practice: explore the AWS Data Engineering course: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
 
-## ☁️ Acompanhe a CloudStudy
+## ☁️ Follow CloudStudy
 
-Estamos construindo uma plataforma para ajudar brasileiros a estudarem AWS de forma mais prática, organizada e acessível.
+We are building a platform to make AWS certification study more practical, organized, and accessible.
 
-Siga a CloudStudy para acompanhar novos materiais, atualizações e conteúdos sobre certificações AWS:
-
+Follow us for new AWS learning resources and updates:
 - Instagram: https://www.instagram.com/cloudstudy.ai/
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/
 
----
