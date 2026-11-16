@@ -5,15 +5,19 @@ EC2 Auto Scaling automatically adjusts the number of instances in a group to mai
 - Defines **minimum**, **desired** and **maximum** capacity.
 - Can react to metrics, schedules or demand forecasts.
 - Replaces failed instances and distributes capacity across AZs.
-- **Test tip:** Auto Scaling changes capacity; the load balancer distributes the requests.
+- **Exam tip:** Auto Scaling changes capacity; the load balancer distributes the requests.
 
-Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 
 
 
 > When this subject appears in data scenarios, it is worth reviewing the Data Engineering on AWS course: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
+
+## Official AWS references
+
+- [AWS reference 1](https://docs.aws.amazon.com/autoscaling/ec2/userguide/what-is-amazon-ec2-auto-scaling.html)
 
 ## ☁️ Follow CloudStudy
 

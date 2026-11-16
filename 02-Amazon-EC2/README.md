@@ -1,4 +1,4 @@
-#Amazon EC2
+# Amazon EC2
 
 Virtual compute module focusing on instances, purchasing models, and basic availability decisions.
 
@@ -12,7 +12,7 @@ Virtual compute module focusing on instances, purchasing models, and basic avail
 - EBS is persistent block storage, different from S3.
 - Auto Scaling adjusts number of instances; Load Balancer distributes traffic.
 
-## Classic proof signals
+## Common exam clues
 - "Virtual cloud server" -> Amazon EC2.
 - "Volume to attach to an instance" -> Amazon EBS.
 - "Distribute traffic between instances" -> Elastic Load Balancing.
@@ -21,7 +21,7 @@ Virtual compute module focusing on instances, purchasing models, and basic avail
 Confusing increasing the size of an instance with high availability. Vertical scaling improves capacity; High availability requires redundancy.
 
 ## What to memorize
-| Comparison | Mental rule of proof |
+| Comparison | Exam rule of thumb |
 |---|---|
 | EC2 vs Lambda | EC2 = customer managed server; Lambda = serverless execution |
 | EBS vs S3 | EBS = block for instance; S3 = objects via API |
@@ -30,12 +30,17 @@ Confusing increasing the size of an instance with high availability. Vertical sc
 After you understand computing, review security: who can create, access, and audit these resources.
 
 ## Continuity
-Architecture Track: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Architecture Track: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 
 
 > Practical bridge: After pinning the service, see how it appears in data architectures on AWS: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
+
+## Official AWS references
+
+- [AWS reference 1](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts.html)
+- [AWS reference 2](https://aws.amazon.com/ec2/pricing/)
 
 ## ☁️ Follow CloudStudy
 
@@ -47,3 +52,13 @@ Follow CloudStudy to keep up with new materials, updates and content about AWS c
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/
 
 ---
+
+## Lessons and practice
+
+- [Instance Types](01-instance-types.md)
+- [Purchasing Options](02-pricing-models.md)
+- [Auto Scaling](03-auto-scaling.md)
+- [Elastic Load Balancing](04-elastic-load-balancing.md)
+- [User Data and Metadata](05-user-data-and-metadata.md)
+
+[Back to all modules](../README.md#modules)

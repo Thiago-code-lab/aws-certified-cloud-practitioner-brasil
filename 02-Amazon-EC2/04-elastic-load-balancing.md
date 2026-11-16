@@ -5,15 +5,19 @@ Elastic Load Balancing distributes traffic across multiple healthy destinations,
 - **Application Load Balancer:** HTTP/HTTPS traffic and rules by host or path.
 - **Network Load Balancer:** high-performance, low-latency TCP/UDP connections.
 - Health checks prevent unavailable destinations.
-- **Test tip:** the balancer distributes traffic; Auto Scaling creates or removes capacity.
+- **Exam tip:** the balancer distributes traffic; Auto Scaling creates or removes capacity.
 
-Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 
 
 
-> Career complement: anyone who wants to move from the cloud base to real data projects can follow here: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+> Career complement: anyone who wants to move from the cloud fundamentals to real data projects can follow here: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
+
+## Official AWS references
+
+- [AWS reference 1](https://docs.aws.amazon.com/elasticloadbalancing/latest/userguide/what-is-load-balancing.html)
 
 ## ☁️ Follow CloudStudy
 

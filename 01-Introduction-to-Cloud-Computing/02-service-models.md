@@ -7,10 +7,15 @@ Service models indicate how much of the technology is the responsibility of the 
 - **SaaS:** delivers ready-to-use software to the end user.
 - **Mental rule:** from IaaS to SaaS, increases provider management and decreases customer operational control.
 
-Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 
 
 ---
+
+## Official AWS references
+
+- [AWS reference 1](https://aws.amazon.com/what-is-cloud-computing/)
+- [AWS reference 2](https://docs.aws.amazon.com/global-infrastructure/latest/regions/aws-regions-availability-zones.html)
 
 ## ☁️ Follow CloudStudy
 
