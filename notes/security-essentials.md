@@ -1,15 +1,15 @@
 # Essential Security - Exam Review
 
-## Quick Review
+## Quick review
 - IAM controls identities, permissions and roles.
-- MFA reduces risk of compromised credential, but does not replace least privilege.
+- MFA reduces the risk from compromised credentials, but does not replace least privilege.
 - CloudTrail logs API calls for auditing.
 
 ## Common exam clue
 If it says "trace API calls", the normal association is CloudTrail.
 
 ## Common error
-Assume that AWS sets account permissions for the customer.
+Assuming that AWS sets account permissions for the customer.
 
 ## What to memorize
 | Comparison | Mental rule |

@@ -1,4 +1,4 @@
-# Documentdb and Neptune
+# DocumentDB and Neptune
 
 Amazon DocumentDB and Amazon Neptune serve specialized data models.
 

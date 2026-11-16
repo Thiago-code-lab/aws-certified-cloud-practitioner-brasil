@@ -3,11 +3,11 @@
 Module to review AWS CAF as an organizational adoption language, not a deep technical architecture.
 
 ## Module focus
-- CAF perspectives at test level.
+- The six CAF perspectives at the CLF-C02 level.
 - People, processes, governance and technology.
 - Cloud adoption as an organizational change.
 
-## Quick Review
+## Quick review
 - CAF helps plan cloud adoption beyond technology.
 - The test can associate governance, people and operations with different perspectives.
 - The objective is to align business and technology during the journey.

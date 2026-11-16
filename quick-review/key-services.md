@@ -5,7 +5,7 @@ Compact map for reviewing service associations for the exam without turning the 
 ## Fundamentals
 - Region: geographic location, latency and data residency.
 - AZ: local isolation for high availability.
-- Shared responsibility: AWS protects infrastructure; client protects data, access and configurations.
+- Shared responsibility: AWS protects infrastructure; customer protects data, access and configurations.
 - Exam clue: if the statement talks about local physical isolation, it normally points to AZ.
 
 ## IAM and security

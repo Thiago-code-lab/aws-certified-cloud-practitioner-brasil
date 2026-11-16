@@ -5,7 +5,7 @@ AWS Lambda executes code in response to events without the customer provisioning
 - Automatically scales upon invocation.
 - Billing considers requests and execution time.
 - It is recommended for APIs, automations and event processing.
-- **Exam tip:** short, event-driven task points to Lambda; Long processes may ask for containers or EC2.
+- **Exam tip:** short, event-driven task points to Lambda; long-running processes may require containers or EC2.
 
 Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 

@@ -5,7 +5,7 @@ AWS Fargate runs containers without the customer managing instances or clusters 
 - Functions as computing capacity for Amazon ECS and Amazon EKS.
 - Customer sets image, CPU, memory, network and permissions.
 - It is suitable when you want containers with less operational effort.
-- **Exam tip:** ECS/EKS orchestra; Fargate provides the capability.
+- **Exam tip:** ECS and EKS orchestrate containers; Fargate supplies serverless compute capacity.
 
 Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 

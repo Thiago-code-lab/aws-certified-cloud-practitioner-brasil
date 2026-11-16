@@ -7,10 +7,10 @@ Module to recognize the quality pillars of workloads in AWS.
 - Relationship between security, reliability, cost and operation.
 - Using the framework as a quality review.
 
-## Quick Review
+## Quick review
 - Well-Architected guides good decisions for workloads.
-- Not a migration tool; It is a model for evaluation and improvement.
-- The test asks for names and intention of the pillars, not advanced design.
+- It provides a framework for evaluating and improving workloads.
+- The exam tests the names and purpose of the pillars, not advanced design.
 
 ## Common exam clues
 - "Review architectural quality" -> Well-Architected Framework.

@@ -2,8 +2,8 @@
 
 An S3 bucket can host HTML, CSS, JavaScript, and images without running code on the server.
 
-- Configure the initial document and error page.
-- For HTTPS, own domain and global cache, use CloudFront.
+- Configure the index document and error page.
+- For HTTPS, a custom domain, and global caching, use CloudFront.
 - Prefer private access through CloudFront over direct bucket exposure.
 - **Exam tip:** dynamic applications or APIs require additional computation.
 

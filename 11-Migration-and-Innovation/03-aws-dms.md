@@ -3,7 +3,7 @@
 AWS Database Migration Service (AWS DMS) migrates and replicates databases with little downtime.
 
 - The source can continue to be in use while changes are replicated.
-- Supports migrations between the same or different mechanisms.
+- Supports migrations between the same or different supported database engines.
 - Engine changes may require schema conversion.
 - **Exam tip:** continuous database replication points to DMS; general files point to DataSync.
 

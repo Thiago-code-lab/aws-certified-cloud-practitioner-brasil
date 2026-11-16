@@ -1,6 +1,6 @@
 # Cheatsheets
 
-The cheatsheets condense the points that appear most in reviews and practice exams. They serve to quickly retrieve mental rules, not to replace complete modules.
+The cheatsheets condense the points that appear most in reviews and practice exams. Use them to recall key comparisons quickly and return to the complete modules for context.
 
 ## How to use
 
@@ -32,3 +32,10 @@ Follow CloudStudy to keep up with new materials, updates and content about AWS c
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/
 
 ---
+
+## Open the materials
+
+- [Core concepts](core-concepts.md)
+- [IAM](iam.md)
+- [Amazon S3](s3.md)
+- [Pricing](pricing.md)

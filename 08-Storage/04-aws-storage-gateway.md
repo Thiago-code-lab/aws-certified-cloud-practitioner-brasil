@@ -2,7 +2,7 @@
 
 AWS Storage Gateway connects on-premises environments to AWS storage in a hybrid architecture.
 
-- Maintain known interfaces locally while using AWS for storage or protection.
+- Retain familiar storage interfaces locally while using AWS for storage or protection.
 - Supports file sharing, volumes and virtual tape backup.
 - Can maintain local cache for frequent data.
 - **Exam tip:** local storage integration with AWS points to Storage Gateway.

@@ -3,7 +3,7 @@
 AWS Health provides information about AWS events that can affect resources and accounts.
 
 - The public view shows the general status of services.
-- Custom view relates events to customer resources.
+- The account-specific view relates events to customer resources.
 - Advance notifications help plan maintenance and respond to incidents.
 - **Exam tip:** impact of an AWS event on your resources points to AWS Health; internal metrics point to CloudWatch.
 

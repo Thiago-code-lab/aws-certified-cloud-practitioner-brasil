@@ -1,4 +1,4 @@
-# Question Practice Exam
+# 10-Question Practice Exam
 
 10 reviewed questions. Each question has one correct answer and four alternatives.
 

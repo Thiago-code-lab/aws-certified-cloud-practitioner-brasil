@@ -2,9 +2,9 @@
 
 Amazon Inspector and Amazon GuardDuty detect different risks and complement each other.
 
-- **Inspector:** looks for software vulnerabilities and undue exposure in supported workloads.
+- **Inspector:** looks for software vulnerabilities and unintended network exposure in supported workloads.
 - **GuardDuty:** analyzes signals and logs to identify suspicious behavior and potential attacks.
-- Both generate findings that can fuel an automated response.
+- Both generate findings that can trigger an automated response through configured integrations.
 - **Exam tip:** known vulnerability points to Inspector; anomalous activity points to GuardDuty.
 
 Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english

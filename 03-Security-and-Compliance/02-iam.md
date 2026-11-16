@@ -5,7 +5,7 @@ AWS Identity and Access Management (IAM) controls who can access resources and w
 - **Users and groups:** IAM users are persistent identities; groups collect users so policies can be assigned consistently. Groups are not principals and cannot be assumed.
 - **Roles:** persistent identities that trusted principals assume to obtain temporary credentials. Prefer federated roles for human access and workload roles for applications.
 - **Policies:** documents that allow or deny actions.
-- **Best practice:** apply least privilege, MFA and do not use the root account in daily tasks.
+- **Best practice:** apply least privilege, MFA and do not use the root user for daily tasks.
 
 Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 

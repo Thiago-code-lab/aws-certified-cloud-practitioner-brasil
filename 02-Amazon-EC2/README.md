@@ -4,10 +4,10 @@ Virtual compute module focusing on instances, purchasing models, and basic avail
 
 ## Module focus
 - EC2 instances, AMI, instance types, and key pairs.
-- EBS as block volume for instances.
+- EBS as block storage for instances.
 - Auto Scaling and Elastic Load Balancing at introductory level.
 
-## Quick Review
+## Quick review
 - EC2 is computing as a service: you choose capacity, system and configuration.
 - EBS is persistent block storage, different from S3.
 - Auto Scaling adjusts number of instances; Load Balancer distributes traffic.
@@ -18,12 +18,12 @@ Virtual compute module focusing on instances, purchasing models, and basic avail
 - "Distribute traffic between instances" -> Elastic Load Balancing.
 
 ## Common error
-Confusing increasing the size of an instance with high availability. Vertical scaling improves capacity; High availability requires redundancy.
+Confusing increasing the size of an instance with high availability. Vertical scaling improves capacity; high availability requires redundancy.
 
 ## What to memorize
 | Comparison | Exam rule of thumb |
 |---|---|
-| EC2 vs Lambda | EC2 = customer managed server; Lambda = serverless execution |
+| EC2 vs Lambda | EC2 = customer-managed virtual server; Lambda = serverless execution |
 | EBS vs S3 | EBS = block for instance; S3 = objects via API |
 
 ## Bridge to next module

@@ -2,8 +2,8 @@
 
 Security Groups and Network ACLs filter traffic at different layers of the VPC.
 
-- **Security Group:** acts on the resource, is stateful and has only permission rules.
-- **NACL:** acts on the subnet, is stateless and accepts permission and denial.
+- **Security Group:** applies to associated resources, is stateful, and supports allow rules only. Return traffic for allowed connections is automatically permitted.
+- **NACL:** applies at the subnet boundary, is stateless, and supports allow and deny rules. Inbound and outbound rules must explicitly permit the required traffic, including return traffic.
 - Security Groups are the primary control for instances and interfaces.
 - **Exam tip:** explicit block by subnet points to NACL.
 
@@ -16,6 +16,8 @@ Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certifie
 ---
 
 ## Official AWS references
+
+- [Network ACL behavior](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-network-acls.html)
 
 - [AWS reference 1](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-security-groups.html)
 

@@ -39,3 +39,9 @@ All labs received static documentation review only; no AWS infrastructure was pr
 - [Initial IAM setup](lab-01-iam-setup.md): temporary read-only user and group, root MFA, and federation guidance.
 - [S3 and CloudFront static website](lab-02-s3-static-website.md): private REST origin, OAC, and HTTPS.
 - [Basic CloudWatch monitoring](lab-03-basic-cloudwatch.md): existing resource metrics and monitoring-only alarm.
+
+## Open the materials
+
+- [Initial IAM setup](lab-01-iam-setup.md)
+- [S3 and CloudFront static website](lab-02-s3-static-website.md)
+- [Basic CloudWatch monitoring](lab-03-basic-cloudwatch.md)

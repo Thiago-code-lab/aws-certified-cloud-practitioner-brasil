@@ -36,6 +36,20 @@ def content_files() -> list[Path]:
     return sorted(p for p in ROOT.rglob('*') if p.suffix in {'.md','.html','.svg'} and '.git' not in p.parts)
 
 
+def table_failures(raw: str, name: str) -> list[str]:
+    failures: list[str] = []
+    lines = raw.splitlines()
+    for token in MARKDOWN.parse(raw):
+        if token.type != 'table_open' or not token.map:
+            continue
+        start, end = token.map
+        rows = [line.strip().strip('|') for line in lines[start:end]]
+        widths = [len(re.split(r'(?<!\\)\|', row)) for row in rows]
+        if len(set(widths)) != 1:
+            failures.append(f'{name}:{start + 1}: inconsistent Markdown table columns')
+    return failures
+
+
 def markdown_failures(files: list[Path]) -> list[str]:
     failures: list[str] = []
     for path in files:
@@ -44,14 +58,26 @@ def markdown_failures(files: list[Path]) -> list[str]:
         raw = path.read_text(encoding='utf-8-sig')
         name = path.relative_to(ROOT).as_posix()
         tokens = MARKDOWN.parse(raw)
+        failures.extend(table_failures(raw, name))
         for token in tokens:
             if token.type == 'fence' and token.map:
                 last_line = raw.splitlines()[token.map[1] - 1].strip()
                 if not last_line.startswith(token.markup):
                     failures.append(f'{name}: unclosed code fence')
         without_code = re.sub(r'`[^`\n]+`', '', raw)
+        for token in tokens:
+            if token.type in {'fence', 'code_block'}:
+                without_code = without_code.replace(token.content, '')
         if len(re.findall(r'<details(?:\s[^>]*)?>', without_code)) != without_code.count('</details>'):
             failures.append(f'{name}: unbalanced expandable answers')
+        soup = BeautifulSoup(MARKDOWN.render(raw), 'html.parser')
+        for details in soup.find_all('details'):
+            summaries = details.find_all('summary', recursive=False)
+            if len(summaries) != 1 or not summaries[0].get_text(strip=True):
+                failures.append(f'{name}: expandable answer needs one nonempty summary')
+        for line in without_code.splitlines():
+            if '](' in line and '[' not in line:
+                failures.append(f'{name}: malformed inline link')
         if re.search(r'^#{1,6}\s+(?:README|Jigs|Iam)\s*$', raw, re.M):
             failures.append(f'{name}: untranslated or generic title')
     return failures
@@ -73,6 +99,32 @@ def source_integrity(inventory: dict[str, Any], audit: dict[str, Any]) -> list[s
         index = row['original_question_number'] - 1
         if index >= len(answers) or answers[index] != row['reviewed_answer']:
             failures.append(f'{row["stable_question_id"]}: original correct inline answer changed')
+    return failures + historical_key_failures(inventory, audit)
+
+
+def historical_key_failures(inventory: dict[str, Any], audit: dict[str, Any]) -> list[str]:
+    originals = {row['target_path']: row['original_path'] for row in inventory['files']}
+    failures: list[str] = []
+    discrepancies = 0
+    for row in audit['questions']:
+        original_answer = row.get('original_answer')
+        external = original_answer.get('external') if isinstance(original_answer, dict) else None
+        if not external:
+            continue
+        path = Path(row['translated_target_path'])
+        filename = 'practice-exam-answer-key.md' if path.name == '10-question-practice-exam.md' else re.sub(
+            r'^\d\d-domain-(\d)-questions.md', r'domain-\1-answer-key.md', path.name)
+        key_path = (path.parent / 'answer-keys' / filename).as_posix()
+        original = source_text(originals[key_path], inventory['source_commit'])
+        keys = dict(re.findall(r'^(\d+)-([A-D])\s*$', original, re.M))
+        if keys.get(str(row['original_question_number'])) != external:
+            failures.append(f'{row["stable_question_id"]}: historical external key differs from source')
+        if external != row['reviewed_answer']:
+            discrepancies += 1
+            if not row.get('final_review_justification'):
+                failures.append(f'{row["stable_question_id"]}: missing technical justification')
+    if discrepancies != audit['corrected_external_answers']:
+        failures.append('historical external-key discrepancy count differs from audit')
     return failures
 
 
@@ -99,8 +151,11 @@ def anchors(path: Path) -> set[str]:
     text = path.read_text(encoding='utf-8-sig')
     found = set(re.findall(r'\bid=["\']([^"\']+)', text))
     duplicates: Counter[str] = Counter()
-    for match in re.finditer(r'^#{1,6}\s+(.+?)\s*#*$', text, re.M):
-        base = slug(match[1])
+    tokens = MARKDOWN.parse(text)
+    for i, token in enumerate(tokens):
+        if token.type != 'heading_open' or i + 1 >= len(tokens):
+            continue
+        base = slug(tokens[i + 1].content)
         suffix = f'-{duplicates[base]}' if duplicates[base] else ''
         found.add(base + suffix)
         duplicates[base] += 1

@@ -7,7 +7,7 @@ Module to review observability, auditing and organizational control at an entry 
 - CloudTrail for API auditing.
 - AWS Organizations and Tags for basic governance.
 
-## Quick Review
+## Quick review
 - CloudWatch observes performance and operational behavior.
 - CloudTrail records actions on the account for auditing.
 - Tags help organize cost, owner and environment.
@@ -27,7 +27,7 @@ Confusing CloudWatch with CloudTrail. CloudWatch monitors operation; CloudTrail 
 | Tags vs Organizations | Tags organize resources; Organizations organizes accounts |
 
 ## Bridge to next module
-After governance, review costs: monitoring only becomes control when spent and alerts enter the cycle.
+After governance, review costs: cost visibility and budget alerts help turn monitoring into financial control.
 
 ## Continuity
 Architecture Track: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english

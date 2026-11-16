@@ -7,7 +7,7 @@ Module for comparing storage types without delving beyond the CLF-C02 level.
 - EBS for block.
 - EFS for shared file.
 
-## Quick Review
+## Quick review
 - Object is accessed via API and combines data + metadata.
 - Block is used as volume by instances.
 - Shared file serves multiple clients with file system.

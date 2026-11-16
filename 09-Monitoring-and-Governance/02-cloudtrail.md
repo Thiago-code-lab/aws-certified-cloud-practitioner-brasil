@@ -2,10 +2,10 @@
 
 AWS CloudTrail records actions performed by identities and services in the AWS account.
 
-- Shows information such as author, action, time, origin and resource.
+- Shows information such as identity, action, time, source and resource.
 - Supports auditing, compliance, and incident investigation.
 - Trails can continuously send events for analysis and retention.
-- **Exam tip:** "who made this change?" points to CloudTrail; Resource performance points to CloudWatch.
+- **Exam tip:** "who made this change?" points to CloudTrail; resource performance points to CloudWatch.
 
 Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 

@@ -1,9 +1,9 @@
 # AWS Fundamentals - Exam Review
 
-## Quick Review
+## Quick review
 - Cloud benefits: elasticity, agility, pay-as-you-go and scale.
 - Global infra: Region defines geography; AZ defines isolation within the Region.
-- Shared responsibility: AWS protects infrastructure; client protects data, access and configurations.
+- Shared responsibility: AWS protects infrastructure; customer protects data, access and configurations.
 
 ## Common exam clue
 If the statement highlights continuity even with local failure, the most common clue is architecture in multiple AZs.

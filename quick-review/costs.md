@@ -2,7 +2,7 @@
 
 Use this block when errors involve billing, alerts, pricing models, or support.
 
-## Quick Review
+## Quick review
 - On-Demand prioritizes flexibility without a long-term commitment.
 - Spot reduces cost in interruption-tolerant workloads.
 - Reserved Instances and Savings Plans favor predictable usage.

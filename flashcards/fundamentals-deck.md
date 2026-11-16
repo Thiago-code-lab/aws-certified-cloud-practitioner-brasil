@@ -8,7 +8,7 @@
 <summary><strong>View answer</strong></summary>
 
 **Answer:**
-Elasticity. The memorization signal is dynamic adjustment: resources rise at a peak and fall when demand falls.
+Elasticity. The exam clue is dynamic adjustment: resources rise at a peak and fall when demand falls.
 
 
 [AWS reference](https://aws.amazon.com/what-is-cloud-computing/)
@@ -113,7 +113,7 @@ Agility. The cloud reduces infrastructure wait times and speeds up experiments, 
 <summary><strong>View answer</strong></summary>
 
 **Answer:**
-AWS secures your cloud infrastructure. The customer protects what they put in the cloud: data, identities, permissions and configurations.
+AWS secures the underlying cloud infrastructure. The customer protects what they put in the cloud: data, identities, permissions and configurations.
 
 
 [AWS reference](https://aws.amazon.com/compliance/shared-responsibility-model/)
@@ -128,7 +128,7 @@ AWS secures your cloud infrastructure. The customer protects what they put in th
 <summary><strong>View answer</strong></summary>
 
 **Answer:**
-No. High availability seeks to keep the service accessible; Fault tolerance emphasizes continuing to operate even when components fail.
+No. High availability seeks to keep the service accessible; fault tolerance emphasizes continuing to operate even when components fail.
 
 
 [AWS reference](https://docs.aws.amazon.com/wellarchitected/latest/framework/rel_fault_isolation_multiaz_region_system.html)
@@ -167,7 +167,7 @@ Capacity on demand. The focus is to reduce over-provisioning and under-provision
 
 <!-- question-id: CLF-FLASH-CLOUD-012; domain: 1; type: open-response -->
 ## Card 12
-**Question:** Test error: choosing Multi-Region whenever "high availability" appears. What is the correct setting?
+**Question:** Test error: choosing Multi-Region whenever "high availability" appears. How should you choose the deployment scope?
 
 <details>
 <summary><strong>View answer</strong></summary>

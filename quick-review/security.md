@@ -2,7 +2,7 @@
 
 Use this block when errors involve access, auditing, encryption, or customer responsibility.
 
-## Quick Review
+## Quick review
 - Root should be protected with MFA and avoided in daily use.
 - IAM User is persistent identity; IAM roles are persistent identities assumed for temporary sessions.
 - CloudTrail logs API calls for auditing.

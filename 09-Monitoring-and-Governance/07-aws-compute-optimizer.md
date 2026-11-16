@@ -5,7 +5,7 @@ AWS Compute Optimizer analyzes usage and recommends resource configurations to b
 - Identifies oversized or undersized resources.
 - Uses historical metrics to suggest suitable options.
 - The recommendation must be validated before changing it in production.
-- **Exam tip:** usage-based rightsizing points to Compute Optimizer; Broad spending analysis points to Cost Explorer.
+- **Exam tip:** usage-based rightsizing points to Compute Optimizer; broad spending analysis points to Cost Explorer.
 
 Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 

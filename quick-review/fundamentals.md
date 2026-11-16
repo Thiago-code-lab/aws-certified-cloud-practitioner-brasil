@@ -2,7 +2,7 @@
 
 Use this block when errors involve core concepts, global infrastructure, or cloud benefits.
 
-## Quick Review
+## Quick review
 - Region defines geographic location and impact on latency/compliance.
 - AZ provides isolation within a Region for high availability.
 - Elasticity adjusts resources according to demand; Scalability sustains growth.

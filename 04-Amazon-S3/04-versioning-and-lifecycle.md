@@ -2,10 +2,10 @@
 
 Versioning preserves versions of an object; lifecycle automates transitions and deletions over time.
 
-- Versioning helps recover accidental changes and deletions.
+- Versioning helps recover from accidental changes and deletions.
 - Lifecycle moves old objects to cheaper classes.
-- May also expire old versions and incomplete uploads.
-- **Exam tip:** recover overwrite points to versioning; reducing cost by age points to lifecycle.
+- Lifecycle can expire noncurrent versions and abort incomplete multipart uploads.
+- **Exam tip:** recovering from an overwrite points to versioning; reducing cost by age points to lifecycle.
 
 Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 

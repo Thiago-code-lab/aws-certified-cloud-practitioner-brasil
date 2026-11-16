@@ -3,9 +3,9 @@
 Amazon Kendra is an intelligent search service for enterprise content.
 
 - Indexes documents from different sources and uses natural language in queries.
-- Helps users find answers on an internal basis.
+- Helps users find answers in internal knowledge sources.
 - Connectors simplify integration with supported repositories.
-- **Exam tip:** business research on documents points to Kendra; conversational chatbot points to Lex.
+- **Exam tip:** enterprise document search points to Kendra; conversational chatbot points to Lex.
 
 Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 

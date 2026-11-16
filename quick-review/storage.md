@@ -2,7 +2,7 @@
 
 Use this block when errors involve S3, storage classes, backup, or volume type.
 
-## Quick Review
+## Quick review
 - S3 stores objects in buckets.
 - EBS is persistent block for EC2.
 - EFS is shared file system.

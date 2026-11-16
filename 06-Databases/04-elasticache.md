@@ -2,10 +2,10 @@
 
 Amazon ElastiCache offers managed in-memory caching to reduce latency and load on databases and applications.
 
-- It is used in sessions, rankings and results consulted repeatedly.
+- Common uses include session data, leaderboards, and frequently queried results.
 - Responses are faster because the most used data remains in memory.
 - Cache requires expiration strategy and tolerance for temporarily out-of-date data.
-- **Exam tip:** speeding up readings without changing the primary database points to ElastiCache.
+- **Exam tip:** speeding up reads without changing the primary database points to ElastiCache.
 
 Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 

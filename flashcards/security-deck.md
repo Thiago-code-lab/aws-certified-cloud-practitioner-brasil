@@ -1,14 +1,14 @@
-# Deck Security and IAM
+# Security and IAM Deck
 
 <!-- question-id: CLF-FLASH-IAM-001; domain: 2; type: open-response -->
 ## Card 01
-**Question:** Which account should be protected with MFA and avoided in daily use?
+**Question:** Which identity should be protected with MFA and avoided in daily use?
 
 <details>
 <summary><strong>View answer</strong></summary>
 
 **Answer:**
-The root account. It has broad privileges and should be reserved for exceptional tasks that require root.
+The AWS account root user. It has broad privileges and should be reserved for exceptional tasks that require root.
 
 
 [AWS reference](https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html)
@@ -77,7 +77,7 @@ AWS CloudTrail. It is the classic association for auditing actions in the AWS ac
 
 <!-- question-id: CLF-FLASH-IAM-006; domain: 2; type: open-response -->
 ## Card 06
-**Question:** AWS Shield, WAF and Security Groups protect exactly the same thing?
+**Question:** Do AWS Shield, AWS WAF, and security groups protect against the same threats?
 
 <details>
 <summary><strong>View answer</strong></summary>
@@ -128,7 +128,7 @@ AWS Artifact. It provides access to AWS compliance-related reports and agreement
 <summary><strong>View answer</strong></summary>
 
 **Answer:**
-No. Classification, governance, retention and protection of customer data remains the responsibility of the customer.
+No. Classification, governance, retention and protection of customer data remain the responsibility of the customer.
 
 
 [AWS reference](https://aws.amazon.com/compliance/shared-responsibility-model/)

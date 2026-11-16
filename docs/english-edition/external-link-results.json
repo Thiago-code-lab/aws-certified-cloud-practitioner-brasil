@@ -1,0 +1,2010 @@
+{
+  "checked_at_utc": "2026-11-16T05:12:12.542313+00:00",
+  "scope": "HTTP reachability of unique external URLs in learning Markdown, including image URLs and bare links; no remote-fragment verification or authentication.",
+  "url_count": 141,
+  "results": [
+    {
+      "url": "https://app.cloudstudy.com.br/",
+      "http_status": 200,
+      "final_url": "https://app.cloudstudy.com.br/",
+      "referenced_by": [
+        "01-Introduction-to-Cloud-Computing/01-what-is-cloud-computing.md",
+        "01-Introduction-to-Cloud-Computing/02-service-models.md",
+        "01-Introduction-to-Cloud-Computing/03-deployment-models.md",
+        "01-Introduction-to-Cloud-Computing/04-regions-and-availability-zones.md",
+        "01-Introduction-to-Cloud-Computing/05-benefits-of-cloud-computing.md",
+        "01-Introduction-to-Cloud-Computing/README.md",
+        "02-Amazon-EC2/01-instance-types.md",
+        "02-Amazon-EC2/02-pricing-models.md",
+        "02-Amazon-EC2/03-auto-scaling.md",
+        "02-Amazon-EC2/04-elastic-load-balancing.md",
+        "02-Amazon-EC2/05-user-data-and-metadata.md",
+        "02-Amazon-EC2/README.md",
+        "03-Security-and-Compliance/01-shared-responsibility-model.md",
+        "03-Security-and-Compliance/02-iam.md",
+        "03-Security-and-Compliance/03-aws-organizations.md",
+        "03-Security-and-Compliance/04-aws-shield-and-waf.md",
+        "03-Security-and-Compliance/05-amazon-inspector-and-guardduty.md",
+        "03-Security-and-Compliance/06-aws-kms-and-secrets-manager.md",
+        "03-Security-and-Compliance/07-aws-config.md",
+        "03-Security-and-Compliance/08-aws-cloudtrail.md",
+        "03-Security-and-Compliance/09-aws-artifact.md",
+        "03-Security-and-Compliance/10-compliance-programs.md",
+        "03-Security-and-Compliance/README.md",
+        "04-Amazon-S3/01-basic-concepts.md",
+        "04-Amazon-S3/02-storage-classes.md",
+        "04-Amazon-S3/03-policies-and-acls.md",
+        "04-Amazon-S3/04-versioning-and-lifecycle.md",
+        "04-Amazon-S3/05-s3-transfer-acceleration.md",
+        "04-Amazon-S3/06-static-website.md",
+        "04-Amazon-S3/README.md",
+        "05-Networking-and-Connectivity/01-vpc-fundamentals.md",
+        "05-Networking-and-Connectivity/02-public-and-private-subnets.md",
+        "05-Networking-and-Connectivity/03-internet-gateway-and-nat.md",
+        "05-Networking-and-Connectivity/04-security-groups-and-network-acls.md",
+        "05-Networking-and-Connectivity/05-vpc-peering-and-transit-gateway.md",
+        "05-Networking-and-Connectivity/06-direct-connect-and-vpn.md",
+        "05-Networking-and-Connectivity/07-route-53.md",
+        "05-Networking-and-Connectivity/README.md",
+        "06-Databases/01-rds.md",
+        "06-Databases/02-aurora.md",
+        "06-Databases/03-dynamodb.md",
+        "06-Databases/04-elasticache.md",
+        "06-Databases/05-redshift.md",
+        "06-Databases/06-documentdb-and-neptune.md",
+        "06-Databases/07-database-migration-service.md",
+        "06-Databases/README.md",
+        "07-Serverless-Computing/01-aws-lambda.md",
+        "07-Serverless-Computing/02-api-gateway.md",
+        "07-Serverless-Computing/03-aws-fargate.md",
+        "07-Serverless-Computing/04-amazon-ecs-and-eks.md",
+        "07-Serverless-Computing/05-aws-step-functions.md",
+        "07-Serverless-Computing/06-amazon-eventbridge.md",
+        "07-Serverless-Computing/README.md",
+        "08-Storage/01-ebs.md",
+        "08-Storage/02-efs.md",
+        "08-Storage/03-fsx.md",
+        "08-Storage/04-aws-storage-gateway.md",
+        "08-Storage/05-aws-snow-family.md",
+        "08-Storage/06-aws-backup.md",
+        "08-Storage/README.md",
+        "09-Monitoring-and-Governance/01-cloudwatch.md",
+        "09-Monitoring-and-Governance/02-cloudtrail.md",
+        "09-Monitoring-and-Governance/03-aws-config.md",
+        "09-Monitoring-and-Governance/04-aws-trusted-advisor.md",
+        "09-Monitoring-and-Governance/05-aws-health-dashboard.md",
+        "09-Monitoring-and-Governance/06-aws-systems-manager.md",
+        "09-Monitoring-and-Governance/07-aws-compute-optimizer.md",
+        "09-Monitoring-and-Governance/README.md",
+        "10-Pricing-and-Support/01-aws-pricing-model.md",
+        "10-Pricing-and-Support/02-aws-free-tier.md",
+        "10-Pricing-and-Support/03-aws-pricing-calculator.md",
+        "10-Pricing-and-Support/04-aws-cost-explorer.md",
+        "10-Pricing-and-Support/05-aws-budgets.md",
+        "10-Pricing-and-Support/06-support-plans.md",
+        "10-Pricing-and-Support/07-aws-marketplace.md",
+        "10-Pricing-and-Support/08-aws-billing-dashboard.md",
+        "10-Pricing-and-Support/README.md",
+        "11-Migration-and-Innovation/01-migration-strategies.md",
+        "11-Migration-and-Innovation/02-aws-migration-hub.md",
+        "11-Migration-and-Innovation/03-aws-dms.md",
+        "11-Migration-and-Innovation/04-aws-application-discovery.md",
+        "11-Migration-and-Innovation/05-aws-mainframe-modernization.md",
+        "11-Migration-and-Innovation/06-aws-datasync.md",
+        "11-Migration-and-Innovation/README.md",
+        "12-CAF-Cloud-Adoption-Framework/01-caf-overview.md",
+        "12-CAF-Cloud-Adoption-Framework/02-business-perspective.md",
+        "12-CAF-Cloud-Adoption-Framework/03-people-perspective.md",
+        "12-CAF-Cloud-Adoption-Framework/04-governance-perspective.md",
+        "12-CAF-Cloud-Adoption-Framework/05-platform-perspective.md",
+        "12-CAF-Cloud-Adoption-Framework/06-security-perspective.md",
+        "12-CAF-Cloud-Adoption-Framework/07-operations-perspective.md",
+        "12-CAF-Cloud-Adoption-Framework/08-transformation-outcomes.md",
+        "12-CAF-Cloud-Adoption-Framework/README.md",
+        "13-Well-Architected-Framework/01-operational-excellence-pillar.md",
+        "13-Well-Architected-Framework/02-security-pillar.md",
+        "13-Well-Architected-Framework/03-reliability-pillar.md",
+        "13-Well-Architected-Framework/04-performance-efficiency-pillar.md",
+        "13-Well-Architected-Framework/05-cost-optimization-pillar.md",
+        "13-Well-Architected-Framework/06-sustainability-pillar.md",
+        "13-Well-Architected-Framework/07-specialized-lenses.md",
+        "13-Well-Architected-Framework/README.md",
+        "14-Artificial-Intelligence-and-ML/01-amazon-sagemaker.md",
+        "14-Artificial-Intelligence-and-ML/02-amazon-rekognition.md",
+        "14-Artificial-Intelligence-and-ML/03-amazon-comprehend.md",
+        "14-Artificial-Intelligence-and-ML/04-amazon-polly-and-transcribe.md",
+        "14-Artificial-Intelligence-and-ML/05-amazon-lex.md",
+        "14-Artificial-Intelligence-and-ML/06-amazon-kendra.md",
+        "14-Artificial-Intelligence-and-ML/07-amazon-bedrock.md",
+        "14-Artificial-Intelligence-and-ML/08-amazon-q.md",
+        "14-Artificial-Intelligence-and-ML/README.md",
+        "15-Developer-Services/01-aws-codecommit.md",
+        "15-Developer-Services/02-aws-codebuild.md",
+        "15-Developer-Services/03-aws-codedeploy.md",
+        "15-Developer-Services/04-aws-codepipeline.md",
+        "15-Developer-Services/05-aws-cdk-and-cloudformation.md",
+        "15-Developer-Services/06-aws-sam.md",
+        "15-Developer-Services/07-aws-amplify.md",
+        "15-Developer-Services/08-aws-x-ray.md",
+        "15-Developer-Services/README.md",
+        "16-Practice-Exams-and-Questions/01-domain-1-questions.md",
+        "16-Practice-Exams-and-Questions/02-domain-2-questions.md",
+        "16-Practice-Exams-and-Questions/03-domain-3-questions.md",
+        "16-Practice-Exams-and-Questions/04-domain-4-questions.md",
+        "16-Practice-Exams-and-Questions/10-question-practice-exam.md",
+        "16-Practice-Exams-and-Questions/README.md",
+        "16-Practice-Exams-and-Questions/answer-keys/domain-1-answer-key.md",
+        "16-Practice-Exams-and-Questions/answer-keys/domain-2-answer-key.md",
+        "16-Practice-Exams-and-Questions/answer-keys/domain-3-answer-key.md",
+        "16-Practice-Exams-and-Questions/answer-keys/domain-4-answer-key.md",
+        "16-Practice-Exams-and-Questions/answer-keys/practice-exam-answer-key.md",
+        "16-Practice-Exams-and-Questions/cross-domain-review-questions.md",
+        "17-Glossary/README.md",
+        "18-Resources-and-Links/README.md",
+        "README.md",
+        "cheatsheets/README.md",
+        "cheatsheets/core-concepts.md",
+        "cheatsheets/iam.md",
+        "cheatsheets/pricing.md",
+        "cheatsheets/s3.md",
+        "diagrams/README.md",
+        "docs/exam-guide.md",
+        "docs/next-steps.md",
+        "docs/study-flow.md",
+        "flashcards/README.md",
+        "flashcards/costs-deck.md",
+        "flashcards/fundamentals-deck.md",
+        "flashcards/s3-deck.md",
+        "flashcards/security-deck.md",
+        "labs/README.md",
+        "notes/README.md",
+        "notes/aws-fundamentals.md",
+        "notes/costs-and-support.md",
+        "notes/s3-essentials.md",
+        "notes/security-essentials.md",
+        "quick-review/README.md",
+        "quick-review/common-mistakes.md",
+        "quick-review/costs.md",
+        "quick-review/exam-eve-checklist.md",
+        "quick-review/fundamentals.md",
+        "quick-review/key-services.md",
+        "quick-review/security.md",
+        "quick-review/storage.md"
+      ]
+    },
+    {
+      "url": "https://aws.amazon.com/amplify/",
+      "http_status": 200,
+      "final_url": "https://aws.amazon.com/amplify/",
+      "referenced_by": [
+        "15-Developer-Services/07-aws-amplify.md"
+      ]
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/aws/aws-free-tier-update-new-customers-can-get-started-and-explore-aws-with-up-to-200-in-credits/",
+      "http_status": 200,
+      "final_url": "https://aws.amazon.com/blogs/aws/aws-free-tier-update-new-customers-can-get-started-and-explore-aws-with-up-to-200-in-credits/",
+      "referenced_by": [
+        "10-Pricing-and-Support/02-aws-free-tier.md"
+      ]
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/devops/aws-codecommit-returns-to-general-availability/",
+      "http_status": 200,
+      "final_url": "https://aws.amazon.com/blogs/devops/aws-codecommit-returns-to-general-availability/",
+      "referenced_by": [
+        "15-Developer-Services/01-aws-codecommit.md"
+      ]
+    },
+    {
+      "url": "https://aws.amazon.com/cloudfront/pricing/",
+      "http_status": 200,
+      "final_url": "https://aws.amazon.com/cloudfront/pricing/",
+      "referenced_by": [
+        "labs/lab-02-s3-static-website.md"
+      ]
+    },
+    {
+      "url": "https://aws.amazon.com/cloudwatch/pricing/",
+      "http_status": 200,
+      "final_url": "https://aws.amazon.com/cloudwatch/pricing/",
+      "referenced_by": [
+        "labs/lab-03-basic-cloudwatch.md"
+      ]
+    },
+    {
+      "url": "https://aws.amazon.com/compliance/programs/",
+      "http_status": 200,
+      "final_url": "https://aws.amazon.com/compliance/programs/",
+      "referenced_by": [
+        "03-Security-and-Compliance/10-compliance-programs.md"
+      ]
+    },
+    {
+      "url": "https://aws.amazon.com/compliance/shared-responsibility-model/",
+      "http_status": 200,
+      "final_url": "https://aws.amazon.com/compliance/shared-responsibility-model/",
+      "referenced_by": [
+        "03-Security-and-Compliance/01-shared-responsibility-model.md",
+        "03-Security-and-Compliance/02-iam.md",
+        "03-Security-and-Compliance/README.md",
+        "16-Practice-Exams-and-Questions/02-domain-2-questions.md",
+        "16-Practice-Exams-and-Questions/10-question-practice-exam.md",
+        "18-Resources-and-Links/README.md",
+        "flashcards/fundamentals-deck.md",
+        "flashcards/security-deck.md"
+      ]
+    },
+    {
+      "url": "https://aws.amazon.com/documentdb/",
+      "http_status": 200,
+      "final_url": "https://aws.amazon.com/documentdb/",
+      "referenced_by": [
+        "06-Databases/06-documentdb-and-neptune.md"
+      ]
+    },
+    {
+      "url": "https://aws.amazon.com/ec2/pricing/",
+      "http_status": 200,
+      "final_url": "https://aws.amazon.com/ec2/pricing/",
+      "referenced_by": [
+        "02-Amazon-EC2/01-instance-types.md",
+        "02-Amazon-EC2/02-pricing-models.md",
+        "02-Amazon-EC2/README.md",
+        "16-Practice-Exams-and-Questions/04-domain-4-questions.md",
+        "flashcards/costs-deck.md"
+      ]
+    },
+    {
+      "url": "https://aws.amazon.com/free/",
+      "http_status": 200,
+      "final_url": "https://aws.amazon.com/free/",
+      "referenced_by": [
+        "10-Pricing-and-Support/02-aws-free-tier.md",
+        "18-Resources-and-Links/README.md",
+        "flashcards/costs-deck.md",
+        "labs/lab-02-s3-static-website.md"
+      ]
+    },
+    {
+      "url": "https://aws.amazon.com/fsx/",
+      "http_status": 200,
+      "final_url": "https://aws.amazon.com/fsx/",
+      "referenced_by": [
+        "08-Storage/03-fsx.md"
+      ]
+    },
+    {
+      "url": "https://aws.amazon.com/machine-learning/",
+      "http_status": 200,
+      "final_url": "https://aws.amazon.com/ai/machine-learning/",
+      "referenced_by": [
+        "14-Artificial-Intelligence-and-ML/README.md"
+      ]
+    },
+    {
+      "url": "https://aws.amazon.com/premiumsupport/faqs/",
+      "http_status": 200,
+      "final_url": "https://aws.amazon.com/premiumsupport/faqs/",
+      "referenced_by": [
+        "10-Pricing-and-Support/06-support-plans.md",
+        "flashcards/costs-deck.md"
+      ]
+    },
+    {
+      "url": "https://aws.amazon.com/premiumsupport/plans/",
+      "http_status": 200,
+      "final_url": "https://aws.amazon.com/premiumsupport/plans/",
+      "referenced_by": [
+        "10-Pricing-and-Support/06-support-plans.md",
+        "16-Practice-Exams-and-Questions/04-domain-4-questions.md",
+        "18-Resources-and-Links/README.md"
+      ]
+    },
+    {
+      "url": "https://aws.amazon.com/products/developer-tools/",
+      "http_status": 200,
+      "final_url": "https://aws.amazon.com/products/developer-tools/",
+      "referenced_by": [
+        "15-Developer-Services/README.md"
+      ]
+    },
+    {
+      "url": "https://aws.amazon.com/q/",
+      "http_status": 200,
+      "final_url": "https://aws.amazon.com/q/",
+      "referenced_by": [
+        "14-Artificial-Intelligence-and-ML/08-amazon-q.md"
+      ]
+    },
+    {
+      "url": "https://aws.amazon.com/s3/pricing/",
+      "http_status": 200,
+      "final_url": "https://aws.amazon.com/s3/pricing/",
+      "referenced_by": [
+        "labs/lab-02-s3-static-website.md"
+      ]
+    },
+    {
+      "url": "https://aws.amazon.com/what-is-cloud-computing/",
+      "http_status": 200,
+      "final_url": "https://aws.amazon.com/what-is-cloud-computing/",
+      "referenced_by": [
+        "01-Introduction-to-Cloud-Computing/01-what-is-cloud-computing.md",
+        "01-Introduction-to-Cloud-Computing/02-service-models.md",
+        "01-Introduction-to-Cloud-Computing/03-deployment-models.md",
+        "01-Introduction-to-Cloud-Computing/04-regions-and-availability-zones.md",
+        "01-Introduction-to-Cloud-Computing/05-benefits-of-cloud-computing.md",
+        "01-Introduction-to-Cloud-Computing/README.md",
+        "16-Practice-Exams-and-Questions/01-domain-1-questions.md",
+        "16-Practice-Exams-and-Questions/10-question-practice-exam.md",
+        "17-Glossary/README.md",
+        "flashcards/costs-deck.md",
+        "flashcards/fundamentals-deck.md",
+        "notes/aws-fundamentals.md"
+      ]
+    },
+    {
+      "url": "https://calculator.aws/",
+      "http_status": 200,
+      "final_url": "https://calculator.aws/",
+      "referenced_by": [
+        "18-Resources-and-Links/README.md"
+      ]
+    },
+    {
+      "url": "https://chat.whatsapp.com/Lsuexbkt1oELAGX8nCH2La?mode=gi_t",
+      "http_status": 200,
+      "final_url": "https://chat.whatsapp.com/Lsuexbkt1oELAGX8nCH2La?mode=gi_t",
+      "referenced_by": [
+        "README.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/",
+      "referenced_by": [
+        "18-Resources-and-Links/README.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts.html",
+      "referenced_by": [
+        "02-Amazon-EC2/01-instance-types.md",
+        "02-Amazon-EC2/02-pricing-models.md",
+        "02-Amazon-EC2/README.md",
+        "16-Practice-Exams-and-Questions/03-domain-3-questions.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/configuring-instance-metadata-service.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/configuring-instance-metadata-service.html",
+      "referenced_by": [
+        "02-Amazon-EC2/05-user-data-and-metadata.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-capacity-reservations.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-capacity-reservations.html",
+      "referenced_by": [
+        "02-Amazon-EC2/02-pricing-models.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/instance-purchasing-options.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/instance-purchasing-options.html",
+      "referenced_by": [
+        "02-Amazon-EC2/02-pricing-models.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/preserving-volumes-on-termination.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/preserving-volumes-on-termination.html",
+      "referenced_by": [
+        "08-Storage/01-ebs.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/reserved-instances-scope.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/reserved-instances-scope.html",
+      "referenced_by": [
+        "02-Amazon-EC2/02-pricing-models.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/private-content-restricting-access-to-s3.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/private-content-restricting-access-to-s3.html",
+      "referenced_by": [
+        "04-Amazon-S3/06-static-website.md",
+        "flashcards/s3-deck.md",
+        "labs/lab-02-s3-static-website.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/AlarmThatSendsEmail.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/CloudWatch_Alarms.html",
+      "referenced_by": [
+        "labs/lab-03-basic-cloudwatch.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/WhatIsCloudWatch.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/WhatIsCloudWatch.html",
+      "referenced_by": [
+        "09-Monitoring-and-Governance/01-cloudwatch.md",
+        "09-Monitoring-and-Governance/README.md",
+        "16-Practice-Exams-and-Questions/03-domain-3-questions.md",
+        "labs/lab-03-basic-cloudwatch.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/AmazonECS/latest/developerguide/AWS_Fargate.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/AmazonECS/latest/developerguide/AWS_Fargate.html",
+      "referenced_by": [
+        "07-Serverless-Computing/03-aws-fargate.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/AmazonECS/latest/developerguide/Welcome.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/AmazonECS/latest/developerguide/Welcome.html",
+      "referenced_by": [
+        "07-Serverless-Computing/04-amazon-ecs-and-eks.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/AmazonElastiCache/latest/dg/WhatIs.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/AmazonElastiCache/latest/dg/WhatIs.html",
+      "referenced_by": [
+        "06-Databases/04-elasticache.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/CHAP_AuroraOverview.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/CHAP_AuroraOverview.html",
+      "referenced_by": [
+        "06-Databases/02-aurora.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Concepts.MultiAZ.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Concepts.MultiAZ.html",
+      "referenced_by": [
+        "06-Databases/01-rds.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Welcome.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Welcome.html",
+      "referenced_by": [
+        "06-Databases/01-rds.md",
+        "06-Databases/README.md",
+        "16-Practice-Exams-and-Questions/03-domain-3-questions.md",
+        "16-Practice-Exams-and-Questions/10-question-practice-exam.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/WebsiteHosting.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/WebsiteHosting.html",
+      "referenced_by": [
+        "04-Amazon-S3/06-static-website.md",
+        "labs/lab-02-s3-static-website.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html",
+      "referenced_by": [
+        "04-Amazon-S3/01-basic-concepts.md",
+        "04-Amazon-S3/02-storage-classes.md",
+        "04-Amazon-S3/03-policies-and-acls.md",
+        "04-Amazon-S3/04-versioning-and-lifecycle.md",
+        "04-Amazon-S3/05-s3-transfer-acceleration.md",
+        "04-Amazon-S3/06-static-website.md",
+        "04-Amazon-S3/README.md",
+        "16-Practice-Exams-and-Questions/03-domain-3-questions.md",
+        "16-Practice-Exams-and-Questions/10-question-practice-exam.md",
+        "16-Practice-Exams-and-Questions/cross-domain-review-questions.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/about-object-ownership.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/about-object-ownership.html",
+      "referenced_by": [
+        "04-Amazon-S3/03-policies-and-acls.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/bucketnamingrules.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/bucketnamingrules.html",
+      "referenced_by": [
+        "04-Amazon-S3/01-basic-concepts.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/glacier-storage-classes.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/glacier-storage-classes.html",
+      "referenced_by": [
+        "04-Amazon-S3/02-storage-classes.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage-class-intro.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage-class-intro.html",
+      "referenced_by": [
+        "04-Amazon-S3/01-basic-concepts.md",
+        "04-Amazon-S3/02-storage-classes.md",
+        "04-Amazon-S3/03-policies-and-acls.md",
+        "04-Amazon-S3/04-versioning-and-lifecycle.md",
+        "04-Amazon-S3/05-s3-transfer-acceleration.md",
+        "04-Amazon-S3/06-static-website.md",
+        "04-Amazon-S3/README.md",
+        "flashcards/s3-deck.md",
+        "notes/s3-essentials.md",
+        "quick-review/README.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html",
+      "referenced_by": [
+        "03-Security-and-Compliance/01-shared-responsibility-model.md",
+        "03-Security-and-Compliance/02-iam.md",
+        "03-Security-and-Compliance/README.md",
+        "16-Practice-Exams-and-Questions/02-domain-2-questions.md",
+        "16-Practice-Exams-and-Questions/10-question-practice-exam.md",
+        "16-Practice-Exams-and-Questions/cross-domain-review-questions.md",
+        "flashcards/security-deck.md",
+        "labs/lab-01-iam-setup.md",
+        "notes/security-essentials.md",
+        "quick-review/README.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_getting-report.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_getting-report.html",
+      "referenced_by": [
+        "labs/lab-01-iam-setup.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html",
+      "referenced_by": [
+        "17-Glossary/README.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/Welcome.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/Welcome.html",
+      "referenced_by": [
+        "05-Networking-and-Connectivity/07-route-53.md",
+        "16-Practice-Exams-and-Questions/03-domain-3-questions.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Introduction.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Introduction.html",
+      "referenced_by": [
+        "06-Databases/03-dynamodb.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/apigateway/latest/developerguide/welcome.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/apigateway/latest/developerguide/welcome.html",
+      "referenced_by": [
+        "07-Serverless-Computing/02-api-gateway.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/application-discovery/latest/userguide/doc-history.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/application-discovery/latest/userguide/doc-history.html",
+      "referenced_by": [
+        "11-Migration-and-Innovation/04-aws-application-discovery.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/artifact/latest/ug/what-is-aws-artifact.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/artifact/latest/ug/what-is-aws-artifact.html",
+      "referenced_by": [
+        "03-Security-and-Compliance/09-aws-artifact.md",
+        "flashcards/security-deck.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/autoscaling/ec2/userguide/what-is-amazon-ec2-auto-scaling.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/autoscaling/ec2/userguide/what-is-amazon-ec2-auto-scaling.html",
+      "referenced_by": [
+        "02-Amazon-EC2/03-auto-scaling.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/aws-backup/latest/devguide/whatisbackup.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/aws-backup/latest/devguide/whatisbackup.html",
+      "referenced_by": [
+        "08-Storage/06-aws-backup.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/aws-certification/latest/cloud-practitioner-02/clf-02-in-scope-services.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/aws-certification/latest/cloud-practitioner-02/clf-02-in-scope-services.html",
+      "referenced_by": [
+        "14-Artificial-Intelligence-and-ML/06-amazon-kendra.md",
+        "14-Artificial-Intelligence-and-ML/07-amazon-bedrock.md",
+        "15-Developer-Services/03-aws-codedeploy.md",
+        "15-Developer-Services/06-aws-sam.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/aws-certification/latest/cloud-practitioner-02/clf-02-out-of-scope-services.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/aws-certification/latest/cloud-practitioner-02/clf-02-out-of-scope-services.html",
+      "referenced_by": [
+        "14-Artificial-Intelligence-and-ML/06-amazon-kendra.md",
+        "14-Artificial-Intelligence-and-ML/07-amazon-bedrock.md",
+        "15-Developer-Services/03-aws-codedeploy.md",
+        "15-Developer-Services/06-aws-sam.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/aws-certification/latest/cloud-practitioner-02/clf-02-revisions.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/aws-certification/latest/cloud-practitioner-02/clf-02-revisions.html",
+      "referenced_by": [
+        "README.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/aws-certification/latest/cloud-practitioner-02/cloud-practitioner-02.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/aws-certification/latest/cloud-practitioner-02/cloud-practitioner-02.html",
+      "referenced_by": [
+        "16-Practice-Exams-and-Questions/01-domain-1-questions.md",
+        "16-Practice-Exams-and-Questions/02-domain-2-questions.md",
+        "16-Practice-Exams-and-Questions/03-domain-3-questions.md",
+        "16-Practice-Exams-and-Questions/04-domain-4-questions.md",
+        "16-Practice-Exams-and-Questions/10-question-practice-exam.md",
+        "16-Practice-Exams-and-Questions/README.md",
+        "16-Practice-Exams-and-Questions/answer-keys/README.md",
+        "16-Practice-Exams-and-Questions/answer-keys/domain-1-answer-key.md",
+        "16-Practice-Exams-and-Questions/answer-keys/domain-2-answer-key.md",
+        "16-Practice-Exams-and-Questions/answer-keys/domain-3-answer-key.md",
+        "16-Practice-Exams-and-Questions/answer-keys/domain-4-answer-key.md",
+        "16-Practice-Exams-and-Questions/answer-keys/practice-exam-answer-key.md",
+        "16-Practice-Exams-and-Questions/cross-domain-review-questions.md",
+        "18-Resources-and-Links/README.md",
+        "README.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/billing-what-is.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/billing-what-is.html",
+      "referenced_by": [
+        "10-Pricing-and-Support/08-aws-billing-dashboard.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-user-guide.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-user-guide.html",
+      "referenced_by": [
+        "03-Security-and-Compliance/08-aws-cloudtrail.md",
+        "09-Monitoring-and-Governance/02-cloudtrail.md",
+        "16-Practice-Exams-and-Questions/02-domain-2-questions.md",
+        "16-Practice-Exams-and-Questions/10-question-practice-exam.md",
+        "flashcards/security-deck.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/monitor-cloudtrail-log-files-with-cloudwatch-logs.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/monitor-cloudtrail-log-files-with-cloudwatch-logs.html",
+      "referenced_by": [
+        "diagrams/README.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/awssupport/latest/user/trusted-advisor.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/awssupport/latest/user/trusted-advisor.html",
+      "referenced_by": [
+        "09-Monitoring-and-Governance/04-aws-trusted-advisor.md",
+        "flashcards/costs-deck.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/bedrock/latest/userguide/what-is-bedrock.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/bedrock/latest/userguide/what-is-bedrock.html",
+      "referenced_by": [
+        "14-Artificial-Intelligence-and-ML/07-amazon-bedrock.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/cdk/v2/guide/home.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/cdk/v2/guide/home.html",
+      "referenced_by": [
+        "15-Developer-Services/05-aws-cdk-and-cloudformation.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/codebuild/latest/userguide/welcome.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/codebuild/latest/userguide/welcome.html",
+      "referenced_by": [
+        "15-Developer-Services/02-aws-codebuild.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/codedeploy/latest/userguide/welcome.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/codedeploy/latest/userguide/welcome.html",
+      "referenced_by": [
+        "15-Developer-Services/03-aws-codedeploy.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/codepipeline/latest/userguide/welcome.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/codepipeline/latest/userguide/welcome.html",
+      "referenced_by": [
+        "15-Developer-Services/04-aws-codepipeline.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/comprehend/latest/dg/what-is.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/comprehend/latest/dg/what-is.html",
+      "referenced_by": [
+        "14-Artificial-Intelligence-and-ML/03-amazon-comprehend.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/compute-optimizer/latest/ug/what-is-compute-optimizer.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/compute-optimizer/latest/ug/what-is-compute-optimizer.html",
+      "referenced_by": [
+        "09-Monitoring-and-Governance/07-aws-compute-optimizer.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/config/latest/developerguide/WhatIsConfig.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/config/latest/developerguide/WhatIsConfig.html",
+      "referenced_by": [
+        "03-Security-and-Compliance/07-aws-config.md",
+        "09-Monitoring-and-Governance/03-aws-config.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/cost-management/latest/userguide/budgets-managing-costs.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/cost-management/latest/userguide/budgets-managing-costs.html",
+      "referenced_by": [
+        "10-Pricing-and-Support/05-aws-budgets.md",
+        "16-Practice-Exams-and-Questions/04-domain-4-questions.md",
+        "16-Practice-Exams-and-Questions/10-question-practice-exam.md",
+        "flashcards/costs-deck.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/cost-management/latest/userguide/ce-what-is.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/cost-management/latest/userguide/ce-what-is.html",
+      "referenced_by": [
+        "10-Pricing-and-Support/04-aws-cost-explorer.md",
+        "16-Practice-Exams-and-Questions/04-domain-4-questions.md",
+        "16-Practice-Exams-and-Questions/10-question-practice-exam.md",
+        "16-Practice-Exams-and-Questions/cross-domain-review-questions.md",
+        "flashcards/costs-deck.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/cost-management/latest/userguide/what-is-costmanagement.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/cost-management/latest/userguide/what-is-costmanagement.html",
+      "referenced_by": [
+        "10-Pricing-and-Support/01-aws-pricing-model.md",
+        "10-Pricing-and-Support/README.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/datasync/latest/userguide/what-is-datasync.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/datasync/latest/userguide/what-is-datasync.html",
+      "referenced_by": [
+        "11-Migration-and-Innovation/06-aws-datasync.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/directconnect/latest/UserGuide/Welcome.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/directconnect/latest/UserGuide/Welcome.html",
+      "referenced_by": [
+        "05-Networking-and-Connectivity/06-direct-connect-and-vpn.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/directconnect/latest/UserGuide/encryption-in-transit.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/directconnect/latest/UserGuide/encryption-in-transit.html",
+      "referenced_by": [
+        "05-Networking-and-Connectivity/06-direct-connect-and-vpn.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/dms/latest/userguide/Welcome.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/dms/latest/userguide/Welcome.html",
+      "referenced_by": [
+        "06-Databases/07-database-migration-service.md",
+        "11-Migration-and-Innovation/03-aws-dms.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/ebs/latest/userguide/what-is-ebs.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/ebs/latest/userguide/what-is-ebs.html",
+      "referenced_by": [
+        "08-Storage/01-ebs.md",
+        "08-Storage/README.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/efs/latest/ug/features.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/efs/latest/ug/features.html",
+      "referenced_by": [
+        "08-Storage/02-efs.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/efs/latest/ug/whatisefs.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/efs/latest/ug/whatisefs.html",
+      "referenced_by": [
+        "08-Storage/02-efs.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/elasticloadbalancing/latest/userguide/what-is-load-balancing.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/elasticloadbalancing/latest/userguide/what-is-load-balancing.html",
+      "referenced_by": [
+        "02-Amazon-EC2/04-elastic-load-balancing.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/eventbridge/latest/userguide/eb-what-is.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/eventbridge/latest/userguide/eb-what-is.html",
+      "referenced_by": [
+        "07-Serverless-Computing/06-amazon-eventbridge.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/global-infrastructure/latest/regions/aws-regions-availability-zones.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/global-infrastructure/latest/regions/aws-regions-availability-zones.html",
+      "referenced_by": [
+        "01-Introduction-to-Cloud-Computing/01-what-is-cloud-computing.md",
+        "01-Introduction-to-Cloud-Computing/02-service-models.md",
+        "01-Introduction-to-Cloud-Computing/03-deployment-models.md",
+        "01-Introduction-to-Cloud-Computing/04-regions-and-availability-zones.md",
+        "01-Introduction-to-Cloud-Computing/05-benefits-of-cloud-computing.md",
+        "01-Introduction-to-Cloud-Computing/README.md",
+        "16-Practice-Exams-and-Questions/01-domain-1-questions.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/guardduty/latest/ug/what-is-guardduty.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/guardduty/latest/ug/what-is-guardduty.html",
+      "referenced_by": [
+        "16-Practice-Exams-and-Questions/02-domain-2-questions.md",
+        "flashcards/security-deck.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/health/latest/ug/what-is-aws-health.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/health/latest/ug/what-is-aws-health.html",
+      "referenced_by": [
+        "09-Monitoring-and-Governance/05-aws-health-dashboard.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/inspector/latest/user/what-is-inspector.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/inspector/latest/user/what-is-inspector.html",
+      "referenced_by": [
+        "03-Security-and-Compliance/05-amazon-inspector-and-guardduty.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/kendra/latest/dg/what-is-kendra.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/kendra/latest/dg/what-is-kendra.html",
+      "referenced_by": [
+        "14-Artificial-Intelligence-and-ML/06-amazon-kendra.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/kms/latest/developerguide/overview.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/kms/latest/developerguide/overview.html",
+      "referenced_by": [
+        "03-Security-and-Compliance/06-aws-kms-and-secrets-manager.md",
+        "flashcards/security-deck.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/lambda/latest/dg/welcome.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/lambda/latest/dg/welcome.html",
+      "referenced_by": [
+        "07-Serverless-Computing/01-aws-lambda.md",
+        "07-Serverless-Computing/README.md",
+        "16-Practice-Exams-and-Questions/03-domain-3-questions.md",
+        "16-Practice-Exams-and-Questions/10-question-practice-exam.md",
+        "16-Practice-Exams-and-Questions/cross-domain-review-questions.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/lexv2/latest/dg/what-is.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/lexv2/latest/dg/what-is.html",
+      "referenced_by": [
+        "14-Artificial-Intelligence-and-ML/05-amazon-lex.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/m2/latest/userguide/mainframe-modernization-availability-change.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/m2/latest/userguide/mainframe-modernization-availability-change.html",
+      "referenced_by": [
+        "11-Migration-and-Innovation/05-aws-mainframe-modernization.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/marketplace/latest/buyerguide/what-is-marketplace.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/marketplace/latest/buyerguide/what-is-marketplace.html",
+      "referenced_by": [
+        "10-Pricing-and-Support/07-aws-marketplace.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/migrationhub-strategy/latest/userguide/migrationhub-availability-change.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/migrationhub-strategy/latest/userguide/migrationhub-availability-change.html",
+      "referenced_by": [
+        "11-Migration-and-Innovation/02-aws-migration-hub.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_scps.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_scps.html",
+      "referenced_by": [
+        "03-Security-and-Compliance/03-aws-organizations.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/polly/latest/dg/what-is.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/polly/latest/dg/what-is.html",
+      "referenced_by": [
+        "14-Artificial-Intelligence-and-ML/04-amazon-polly-and-transcribe.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/prescriptive-guidance/latest/large-migration-guide/migration-strategies.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/prescriptive-guidance/latest/large-migration-guide/migration-strategies.html",
+      "referenced_by": [
+        "11-Migration-and-Innovation/01-migration-strategies.md",
+        "11-Migration-and-Innovation/README.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/pricing-calculator/latest/userguide/what-is-pricing-calculator.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/pricing-calculator/latest/userguide/what-is-pricing-calculator.html",
+      "referenced_by": [
+        "10-Pricing-and-Support/03-aws-pricing-calculator.md",
+        "16-Practice-Exams-and-Questions/04-domain-4-questions.md",
+        "flashcards/costs-deck.md",
+        "notes/costs-and-support.md",
+        "quick-review/README.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/redshift/latest/mgmt/welcome.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/redshift/latest/mgmt/welcome.html",
+      "referenced_by": [
+        "06-Databases/05-redshift.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/rekognition/latest/dg/what-is.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/rekognition/latest/dg/what-is.html",
+      "referenced_by": [
+        "14-Artificial-Intelligence-and-ML/02-amazon-rekognition.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/sagemaker/latest/dg/whatis.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/sagemaker/latest/dg/whatis.html",
+      "referenced_by": [
+        "14-Artificial-Intelligence-and-ML/01-amazon-sagemaker.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/secretsmanager/latest/userguide/intro.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/secretsmanager/latest/userguide/intro.html",
+      "referenced_by": [
+        "16-Practice-Exams-and-Questions/02-domain-2-questions.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/what-is-sam.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/what-is-sam.html",
+      "referenced_by": [
+        "15-Developer-Services/06-aws-sam.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/snowball/latest/developer-guide/snowball-edge-availability-change.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/snowball/latest/developer-guide/snowball-edge-availability-change.html",
+      "referenced_by": [
+        "08-Storage/05-aws-snow-family.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/step-functions/latest/dg/welcome.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/step-functions/latest/dg/welcome.html",
+      "referenced_by": [
+        "07-Serverless-Computing/05-aws-step-functions.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/storagegateway/latest/tgw/WhatIsStorageGateway.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/storagegateway/latest/tgw/WhatIsStorageGateway.html",
+      "referenced_by": [
+        "08-Storage/04-aws-storage-gateway.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/systems-manager/latest/userguide/what-is-systems-manager.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/systems-manager/latest/userguide/what-is-systems-manager.html",
+      "referenced_by": [
+        "09-Monitoring-and-Governance/06-aws-systems-manager.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/vpc/latest/peering/what-is-vpc-peering.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/vpc/latest/peering/what-is-vpc-peering.html",
+      "referenced_by": [
+        "05-Networking-and-Connectivity/05-vpc-peering-and-transit-gateway.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/vpc/latest/userguide/configure-subnets.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/vpc/latest/userguide/configure-subnets.html",
+      "referenced_by": [
+        "05-Networking-and-Connectivity/02-public-and-private-subnets.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/vpc/latest/userguide/vpc-nat-gateway.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/vpc/latest/userguide/vpc-nat-gateway.html",
+      "referenced_by": [
+        "05-Networking-and-Connectivity/03-internet-gateway-and-nat.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/vpc/latest/userguide/vpc-network-acls.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/vpc/latest/userguide/vpc-network-acls.html",
+      "referenced_by": [
+        "05-Networking-and-Connectivity/04-security-groups-and-network-acls.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/vpc/latest/userguide/vpc-security-groups.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/vpc/latest/userguide/vpc-security-groups.html",
+      "referenced_by": [
+        "05-Networking-and-Connectivity/04-security-groups-and-network-acls.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html",
+      "referenced_by": [
+        "05-Networking-and-Connectivity/01-vpc-fundamentals.md",
+        "05-Networking-and-Connectivity/02-public-and-private-subnets.md",
+        "05-Networking-and-Connectivity/README.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/waf/latest/developerguide/shield-chapter.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/waf/latest/developerguide/shield-chapter.html",
+      "referenced_by": [
+        "flashcards/security-deck.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/waf/latest/developerguide/what-is-aws-waf.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/waf/latest/developerguide/what-is-aws-waf.html",
+      "referenced_by": [
+        "03-Security-and-Compliance/04-aws-shield-and-waf.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/wellarchitected/latest/framework/rel_fault_isolation_multiaz_region_system.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/wellarchitected/latest/framework/rel_fault_isolation_multiaz_region_system.html",
+      "referenced_by": [
+        "16-Practice-Exams-and-Questions/01-domain-1-questions.md",
+        "16-Practice-Exams-and-Questions/10-question-practice-exam.md",
+        "16-Practice-Exams-and-Questions/cross-domain-review-questions.md",
+        "flashcards/fundamentals-deck.md",
+        "quick-review/README.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html",
+      "referenced_by": [
+        "13-Well-Architected-Framework/01-operational-excellence-pillar.md",
+        "13-Well-Architected-Framework/02-security-pillar.md",
+        "13-Well-Architected-Framework/03-reliability-pillar.md",
+        "13-Well-Architected-Framework/04-performance-efficiency-pillar.md",
+        "13-Well-Architected-Framework/05-cost-optimization-pillar.md",
+        "13-Well-Architected-Framework/06-sustainability-pillar.md",
+        "13-Well-Architected-Framework/07-specialized-lenses.md",
+        "13-Well-Architected-Framework/README.md",
+        "17-Glossary/README.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/whitepapers/latest/overview-aws-cloud-adoption-framework/welcome.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/whitepapers/latest/overview-aws-cloud-adoption-framework/welcome.html",
+      "referenced_by": [
+        "12-CAF-Cloud-Adoption-Framework/01-caf-overview.md",
+        "12-CAF-Cloud-Adoption-Framework/02-business-perspective.md",
+        "12-CAF-Cloud-Adoption-Framework/03-people-perspective.md",
+        "12-CAF-Cloud-Adoption-Framework/04-governance-perspective.md",
+        "12-CAF-Cloud-Adoption-Framework/05-platform-perspective.md",
+        "12-CAF-Cloud-Adoption-Framework/06-security-perspective.md",
+        "12-CAF-Cloud-Adoption-Framework/07-operations-perspective.md",
+        "12-CAF-Cloud-Adoption-Framework/08-transformation-outcomes.md",
+        "12-CAF-Cloud-Adoption-Framework/README.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/xray/latest/devguide/xray-daemon.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/xray/latest/devguide/xray-daemon.html",
+      "referenced_by": [
+        "15-Developer-Services/08-aws-x-ray.md"
+      ]
+    },
+    {
+      "url": "https://docs.aws.amazon.com/xray/latest/devguide/xray-sdk-daemon-timeline.html",
+      "http_status": 200,
+      "final_url": "https://docs.aws.amazon.com/xray/latest/devguide/xray-sdk-daemon-timeline.html",
+      "referenced_by": [
+        "15-Developer-Services/08-aws-x-ray.md"
+      ]
+    },
+    {
+      "url": "https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil",
+      "http_status": 200,
+      "final_url": "https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil",
+      "referenced_by": [
+        "14-Artificial-Intelligence-and-ML/README.md",
+        "README.md",
+        "cheatsheets/README.md",
+        "cheatsheets/core-concepts.md",
+        "cheatsheets/iam.md",
+        "cheatsheets/pricing.md",
+        "cheatsheets/s3.md",
+        "diagrams/README.md",
+        "docs/exam-guide.md",
+        "docs/next-steps.md",
+        "docs/study-flow.md",
+        "flashcards/README.md",
+        "labs/README.md",
+        "labs/lab-01-iam-setup.md",
+        "labs/lab-02-s3-static-website.md",
+        "labs/lab-03-basic-cloudwatch.md",
+        "notes/README.md"
+      ]
+    },
+    {
+      "url": "https://github.com/Thiago-code-lab/aws-certified-cloud-practitioner-brasil.git",
+      "http_status": 200,
+      "final_url": "https://github.com/Thiago-code-lab/aws-certified-cloud-practitioner-brasil",
+      "referenced_by": [
+        "README.md"
+      ]
+    },
+    {
+      "url": "https://github.com/Thiago-code-lab/aws-certified-cloud-practitioner-brasil/tree/main",
+      "http_status": 200,
+      "final_url": "https://github.com/Thiago-code-lab/aws-certified-cloud-practitioner-brasil/tree/main",
+      "referenced_by": [
+        "README.md"
+      ]
+    },
+    {
+      "url": "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english",
+      "http_status": 200,
+      "final_url": "https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english",
+      "referenced_by": [
+        "01-Introduction-to-Cloud-Computing/01-what-is-cloud-computing.md",
+        "01-Introduction-to-Cloud-Computing/02-service-models.md",
+        "01-Introduction-to-Cloud-Computing/03-deployment-models.md",
+        "01-Introduction-to-Cloud-Computing/04-regions-and-availability-zones.md",
+        "01-Introduction-to-Cloud-Computing/05-benefits-of-cloud-computing.md",
+        "01-Introduction-to-Cloud-Computing/README.md",
+        "02-Amazon-EC2/01-instance-types.md",
+        "02-Amazon-EC2/02-pricing-models.md",
+        "02-Amazon-EC2/03-auto-scaling.md",
+        "02-Amazon-EC2/04-elastic-load-balancing.md",
+        "02-Amazon-EC2/05-user-data-and-metadata.md",
+        "02-Amazon-EC2/README.md",
+        "03-Security-and-Compliance/01-shared-responsibility-model.md",
+        "03-Security-and-Compliance/02-iam.md",
+        "03-Security-and-Compliance/03-aws-organizations.md",
+        "03-Security-and-Compliance/04-aws-shield-and-waf.md",
+        "03-Security-and-Compliance/05-amazon-inspector-and-guardduty.md",
+        "03-Security-and-Compliance/06-aws-kms-and-secrets-manager.md",
+        "03-Security-and-Compliance/07-aws-config.md",
+        "03-Security-and-Compliance/08-aws-cloudtrail.md",
+        "03-Security-and-Compliance/09-aws-artifact.md",
+        "03-Security-and-Compliance/10-compliance-programs.md",
+        "03-Security-and-Compliance/README.md",
+        "04-Amazon-S3/01-basic-concepts.md",
+        "04-Amazon-S3/02-storage-classes.md",
+        "04-Amazon-S3/03-policies-and-acls.md",
+        "04-Amazon-S3/04-versioning-and-lifecycle.md",
+        "04-Amazon-S3/05-s3-transfer-acceleration.md",
+        "04-Amazon-S3/06-static-website.md",
+        "04-Amazon-S3/README.md",
+        "05-Networking-and-Connectivity/01-vpc-fundamentals.md",
+        "05-Networking-and-Connectivity/02-public-and-private-subnets.md",
+        "05-Networking-and-Connectivity/03-internet-gateway-and-nat.md",
+        "05-Networking-and-Connectivity/04-security-groups-and-network-acls.md",
+        "05-Networking-and-Connectivity/05-vpc-peering-and-transit-gateway.md",
+        "05-Networking-and-Connectivity/06-direct-connect-and-vpn.md",
+        "05-Networking-and-Connectivity/07-route-53.md",
+        "05-Networking-and-Connectivity/README.md",
+        "06-Databases/01-rds.md",
+        "06-Databases/02-aurora.md",
+        "06-Databases/03-dynamodb.md",
+        "06-Databases/04-elasticache.md",
+        "06-Databases/05-redshift.md",
+        "06-Databases/06-documentdb-and-neptune.md",
+        "06-Databases/07-database-migration-service.md",
+        "06-Databases/README.md",
+        "07-Serverless-Computing/01-aws-lambda.md",
+        "07-Serverless-Computing/02-api-gateway.md",
+        "07-Serverless-Computing/03-aws-fargate.md",
+        "07-Serverless-Computing/04-amazon-ecs-and-eks.md",
+        "07-Serverless-Computing/05-aws-step-functions.md",
+        "07-Serverless-Computing/06-amazon-eventbridge.md",
+        "07-Serverless-Computing/README.md",
+        "08-Storage/01-ebs.md",
+        "08-Storage/02-efs.md",
+        "08-Storage/03-fsx.md",
+        "08-Storage/04-aws-storage-gateway.md",
+        "08-Storage/05-aws-snow-family.md",
+        "08-Storage/06-aws-backup.md",
+        "08-Storage/README.md",
+        "09-Monitoring-and-Governance/01-cloudwatch.md",
+        "09-Monitoring-and-Governance/02-cloudtrail.md",
+        "09-Monitoring-and-Governance/03-aws-config.md",
+        "09-Monitoring-and-Governance/04-aws-trusted-advisor.md",
+        "09-Monitoring-and-Governance/05-aws-health-dashboard.md",
+        "09-Monitoring-and-Governance/06-aws-systems-manager.md",
+        "09-Monitoring-and-Governance/07-aws-compute-optimizer.md",
+        "09-Monitoring-and-Governance/README.md",
+        "10-Pricing-and-Support/01-aws-pricing-model.md",
+        "10-Pricing-and-Support/02-aws-free-tier.md",
+        "10-Pricing-and-Support/03-aws-pricing-calculator.md",
+        "10-Pricing-and-Support/04-aws-cost-explorer.md",
+        "10-Pricing-and-Support/05-aws-budgets.md",
+        "10-Pricing-and-Support/06-support-plans.md",
+        "10-Pricing-and-Support/07-aws-marketplace.md",
+        "10-Pricing-and-Support/08-aws-billing-dashboard.md",
+        "10-Pricing-and-Support/README.md",
+        "11-Migration-and-Innovation/01-migration-strategies.md",
+        "11-Migration-and-Innovation/02-aws-migration-hub.md",
+        "11-Migration-and-Innovation/03-aws-dms.md",
+        "11-Migration-and-Innovation/04-aws-application-discovery.md",
+        "11-Migration-and-Innovation/05-aws-mainframe-modernization.md",
+        "11-Migration-and-Innovation/06-aws-datasync.md",
+        "11-Migration-and-Innovation/README.md",
+        "12-CAF-Cloud-Adoption-Framework/01-caf-overview.md",
+        "12-CAF-Cloud-Adoption-Framework/02-business-perspective.md",
+        "12-CAF-Cloud-Adoption-Framework/03-people-perspective.md",
+        "12-CAF-Cloud-Adoption-Framework/04-governance-perspective.md",
+        "12-CAF-Cloud-Adoption-Framework/05-platform-perspective.md",
+        "12-CAF-Cloud-Adoption-Framework/06-security-perspective.md",
+        "12-CAF-Cloud-Adoption-Framework/07-operations-perspective.md",
+        "12-CAF-Cloud-Adoption-Framework/08-transformation-outcomes.md",
+        "12-CAF-Cloud-Adoption-Framework/README.md",
+        "13-Well-Architected-Framework/01-operational-excellence-pillar.md",
+        "13-Well-Architected-Framework/02-security-pillar.md",
+        "13-Well-Architected-Framework/03-reliability-pillar.md",
+        "13-Well-Architected-Framework/04-performance-efficiency-pillar.md",
+        "13-Well-Architected-Framework/05-cost-optimization-pillar.md",
+        "13-Well-Architected-Framework/06-sustainability-pillar.md",
+        "13-Well-Architected-Framework/07-specialized-lenses.md",
+        "13-Well-Architected-Framework/README.md",
+        "14-Artificial-Intelligence-and-ML/01-amazon-sagemaker.md",
+        "14-Artificial-Intelligence-and-ML/02-amazon-rekognition.md",
+        "14-Artificial-Intelligence-and-ML/03-amazon-comprehend.md",
+        "14-Artificial-Intelligence-and-ML/04-amazon-polly-and-transcribe.md",
+        "14-Artificial-Intelligence-and-ML/05-amazon-lex.md",
+        "14-Artificial-Intelligence-and-ML/06-amazon-kendra.md",
+        "14-Artificial-Intelligence-and-ML/07-amazon-bedrock.md",
+        "14-Artificial-Intelligence-and-ML/08-amazon-q.md",
+        "15-Developer-Services/01-aws-codecommit.md",
+        "15-Developer-Services/02-aws-codebuild.md",
+        "15-Developer-Services/03-aws-codedeploy.md",
+        "15-Developer-Services/04-aws-codepipeline.md",
+        "15-Developer-Services/05-aws-cdk-and-cloudformation.md",
+        "15-Developer-Services/06-aws-sam.md",
+        "15-Developer-Services/07-aws-amplify.md",
+        "15-Developer-Services/08-aws-x-ray.md",
+        "15-Developer-Services/README.md",
+        "17-Glossary/README.md",
+        "18-Resources-and-Links/README.md",
+        "README.md",
+        "cheatsheets/README.md",
+        "cheatsheets/core-concepts.md",
+        "cheatsheets/iam.md",
+        "cheatsheets/pricing.md",
+        "cheatsheets/s3.md",
+        "diagrams/README.md",
+        "docs/exam-guide.md",
+        "docs/next-steps.md",
+        "docs/study-flow.md",
+        "flashcards/README.md",
+        "labs/README.md",
+        "labs/lab-01-iam-setup.md",
+        "labs/lab-02-s3-static-website.md",
+        "labs/lab-03-basic-cloudwatch.md",
+        "notes/README.md"
+      ]
+    },
+    {
+      "url": "https://img.shields.io/badge/CERTIFICATION-CLF--C02-1e40af?style=for-the-badge&labelColor=0f172a",
+      "http_status": 200,
+      "final_url": "https://img.shields.io/badge/CERTIFICATION-CLF--C02-1e40af?style=for-the-badge&labelColor=0f172a",
+      "referenced_by": [
+        "README.md"
+      ]
+    },
+    {
+      "url": "https://img.shields.io/badge/CloudStudy%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white",
+      "http_status": 200,
+      "final_url": "https://img.shields.io/badge/CloudStudy%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white",
+      "referenced_by": [
+        "README.md"
+      ]
+    },
+    {
+      "url": "https://img.shields.io/badge/Content-en--US-0284c7?style=for-the-badge&labelColor=0f172a",
+      "http_status": 200,
+      "final_url": "https://img.shields.io/badge/Content-en--US-0284c7?style=for-the-badge&labelColor=0f172a",
+      "referenced_by": [
+        "README.md"
+      ]
+    },
+    {
+      "url": "https://img.shields.io/badge/EXPLORE_PLATFORM-CloudStudy-2563EB?style=for-the-badge&logo=amazonaws&logoColor=white",
+      "http_status": 200,
+      "final_url": "https://img.shields.io/badge/EXPLORE_PLATFORM-CloudStudy-2563EB?style=for-the-badge&logo=amazonaws&logoColor=white",
+      "referenced_by": [
+        "README.md"
+      ]
+    },
+    {
+      "url": "https://img.shields.io/badge/Instagram-@cloudstudy.ai-E4405F?style=for-the-badge&logo=instagram&logoColor=white",
+      "http_status": 200,
+      "final_url": "https://img.shields.io/badge/Instagram-@cloudstudy.ai-E4405F?style=for-the-badge&logo=instagram&logoColor=white",
+      "referenced_by": [
+        "README.md"
+      ]
+    },
+    {
+      "url": "https://img.shields.io/badge/Open%20Source-Educational-1e40af?style=for-the-badge&labelColor=0f172a",
+      "http_status": 200,
+      "final_url": "https://img.shields.io/badge/Open%20Source-Educational-1e40af?style=for-the-badge&labelColor=0f172a",
+      "referenced_by": [
+        "README.md"
+      ]
+    },
+    {
+      "url": "https://img.shields.io/badge/Udemy%20Course-A435F0?style=for-the-badge&logo=udemy&logoColor=white",
+      "http_status": 200,
+      "final_url": "https://img.shields.io/badge/Udemy%20Course-A435F0?style=for-the-badge&logo=udemy&logoColor=white",
+      "referenced_by": [
+        "README.md"
+      ]
+    },
+    {
+      "url": "https://img.shields.io/badge/🌐_CloudStudy-cloudstudy.com.br-2563EB?style=for-the-badge",
+      "http_status": 200,
+      "final_url": "https://img.shields.io/badge/%F0%9F%8C%90_CloudStudy-cloudstudy.com.br-2563EB?style=for-the-badge",
+      "referenced_by": [
+        "README.md"
+      ]
+    },
+    {
+      "url": "https://img.shields.io/github/forks/Thiago-code-lab/aws-certified-cloud-practitioner-brasil?style=for-the-badge&label=Forks&color=1d4ed8",
+      "http_status": 200,
+      "final_url": "https://img.shields.io/github/forks/Thiago-code-lab/aws-certified-cloud-practitioner-brasil?style=for-the-badge&label=Forks&color=1d4ed8",
+      "referenced_by": [
+        "README.md"
+      ]
+    },
+    {
+      "url": "https://img.shields.io/github/last-commit/Thiago-code-lab/aws-certified-cloud-practitioner-brasil?style=for-the-badge&label=Last%20commit&color=334155",
+      "http_status": 200,
+      "final_url": "https://img.shields.io/github/last-commit/Thiago-code-lab/aws-certified-cloud-practitioner-brasil?style=for-the-badge&label=Last%20commit&color=334155",
+      "referenced_by": [
+        "README.md"
+      ]
+    },
+    {
+      "url": "https://img.shields.io/github/license/Thiago-code-lab/aws-certified-cloud-practitioner-brasil?style=for-the-badge&label=MIT&color=0f766e",
+      "http_status": 200,
+      "final_url": "https://img.shields.io/github/license/Thiago-code-lab/aws-certified-cloud-practitioner-brasil?style=for-the-badge&label=MIT&color=0f766e",
+      "referenced_by": [
+        "README.md"
+      ]
+    },
+    {
+      "url": "https://img.shields.io/github/stars/Thiago-code-lab/aws-certified-cloud-practitioner-brasil?style=for-the-badge&label=Stars&color=2563eb",
+      "http_status": 200,
+      "final_url": "https://img.shields.io/github/stars/Thiago-code-lab/aws-certified-cloud-practitioner-brasil?style=for-the-badge&label=Stars&color=2563eb",
+      "referenced_by": [
+        "README.md"
+      ]
+    },
+    {
+      "url": "https://www.cloudstudy.com.br/",
+      "http_status": 200,
+      "final_url": "https://www.cloudstudy.com.br/",
+      "referenced_by": [
+        "README.md"
+      ]
+    },
+    {
+      "url": "https://www.instagram.com/cloudstudy.ai/",
+      "http_status": 200,
+      "final_url": "https://www.instagram.com/cloudstudy.ai/",
+      "referenced_by": [
+        "01-Introduction-to-Cloud-Computing/01-what-is-cloud-computing.md",
+        "01-Introduction-to-Cloud-Computing/02-service-models.md",
+        "01-Introduction-to-Cloud-Computing/03-deployment-models.md",
+        "01-Introduction-to-Cloud-Computing/04-regions-and-availability-zones.md",
+        "01-Introduction-to-Cloud-Computing/05-benefits-of-cloud-computing.md",
+        "01-Introduction-to-Cloud-Computing/README.md",
+        "02-Amazon-EC2/01-instance-types.md",
+        "02-Amazon-EC2/02-pricing-models.md",
+        "02-Amazon-EC2/03-auto-scaling.md",
+        "02-Amazon-EC2/04-elastic-load-balancing.md",
+        "02-Amazon-EC2/05-user-data-and-metadata.md",
+        "02-Amazon-EC2/README.md",
+        "03-Security-and-Compliance/01-shared-responsibility-model.md",
+        "03-Security-and-Compliance/02-iam.md",
+        "03-Security-and-Compliance/03-aws-organizations.md",
+        "03-Security-and-Compliance/04-aws-shield-and-waf.md",
+        "03-Security-and-Compliance/05-amazon-inspector-and-guardduty.md",
+        "03-Security-and-Compliance/06-aws-kms-and-secrets-manager.md",
+        "03-Security-and-Compliance/07-aws-config.md",
+        "03-Security-and-Compliance/08-aws-cloudtrail.md",
+        "03-Security-and-Compliance/09-aws-artifact.md",
+        "03-Security-and-Compliance/10-compliance-programs.md",
+        "03-Security-and-Compliance/README.md",
+        "04-Amazon-S3/01-basic-concepts.md",
+        "04-Amazon-S3/02-storage-classes.md",
+        "04-Amazon-S3/03-policies-and-acls.md",
+        "04-Amazon-S3/04-versioning-and-lifecycle.md",
+        "04-Amazon-S3/05-s3-transfer-acceleration.md",
+        "04-Amazon-S3/06-static-website.md",
+        "04-Amazon-S3/README.md",
+        "05-Networking-and-Connectivity/01-vpc-fundamentals.md",
+        "05-Networking-and-Connectivity/02-public-and-private-subnets.md",
+        "05-Networking-and-Connectivity/03-internet-gateway-and-nat.md",
+        "05-Networking-and-Connectivity/04-security-groups-and-network-acls.md",
+        "05-Networking-and-Connectivity/05-vpc-peering-and-transit-gateway.md",
+        "05-Networking-and-Connectivity/06-direct-connect-and-vpn.md",
+        "05-Networking-and-Connectivity/07-route-53.md",
+        "05-Networking-and-Connectivity/README.md",
+        "06-Databases/01-rds.md",
+        "06-Databases/02-aurora.md",
+        "06-Databases/03-dynamodb.md",
+        "06-Databases/04-elasticache.md",
+        "06-Databases/05-redshift.md",
+        "06-Databases/06-documentdb-and-neptune.md",
+        "06-Databases/07-database-migration-service.md",
+        "06-Databases/README.md",
+        "07-Serverless-Computing/01-aws-lambda.md",
+        "07-Serverless-Computing/02-api-gateway.md",
+        "07-Serverless-Computing/03-aws-fargate.md",
+        "07-Serverless-Computing/04-amazon-ecs-and-eks.md",
+        "07-Serverless-Computing/05-aws-step-functions.md",
+        "07-Serverless-Computing/06-amazon-eventbridge.md",
+        "07-Serverless-Computing/README.md",
+        "08-Storage/01-ebs.md",
+        "08-Storage/02-efs.md",
+        "08-Storage/03-fsx.md",
+        "08-Storage/04-aws-storage-gateway.md",
+        "08-Storage/05-aws-snow-family.md",
+        "08-Storage/06-aws-backup.md",
+        "08-Storage/README.md",
+        "09-Monitoring-and-Governance/01-cloudwatch.md",
+        "09-Monitoring-and-Governance/02-cloudtrail.md",
+        "09-Monitoring-and-Governance/03-aws-config.md",
+        "09-Monitoring-and-Governance/04-aws-trusted-advisor.md",
+        "09-Monitoring-and-Governance/05-aws-health-dashboard.md",
+        "09-Monitoring-and-Governance/06-aws-systems-manager.md",
+        "09-Monitoring-and-Governance/07-aws-compute-optimizer.md",
+        "09-Monitoring-and-Governance/README.md",
+        "10-Pricing-and-Support/01-aws-pricing-model.md",
+        "10-Pricing-and-Support/02-aws-free-tier.md",
+        "10-Pricing-and-Support/03-aws-pricing-calculator.md",
+        "10-Pricing-and-Support/04-aws-cost-explorer.md",
+        "10-Pricing-and-Support/05-aws-budgets.md",
+        "10-Pricing-and-Support/06-support-plans.md",
+        "10-Pricing-and-Support/07-aws-marketplace.md",
+        "10-Pricing-and-Support/08-aws-billing-dashboard.md",
+        "10-Pricing-and-Support/README.md",
+        "11-Migration-and-Innovation/01-migration-strategies.md",
+        "11-Migration-and-Innovation/02-aws-migration-hub.md",
+        "11-Migration-and-Innovation/03-aws-dms.md",
+        "11-Migration-and-Innovation/04-aws-application-discovery.md",
+        "11-Migration-and-Innovation/05-aws-mainframe-modernization.md",
+        "11-Migration-and-Innovation/06-aws-datasync.md",
+        "11-Migration-and-Innovation/README.md",
+        "12-CAF-Cloud-Adoption-Framework/01-caf-overview.md",
+        "12-CAF-Cloud-Adoption-Framework/02-business-perspective.md",
+        "12-CAF-Cloud-Adoption-Framework/03-people-perspective.md",
+        "12-CAF-Cloud-Adoption-Framework/04-governance-perspective.md",
+        "12-CAF-Cloud-Adoption-Framework/05-platform-perspective.md",
+        "12-CAF-Cloud-Adoption-Framework/06-security-perspective.md",
+        "12-CAF-Cloud-Adoption-Framework/07-operations-perspective.md",
+        "12-CAF-Cloud-Adoption-Framework/08-transformation-outcomes.md",
+        "12-CAF-Cloud-Adoption-Framework/README.md",
+        "13-Well-Architected-Framework/01-operational-excellence-pillar.md",
+        "13-Well-Architected-Framework/02-security-pillar.md",
+        "13-Well-Architected-Framework/03-reliability-pillar.md",
+        "13-Well-Architected-Framework/04-performance-efficiency-pillar.md",
+        "13-Well-Architected-Framework/05-cost-optimization-pillar.md",
+        "13-Well-Architected-Framework/06-sustainability-pillar.md",
+        "13-Well-Architected-Framework/07-specialized-lenses.md",
+        "13-Well-Architected-Framework/README.md",
+        "14-Artificial-Intelligence-and-ML/01-amazon-sagemaker.md",
+        "14-Artificial-Intelligence-and-ML/02-amazon-rekognition.md",
+        "14-Artificial-Intelligence-and-ML/03-amazon-comprehend.md",
+        "14-Artificial-Intelligence-and-ML/04-amazon-polly-and-transcribe.md",
+        "14-Artificial-Intelligence-and-ML/05-amazon-lex.md",
+        "14-Artificial-Intelligence-and-ML/06-amazon-kendra.md",
+        "14-Artificial-Intelligence-and-ML/07-amazon-bedrock.md",
+        "14-Artificial-Intelligence-and-ML/08-amazon-q.md",
+        "14-Artificial-Intelligence-and-ML/README.md",
+        "15-Developer-Services/01-aws-codecommit.md",
+        "15-Developer-Services/02-aws-codebuild.md",
+        "15-Developer-Services/03-aws-codedeploy.md",
+        "15-Developer-Services/04-aws-codepipeline.md",
+        "15-Developer-Services/05-aws-cdk-and-cloudformation.md",
+        "15-Developer-Services/06-aws-sam.md",
+        "15-Developer-Services/07-aws-amplify.md",
+        "15-Developer-Services/08-aws-x-ray.md",
+        "15-Developer-Services/README.md",
+        "16-Practice-Exams-and-Questions/01-domain-1-questions.md",
+        "16-Practice-Exams-and-Questions/02-domain-2-questions.md",
+        "16-Practice-Exams-and-Questions/03-domain-3-questions.md",
+        "16-Practice-Exams-and-Questions/04-domain-4-questions.md",
+        "16-Practice-Exams-and-Questions/10-question-practice-exam.md",
+        "16-Practice-Exams-and-Questions/README.md",
+        "16-Practice-Exams-and-Questions/answer-keys/domain-1-answer-key.md",
+        "16-Practice-Exams-and-Questions/answer-keys/domain-2-answer-key.md",
+        "16-Practice-Exams-and-Questions/answer-keys/domain-3-answer-key.md",
+        "16-Practice-Exams-and-Questions/answer-keys/domain-4-answer-key.md",
+        "16-Practice-Exams-and-Questions/answer-keys/practice-exam-answer-key.md",
+        "16-Practice-Exams-and-Questions/cross-domain-review-questions.md",
+        "17-Glossary/README.md",
+        "18-Resources-and-Links/README.md",
+        "README.md",
+        "cheatsheets/README.md",
+        "cheatsheets/core-concepts.md",
+        "cheatsheets/iam.md",
+        "cheatsheets/pricing.md",
+        "cheatsheets/s3.md",
+        "diagrams/README.md",
+        "docs/exam-guide.md",
+        "docs/next-steps.md",
+        "docs/study-flow.md",
+        "flashcards/README.md",
+        "flashcards/costs-deck.md",
+        "flashcards/fundamentals-deck.md",
+        "flashcards/s3-deck.md",
+        "flashcards/security-deck.md",
+        "labs/README.md",
+        "notes/README.md",
+        "notes/aws-fundamentals.md",
+        "notes/costs-and-support.md",
+        "notes/s3-essentials.md",
+        "notes/security-essentials.md",
+        "quick-review/README.md",
+        "quick-review/common-mistakes.md",
+        "quick-review/costs.md",
+        "quick-review/exam-eve-checklist.md",
+        "quick-review/fundamentals.md",
+        "quick-review/key-services.md",
+        "quick-review/security.md",
+        "quick-review/storage.md"
+      ]
+    },
+    {
+      "url": "https://www.linkedin.com/company/cloudstudy-ai/",
+      "http_status": 999,
+      "final_url": "https://www.linkedin.com/company/cloudstudy-ai/",
+      "referenced_by": [
+        "01-Introduction-to-Cloud-Computing/01-what-is-cloud-computing.md",
+        "01-Introduction-to-Cloud-Computing/02-service-models.md",
+        "01-Introduction-to-Cloud-Computing/03-deployment-models.md",
+        "01-Introduction-to-Cloud-Computing/04-regions-and-availability-zones.md",
+        "01-Introduction-to-Cloud-Computing/05-benefits-of-cloud-computing.md",
+        "01-Introduction-to-Cloud-Computing/README.md",
+        "02-Amazon-EC2/01-instance-types.md",
+        "02-Amazon-EC2/02-pricing-models.md",
+        "02-Amazon-EC2/03-auto-scaling.md",
+        "02-Amazon-EC2/04-elastic-load-balancing.md",
+        "02-Amazon-EC2/05-user-data-and-metadata.md",
+        "02-Amazon-EC2/README.md",
+        "03-Security-and-Compliance/01-shared-responsibility-model.md",
+        "03-Security-and-Compliance/02-iam.md",
+        "03-Security-and-Compliance/03-aws-organizations.md",
+        "03-Security-and-Compliance/04-aws-shield-and-waf.md",
+        "03-Security-and-Compliance/05-amazon-inspector-and-guardduty.md",
+        "03-Security-and-Compliance/06-aws-kms-and-secrets-manager.md",
+        "03-Security-and-Compliance/07-aws-config.md",
+        "03-Security-and-Compliance/08-aws-cloudtrail.md",
+        "03-Security-and-Compliance/09-aws-artifact.md",
+        "03-Security-and-Compliance/10-compliance-programs.md",
+        "03-Security-and-Compliance/README.md",
+        "04-Amazon-S3/01-basic-concepts.md",
+        "04-Amazon-S3/02-storage-classes.md",
+        "04-Amazon-S3/03-policies-and-acls.md",
+        "04-Amazon-S3/04-versioning-and-lifecycle.md",
+        "04-Amazon-S3/05-s3-transfer-acceleration.md",
+        "04-Amazon-S3/06-static-website.md",
+        "04-Amazon-S3/README.md",
+        "05-Networking-and-Connectivity/01-vpc-fundamentals.md",
+        "05-Networking-and-Connectivity/02-public-and-private-subnets.md",
+        "05-Networking-and-Connectivity/03-internet-gateway-and-nat.md",
+        "05-Networking-and-Connectivity/04-security-groups-and-network-acls.md",
+        "05-Networking-and-Connectivity/05-vpc-peering-and-transit-gateway.md",
+        "05-Networking-and-Connectivity/06-direct-connect-and-vpn.md",
+        "05-Networking-and-Connectivity/07-route-53.md",
+        "05-Networking-and-Connectivity/README.md",
+        "06-Databases/01-rds.md",
+        "06-Databases/02-aurora.md",
+        "06-Databases/03-dynamodb.md",
+        "06-Databases/04-elasticache.md",
+        "06-Databases/05-redshift.md",
+        "06-Databases/06-documentdb-and-neptune.md",
+        "06-Databases/07-database-migration-service.md",
+        "06-Databases/README.md",
+        "07-Serverless-Computing/01-aws-lambda.md",
+        "07-Serverless-Computing/02-api-gateway.md",
+        "07-Serverless-Computing/03-aws-fargate.md",
+        "07-Serverless-Computing/04-amazon-ecs-and-eks.md",
+        "07-Serverless-Computing/05-aws-step-functions.md",
+        "07-Serverless-Computing/06-amazon-eventbridge.md",
+        "07-Serverless-Computing/README.md",
+        "08-Storage/01-ebs.md",
+        "08-Storage/02-efs.md",
+        "08-Storage/03-fsx.md",
+        "08-Storage/04-aws-storage-gateway.md",
+        "08-Storage/05-aws-snow-family.md",
+        "08-Storage/06-aws-backup.md",
+        "08-Storage/README.md",
+        "09-Monitoring-and-Governance/01-cloudwatch.md",
+        "09-Monitoring-and-Governance/02-cloudtrail.md",
+        "09-Monitoring-and-Governance/03-aws-config.md",
+        "09-Monitoring-and-Governance/04-aws-trusted-advisor.md",
+        "09-Monitoring-and-Governance/05-aws-health-dashboard.md",
+        "09-Monitoring-and-Governance/06-aws-systems-manager.md",
+        "09-Monitoring-and-Governance/07-aws-compute-optimizer.md",
+        "09-Monitoring-and-Governance/README.md",
+        "10-Pricing-and-Support/01-aws-pricing-model.md",
+        "10-Pricing-and-Support/02-aws-free-tier.md",
+        "10-Pricing-and-Support/03-aws-pricing-calculator.md",
+        "10-Pricing-and-Support/04-aws-cost-explorer.md",
+        "10-Pricing-and-Support/05-aws-budgets.md",
+        "10-Pricing-and-Support/06-support-plans.md",
+        "10-Pricing-and-Support/07-aws-marketplace.md",
+        "10-Pricing-and-Support/08-aws-billing-dashboard.md",
+        "10-Pricing-and-Support/README.md",
+        "11-Migration-and-Innovation/01-migration-strategies.md",
+        "11-Migration-and-Innovation/02-aws-migration-hub.md",
+        "11-Migration-and-Innovation/03-aws-dms.md",
+        "11-Migration-and-Innovation/04-aws-application-discovery.md",
+        "11-Migration-and-Innovation/05-aws-mainframe-modernization.md",
+        "11-Migration-and-Innovation/06-aws-datasync.md",
+        "11-Migration-and-Innovation/README.md",
+        "12-CAF-Cloud-Adoption-Framework/01-caf-overview.md",
+        "12-CAF-Cloud-Adoption-Framework/02-business-perspective.md",
+        "12-CAF-Cloud-Adoption-Framework/03-people-perspective.md",
+        "12-CAF-Cloud-Adoption-Framework/04-governance-perspective.md",
+        "12-CAF-Cloud-Adoption-Framework/05-platform-perspective.md",
+        "12-CAF-Cloud-Adoption-Framework/06-security-perspective.md",
+        "12-CAF-Cloud-Adoption-Framework/07-operations-perspective.md",
+        "12-CAF-Cloud-Adoption-Framework/08-transformation-outcomes.md",
+        "12-CAF-Cloud-Adoption-Framework/README.md",
+        "13-Well-Architected-Framework/01-operational-excellence-pillar.md",
+        "13-Well-Architected-Framework/02-security-pillar.md",
+        "13-Well-Architected-Framework/03-reliability-pillar.md",
+        "13-Well-Architected-Framework/04-performance-efficiency-pillar.md",
+        "13-Well-Architected-Framework/05-cost-optimization-pillar.md",
+        "13-Well-Architected-Framework/06-sustainability-pillar.md",
+        "13-Well-Architected-Framework/07-specialized-lenses.md",
+        "13-Well-Architected-Framework/README.md",
+        "14-Artificial-Intelligence-and-ML/01-amazon-sagemaker.md",
+        "14-Artificial-Intelligence-and-ML/02-amazon-rekognition.md",
+        "14-Artificial-Intelligence-and-ML/03-amazon-comprehend.md",
+        "14-Artificial-Intelligence-and-ML/04-amazon-polly-and-transcribe.md",
+        "14-Artificial-Intelligence-and-ML/05-amazon-lex.md",
+        "14-Artificial-Intelligence-and-ML/06-amazon-kendra.md",
+        "14-Artificial-Intelligence-and-ML/07-amazon-bedrock.md",
+        "14-Artificial-Intelligence-and-ML/08-amazon-q.md",
+        "14-Artificial-Intelligence-and-ML/README.md",
+        "15-Developer-Services/01-aws-codecommit.md",
+        "15-Developer-Services/02-aws-codebuild.md",
+        "15-Developer-Services/03-aws-codedeploy.md",
+        "15-Developer-Services/04-aws-codepipeline.md",
+        "15-Developer-Services/05-aws-cdk-and-cloudformation.md",
+        "15-Developer-Services/06-aws-sam.md",
+        "15-Developer-Services/07-aws-amplify.md",
+        "15-Developer-Services/08-aws-x-ray.md",
+        "15-Developer-Services/README.md",
+        "16-Practice-Exams-and-Questions/01-domain-1-questions.md",
+        "16-Practice-Exams-and-Questions/02-domain-2-questions.md",
+        "16-Practice-Exams-and-Questions/03-domain-3-questions.md",
+        "16-Practice-Exams-and-Questions/04-domain-4-questions.md",
+        "16-Practice-Exams-and-Questions/10-question-practice-exam.md",
+        "16-Practice-Exams-and-Questions/README.md",
+        "16-Practice-Exams-and-Questions/answer-keys/domain-1-answer-key.md",
+        "16-Practice-Exams-and-Questions/answer-keys/domain-2-answer-key.md",
+        "16-Practice-Exams-and-Questions/answer-keys/domain-3-answer-key.md",
+        "16-Practice-Exams-and-Questions/answer-keys/domain-4-answer-key.md",
+        "16-Practice-Exams-and-Questions/answer-keys/practice-exam-answer-key.md",
+        "16-Practice-Exams-and-Questions/cross-domain-review-questions.md",
+        "17-Glossary/README.md",
+        "18-Resources-and-Links/README.md",
+        "README.md",
+        "cheatsheets/README.md",
+        "cheatsheets/core-concepts.md",
+        "cheatsheets/iam.md",
+        "cheatsheets/pricing.md",
+        "cheatsheets/s3.md",
+        "diagrams/README.md",
+        "docs/exam-guide.md",
+        "docs/next-steps.md",
+        "docs/study-flow.md",
+        "flashcards/README.md",
+        "flashcards/costs-deck.md",
+        "flashcards/fundamentals-deck.md",
+        "flashcards/s3-deck.md",
+        "flashcards/security-deck.md",
+        "labs/README.md",
+        "notes/README.md",
+        "notes/aws-fundamentals.md",
+        "notes/costs-and-support.md",
+        "notes/s3-essentials.md",
+        "notes/security-essentials.md",
+        "quick-review/README.md",
+        "quick-review/common-mistakes.md",
+        "quick-review/costs.md",
+        "quick-review/exam-eve-checklist.md",
+        "quick-review/fundamentals.md",
+        "quick-review/key-services.md",
+        "quick-review/security.md",
+        "quick-review/storage.md"
+      ]
+    },
+    {
+      "url": "https://www.linkedin.com/in/analyticsthiagocardoso",
+      "http_status": 999,
+      "final_url": "https://www.linkedin.com/in/analyticsthiagocardoso",
+      "referenced_by": [
+        "16-Practice-Exams-and-Questions/answer-keys/domain-1-answer-key.md",
+        "16-Practice-Exams-and-Questions/answer-keys/domain-2-answer-key.md",
+        "16-Practice-Exams-and-Questions/answer-keys/domain-3-answer-key.md",
+        "16-Practice-Exams-and-Questions/answer-keys/domain-4-answer-key.md",
+        "16-Practice-Exams-and-Questions/answer-keys/practice-exam-answer-key.md"
+      ]
+    },
+    {
+      "url": "https://www.linkedin.com/in/lucas-del-puerto/",
+      "http_status": 999,
+      "final_url": "https://www.linkedin.com/in/lucas-del-puerto/",
+      "referenced_by": [
+        "16-Practice-Exams-and-Questions/answer-keys/domain-1-answer-key.md",
+        "16-Practice-Exams-and-Questions/answer-keys/domain-2-answer-key.md",
+        "16-Practice-Exams-and-Questions/answer-keys/domain-3-answer-key.md",
+        "16-Practice-Exams-and-Questions/answer-keys/domain-4-answer-key.md",
+        "16-Practice-Exams-and-Questions/answer-keys/practice-exam-answer-key.md"
+      ]
+    },
+    {
+      "url": "https://www.linkedin.com/in/pedroalbertini/",
+      "http_status": 999,
+      "final_url": "https://www.linkedin.com/in/pedroalbertini/",
+      "referenced_by": [
+        "16-Practice-Exams-and-Questions/answer-keys/domain-1-answer-key.md",
+        "16-Practice-Exams-and-Questions/answer-keys/domain-2-answer-key.md",
+        "16-Practice-Exams-and-Questions/answer-keys/domain-3-answer-key.md",
+        "16-Practice-Exams-and-Questions/answer-keys/domain-4-answer-key.md",
+        "16-Practice-Exams-and-Questions/answer-keys/practice-exam-answer-key.md"
+      ]
+    },
+    {
+      "url": "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9",
+      "http_status": 200,
+      "final_url": "https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9",
+      "referenced_by": [
+        "01-Introduction-to-Cloud-Computing/01-what-is-cloud-computing.md",
+        "01-Introduction-to-Cloud-Computing/03-deployment-models.md",
+        "02-Amazon-EC2/01-instance-types.md",
+        "02-Amazon-EC2/02-pricing-models.md",
+        "02-Amazon-EC2/03-auto-scaling.md",
+        "02-Amazon-EC2/04-elastic-load-balancing.md",
+        "02-Amazon-EC2/README.md",
+        "03-Security-and-Compliance/02-iam.md",
+        "03-Security-and-Compliance/04-aws-shield-and-waf.md",
+        "03-Security-and-Compliance/05-amazon-inspector-and-guardduty.md",
+        "03-Security-and-Compliance/07-aws-config.md",
+        "03-Security-and-Compliance/08-aws-cloudtrail.md",
+        "03-Security-and-Compliance/10-compliance-programs.md",
+        "03-Security-and-Compliance/README.md",
+        "04-Amazon-S3/03-policies-and-acls.md",
+        "04-Amazon-S3/04-versioning-and-lifecycle.md",
+        "04-Amazon-S3/05-s3-transfer-acceleration.md",
+        "04-Amazon-S3/06-static-website.md",
+        "04-Amazon-S3/README.md",
+        "05-Networking-and-Connectivity/01-vpc-fundamentals.md",
+        "05-Networking-and-Connectivity/02-public-and-private-subnets.md",
+        "05-Networking-and-Connectivity/04-security-groups-and-network-acls.md",
+        "05-Networking-and-Connectivity/README.md",
+        "06-Databases/01-rds.md",
+        "06-Databases/04-elasticache.md",
+        "06-Databases/05-redshift.md",
+        "06-Databases/07-database-migration-service.md",
+        "06-Databases/README.md",
+        "07-Serverless-Computing/01-aws-lambda.md",
+        "07-Serverless-Computing/02-api-gateway.md",
+        "07-Serverless-Computing/03-aws-fargate.md",
+        "07-Serverless-Computing/04-amazon-ecs-and-eks.md",
+        "07-Serverless-Computing/05-aws-step-functions.md",
+        "07-Serverless-Computing/06-amazon-eventbridge.md",
+        "07-Serverless-Computing/README.md",
+        "08-Storage/01-ebs.md",
+        "08-Storage/02-efs.md",
+        "08-Storage/03-fsx.md",
+        "08-Storage/04-aws-storage-gateway.md",
+        "08-Storage/05-aws-snow-family.md",
+        "08-Storage/06-aws-backup.md",
+        "09-Monitoring-and-Governance/01-cloudwatch.md",
+        "09-Monitoring-and-Governance/02-cloudtrail.md",
+        "09-Monitoring-and-Governance/05-aws-health-dashboard.md",
+        "09-Monitoring-and-Governance/06-aws-systems-manager.md",
+        "09-Monitoring-and-Governance/07-aws-compute-optimizer.md",
+        "09-Monitoring-and-Governance/README.md",
+        "10-Pricing-and-Support/02-aws-free-tier.md",
+        "10-Pricing-and-Support/04-aws-cost-explorer.md",
+        "10-Pricing-and-Support/05-aws-budgets.md",
+        "10-Pricing-and-Support/README.md",
+        "11-Migration-and-Innovation/02-aws-migration-hub.md",
+        "11-Migration-and-Innovation/03-aws-dms.md",
+        "11-Migration-and-Innovation/04-aws-application-discovery.md",
+        "11-Migration-and-Innovation/05-aws-mainframe-modernization.md",
+        "11-Migration-and-Innovation/README.md",
+        "12-CAF-Cloud-Adoption-Framework/02-business-perspective.md",
+        "12-CAF-Cloud-Adoption-Framework/05-platform-perspective.md",
+        "12-CAF-Cloud-Adoption-Framework/08-transformation-outcomes.md",
+        "12-CAF-Cloud-Adoption-Framework/README.md",
+        "13-Well-Architected-Framework/01-operational-excellence-pillar.md",
+        "13-Well-Architected-Framework/03-reliability-pillar.md",
+        "13-Well-Architected-Framework/06-sustainability-pillar.md",
+        "13-Well-Architected-Framework/07-specialized-lenses.md",
+        "13-Well-Architected-Framework/README.md",
+        "14-Artificial-Intelligence-and-ML/02-amazon-rekognition.md",
+        "14-Artificial-Intelligence-and-ML/03-amazon-comprehend.md",
+        "14-Artificial-Intelligence-and-ML/04-amazon-polly-and-transcribe.md",
+        "14-Artificial-Intelligence-and-ML/07-amazon-bedrock.md",
+        "14-Artificial-Intelligence-and-ML/08-amazon-q.md",
+        "14-Artificial-Intelligence-and-ML/README.md",
+        "15-Developer-Services/01-aws-codecommit.md",
+        "15-Developer-Services/02-aws-codebuild.md",
+        "15-Developer-Services/05-aws-cdk-and-cloudformation.md",
+        "15-Developer-Services/06-aws-sam.md",
+        "15-Developer-Services/07-aws-amplify.md",
+        "15-Developer-Services/08-aws-x-ray.md",
+        "15-Developer-Services/README.md",
+        "16-Practice-Exams-and-Questions/README.md",
+        "16-Practice-Exams-and-Questions/answer-keys/domain-2-answer-key.md",
+        "16-Practice-Exams-and-Questions/answer-keys/domain-3-answer-key.md",
+        "16-Practice-Exams-and-Questions/answer-keys/domain-4-answer-key.md",
+        "16-Practice-Exams-and-Questions/answer-keys/practice-exam-answer-key.md",
+        "17-Glossary/README.md",
+        "18-Resources-and-Links/README.md",
+        "README.md"
+      ]
+    }
+  ]
+}

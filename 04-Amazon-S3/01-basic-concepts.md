@@ -1,6 +1,6 @@
 # Basic Concepts
 
-Amazon S3 is object storage. Stores data in buckets and offers high durability for files, backups, logs and static content.
+Amazon S3 is an object storage service. It stores data in buckets and offers high durability for files, backups, logs and static content.
 
 - Each object has data, key and metadata.
 - General purpose buckets belong to a Region; shared-global-namespace names are unique within an AWS partition. Other bucket types and namespaces have different naming rules.

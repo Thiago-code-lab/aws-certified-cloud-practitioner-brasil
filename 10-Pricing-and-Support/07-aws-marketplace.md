@@ -2,7 +2,7 @@
 
 AWS Marketplace is a catalog for discovering, purchasing, and deploying third-party software and services on AWS.
 
-- Brings together solutions such as machine imaging, SaaS, data and professional services.
+- Brings together solutions such as Amazon Machine Images (AMIs), SaaS, data and professional services.
 - Billing and contracts can be consolidated by AWS account.
 - Customer must evaluate vendor licenses, security, support, and costs.
 - **Exam tip:** purchasing a ready-made solution from a partner with integrated billing points to Marketplace.

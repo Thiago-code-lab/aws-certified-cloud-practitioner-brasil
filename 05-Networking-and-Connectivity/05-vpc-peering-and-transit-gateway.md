@@ -4,7 +4,7 @@ VPC Peering and Transit Gateway connect VPC networks, but they use different mod
 
 - **Peering:** direct connection between two VPCs, without transitive routing.
 - **Transit Gateway:** central hub for many VPCs and on-premises networks.
-- Peering is simple for a few peers; Transit Gateway reduces mesh in larger environments.
+- Peering is simple for a few peers; Transit Gateway reduces the need for a full mesh of connections in larger environments.
 - **Exam tip:** dozens of networks with centralized connectivity point to Transit Gateway.
 
 Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english

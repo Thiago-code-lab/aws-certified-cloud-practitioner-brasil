@@ -7,13 +7,13 @@ Module to recognize migration reasons, adoption strategies and high-level suppor
 - Migration strategies in plain language.
 - Innovation with managed services.
 
-## Quick Review
+## Quick review
 - Migration is not just about moving servers; involves cost, operation, security and agility.
 - Lift-and-shift usually appears as migration with smaller initial change.
 - Managed services reduce operational burden and free up focus for the product.
 
 ## Common exam clues
-- "Evaluate environment before migration" -> AWS Migration Hub or assessment.
+- "Discover servers and dependencies" -> AWS Application Discovery Service; "track migration progress" -> AWS Migration Hub. Check onboarding restrictions in the lessons.
 - "Move with little change" -> rehost/lift-and-shift.
 - "Modernize application" -> refactor/re-architect at a high level.
 
@@ -59,6 +59,6 @@ Follow CloudStudy to keep up with new materials, updates and content about AWS c
 - [AWS DMS](03-aws-dms.md)
 - [AWS Application Discovery](04-aws-application-discovery.md)
 - [AWS Mainframe Modernization](05-aws-mainframe-modernization.md)
-- [AWS Datasync](06-aws-datasync.md)
+- [AWS DataSync](06-aws-datasync.md)
 
 [Back to all modules](../README.md#modules)

@@ -2,7 +2,7 @@
 
 AWS Step Functions coordinates distributed process steps in state-based visual workflows.
 
-- Organizes sequences, parallelism, decisions, trials and error handling.
+- Organizes sequences, parallelism, choices, retries, and error handling.
 - Integrates Lambda and several AWS services.
 - Makes the flow more observable than chaining calls together in the code.
 - **Exam tip:** several serverless steps with failure control point to Step Functions.

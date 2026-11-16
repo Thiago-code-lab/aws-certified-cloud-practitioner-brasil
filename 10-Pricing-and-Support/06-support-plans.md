@@ -5,8 +5,8 @@ AWS Support plans vary in support channels, initial response targets, and access
 - **Basic:** included for all accounts, with account and billing help and self-service features.
 - **Business Support+:** 24/7 technical support for production workloads.
 - **Enterprise Support:** adds a designated Technical Account Manager (TAM) and faster response for critical systems.
-- **Unified Operations:** broader level for large-scale essential operations.
-- **Attention in 2026:** Developer, Business and Enterprise On-Ramp are in transition, but may still appear in the CLF-C02 guide.
+- **Unified Operations:** application-specific expertise and proactive support for mission-critical workloads.
+- **2026 transition:** Developer, Business and Enterprise On-Ramp are in transition, but may still appear in the CLF-C02 guide.
 
 Compare [current AWS Support plans](https://aws.amazon.com/premiumsupport/plans/) before subscribing.
 
@@ -17,7 +17,7 @@ Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certifie
 
 ## Current versus legacy plans
 
-Basic remains included. Business Support+, Enterprise Support, and Unified Operations are the current paid tiers. Developer and Business are unavailable for new subscriptions and will be discontinued on January 1, 2027. Legacy names in learning material must be interpreted in context rather than presented as current purchase choices.
+Basic remains included. Business Support+, Enterprise Support, and Unified Operations are the current paid tiers. Developer and Business are unavailable for new subscriptions and will be discontinued on January 1, 2027. Enterprise On-Ramp customers are supported through December 31, 2026, with contractual commitments handled separately. Legacy names in learning material must be interpreted in context rather than presented as current purchase choices.
 
 [AWS Support FAQs](https://aws.amazon.com/premiumsupport/faqs/)
 

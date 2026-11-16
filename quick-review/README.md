@@ -1,14 +1,16 @@
 # Quick Review - CLF-C02
 
-Use this block for 20-30 minute sessions, focused by domain. It doesn't replace flashcards: here the idea is to quickly diagnose gaps before returning to the right module.
+Use this block for 20-30 minute sessions, focused by study topic. It doesn't replace flashcards: here the idea is to quickly diagnose gaps before returning to the right module.
 
-## Review by domain
-| Domain | Short Review | When to use |
+## Review by topic
+| Study topic | Short review | When to use |
 |---|---|---|
 | Cloud Fundamentals | [fundamentals.md](./fundamentals.md) | When you confuse Regions, AZs, elasticity, or shared responsibility |
 | IAM and security | [security.md](./security.md) | When you get identity, permissions, auditing or compliance wrong |
 | S3 and Storage | [storage.md](./storage.md) | When you confuse S3, EBS, EFS, storage classes, or lifecycle rules |
 | Costs and pricing | [costs.md](./costs.md) | When you struggle with Budgets, Cost Explorer, Spot, support, or pricing models |
+
+Storage is part of official domain 3, Cloud Technology and Services. These topic groupings are review aids, not additional exam domains.
 
 ## Suggested flow
 1. Run the [exam-eve checklist](./exam-eve-checklist.md).
@@ -20,7 +22,7 @@ Use this block for 20-30 minute sessions, focused by domain. It doesn't replace 
 
 <!-- question-id: CLF-QUICK-001; domain: 1; select: 1 -->
 ### Question 1
-An application must remain available if an isolated data center in the Region fails. Which design best meets the CLF-C02 level?
+An application must remain available if an isolated data center in the Region fails. Which design best addresses this availability requirement?
 
 A) Multi-AZ
 
@@ -51,7 +53,7 @@ D) AWS Budgets
 ### Question 2
 A team wants to allow an EC2 application to access an S3 bucket without storing access keys on the server. Which option is most suitable?
 
-A) IAM Role for instance
+A) IAM role for the EC2 instance
 
 B) AWS Artifact
 
@@ -78,7 +80,7 @@ D) S3 Lifecycle
 
 <!-- question-id: CLF-QUICK-003; domain: 3; select: 1 -->
 ### Question 3
-Log files must be kept for years, almost never accessed, and can take hours to retrieve. Which choice is more coherent?
+Log files must be kept for years, almost never accessed, and can take hours to retrieve. Which choice best fits these requirements?
 
 A) S3 Glacier Deep Archive
 
@@ -107,7 +109,7 @@ D) EC2 On-Demand
 
 <!-- question-id: CLF-QUICK-004; domain: 4; select: 1 -->
 ### Question 4
-Before launching an architecture, the company wants to estimate monthly how much it should cost. Which tool to use?
+Before launching an architecture, the company wants to estimate its monthly cost. Which tool should it use?
 
 A) AWS Pricing Calculator
 

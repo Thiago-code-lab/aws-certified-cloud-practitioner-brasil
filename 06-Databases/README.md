@@ -1,4 +1,4 @@
-# Database
+# Databases
 
 Module to differentiate the main data services at the introductory level of the CLF-C02.
 
@@ -7,9 +7,9 @@ Module to differentiate the main data services at the introductory level of the 
 - DynamoDB for NoSQL key-value/document.
 - Redshift for analytics and data warehousing.
 
-## Quick Review
+## Quick review
 - RDS reduces operational work in relational databases.
-- DynamoDB appears when the track is NoSQL, low latency and managed scale.
+- DynamoDB appears when the scenario requires NoSQL, low latency and managed scale.
 - Redshift is associated with analytics and data warehousing.
 
 ## Common exam clues
@@ -27,7 +27,7 @@ Choose RDS just because you know SQL when the statement asks for NoSQL scaling o
 | RDS vs Redshift | RDS = transactional; Redshift = analysis |
 
 ## Bridge to next module
-After data, move on to serverless: how to run code and integrate events with less operation.
+After data, move on to serverless: how to run code and integrate events with less operational effort.
 
 ## Continuity
 Architecture Track: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
@@ -59,7 +59,7 @@ Follow CloudStudy to keep up with new materials, updates and content about AWS c
 - [DynamoDB](03-dynamodb.md)
 - [ElastiCache](04-elasticache.md)
 - [Redshift](05-redshift.md)
-- [Documentdb and Neptune](06-documentdb-and-neptune.md)
+- [DocumentDB and Neptune](06-documentdb-and-neptune.md)
 - [Database Migration Service](07-database-migration-service.md)
 
 [Back to all modules](../README.md#modules)

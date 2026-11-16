@@ -4,7 +4,7 @@ Access to S3 can be controlled with IAM policies, bucket policies, access points
 
 - **IAM Policy:** defines what an identity can do.
 - **Bucket policy:** resource-based rule, useful for cross-account access.
-- **ACL:** legacy engine; prefer policies in most cases.
+- **ACL:** legacy access-control mechanism; prefer policies in most cases.
 - Keep public access blocking active when public access is not required.
 
 Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english

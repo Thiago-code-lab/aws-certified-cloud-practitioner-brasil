@@ -1,4 +1,4 @@
-# Deck Costs and Support
+# Costs and Support Deck
 
 <!-- question-id: CLF-FLASH-COST-001; domain: 4; type: open-response -->
 ## Card 01
@@ -32,13 +32,13 @@ Predictable long-term use. The discount comes from the commitment, so it is not 
 
 <!-- question-id: CLF-FLASH-COST-003; domain: 4; type: open-response -->
 ## Card 03
-**Question:** Spot is a strong response when the load has which characteristic?
+**Question:** Which workload characteristic makes Spot Instances a suitable choice?
 
 <details>
 <summary><strong>View answer</strong></summary>
 
 **Answer:**
-Interruption tolerance. Batch jobs, re-runable processing, and flexible tasks combine with Spot.
+Interruption tolerance. Batch jobs, repeatable processing, and flexible tasks are suitable for Spot.
 
 
 [AWS reference](https://aws.amazon.com/ec2/pricing/)
@@ -122,7 +122,7 @@ Estimate before use. It calculates approximate cost of planned architecture, not
 
 <!-- question-id: CLF-FLASH-COST-009; domain: 4; type: open-response -->
 ## Card 09
-**Question:** Trusted Advisor goes into cost for what reason?
+**Question:** How does Trusted Advisor help with cost optimization?
 
 <details>
 <summary><strong>View answer</strong></summary>

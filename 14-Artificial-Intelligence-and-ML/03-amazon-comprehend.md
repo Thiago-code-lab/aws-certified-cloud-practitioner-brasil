@@ -4,7 +4,7 @@ Amazon Comprehend uses natural language processing to extract information from t
 
 - Identifies entities, language, keyphrases, topics, and sentiment.
 - It is useful for analyzing evaluations, documents and service interactions.
-- Does not convert speech to text; this function is from Amazon Transcribe.
+- Does not convert speech to text; Amazon Transcribe provides that capability.
 - **Exam tip:** sentiment or entities in text point to Comprehend.
 
 Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english

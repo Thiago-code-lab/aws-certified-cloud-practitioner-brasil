@@ -1,6 +1,6 @@
 # Glossary
 
-Objective summary of the module focusing on fundamentals, quick review and initial application.
+Use this glossary to review the AWS terms used throughout the learning path.
 
 ## Focus
 - Essential concepts
@@ -61,3 +61,5 @@ Follow CloudStudy to keep up with new materials, updates and content about AWS c
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/
 
 ---
+
+[Back to all modules](../README.md#modules)

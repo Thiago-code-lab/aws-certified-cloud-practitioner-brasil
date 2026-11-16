@@ -5,7 +5,7 @@ Amazon ECS and Amazon EKS orchestrate containerized applications.
 - **ECS:** native AWS orchestrator, with simple integration.
 - **EKS:** Managed Kubernetes, used when Kubernetes compatibility is a requirement.
 - Both can use EC2 or Fargate.
-- **Exam tip:** simplicity AWS points to ECS; Explicit Kubernetes points to EKS.
+- **Exam tip:** AWS-native container orchestration points to ECS; an explicit Kubernetes requirement points to EKS.
 
 Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 

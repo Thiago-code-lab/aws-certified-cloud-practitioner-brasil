@@ -7,7 +7,7 @@ AWS Free Tier offers free credits and quotas to new customers, according to the 
 - More than 30 services have free monthly quotas, but not every resource or consumption is included.
 - **Best practice:** keep track of credits in the console and configure AWS Budgets before creating labs.
 
-Always check the current AWS Free Tier](https://aws.amazon.com/free/) terms before creating an account.
+Always check the current [AWS Free Tier](https://aws.amazon.com/free/) terms before creating an account.
 
 Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 

@@ -7,7 +7,7 @@ CLF-C02 foundation: cloud benefits, global infrastructure, and exam terminology.
 - Region and Availability Zone (AZ).
 - Shared responsibility at a high level.
 
-## Quick Review
+## Quick review
 - Differentiate between elasticity (dynamic adjustment) and scalability (sustainable growth).
 - Region defines geography; AZ defines isolation for high availability.
 - Cloud reduces CAPEX and speeds up provisioning.
@@ -27,7 +27,7 @@ Confusing high performance with high availability. Performance is speed; availab
 | Elasticity vs Scalability | Elasticity responds to spikes; scalability sustains growth |
 
 ## Bridge to next module
-After the fundamentals, move on to security: who can access, what they can do and how to audit.
+After the fundamentals, move on to [Amazon EC2](../02-Amazon-EC2/README.md): instance types, purchasing options, and scaling.
 
 ## Continuity
 Architecture Track: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english

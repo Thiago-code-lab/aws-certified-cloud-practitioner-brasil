@@ -83,33 +83,35 @@ Free open-source AWS fundamentals, guided study paths, and reviewed practice que
 
 ---
 
+[How to use](#how-to-use-this-repository) · [Study workflow](#recommended-study-workflow) · [Modules](#modules) · [Practice questions](16-Practice-Exams-and-Questions/README.md) · [Official domains](#official-clf-c02-domains)
+
 ## Overview
 
 This free, open-source learning path covers AWS fundamentals through 18 modules, hands-on labs, flashcards, cheatsheets, and practice questions with explanations. It is designed for learners preparing for AWS Certified Cloud Practitioner (CLF-C02), including those new to cloud computing.
 
-| Block | What do you find |
+| Area | What you will find |
 |---|---|
-| Fundamentals | Cloud concepts, regions, service models and certification basis |
-| Central services | EC2, S3, networking, databases, security, and core operations |
+| Fundamentals | Cloud concepts, regions, service models and certification fundamentals |
+| Core services | EC2, S3, networking, databases, security, and core operations |
 | Review | Short practice exams, glossary and retention aids |
 | Support | Notes, cheatsheets, flashcards, labs, and study flow docs |
 
-## Study Roadmap
+## Study roadmap
 
-1. Modules 01 to 05: cloud fundamentals, security and network.
+1. Modules 01 to 05: cloud fundamentals, compute, security, storage, and networking.
 2. Modules 06 to 10: data services, storage and costs.
 3. Modules 11 to 15: context of adoption, architecture and innovation.
 4. Modules 16 to 18: consolidation, review and next steps.
 
 ## Recommended study workflow
 
-1. Fundamentals: [Module 01](./01-Introduction-to-Cloud-Computing/README.md) + [domain review](./quick-review/fundamentals.md)
-2. Security: [Module 03](./03-Security-and-Compliance/README.md) + [domain revision](./quick-review/security.md)
-3. Storage: [Module 04](./04-Amazon-S3/README.md) + [domain revision](./quick-review/storage.md)
-4. Costs: [Module 10](./10-Pricing-and-Support/README.md) + [domain review](./quick-review/costs.md)
+1. Fundamentals: [Module 01](./01-Introduction-to-Cloud-Computing/README.md) + [topic review](./quick-review/fundamentals.md)
+2. Security: [Module 03](./03-Security-and-Compliance/README.md) + [topic review](./quick-review/security.md)
+3. Storage: [Module 04](./04-Amazon-S3/README.md) + [topic review](./quick-review/storage.md)
+4. Costs: [Module 10](./10-Pricing-and-Support/README.md) + [topic review](./quick-review/costs.md)
 5. Final review: [quick-review](./quick-review/README.md) + [flashcards](./flashcards/README.md)
 
-## Review Ecosystem
+## Review resources
 
 | Layer | Objective | Link |
 |---|---|---|
@@ -142,7 +144,7 @@ This free, open-source learning path covers AWS fundamentals through 18 modules,
 | 17 | AWS Glossary | [Open](./17-Glossary/README.md) |
 | 18 | Resources and Links | [Open](./18-Resources-and-Links/README.md) |
 
-## Next AWS Tracks
+## Next AWS learning paths
 
 - **AWS Solutions Architect Associate (SAA-C03):** evolution for architectural decisions, scalability and solution design.
 https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english

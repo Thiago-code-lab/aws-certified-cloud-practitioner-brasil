@@ -2,9 +2,9 @@
 
 A subnet is public or private according to its routes and the way it accesses the internet, not just its name.
 
-- **Public:** has route to Internet Gateway; the resource still needs a public address and appropriate rules.
-- **Private:** does not receive direct internet connection.
-- Private resources can initiate external access through a NAT Gateway.
+- **Public:** has a direct route to an internet gateway; IPv4 internet access also requires a public IPv4 address and appropriate traffic rules.
+- **Private:** has no direct route to an internet gateway.
+- Private resources can initiate IPv4 internet connections through a public NAT gateway with appropriate routes.
 - **Best practice:** place databases and internal services on private subnets.
 
 Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
@@ -16,6 +16,8 @@ Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certifie
 ---
 
 ## Official AWS references
+
+- [Subnet routing and types](https://docs.aws.amazon.com/vpc/latest/userguide/configure-subnets.html)
 
 - [AWS reference 1](https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html)
 

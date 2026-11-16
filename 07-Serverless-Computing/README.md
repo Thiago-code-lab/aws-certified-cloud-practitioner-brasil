@@ -7,7 +7,7 @@ Module for recognizing serverless services and simple event-driven patterns.
 - API Gateway as input for APIs.
 - SQS and SNS as decoupled integration.
 
-## Quick Review
+## Quick review
 - Lambda runs code without provisioning servers.
 - API Gateway exposes APIs and can trigger Lambda.
 - SQS queues messages; SNS publishes notifications to subscribers.
@@ -18,7 +18,7 @@ Module for recognizing serverless services and simple event-driven patterns.
 - "Decouple components with queue" -> Amazon SQS.
 
 ## Common error
-Choose EC2 for simple event-driven tasks when the statement requires smaller operations.
+Choose EC2 for simple event-driven tasks when the scenario prioritizes minimal operational effort.
 
 ## What to memorize
 | Comparison | Exam rule of thumb |

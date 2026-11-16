@@ -5,7 +5,7 @@ The Billing and Cost Management console centralizes invoices, payments, taxes, p
 - The Bills page details charges by service and account.
 - Cost Explorer deepens the analysis; Budgets creates alerts.
 - Billing permissions must follow least privilege.
-- **Exam tip:** consulting the current invoice points to Billing; Investigating trends points to Cost Explorer.
+- **Exam tip:** consulting the current invoice points to Billing; investigating trends points to Cost Explorer.
 
 Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 

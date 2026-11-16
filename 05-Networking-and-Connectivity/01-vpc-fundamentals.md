@@ -5,7 +5,7 @@ Amazon VPC is an isolated virtual network on AWS. Here you define IP addresses, 
 - Each VPC belongs to a Region and can span multiple AZs.
 - Subnets belong to a single AZ.
 - Route tables determine the next destination of traffic.
-- **Exam tip:** VPC provides logical isolation; High availability comes from distribution across AZs.
+- **Exam tip:** VPC provides logical isolation; high availability comes from distribution across AZs.
 
 Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 

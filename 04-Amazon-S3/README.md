@@ -7,10 +7,10 @@ Object storage module focusing on durability, classes and cost.
 - Versioning and lifecycle.
 - Typical storage classes and scenarios.
 
-## Quick Review
-- S3 is an object, not a block for EC2 boot.
+## Quick review
+- S3 stores objects; it does not provide an EC2 boot volume.
 - Versioning reduces the risk of accidental deletion.
-- Lifecycle moves data to cheaper class according to access pattern.
+- Lifecycle rules transition objects to appropriate storage classes or expire them over time.
 
 ## Common exam clues
 - "Simple static website" -> S3 static website hosting.
@@ -18,7 +18,7 @@ Object storage module focusing on durability, classes and cost.
 - "Access control at scale" -> IAM policy + bucket policy.
 
 ## Common error
-Choose class only for lowest price per GB and ignore cost/recovery time.
+Choosing a class only for the lowest price per GB and ignoring retrieval costs and retrieval time.
 
 ## What to memorize
 | Comparison | Exam rule of thumb |
@@ -27,7 +27,7 @@ Choose class only for lowest price per GB and ignore cost/recovery time.
 | Versioning vs Lifecycle | Versioning protects history; Lifecycle optimizes cost over time |
 
 ## Bridge to next module
-After S3, move on to costs: how to price usage, predict spending and avoid surprises.
+After S3, move on to [networking](../05-Networking-and-Connectivity/README.md): subnets, routing, and connectivity.
 
 ## Continuity
 Architecture Track: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english

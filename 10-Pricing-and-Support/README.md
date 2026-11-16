@@ -7,10 +7,10 @@ Cost decision module: billing models, financial visibility and support.
 - Budgets and Cost Explorer.
 - Introductory level support plans.
 
-## Quick Review
+## Quick review
 - On-Demand for variable workload.
 - Spot for interruption-tolerant workloads.
-- Budgets alerts deviation; Cost Explorer analyzes historical trends.
+- Budgets alerts on actual or forecast thresholds; Cost Explorer analyzes historical trends.
 
 ## Common exam clues
 - "Monthly expense alert" -> AWS Budgets.

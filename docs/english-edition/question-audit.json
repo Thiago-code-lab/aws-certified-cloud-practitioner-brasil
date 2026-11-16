@@ -36,7 +36,9 @@
       "explanation_of_correction": "All four options independently evaluated; explicit rationale added for each. External answer corrected to the defensible reviewed answer. ",
       "official_aws_reference_url": "https://aws.amazon.com/what-is-cloud-computing/",
       "qa_status": "reviewed",
-      "reviewed_question_number": 1
+      "reviewed_question_number": 1,
+      "final_review_date": "2026-11-16",
+      "final_review_justification": "Retain inline answer B: Usage-based pricing replaces upfront infrastructure purchases; elasticity also supports matching capacity to demand. Historical external answer C is incorrect: Managing physical hardware does not provide usage-based cloud billing."
     },
     {
       "stable_question_id": "CLF-D1-002",
@@ -55,7 +57,8 @@
       "explanation_of_correction": "Original question order and answer B preserved. Official domain 3 is recorded as supplementary metadata; the item remains in its original domain 1 study set.",
       "official_aws_reference_url": "https://docs.aws.amazon.com/global-infrastructure/latest/regions/aws-regions-availability-zones.html",
       "qa_status": "reviewed",
-      "reviewed_question_number": 2
+      "reviewed_question_number": 2,
+      "final_review_date": "2026-11-16"
     },
     {
       "stable_question_id": "CLF-D1-003",
@@ -75,7 +78,9 @@
       "explanation_of_correction": "All four options independently evaluated; explicit rationale added for each. External answer corrected to the defensible reviewed answer. ",
       "official_aws_reference_url": "https://aws.amazon.com/what-is-cloud-computing/",
       "qa_status": "reviewed",
-      "reviewed_question_number": 3
+      "reviewed_question_number": 3,
+      "final_review_date": "2026-11-16",
+      "final_review_justification": "Retain inline answer C: On-demand provisioning reduces setup time and initial infrastructure investment. Historical external answer B is incorrect: Slow provisioning delays the prototype."
     },
     {
       "stable_question_id": "CLF-D1-004",
@@ -95,7 +100,9 @@
       "explanation_of_correction": "All four options independently evaluated; explicit rationale added for each. External answer corrected to the defensible reviewed answer. ",
       "official_aws_reference_url": "https://aws.amazon.com/what-is-cloud-computing/",
       "qa_status": "reviewed",
-      "reviewed_question_number": 4
+      "reviewed_question_number": 4,
+      "final_review_date": "2026-11-16",
+      "final_review_justification": "Retain inline answer C: Infrastructure as a Service provides compute, storage, and networking resources. Historical external answer B is incorrect: PaaS provides a managed application platform rather than primarily raw infrastructure."
     },
     {
       "stable_question_id": "CLF-D1-005",
@@ -115,7 +122,9 @@
       "explanation_of_correction": "All four options independently evaluated; explicit rationale added for each. External answer corrected to the defensible reviewed answer. ",
       "official_aws_reference_url": "https://docs.aws.amazon.com/wellarchitected/latest/framework/rel_fault_isolation_multiaz_region_system.html",
       "qa_status": "reviewed",
-      "reviewed_question_number": 5
+      "reviewed_question_number": 5,
+      "final_review_date": "2026-11-16",
+      "final_review_justification": "Retain inline answer B: Independent zones reduce the impact of a failure affecting one location when the application is designed for failover. Historical external answer C is incorrect: A backup supports recovery but does not keep the application serving traffic during a failure."
     },
     {
       "stable_question_id": "CLF-D1-006",
@@ -134,7 +143,8 @@
       "explanation_of_correction": "All four options independently evaluated; explicit rationale added for each. ",
       "official_aws_reference_url": "https://aws.amazon.com/what-is-cloud-computing/",
       "qa_status": "reviewed",
-      "reviewed_question_number": 6
+      "reviewed_question_number": 6,
+      "final_review_date": "2026-11-16"
     },
     {
       "stable_question_id": "CLF-D2-001",
@@ -154,7 +164,9 @@
       "explanation_of_correction": "All four options independently evaluated; explicit rationale added for each. External answer corrected to the defensible reviewed answer. ",
       "official_aws_reference_url": "https://aws.amazon.com/compliance/shared-responsibility-model/",
       "qa_status": "reviewed",
-      "reviewed_question_number": 1
+      "reviewed_question_number": 1,
+      "final_review_date": "2026-11-16",
+      "final_review_justification": "Retain inline answer B: The customer controls account identities, access policies, and permissions. Historical external answer A is incorrect: AWS secures the underlying cloud infrastructure; it does not choose the customer's identity policies."
     },
     {
       "stable_question_id": "CLF-D2-002",
@@ -174,7 +186,9 @@
       "explanation_of_correction": "All four options independently evaluated; explicit rationale added for each. External answer corrected to the defensible reviewed answer. ",
       "official_aws_reference_url": "https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html",
       "qa_status": "reviewed",
-      "reviewed_question_number": 2
+      "reviewed_question_number": 2,
+      "final_review_date": "2026-11-16",
+      "final_review_justification": "Retain inline answer B: Permissions should be limited to the actions and resources needed for the task. Historical external answer A is incorrect: Broad administrator access exceeds most users' needs."
     },
     {
       "stable_question_id": "CLF-D2-003",
@@ -194,7 +208,9 @@
       "explanation_of_correction": "All four options independently evaluated; explicit rationale added for each. External answer corrected to the defensible reviewed answer. ",
       "official_aws_reference_url": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-user-guide.html",
       "qa_status": "reviewed",
-      "reviewed_question_number": 3
+      "reviewed_question_number": 3,
+      "final_review_date": "2026-11-16",
+      "final_review_justification": "Retain inline answer A: CloudTrail records supported account actions as events, including API activity. Historical external answer B is incorrect: Route 53 provides DNS, domain registration, and health checks."
     },
     {
       "stable_question_id": "CLF-D2-004",
@@ -213,7 +229,8 @@
       "explanation_of_correction": "All four options independently evaluated; explicit rationale added for each. ",
       "official_aws_reference_url": "https://docs.aws.amazon.com/secretsmanager/latest/userguide/intro.html",
       "qa_status": "reviewed",
-      "reviewed_question_number": 4
+      "reviewed_question_number": 4,
+      "final_review_date": "2026-11-16"
     },
     {
       "stable_question_id": "CLF-D2-005",
@@ -232,7 +249,8 @@
       "explanation_of_correction": "All four options independently evaluated; explicit rationale added for each. ",
       "official_aws_reference_url": "https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html",
       "qa_status": "reviewed",
-      "reviewed_question_number": 5
+      "reviewed_question_number": 5,
+      "final_review_date": "2026-11-16"
     },
     {
       "stable_question_id": "CLF-D2-006",
@@ -251,7 +269,8 @@
       "explanation_of_correction": "All four options independently evaluated; explicit rationale added for each. ",
       "official_aws_reference_url": "https://docs.aws.amazon.com/guardduty/latest/ug/what-is-guardduty.html",
       "qa_status": "reviewed",
-      "reviewed_question_number": 6
+      "reviewed_question_number": 6,
+      "final_review_date": "2026-11-16"
     },
     {
       "stable_question_id": "CLF-D3-001",
@@ -271,7 +290,9 @@
       "explanation_of_correction": "All four options independently evaluated; explicit rationale added for each. External answer corrected to the defensible reviewed answer. ",
       "official_aws_reference_url": "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts.html",
       "qa_status": "reviewed",
-      "reviewed_question_number": 1
+      "reviewed_question_number": 1,
+      "final_review_date": "2026-11-16",
+      "final_review_justification": "Retain inline answer B: EC2 provides virtual compute instances. Historical external answer A is incorrect: S3 stores objects."
     },
     {
       "stable_question_id": "CLF-D3-002",
@@ -291,7 +312,9 @@
       "explanation_of_correction": "All four options independently evaluated; explicit rationale added for each. External answer corrected to the defensible reviewed answer. ",
       "official_aws_reference_url": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html",
       "qa_status": "reviewed",
-      "reviewed_question_number": 2
+      "reviewed_question_number": 2,
+      "final_review_date": "2026-11-16",
+      "final_review_justification": "Retain inline answer C: S3 stores objects identified by keys in buckets. Historical external answer B is incorrect: EBS provides block storage volumes for EC2."
     },
     {
       "stable_question_id": "CLF-D3-003",
@@ -311,7 +334,9 @@
       "explanation_of_correction": "All four options independently evaluated; explicit rationale added for each. External answer corrected to the defensible reviewed answer. ",
       "official_aws_reference_url": "https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Welcome.html",
       "qa_status": "reviewed",
-      "reviewed_question_number": 3
+      "reviewed_question_number": 3,
+      "final_review_date": "2026-11-16",
+      "final_review_justification": "Retain inline answer A: RDS manages relational database infrastructure and common administration tasks. Historical external answer C is incorrect: S3 provides object storage."
     },
     {
       "stable_question_id": "CLF-D3-004",
@@ -332,7 +357,9 @@
       "explanation_of_correction": "All four options independently evaluated; explicit rationale added for each. External answer corrected to the defensible reviewed answer. ",
       "official_aws_reference_url": "https://docs.aws.amazon.com/lambda/latest/dg/welcome.html",
       "qa_status": "reviewed",
-      "reviewed_question_number": 4
+      "reviewed_question_number": 4,
+      "final_review_date": "2026-11-16",
+      "final_review_justification": "Retain inline answer A: Lambda manages the underlying compute infrastructure for function execution. Historical external answer B is incorrect: A Dedicated Host provides dedicated physical capacity, but customers still manage their EC2 instances and guest operating systems; AWS manages the physical hardware."
     },
     {
       "stable_question_id": "CLF-D3-005",
@@ -351,7 +378,8 @@
       "explanation_of_correction": "All four options independently evaluated; explicit rationale added for each. ",
       "official_aws_reference_url": "https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/Welcome.html",
       "qa_status": "reviewed",
-      "reviewed_question_number": 5
+      "reviewed_question_number": 5,
+      "final_review_date": "2026-11-16"
     },
     {
       "stable_question_id": "CLF-D3-006",
@@ -370,7 +398,8 @@
       "explanation_of_correction": "All four options independently evaluated; explicit rationale added for each. ",
       "official_aws_reference_url": "https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/WhatIsCloudWatch.html",
       "qa_status": "reviewed",
-      "reviewed_question_number": 6
+      "reviewed_question_number": 6,
+      "final_review_date": "2026-11-16"
     },
     {
       "stable_question_id": "CLF-D4-001",
@@ -390,7 +419,9 @@
       "explanation_of_correction": "All four options independently evaluated; explicit rationale added for each. External answer corrected to the defensible reviewed answer. ",
       "official_aws_reference_url": "https://aws.amazon.com/ec2/pricing/",
       "qa_status": "reviewed",
-      "reviewed_question_number": 1
+      "reviewed_question_number": 1,
+      "final_review_date": "2026-11-16",
+      "final_review_justification": "Retain inline answer C: On-Demand does not require a long-term commitment and avoids the capacity-reclamation interruptions associated with Spot; it does not guarantee uninterrupted service or unlimited capacity. Historical external answer A is incorrect: Savings Plans require a one- or three-year usage commitment."
     },
     {
       "stable_question_id": "CLF-D4-002",
@@ -410,7 +441,9 @@
       "explanation_of_correction": "All four options independently evaluated; explicit rationale added for each. External answer corrected to the defensible reviewed answer. ",
       "official_aws_reference_url": "https://docs.aws.amazon.com/cost-management/latest/userguide/ce-what-is.html",
       "qa_status": "reviewed",
-      "reviewed_question_number": 2
+      "reviewed_question_number": 2,
+      "final_review_date": "2026-11-16",
+      "final_review_justification": "Retain inline answer A: Cost Explorer analyzes cost and usage history and trends. Historical external answer B is incorrect: Shield provides DDoS protection."
     },
     {
       "stable_question_id": "CLF-D4-003",
@@ -429,7 +462,8 @@
       "explanation_of_correction": "All four options independently evaluated; explicit rationale added for each. ",
       "official_aws_reference_url": "https://docs.aws.amazon.com/cost-management/latest/userguide/budgets-managing-costs.html",
       "qa_status": "reviewed",
-      "reviewed_question_number": 3
+      "reviewed_question_number": 3,
+      "final_review_date": "2026-11-16"
     },
     {
       "stable_question_id": "CLF-D4-004",
@@ -448,7 +482,8 @@
       "explanation_of_correction": "All four options independently evaluated; explicit rationale added for each. ",
       "official_aws_reference_url": "https://aws.amazon.com/ec2/pricing/",
       "qa_status": "reviewed",
-      "reviewed_question_number": 4
+      "reviewed_question_number": 4,
+      "final_review_date": "2026-11-16"
     },
     {
       "stable_question_id": "CLF-D4-005",
@@ -468,7 +503,9 @@
       "explanation_of_correction": "All four options independently evaluated; explicit rationale added for each. External answer corrected to the defensible reviewed answer. ",
       "official_aws_reference_url": "https://docs.aws.amazon.com/pricing-calculator/latest/userguide/what-is-pricing-calculator.html",
       "qa_status": "reviewed",
-      "reviewed_question_number": 5
+      "reviewed_question_number": 5,
+      "final_review_date": "2026-11-16",
+      "final_review_justification": "Retain inline answer B: Pricing Calculator models estimated costs from configuration and usage assumptions; estimates are not billing guarantees. Historical external answer A is incorrect: IAM policies control access."
     },
     {
       "stable_question_id": "CLF-D4-006",
@@ -489,7 +526,9 @@
       "explanation_of_correction": "All four options independently evaluated; explicit rationale added for each. External answer corrected to the defensible reviewed answer. Replaced overlapping legacy support-plan options with a specific designated-TAM requirement and current plan names. ",
       "official_aws_reference_url": "https://aws.amazon.com/premiumsupport/plans/",
       "qa_status": "reviewed",
-      "reviewed_question_number": 6
+      "reviewed_question_number": 6,
+      "final_review_date": "2026-11-16",
+      "final_review_justification": "Retain inline answer C: Enterprise Support provides designated TAM guidance for business-critical workloads; consult the current plan comparison for service terms. Historical external answer A is incorrect: Basic provides account and billing assistance and self-service resources, without designated TAM guidance."
     },
     {
       "stable_question_id": "CLF-CROSS-001",
@@ -508,7 +547,8 @@
       "explanation_of_correction": "All four options independently evaluated; explicit rationale added for each. ",
       "official_aws_reference_url": "https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html",
       "qa_status": "reviewed",
-      "reviewed_question_number": 1
+      "reviewed_question_number": 1,
+      "final_review_date": "2026-11-16"
     },
     {
       "stable_question_id": "CLF-CROSS-002",
@@ -527,7 +567,8 @@
       "explanation_of_correction": "All four options independently evaluated; explicit rationale added for each. ",
       "official_aws_reference_url": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html",
       "qa_status": "reviewed",
-      "reviewed_question_number": 2
+      "reviewed_question_number": 2,
+      "final_review_date": "2026-11-16"
     },
     {
       "stable_question_id": "CLF-CROSS-003",
@@ -546,7 +587,8 @@
       "explanation_of_correction": "All four options independently evaluated; explicit rationale added for each. ",
       "official_aws_reference_url": "https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html",
       "qa_status": "reviewed",
-      "reviewed_question_number": 3
+      "reviewed_question_number": 3,
+      "final_review_date": "2026-11-16"
     },
     {
       "stable_question_id": "CLF-CROSS-004",
@@ -565,7 +607,8 @@
       "explanation_of_correction": "All four options independently evaluated; explicit rationale added for each. ",
       "official_aws_reference_url": "https://docs.aws.amazon.com/wellarchitected/latest/framework/rel_fault_isolation_multiaz_region_system.html",
       "qa_status": "reviewed",
-      "reviewed_question_number": 4
+      "reviewed_question_number": 4,
+      "final_review_date": "2026-11-16"
     },
     {
       "stable_question_id": "CLF-CROSS-005",
@@ -584,7 +627,8 @@
       "explanation_of_correction": "All four options independently evaluated; explicit rationale added for each. ",
       "official_aws_reference_url": "https://docs.aws.amazon.com/cost-management/latest/userguide/ce-what-is.html",
       "qa_status": "reviewed",
-      "reviewed_question_number": 5
+      "reviewed_question_number": 5,
+      "final_review_date": "2026-11-16"
     },
     {
       "stable_question_id": "CLF-CROSS-006",
@@ -603,7 +647,8 @@
       "explanation_of_correction": "All four options independently evaluated; explicit rationale added for each. ",
       "official_aws_reference_url": "https://docs.aws.amazon.com/lambda/latest/dg/welcome.html",
       "qa_status": "reviewed",
-      "reviewed_question_number": 6
+      "reviewed_question_number": 6,
+      "final_review_date": "2026-11-16"
     },
     {
       "stable_question_id": "CLF-MOCK-001",
@@ -622,7 +667,8 @@
       "explanation_of_correction": "All four options independently evaluated; explicit rationale added for each. ",
       "official_aws_reference_url": "https://aws.amazon.com/what-is-cloud-computing/",
       "qa_status": "reviewed",
-      "reviewed_question_number": 1
+      "reviewed_question_number": 1,
+      "final_review_date": "2026-11-16"
     },
     {
       "stable_question_id": "CLF-MOCK-002",
@@ -642,7 +688,9 @@
       "explanation_of_correction": "All four options independently evaluated; explicit rationale added for each. External answer corrected to the defensible reviewed answer. ",
       "official_aws_reference_url": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-user-guide.html",
       "qa_status": "reviewed",
-      "reviewed_question_number": 2
+      "reviewed_question_number": 2,
+      "final_review_date": "2026-11-16",
+      "final_review_justification": "Retain inline answer A: CloudTrail records supported account activity as events. Historical external answer B is incorrect: S3 can store CloudTrail logs, but does not itself capture account API activity."
     },
     {
       "stable_question_id": "CLF-MOCK-003",
@@ -662,7 +710,9 @@
       "explanation_of_correction": "All four options independently evaluated; explicit rationale added for each. External answer corrected to the defensible reviewed answer. ",
       "official_aws_reference_url": "https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Welcome.html",
       "qa_status": "reviewed",
-      "reviewed_question_number": 3
+      "reviewed_question_number": 3,
+      "final_review_date": "2026-11-16",
+      "final_review_justification": "Retain inline answer B: RDS provides managed relational databases. Historical external answer C is incorrect: ElastiCache provides in-memory caching."
     },
     {
       "stable_question_id": "CLF-MOCK-004",
@@ -682,7 +732,9 @@
       "explanation_of_correction": "All four options independently evaluated; explicit rationale added for each. External answer corrected to the defensible reviewed answer. ",
       "official_aws_reference_url": "https://docs.aws.amazon.com/cost-management/latest/userguide/ce-what-is.html",
       "qa_status": "reviewed",
-      "reviewed_question_number": 4
+      "reviewed_question_number": 4,
+      "final_review_date": "2026-11-16",
+      "final_review_justification": "Retain inline answer A: Cost Explorer analyzes cost and usage and provides forecasts subject to available history. Historical external answer B is incorrect: KMS manages encryption keys."
     },
     {
       "stable_question_id": "CLF-MOCK-005",
@@ -701,7 +753,8 @@
       "explanation_of_correction": "All four options independently evaluated; explicit rationale added for each. ",
       "official_aws_reference_url": "https://aws.amazon.com/compliance/shared-responsibility-model/",
       "qa_status": "reviewed",
-      "reviewed_question_number": 5
+      "reviewed_question_number": 5,
+      "final_review_date": "2026-11-16"
     },
     {
       "stable_question_id": "CLF-MOCK-006",
@@ -721,7 +774,9 @@
       "explanation_of_correction": "All four options independently evaluated; explicit rationale added for each. External answer corrected to the defensible reviewed answer. ",
       "official_aws_reference_url": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html",
       "qa_status": "reviewed",
-      "reviewed_question_number": 6
+      "reviewed_question_number": 6,
+      "final_review_date": "2026-11-16",
+      "final_review_justification": "Retain inline answer A: S3 stores objects including static website assets. Historical external answer B is incorrect: Aurora is a relational database."
     },
     {
       "stable_question_id": "CLF-MOCK-007",
@@ -740,7 +795,8 @@
       "explanation_of_correction": "All four options independently evaluated; explicit rationale added for each. ",
       "official_aws_reference_url": "https://docs.aws.amazon.com/wellarchitected/latest/framework/rel_fault_isolation_multiaz_region_system.html",
       "qa_status": "reviewed",
-      "reviewed_question_number": 7
+      "reviewed_question_number": 7,
+      "final_review_date": "2026-11-16"
     },
     {
       "stable_question_id": "CLF-MOCK-008",
@@ -760,7 +816,9 @@
       "explanation_of_correction": "All four options independently evaluated; explicit rationale added for each. External answer corrected to the defensible reviewed answer. ",
       "official_aws_reference_url": "https://docs.aws.amazon.com/lambda/latest/dg/welcome.html",
       "qa_status": "reviewed",
-      "reviewed_question_number": 8
+      "reviewed_question_number": 8,
+      "final_review_date": "2026-11-16",
+      "final_review_justification": "Retain inline answer A: Lambda manages the underlying function execution infrastructure. Historical external answer B is incorrect: EC2 generally requires management of instances and guest operating systems."
     },
     {
       "stable_question_id": "CLF-MOCK-009",
@@ -780,7 +838,9 @@
       "explanation_of_correction": "All four options independently evaluated; explicit rationale added for each. External answer corrected to the defensible reviewed answer. ",
       "official_aws_reference_url": "https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html",
       "qa_status": "reviewed",
-      "reviewed_question_number": 9
+      "reviewed_question_number": 9,
+      "final_review_date": "2026-11-16",
+      "final_review_justification": "Retain inline answer C: Protect root with MFA and use it only for tasks that require it; prefer federated roles for routine work. Historical external answer B is incorrect: Disabling MFA weakens authentication."
     },
     {
       "stable_question_id": "CLF-MOCK-010",
@@ -799,7 +859,8 @@
       "explanation_of_correction": "All four options independently evaluated; explicit rationale added for each. ",
       "official_aws_reference_url": "https://docs.aws.amazon.com/cost-management/latest/userguide/budgets-managing-costs.html",
       "qa_status": "reviewed",
-      "reviewed_question_number": 10
+      "reviewed_question_number": 10,
+      "final_review_date": "2026-11-16"
     },
     {
       "stable_question_id": "CLF-FLASH-CLOUD-001",
@@ -816,7 +877,8 @@
       "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
       "official_aws_reference_url": "https://aws.amazon.com/what-is-cloud-computing/",
       "qa_status": "reviewed",
-      "question_type": "open-response"
+      "question_type": "open-response",
+      "final_review_date": "2026-11-16"
     },
     {
       "stable_question_id": "CLF-FLASH-CLOUD-002",
@@ -833,7 +895,8 @@
       "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
       "official_aws_reference_url": "https://aws.amazon.com/what-is-cloud-computing/",
       "qa_status": "reviewed",
-      "question_type": "open-response"
+      "question_type": "open-response",
+      "final_review_date": "2026-11-16"
     },
     {
       "stable_question_id": "CLF-FLASH-CLOUD-003",
@@ -850,7 +913,8 @@
       "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
       "official_aws_reference_url": "https://aws.amazon.com/what-is-cloud-computing/",
       "qa_status": "reviewed",
-      "question_type": "open-response"
+      "question_type": "open-response",
+      "final_review_date": "2026-11-16"
     },
     {
       "stable_question_id": "CLF-FLASH-CLOUD-004",
@@ -867,7 +931,8 @@
       "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
       "official_aws_reference_url": "https://docs.aws.amazon.com/wellarchitected/latest/framework/rel_fault_isolation_multiaz_region_system.html",
       "qa_status": "reviewed",
-      "question_type": "open-response"
+      "question_type": "open-response",
+      "final_review_date": "2026-11-16"
     },
     {
       "stable_question_id": "CLF-FLASH-CLOUD-005",
@@ -884,7 +949,8 @@
       "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
       "official_aws_reference_url": "https://docs.aws.amazon.com/wellarchitected/latest/framework/rel_fault_isolation_multiaz_region_system.html",
       "qa_status": "reviewed",
-      "question_type": "open-response"
+      "question_type": "open-response",
+      "final_review_date": "2026-11-16"
     },
     {
       "stable_question_id": "CLF-FLASH-CLOUD-006",
@@ -901,7 +967,8 @@
       "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
       "official_aws_reference_url": "https://aws.amazon.com/what-is-cloud-computing/",
       "qa_status": "reviewed",
-      "question_type": "open-response"
+      "question_type": "open-response",
+      "final_review_date": "2026-11-16"
     },
     {
       "stable_question_id": "CLF-FLASH-CLOUD-007",
@@ -918,7 +985,8 @@
       "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
       "official_aws_reference_url": "https://aws.amazon.com/what-is-cloud-computing/",
       "qa_status": "reviewed",
-      "question_type": "open-response"
+      "question_type": "open-response",
+      "final_review_date": "2026-11-16"
     },
     {
       "stable_question_id": "CLF-FLASH-CLOUD-008",
@@ -935,7 +1003,8 @@
       "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
       "official_aws_reference_url": "https://aws.amazon.com/compliance/shared-responsibility-model/",
       "qa_status": "reviewed",
-      "question_type": "open-response"
+      "question_type": "open-response",
+      "final_review_date": "2026-11-16"
     },
     {
       "stable_question_id": "CLF-FLASH-CLOUD-009",
@@ -952,7 +1021,8 @@
       "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
       "official_aws_reference_url": "https://docs.aws.amazon.com/wellarchitected/latest/framework/rel_fault_isolation_multiaz_region_system.html",
       "qa_status": "reviewed",
-      "question_type": "open-response"
+      "question_type": "open-response",
+      "final_review_date": "2026-11-16"
     },
     {
       "stable_question_id": "CLF-FLASH-CLOUD-010",
@@ -969,7 +1039,8 @@
       "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
       "official_aws_reference_url": "https://aws.amazon.com/what-is-cloud-computing/",
       "qa_status": "reviewed",
-      "question_type": "open-response"
+      "question_type": "open-response",
+      "final_review_date": "2026-11-16"
     },
     {
       "stable_question_id": "CLF-FLASH-CLOUD-011",
@@ -986,7 +1057,8 @@
       "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
       "official_aws_reference_url": "https://aws.amazon.com/what-is-cloud-computing/",
       "qa_status": "reviewed",
-      "question_type": "open-response"
+      "question_type": "open-response",
+      "final_review_date": "2026-11-16"
     },
     {
       "stable_question_id": "CLF-FLASH-CLOUD-012",
@@ -1003,7 +1075,8 @@
       "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
       "official_aws_reference_url": "https://docs.aws.amazon.com/wellarchitected/latest/framework/rel_fault_isolation_multiaz_region_system.html",
       "qa_status": "reviewed",
-      "question_type": "open-response"
+      "question_type": "open-response",
+      "final_review_date": "2026-11-16"
     },
     {
       "stable_question_id": "CLF-FLASH-IAM-001",
@@ -1020,7 +1093,8 @@
       "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
       "official_aws_reference_url": "https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html",
       "qa_status": "reviewed",
-      "question_type": "open-response"
+      "question_type": "open-response",
+      "final_review_date": "2026-11-16"
     },
     {
       "stable_question_id": "CLF-FLASH-IAM-002",
@@ -1037,7 +1111,8 @@
       "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
       "official_aws_reference_url": "https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html",
       "qa_status": "reviewed",
-      "question_type": "open-response"
+      "question_type": "open-response",
+      "final_review_date": "2026-11-16"
     },
     {
       "stable_question_id": "CLF-FLASH-IAM-003",
@@ -1054,7 +1129,8 @@
       "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
       "official_aws_reference_url": "https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html",
       "qa_status": "reviewed",
-      "question_type": "open-response"
+      "question_type": "open-response",
+      "final_review_date": "2026-11-16"
     },
     {
       "stable_question_id": "CLF-FLASH-IAM-004",
@@ -1071,7 +1147,8 @@
       "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
       "official_aws_reference_url": "https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html",
       "qa_status": "reviewed",
-      "question_type": "open-response"
+      "question_type": "open-response",
+      "final_review_date": "2026-11-16"
     },
     {
       "stable_question_id": "CLF-FLASH-IAM-005",
@@ -1088,7 +1165,8 @@
       "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
       "official_aws_reference_url": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-user-guide.html",
       "qa_status": "reviewed",
-      "question_type": "open-response"
+      "question_type": "open-response",
+      "final_review_date": "2026-11-16"
     },
     {
       "stable_question_id": "CLF-FLASH-IAM-006",
@@ -1105,7 +1183,8 @@
       "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
       "official_aws_reference_url": "https://docs.aws.amazon.com/waf/latest/developerguide/shield-chapter.html",
       "qa_status": "reviewed",
-      "question_type": "open-response"
+      "question_type": "open-response",
+      "final_review_date": "2026-11-16"
     },
     {
       "stable_question_id": "CLF-FLASH-IAM-007",
@@ -1122,7 +1201,8 @@
       "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
       "official_aws_reference_url": "https://docs.aws.amazon.com/kms/latest/developerguide/overview.html",
       "qa_status": "reviewed",
-      "question_type": "open-response"
+      "question_type": "open-response",
+      "final_review_date": "2026-11-16"
     },
     {
       "stable_question_id": "CLF-FLASH-IAM-008",
@@ -1139,7 +1219,8 @@
       "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
       "official_aws_reference_url": "https://docs.aws.amazon.com/artifact/latest/ug/what-is-aws-artifact.html",
       "qa_status": "reviewed",
-      "question_type": "open-response"
+      "question_type": "open-response",
+      "final_review_date": "2026-11-16"
     },
     {
       "stable_question_id": "CLF-FLASH-IAM-009",
@@ -1156,7 +1237,8 @@
       "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
       "official_aws_reference_url": "https://aws.amazon.com/compliance/shared-responsibility-model/",
       "qa_status": "reviewed",
-      "question_type": "open-response"
+      "question_type": "open-response",
+      "final_review_date": "2026-11-16"
     },
     {
       "stable_question_id": "CLF-FLASH-IAM-010",
@@ -1173,7 +1255,8 @@
       "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
       "official_aws_reference_url": "https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html",
       "qa_status": "reviewed",
-      "question_type": "open-response"
+      "question_type": "open-response",
+      "final_review_date": "2026-11-16"
     },
     {
       "stable_question_id": "CLF-FLASH-IAM-011",
@@ -1190,7 +1273,8 @@
       "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
       "official_aws_reference_url": "https://docs.aws.amazon.com/guardduty/latest/ug/what-is-guardduty.html",
       "qa_status": "reviewed",
-      "question_type": "open-response"
+      "question_type": "open-response",
+      "final_review_date": "2026-11-16"
     },
     {
       "stable_question_id": "CLF-FLASH-IAM-012",
@@ -1207,7 +1291,8 @@
       "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
       "official_aws_reference_url": "https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html",
       "qa_status": "reviewed",
-      "question_type": "open-response"
+      "question_type": "open-response",
+      "final_review_date": "2026-11-16"
     },
     {
       "stable_question_id": "CLF-FLASH-S3-001",
@@ -1224,7 +1309,8 @@
       "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
       "official_aws_reference_url": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage-class-intro.html",
       "qa_status": "reviewed",
-      "question_type": "open-response"
+      "question_type": "open-response",
+      "final_review_date": "2026-11-16"
     },
     {
       "stable_question_id": "CLF-FLASH-S3-002",
@@ -1241,7 +1327,8 @@
       "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
       "official_aws_reference_url": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage-class-intro.html",
       "qa_status": "reviewed",
-      "question_type": "open-response"
+      "question_type": "open-response",
+      "final_review_date": "2026-11-16"
     },
     {
       "stable_question_id": "CLF-FLASH-S3-003",
@@ -1258,7 +1345,8 @@
       "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
       "official_aws_reference_url": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage-class-intro.html",
       "qa_status": "reviewed",
-      "question_type": "open-response"
+      "question_type": "open-response",
+      "final_review_date": "2026-11-16"
     },
     {
       "stable_question_id": "CLF-FLASH-S3-004",
@@ -1275,7 +1363,8 @@
       "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
       "official_aws_reference_url": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage-class-intro.html",
       "qa_status": "reviewed",
-      "question_type": "open-response"
+      "question_type": "open-response",
+      "final_review_date": "2026-11-16"
     },
     {
       "stable_question_id": "CLF-FLASH-S3-005",
@@ -1292,7 +1381,8 @@
       "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
       "official_aws_reference_url": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage-class-intro.html",
       "qa_status": "reviewed",
-      "question_type": "open-response"
+      "question_type": "open-response",
+      "final_review_date": "2026-11-16"
     },
     {
       "stable_question_id": "CLF-FLASH-S3-006",
@@ -1309,7 +1399,8 @@
       "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
       "official_aws_reference_url": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage-class-intro.html",
       "qa_status": "reviewed",
-      "question_type": "open-response"
+      "question_type": "open-response",
+      "final_review_date": "2026-11-16"
     },
     {
       "stable_question_id": "CLF-FLASH-S3-007",
@@ -1326,7 +1417,8 @@
       "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
       "official_aws_reference_url": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage-class-intro.html",
       "qa_status": "reviewed",
-      "question_type": "open-response"
+      "question_type": "open-response",
+      "final_review_date": "2026-11-16"
     },
     {
       "stable_question_id": "CLF-FLASH-S3-008",
@@ -1343,7 +1435,8 @@
       "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
       "official_aws_reference_url": "https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/private-content-restricting-access-to-s3.html",
       "qa_status": "reviewed",
-      "question_type": "open-response"
+      "question_type": "open-response",
+      "final_review_date": "2026-11-16"
     },
     {
       "stable_question_id": "CLF-FLASH-S3-009",
@@ -1360,7 +1453,8 @@
       "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
       "official_aws_reference_url": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage-class-intro.html",
       "qa_status": "reviewed",
-      "question_type": "open-response"
+      "question_type": "open-response",
+      "final_review_date": "2026-11-16"
     },
     {
       "stable_question_id": "CLF-FLASH-S3-010",
@@ -1377,7 +1471,8 @@
       "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
       "official_aws_reference_url": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage-class-intro.html",
       "qa_status": "reviewed",
-      "question_type": "open-response"
+      "question_type": "open-response",
+      "final_review_date": "2026-11-16"
     },
     {
       "stable_question_id": "CLF-FLASH-S3-011",
@@ -1394,7 +1489,8 @@
       "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
       "official_aws_reference_url": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage-class-intro.html",
       "qa_status": "reviewed",
-      "question_type": "open-response"
+      "question_type": "open-response",
+      "final_review_date": "2026-11-16"
     },
     {
       "stable_question_id": "CLF-FLASH-S3-012",
@@ -1411,7 +1507,8 @@
       "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
       "official_aws_reference_url": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage-class-intro.html",
       "qa_status": "reviewed",
-      "question_type": "open-response"
+      "question_type": "open-response",
+      "final_review_date": "2026-11-16"
     },
     {
       "stable_question_id": "CLF-FLASH-COST-001",
@@ -1428,7 +1525,8 @@
       "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
       "official_aws_reference_url": "https://aws.amazon.com/ec2/pricing/",
       "qa_status": "reviewed",
-      "question_type": "open-response"
+      "question_type": "open-response",
+      "final_review_date": "2026-11-16"
     },
     {
       "stable_question_id": "CLF-FLASH-COST-002",
@@ -1445,7 +1543,8 @@
       "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
       "official_aws_reference_url": "https://aws.amazon.com/ec2/pricing/",
       "qa_status": "reviewed",
-      "question_type": "open-response"
+      "question_type": "open-response",
+      "final_review_date": "2026-11-16"
     },
     {
       "stable_question_id": "CLF-FLASH-COST-003",
@@ -1462,7 +1561,8 @@
       "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
       "official_aws_reference_url": "https://aws.amazon.com/ec2/pricing/",
       "qa_status": "reviewed",
-      "question_type": "open-response"
+      "question_type": "open-response",
+      "final_review_date": "2026-11-16"
     },
     {
       "stable_question_id": "CLF-FLASH-COST-004",
@@ -1479,7 +1579,8 @@
       "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
       "official_aws_reference_url": "https://aws.amazon.com/ec2/pricing/",
       "qa_status": "reviewed",
-      "question_type": "open-response"
+      "question_type": "open-response",
+      "final_review_date": "2026-11-16"
     },
     {
       "stable_question_id": "CLF-FLASH-COST-005",
@@ -1496,7 +1597,8 @@
       "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
       "official_aws_reference_url": "https://docs.aws.amazon.com/cost-management/latest/userguide/budgets-managing-costs.html",
       "qa_status": "reviewed",
-      "question_type": "open-response"
+      "question_type": "open-response",
+      "final_review_date": "2026-11-16"
     },
     {
       "stable_question_id": "CLF-FLASH-COST-006",
@@ -1513,7 +1615,8 @@
       "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
       "official_aws_reference_url": "https://docs.aws.amazon.com/cost-management/latest/userguide/ce-what-is.html",
       "qa_status": "reviewed",
-      "question_type": "open-response"
+      "question_type": "open-response",
+      "final_review_date": "2026-11-16"
     },
     {
       "stable_question_id": "CLF-FLASH-COST-007",
@@ -1530,7 +1633,8 @@
       "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
       "official_aws_reference_url": "https://aws.amazon.com/free/",
       "qa_status": "reviewed",
-      "question_type": "open-response"
+      "question_type": "open-response",
+      "final_review_date": "2026-11-16"
     },
     {
       "stable_question_id": "CLF-FLASH-COST-008",
@@ -1547,7 +1651,8 @@
       "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
       "official_aws_reference_url": "https://docs.aws.amazon.com/pricing-calculator/latest/userguide/what-is-pricing-calculator.html",
       "qa_status": "reviewed",
-      "question_type": "open-response"
+      "question_type": "open-response",
+      "final_review_date": "2026-11-16"
     },
     {
       "stable_question_id": "CLF-FLASH-COST-009",
@@ -1564,7 +1669,8 @@
       "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
       "official_aws_reference_url": "https://docs.aws.amazon.com/awssupport/latest/user/trusted-advisor.html",
       "qa_status": "reviewed",
-      "question_type": "open-response"
+      "question_type": "open-response",
+      "final_review_date": "2026-11-16"
     },
     {
       "stable_question_id": "CLF-FLASH-COST-010",
@@ -1581,7 +1687,8 @@
       "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
       "official_aws_reference_url": "https://aws.amazon.com/premiumsupport/faqs/",
       "qa_status": "reviewed",
-      "question_type": "open-response"
+      "question_type": "open-response",
+      "final_review_date": "2026-11-16"
     },
     {
       "stable_question_id": "CLF-FLASH-COST-011",
@@ -1598,7 +1705,8 @@
       "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
       "official_aws_reference_url": "https://aws.amazon.com/what-is-cloud-computing/",
       "qa_status": "reviewed",
-      "question_type": "open-response"
+      "question_type": "open-response",
+      "final_review_date": "2026-11-16"
     },
     {
       "stable_question_id": "CLF-FLASH-COST-012",
@@ -1615,7 +1723,8 @@
       "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
       "official_aws_reference_url": "https://docs.aws.amazon.com/cost-management/latest/userguide/budgets-managing-costs.html",
       "qa_status": "reviewed",
-      "question_type": "open-response"
+      "question_type": "open-response",
+      "final_review_date": "2026-11-16"
     },
     {
       "stable_question_id": "CLF-QUICK-001",
@@ -1632,7 +1741,8 @@
       "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
       "official_aws_reference_url": "https://docs.aws.amazon.com/wellarchitected/latest/framework/rel_fault_isolation_multiaz_region_system.html",
       "qa_status": "reviewed",
-      "question_type": "single-answer"
+      "question_type": "single-answer",
+      "final_review_date": "2026-11-16"
     },
     {
       "stable_question_id": "CLF-QUICK-002",
@@ -1649,7 +1759,8 @@
       "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
       "official_aws_reference_url": "https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html",
       "qa_status": "reviewed",
-      "question_type": "single-answer"
+      "question_type": "single-answer",
+      "final_review_date": "2026-11-16"
     },
     {
       "stable_question_id": "CLF-QUICK-003",
@@ -1666,7 +1777,8 @@
       "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
       "official_aws_reference_url": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage-class-intro.html",
       "qa_status": "reviewed",
-      "question_type": "single-answer"
+      "question_type": "single-answer",
+      "final_review_date": "2026-11-16"
     },
     {
       "stable_question_id": "CLF-QUICK-004",
@@ -1683,7 +1795,8 @@
       "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
       "official_aws_reference_url": "https://docs.aws.amazon.com/pricing-calculator/latest/userguide/what-is-pricing-calculator.html",
       "qa_status": "reviewed",
-      "question_type": "single-answer"
+      "question_type": "single-answer",
+      "final_review_date": "2026-11-16"
     },
     {
       "stable_question_id": "CLF-NOTE-001",
@@ -1700,7 +1813,8 @@
       "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
       "official_aws_reference_url": "https://aws.amazon.com/what-is-cloud-computing/",
       "qa_status": "reviewed",
-      "question_type": "open-response"
+      "question_type": "open-response",
+      "final_review_date": "2026-11-16"
     },
     {
       "stable_question_id": "CLF-NOTE-002",
@@ -1717,7 +1831,8 @@
       "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
       "official_aws_reference_url": "https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html",
       "qa_status": "reviewed",
-      "question_type": "open-response"
+      "question_type": "open-response",
+      "final_review_date": "2026-11-16"
     },
     {
       "stable_question_id": "CLF-NOTE-003",
@@ -1734,7 +1849,8 @@
       "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
       "official_aws_reference_url": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage-class-intro.html",
       "qa_status": "reviewed",
-      "question_type": "open-response"
+      "question_type": "open-response",
+      "final_review_date": "2026-11-16"
     },
     {
       "stable_question_id": "CLF-NOTE-004",
@@ -1751,7 +1867,8 @@
       "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
       "official_aws_reference_url": "https://docs.aws.amazon.com/pricing-calculator/latest/userguide/what-is-pricing-calculator.html",
       "qa_status": "reviewed",
-      "question_type": "open-response"
+      "question_type": "open-response",
+      "final_review_date": "2026-11-16"
     }
   ],
   "orphaned_historical_answer_entries": [

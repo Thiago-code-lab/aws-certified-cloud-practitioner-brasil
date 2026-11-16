@@ -7,7 +7,7 @@ Module to recognize delivery, automation and integration tools at the Cloud Prac
 - CodeCommit, CodeBuild, CodeDeploy and CodePipeline.
 - Infrastructure as code and basic automation.
 
-## Quick Review
+## Quick review
 - CodePipeline orchestrates delivery steps.
 - CodeBuild compiles and tests code.
 - CloudFormation describes infrastructure as code.
@@ -23,8 +23,8 @@ Confusing build tool with pipeline tool. Build executes step; pipeline coordinat
 ## What to memorize
 | Comparison | Exam rule of thumb |
 |---|---|
-| CodeBuild vs CodePipeline | Build executes; Orchestral pipeline |
-| Manual Console vs CloudFormation | Manual is punctual; template is repeatable |
+| CodeBuild vs CodePipeline | CodeBuild builds and tests; CodePipeline orchestrates delivery |
+| Manual Console vs CloudFormation | Console changes are performed individually; templates define repeatable infrastructure |
 
 ## Consolidation bridge
 After this module, return to quick-review and flashcards to consolidate exam clues by domain.
@@ -61,6 +61,6 @@ Follow CloudStudy to keep up with new materials, updates and content about AWS c
 - [AWS CDK and CloudFormation](05-aws-cdk-and-cloudformation.md)
 - [AWS SAM](06-aws-sam.md)
 - [AWS Amplify](07-aws-amplify.md)
-- [AWS X Ray](08-aws-x-ray.md)
+- [AWS X-Ray](08-aws-x-ray.md)
 
 [Back to all modules](../README.md#modules)

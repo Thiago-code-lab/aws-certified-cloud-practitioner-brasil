@@ -1,11 +1,11 @@
-# AWS Datasync
+# AWS DataSync
 
 AWS DataSync accelerates and automates file transfers between local storage, other environments, and supported AWS services.
 
 - Moves large volumes across the network with verification and scheduling.
 - It is useful in migration, replication and archiving.
 - Works with destinations such as S3, EFS and FSx.
-- **Exam tip:** recurring online file transfer points to DataSync; physical shipping points to Snow Family.
+- **Exam tip:** recurring online file transfer points to DataSync; physical shipping points to Snow Family in historical scenarios, subject to current availability restrictions.
 
 Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 

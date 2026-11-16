@@ -5,9 +5,9 @@ Module focused on what is most tested: identity, access, auditing and responsibi
 ## Module focus
 - IAM: users, groups, roles and policies.
 - MFA and least privilege.
-- Audit with CloudTrail and compliance base.
+- Auditing with CloudTrail and compliance fundamentals.
 
-## Quick Review
+## Quick review
 - Root must be restricted and protected with MFA.
 - IAM controls authentication and authorization.
 - CloudTrail responds to "who did what" via API events.
@@ -23,7 +23,7 @@ Assuming that enabling IAM alone establishes compliance. The exam covers a combi
 ## What to memorize
 | Comparison | Exam rule of thumb |
 |---|---|
-| IAM User vs IAM Role | User = long-term identity; Role = assumed permission, including temporary |
+| IAM User vs IAM Role | User = persistent identity; role = persistent identity assumed to obtain temporary credentials |
 | Root vs IAM Admin | Root for exceptional tasks; federated roles for routine operation |
 
 ## Bridge to next module

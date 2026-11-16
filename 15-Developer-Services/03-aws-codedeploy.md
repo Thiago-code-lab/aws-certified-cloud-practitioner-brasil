@@ -5,7 +5,7 @@ AWS CodeDeploy automates the deployment of new versions to supported targets.
 - Supports strategies such as in-place and blue/green depending on the platform.
 - Controls phases, validations and rollback of the deployment.
 - Reduces manual tasks and inconsistencies between environments.
-- **Exam tip:** putting a running version points to CodeDeploy; generating the artifact points to CodeBuild.
+- **Exam tip:** deploying an application version points to CodeDeploy; generating the artifact points to CodeBuild.
 
 Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 

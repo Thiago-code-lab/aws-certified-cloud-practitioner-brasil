@@ -1,16 +1,16 @@
 # Networks and Connectivity
 
-Module to recognize the most charged network services at the Cloud Practitioner level.
+Module for recognizing commonly tested networking services at the Cloud Practitioner level.
 
 ## Module focus
 - VPC, subnets, Security Groups and NACLs.
 - Route 53, CloudFront and high-level hybrid connectivity.
 - Public, private and edge network concepts.
 
-## Quick Review
+## Quick review
 - VPC logically isolates network resources in AWS.
 - Security Group operates at the resource level; NACL operates at the subnet level.
-- CloudFront brings user content closer to edge locations.
+- CloudFront caches content at edge locations closer to users.
 
 ## Common exam clues
 - "Managed DNS" -> Amazon Route 53.
@@ -18,7 +18,7 @@ Module to recognize the most charged network services at the Cloud Practitioner 
 - "Dedicated connection between datacenter and AWS" -> AWS Direct Connect.
 
 ## Common error
-Treat Security Group and NACL as equal. Security Group is stateful; NACL is stateless.
+Treating security groups and network ACLs as interchangeable. Security Group is stateful; NACL is stateless.
 
 ## What to memorize
 | Comparison | Exam rule of thumb |

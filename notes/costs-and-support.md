@@ -1,6 +1,6 @@
 # Costs and Support - Exam Review
 
-## Quick Review
+## Quick review
 - On-Demand prioritizes flexibility; Spot prioritizes discounts with the risk of interruption.
 - Budgets creates budget alerts.
 - Cost Explorer analyzes history, trend and forecast.
@@ -9,7 +9,7 @@
 If the scenario calls for actual spending forecast or trend, the associated service is Cost Explorer.
 
 ## Common error
-Make decision only by hourly price and ignore total cost.
+Making a decision based only on hourly price and ignore total cost.
 
 ## What to memorize
 | Comparison | Mental rule |

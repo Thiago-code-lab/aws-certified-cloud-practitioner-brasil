@@ -9,7 +9,7 @@
 ## Global Infrastructure
 
 - **Region:** geographic area chosen by latency, cost, compliance and available services.
-- **AZ:** isolated location within the Region; Multiple AZs increase availability.
+- **AZ:** isolated location within the Region; multiple AZs increase availability.
 - **Point of presence:** brings DNS and content distribution closer to users.
 
 ## Shared responsibility

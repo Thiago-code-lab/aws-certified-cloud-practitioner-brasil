@@ -4,7 +4,7 @@
 <!-- question-id: CLF-D4-001; domain: 4; select: 1 -->
 ## Question 1
 
-Which EC2 purchasing option fits an unpredictable workload that requires uninterrupted instance capacity without a long-term commitment? Select one answer.
+Which EC2 purchasing option fits an unpredictable workload that cannot tolerate Spot capacity-reclamation interruptions without a long-term commitment? Select one answer.
 
 A) Savings Plans
 

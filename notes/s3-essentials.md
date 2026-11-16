@@ -1,6 +1,6 @@
-# S3 Essential - Test Review
+# S3 Essentials - Exam Review
 
-## Quick Review
+## Quick review
 - S3 is object storage, not block volume.
 - Versioning helps against accidental deletion or overwriting.
 - Lifecycle optimizes cost with transition and automatic expiration.
@@ -9,7 +9,7 @@
 If the statement talks about long-term archiving with rare access, the clue is usually Glacier.
 
 ## Common error
-Use S3 as if it were an EC2 operating system disk.
+Using S3 as if it were an EC2 operating system disk.
 
 ## What to memorize
 | Comparison | Mental rule |
@@ -19,7 +19,7 @@ Use S3 as if it were an EC2 operating system disk.
 
 <!-- question-id: CLF-NOTE-003; domain: 3; type: open-response -->
 ## Validation question
-A bucket receives monthly reports and must move old files to cheaper storage without manual action. Which resource to use?
+A bucket receives monthly reports and must move old files to cheaper storage without manual action. Which feature should it use?
 
 <details>
 <summary><strong>View answer</strong></summary>

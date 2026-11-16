@@ -1,4 +1,4 @@
-# Deck Amazon S3
+# Amazon S3 Deck
 
 <!-- question-id: CLF-FLASH-S3-001; domain: 3; type: open-response -->
 ## Card 01
@@ -17,7 +17,7 @@ Objects. Each object combines data, metadata, and a unique key within the bucket
 
 <!-- question-id: CLF-FLASH-S3-002; domain: 3; type: open-response -->
 ## Card 02
-**Question:** What mental number helps you remember the durability of the S3?
+**Question:** What durability design target is associated with S3 Standard?
 
 <details>
 <summary><strong>View answer</strong></summary>
@@ -107,7 +107,7 @@ S3 Glacier Flexible Retrieval offers asynchronous restores measured in minutes t
 
 <!-- question-id: CLF-FLASH-S3-008; domain: 3; type: open-response -->
 ## Card 08
-**Question:** Static site on S3 only requires uploading HTML files?
+**Question:** Does hosting a static site on S3 require only uploading HTML files?
 
 <details>
 <summary><strong>View answer</strong></summary>

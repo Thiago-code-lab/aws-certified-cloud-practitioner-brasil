@@ -1,6 +1,6 @@
-# Resources And Links
+# Resources and Links
 
-Objective summary of the module focusing on fundamentals, quick review and initial application.
+Use these official resources to verify service behavior and keep your CLF-C02 study plan current.
 
 ## Focus
 - Essential concepts
@@ -30,3 +30,14 @@ Follow CloudStudy to keep up with new materials, updates and content about AWS c
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/
 
 ---
+
+## Study references
+
+- [CLF-C02 exam guide and domains](https://docs.aws.amazon.com/aws-certification/latest/cloud-practitioner-02/cloud-practitioner-02.html)
+- [AWS documentation](https://docs.aws.amazon.com/)
+- [Shared Responsibility Model](https://aws.amazon.com/compliance/shared-responsibility-model/)
+- [AWS Support plan comparison](https://aws.amazon.com/premiumsupport/plans/)
+- [AWS Free Tier terms](https://aws.amazon.com/free/)
+- [AWS Pricing Calculator](https://calculator.aws/)
+
+[Back to all modules](../README.md#modules)

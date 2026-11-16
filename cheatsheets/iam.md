@@ -16,7 +16,7 @@
 ## Good practices
 
 - Enable MFA, apply least privilege, and review credentials.
-- Avoid permanent access keys and never use the root account in daily work.
+- Avoid permanent access keys and never use the root user for daily work.
 - Do not store secrets in code; use dedicated services such as AWS Secrets Manager for credentials and rotation.
 
 Architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english

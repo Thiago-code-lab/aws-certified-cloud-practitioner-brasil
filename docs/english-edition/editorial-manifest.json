@@ -8,25 +8,45 @@
       "path": ".github/CODE_OF_CONDUCT.md",
       "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
       "technical_references": [],
-      "status": "localization-and-editorial-review"
+      "status": "localization-and-editorial-review",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "reviewed-without-change"
+      }
     },
     {
       "path": ".github/CONTRIBUTING.md",
       "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
       "technical_references": [],
-      "status": "localization-and-editorial-review"
+      "status": "localization-and-editorial-review",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "reviewed-without-change"
+      }
     },
     {
       "path": ".github/ISSUE_TEMPLATE/bug_report.md",
       "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
       "technical_references": [],
-      "status": "localization-and-editorial-review"
+      "status": "localization-and-editorial-review",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "reviewed-without-change"
+      }
     },
     {
       "path": ".github/ISSUE_TEMPLATE/feature_request.md",
       "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
       "technical_references": [],
-      "status": "localization-and-editorial-review"
+      "status": "localization-and-editorial-review",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "reviewed-without-change"
+      }
     },
     {
       "path": "01-Introduction-to-Cloud-Computing/01-what-is-cloud-computing.md",
@@ -35,7 +55,12 @@
         "https://aws.amazon.com/what-is-cloud-computing/",
         "https://docs.aws.amazon.com/global-infrastructure/latest/regions/aws-regions-availability-zones.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "reviewed-without-change"
+      }
     },
     {
       "path": "01-Introduction-to-Cloud-Computing/02-service-models.md",
@@ -44,7 +69,12 @@
         "https://aws.amazon.com/what-is-cloud-computing/",
         "https://docs.aws.amazon.com/global-infrastructure/latest/regions/aws-regions-availability-zones.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "reviewed-without-change"
+      }
     },
     {
       "path": "01-Introduction-to-Cloud-Computing/03-deployment-models.md",
@@ -53,7 +83,12 @@
         "https://aws.amazon.com/what-is-cloud-computing/",
         "https://docs.aws.amazon.com/global-infrastructure/latest/regions/aws-regions-availability-zones.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "reviewed-without-change"
+      }
     },
     {
       "path": "01-Introduction-to-Cloud-Computing/04-regions-and-availability-zones.md",
@@ -62,7 +97,12 @@
         "https://aws.amazon.com/what-is-cloud-computing/",
         "https://docs.aws.amazon.com/global-infrastructure/latest/regions/aws-regions-availability-zones.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "reviewed-without-change"
+      }
     },
     {
       "path": "01-Introduction-to-Cloud-Computing/05-benefits-of-cloud-computing.md",
@@ -71,7 +111,12 @@
         "https://aws.amazon.com/what-is-cloud-computing/",
         "https://docs.aws.amazon.com/global-infrastructure/latest/regions/aws-regions-availability-zones.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "reviewed-without-change"
+      }
     },
     {
       "path": "01-Introduction-to-Cloud-Computing/README.md",
@@ -80,7 +125,12 @@
         "https://aws.amazon.com/what-is-cloud-computing/",
         "https://docs.aws.amazon.com/global-infrastructure/latest/regions/aws-regions-availability-zones.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "corrected"
+      }
     },
     {
       "path": "02-Amazon-EC2/01-instance-types.md",
@@ -89,7 +139,12 @@
         "https://aws.amazon.com/ec2/pricing/",
         "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "reviewed-without-change"
+      }
     },
     {
       "path": "02-Amazon-EC2/02-pricing-models.md",
@@ -98,7 +153,12 @@
         "https://aws.amazon.com/ec2/pricing/",
         "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "corrected"
+      }
     },
     {
       "path": "02-Amazon-EC2/03-auto-scaling.md",
@@ -106,7 +166,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/autoscaling/ec2/userguide/what-is-amazon-ec2-auto-scaling.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "reviewed-without-change"
+      }
     },
     {
       "path": "02-Amazon-EC2/04-elastic-load-balancing.md",
@@ -114,7 +179,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/elasticloadbalancing/latest/userguide/what-is-load-balancing.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "reviewed-without-change"
+      }
     },
     {
       "path": "02-Amazon-EC2/05-user-data-and-metadata.md",
@@ -122,7 +192,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/configuring-instance-metadata-service.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "reviewed-without-change"
+      }
     },
     {
       "path": "02-Amazon-EC2/README.md",
@@ -131,7 +206,12 @@
         "https://aws.amazon.com/ec2/pricing/",
         "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "corrected"
+      }
     },
     {
       "path": "03-Security-and-Compliance/01-shared-responsibility-model.md",
@@ -140,7 +220,12 @@
         "https://aws.amazon.com/compliance/shared-responsibility-model/",
         "https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "reviewed-without-change"
+      }
     },
     {
       "path": "03-Security-and-Compliance/02-iam.md",
@@ -149,7 +234,12 @@
         "https://aws.amazon.com/compliance/shared-responsibility-model/",
         "https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "corrected"
+      }
     },
     {
       "path": "03-Security-and-Compliance/03-aws-organizations.md",
@@ -157,7 +247,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_scps.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "corrected"
+      }
     },
     {
       "path": "03-Security-and-Compliance/04-aws-shield-and-waf.md",
@@ -165,7 +260,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/waf/latest/developerguide/what-is-aws-waf.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "reviewed-without-change"
+      }
     },
     {
       "path": "03-Security-and-Compliance/05-amazon-inspector-and-guardduty.md",
@@ -173,7 +273,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/inspector/latest/user/what-is-inspector.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "corrected"
+      }
     },
     {
       "path": "03-Security-and-Compliance/06-aws-kms-and-secrets-manager.md",
@@ -181,7 +286,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/kms/latest/developerguide/overview.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "reviewed-without-change"
+      }
     },
     {
       "path": "03-Security-and-Compliance/07-aws-config.md",
@@ -189,7 +299,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/config/latest/developerguide/WhatIsConfig.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "reviewed-without-change"
+      }
     },
     {
       "path": "03-Security-and-Compliance/08-aws-cloudtrail.md",
@@ -197,7 +312,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-user-guide.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "reviewed-without-change"
+      }
     },
     {
       "path": "03-Security-and-Compliance/09-aws-artifact.md",
@@ -205,7 +325,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/artifact/latest/ug/what-is-aws-artifact.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "corrected"
+      }
     },
     {
       "path": "03-Security-and-Compliance/10-compliance-programs.md",
@@ -213,7 +338,12 @@
       "technical_references": [
         "https://aws.amazon.com/compliance/programs/"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "reviewed-without-change"
+      }
     },
     {
       "path": "03-Security-and-Compliance/README.md",
@@ -222,7 +352,12 @@
         "https://aws.amazon.com/compliance/shared-responsibility-model/",
         "https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "corrected"
+      }
     },
     {
       "path": "04-Amazon-S3/01-basic-concepts.md",
@@ -232,7 +367,12 @@
         "https://docs.aws.amazon.com/AmazonS3/latest/userguide/bucketnamingrules.html",
         "https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage-class-intro.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "corrected"
+      }
     },
     {
       "path": "04-Amazon-S3/02-storage-classes.md",
@@ -241,7 +381,12 @@
         "https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html",
         "https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage-class-intro.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "corrected"
+      }
     },
     {
       "path": "04-Amazon-S3/03-policies-and-acls.md",
@@ -251,7 +396,12 @@
         "https://docs.aws.amazon.com/AmazonS3/latest/userguide/about-object-ownership.html",
         "https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage-class-intro.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "corrected"
+      }
     },
     {
       "path": "04-Amazon-S3/04-versioning-and-lifecycle.md",
@@ -260,7 +410,12 @@
         "https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html",
         "https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage-class-intro.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "corrected"
+      }
     },
     {
       "path": "04-Amazon-S3/05-s3-transfer-acceleration.md",
@@ -269,7 +424,12 @@
         "https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html",
         "https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage-class-intro.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "corrected"
+      }
     },
     {
       "path": "04-Amazon-S3/06-static-website.md",
@@ -280,7 +440,12 @@
         "https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html",
         "https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage-class-intro.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "corrected"
+      }
     },
     {
       "path": "04-Amazon-S3/README.md",
@@ -289,7 +454,12 @@
         "https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html",
         "https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage-class-intro.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "corrected"
+      }
     },
     {
       "path": "05-Networking-and-Connectivity/01-vpc-fundamentals.md",
@@ -297,7 +467,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "corrected"
+      }
     },
     {
       "path": "05-Networking-and-Connectivity/02-public-and-private-subnets.md",
@@ -305,7 +480,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "corrected"
+      }
     },
     {
       "path": "05-Networking-and-Connectivity/03-internet-gateway-and-nat.md",
@@ -313,7 +493,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/vpc/latest/userguide/vpc-nat-gateway.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "corrected"
+      }
     },
     {
       "path": "05-Networking-and-Connectivity/04-security-groups-and-network-acls.md",
@@ -321,7 +506,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/vpc/latest/userguide/vpc-security-groups.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "corrected"
+      }
     },
     {
       "path": "05-Networking-and-Connectivity/05-vpc-peering-and-transit-gateway.md",
@@ -329,7 +519,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/vpc/latest/peering/what-is-vpc-peering.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "corrected"
+      }
     },
     {
       "path": "05-Networking-and-Connectivity/06-direct-connect-and-vpn.md",
@@ -338,7 +533,12 @@
         "https://docs.aws.amazon.com/directconnect/latest/UserGuide/Welcome.html",
         "https://docs.aws.amazon.com/directconnect/latest/UserGuide/encryption-in-transit.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "corrected"
+      }
     },
     {
       "path": "05-Networking-and-Connectivity/07-route-53.md",
@@ -346,7 +546,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/Welcome.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "reviewed-without-change"
+      }
     },
     {
       "path": "05-Networking-and-Connectivity/README.md",
@@ -354,7 +559,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "corrected"
+      }
     },
     {
       "path": "06-Databases/01-rds.md",
@@ -363,7 +573,12 @@
         "https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Concepts.MultiAZ.html",
         "https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Welcome.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "reviewed-without-change"
+      }
     },
     {
       "path": "06-Databases/02-aurora.md",
@@ -371,7 +586,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/CHAP_AuroraOverview.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "corrected"
+      }
     },
     {
       "path": "06-Databases/03-dynamodb.md",
@@ -379,7 +599,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Introduction.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "reviewed-without-change"
+      }
     },
     {
       "path": "06-Databases/04-elasticache.md",
@@ -387,7 +612,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/AmazonElastiCache/latest/dg/WhatIs.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "corrected"
+      }
     },
     {
       "path": "06-Databases/05-redshift.md",
@@ -395,7 +625,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/redshift/latest/mgmt/welcome.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "reviewed-without-change"
+      }
     },
     {
       "path": "06-Databases/06-documentdb-and-neptune.md",
@@ -403,7 +638,12 @@
       "technical_references": [
         "https://aws.amazon.com/documentdb/"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "corrected"
+      }
     },
     {
       "path": "06-Databases/07-database-migration-service.md",
@@ -411,7 +651,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/dms/latest/userguide/Welcome.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "reviewed-without-change"
+      }
     },
     {
       "path": "06-Databases/README.md",
@@ -419,7 +664,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Welcome.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "corrected"
+      }
     },
     {
       "path": "07-Serverless-Computing/01-aws-lambda.md",
@@ -427,7 +677,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/lambda/latest/dg/welcome.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "corrected"
+      }
     },
     {
       "path": "07-Serverless-Computing/02-api-gateway.md",
@@ -435,7 +690,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/apigateway/latest/developerguide/welcome.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "reviewed-without-change"
+      }
     },
     {
       "path": "07-Serverless-Computing/03-aws-fargate.md",
@@ -443,7 +703,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/AmazonECS/latest/developerguide/AWS_Fargate.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "corrected"
+      }
     },
     {
       "path": "07-Serverless-Computing/04-amazon-ecs-and-eks.md",
@@ -451,7 +716,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/AmazonECS/latest/developerguide/Welcome.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "corrected"
+      }
     },
     {
       "path": "07-Serverless-Computing/05-aws-step-functions.md",
@@ -459,7 +729,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/step-functions/latest/dg/welcome.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "corrected"
+      }
     },
     {
       "path": "07-Serverless-Computing/06-amazon-eventbridge.md",
@@ -467,7 +742,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/eventbridge/latest/userguide/eb-what-is.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "corrected"
+      }
     },
     {
       "path": "07-Serverless-Computing/README.md",
@@ -475,7 +755,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/lambda/latest/dg/welcome.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "corrected"
+      }
     },
     {
       "path": "08-Storage/01-ebs.md",
@@ -484,7 +769,12 @@
         "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/preserving-volumes-on-termination.html",
         "https://docs.aws.amazon.com/ebs/latest/userguide/what-is-ebs.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "reviewed-without-change"
+      }
     },
     {
       "path": "08-Storage/02-efs.md",
@@ -493,7 +783,12 @@
         "https://docs.aws.amazon.com/efs/latest/ug/features.html",
         "https://docs.aws.amazon.com/efs/latest/ug/whatisefs.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "corrected"
+      }
     },
     {
       "path": "08-Storage/03-fsx.md",
@@ -501,7 +796,12 @@
       "technical_references": [
         "https://aws.amazon.com/fsx/"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "reviewed-without-change"
+      }
     },
     {
       "path": "08-Storage/04-aws-storage-gateway.md",
@@ -509,7 +809,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/storagegateway/latest/tgw/WhatIsStorageGateway.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "corrected"
+      }
     },
     {
       "path": "08-Storage/05-aws-snow-family.md",
@@ -517,7 +822,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/snowball/latest/developer-guide/snowball-edge-availability-change.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "reviewed-without-change"
+      }
     },
     {
       "path": "08-Storage/06-aws-backup.md",
@@ -525,7 +835,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/aws-backup/latest/devguide/whatisbackup.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "reviewed-without-change"
+      }
     },
     {
       "path": "08-Storage/README.md",
@@ -533,7 +848,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/ebs/latest/userguide/what-is-ebs.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "corrected"
+      }
     },
     {
       "path": "09-Monitoring-and-Governance/01-cloudwatch.md",
@@ -541,7 +861,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/WhatIsCloudWatch.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "reviewed-without-change"
+      }
     },
     {
       "path": "09-Monitoring-and-Governance/02-cloudtrail.md",
@@ -549,7 +874,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-user-guide.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "corrected"
+      }
     },
     {
       "path": "09-Monitoring-and-Governance/03-aws-config.md",
@@ -557,7 +887,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/config/latest/developerguide/WhatIsConfig.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "corrected"
+      }
     },
     {
       "path": "09-Monitoring-and-Governance/04-aws-trusted-advisor.md",
@@ -565,7 +900,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/awssupport/latest/user/trusted-advisor.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "reviewed-without-change"
+      }
     },
     {
       "path": "09-Monitoring-and-Governance/05-aws-health-dashboard.md",
@@ -573,7 +913,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/health/latest/ug/what-is-aws-health.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "corrected"
+      }
     },
     {
       "path": "09-Monitoring-and-Governance/06-aws-systems-manager.md",
@@ -581,7 +926,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/systems-manager/latest/userguide/what-is-systems-manager.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "reviewed-without-change"
+      }
     },
     {
       "path": "09-Monitoring-and-Governance/07-aws-compute-optimizer.md",
@@ -589,7 +939,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/compute-optimizer/latest/ug/what-is-compute-optimizer.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "corrected"
+      }
     },
     {
       "path": "09-Monitoring-and-Governance/README.md",
@@ -597,7 +952,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/WhatIsCloudWatch.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "corrected"
+      }
     },
     {
       "path": "10-Pricing-and-Support/01-aws-pricing-model.md",
@@ -605,7 +965,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/cost-management/latest/userguide/what-is-costmanagement.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "reviewed-without-change"
+      }
     },
     {
       "path": "10-Pricing-and-Support/02-aws-free-tier.md",
@@ -614,7 +979,12 @@
         "https://aws.amazon.com/blogs/aws/aws-free-tier-update-new-customers-can-get-started-and-explore-aws-with-up-to-200-in-credits/",
         "https://aws.amazon.com/free/"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "corrected"
+      }
     },
     {
       "path": "10-Pricing-and-Support/03-aws-pricing-calculator.md",
@@ -622,7 +992,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/pricing-calculator/latest/userguide/what-is-pricing-calculator.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "reviewed-without-change"
+      }
     },
     {
       "path": "10-Pricing-and-Support/04-aws-cost-explorer.md",
@@ -630,7 +1005,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/cost-management/latest/userguide/ce-what-is.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "reviewed-without-change"
+      }
     },
     {
       "path": "10-Pricing-and-Support/05-aws-budgets.md",
@@ -638,7 +1018,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/cost-management/latest/userguide/budgets-managing-costs.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "corrected"
+      }
     },
     {
       "path": "10-Pricing-and-Support/06-support-plans.md",
@@ -647,7 +1032,12 @@
         "https://aws.amazon.com/premiumsupport/faqs/",
         "https://aws.amazon.com/premiumsupport/plans/"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "corrected"
+      }
     },
     {
       "path": "10-Pricing-and-Support/07-aws-marketplace.md",
@@ -655,7 +1045,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/marketplace/latest/buyerguide/what-is-marketplace.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "corrected"
+      }
     },
     {
       "path": "10-Pricing-and-Support/08-aws-billing-dashboard.md",
@@ -663,7 +1058,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/billing-what-is.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "corrected"
+      }
     },
     {
       "path": "10-Pricing-and-Support/README.md",
@@ -671,7 +1071,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/cost-management/latest/userguide/what-is-costmanagement.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "corrected"
+      }
     },
     {
       "path": "11-Migration-and-Innovation/01-migration-strategies.md",
@@ -679,7 +1084,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/prescriptive-guidance/latest/large-migration-guide/migration-strategies.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "reviewed-without-change"
+      }
     },
     {
       "path": "11-Migration-and-Innovation/02-aws-migration-hub.md",
@@ -687,7 +1097,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/migrationhub-strategy/latest/userguide/migrationhub-availability-change.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "reviewed-without-change"
+      }
     },
     {
       "path": "11-Migration-and-Innovation/03-aws-dms.md",
@@ -695,7 +1110,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/dms/latest/userguide/Welcome.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "corrected"
+      }
     },
     {
       "path": "11-Migration-and-Innovation/04-aws-application-discovery.md",
@@ -703,7 +1123,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/application-discovery/latest/userguide/doc-history.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "reviewed-without-change"
+      }
     },
     {
       "path": "11-Migration-and-Innovation/05-aws-mainframe-modernization.md",
@@ -711,7 +1136,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/m2/latest/userguide/mainframe-modernization-availability-change.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "reviewed-without-change"
+      }
     },
     {
       "path": "11-Migration-and-Innovation/06-aws-datasync.md",
@@ -719,7 +1149,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/datasync/latest/userguide/what-is-datasync.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "corrected"
+      }
     },
     {
       "path": "11-Migration-and-Innovation/README.md",
@@ -727,7 +1162,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/prescriptive-guidance/latest/large-migration-guide/migration-strategies.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "corrected"
+      }
     },
     {
       "path": "12-CAF-Cloud-Adoption-Framework/01-caf-overview.md",
@@ -735,7 +1175,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/whitepapers/latest/overview-aws-cloud-adoption-framework/welcome.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "reviewed-without-change"
+      }
     },
     {
       "path": "12-CAF-Cloud-Adoption-Framework/02-business-perspective.md",
@@ -743,7 +1188,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/whitepapers/latest/overview-aws-cloud-adoption-framework/welcome.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "reviewed-without-change"
+      }
     },
     {
       "path": "12-CAF-Cloud-Adoption-Framework/03-people-perspective.md",
@@ -751,7 +1201,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/whitepapers/latest/overview-aws-cloud-adoption-framework/welcome.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "reviewed-without-change"
+      }
     },
     {
       "path": "12-CAF-Cloud-Adoption-Framework/04-governance-perspective.md",
@@ -759,7 +1214,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/whitepapers/latest/overview-aws-cloud-adoption-framework/welcome.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "reviewed-without-change"
+      }
     },
     {
       "path": "12-CAF-Cloud-Adoption-Framework/05-platform-perspective.md",
@@ -767,7 +1227,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/whitepapers/latest/overview-aws-cloud-adoption-framework/welcome.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "reviewed-without-change"
+      }
     },
     {
       "path": "12-CAF-Cloud-Adoption-Framework/06-security-perspective.md",
@@ -775,7 +1240,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/whitepapers/latest/overview-aws-cloud-adoption-framework/welcome.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "reviewed-without-change"
+      }
     },
     {
       "path": "12-CAF-Cloud-Adoption-Framework/07-operations-perspective.md",
@@ -783,7 +1253,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/whitepapers/latest/overview-aws-cloud-adoption-framework/welcome.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "reviewed-without-change"
+      }
     },
     {
       "path": "12-CAF-Cloud-Adoption-Framework/08-transformation-outcomes.md",
@@ -791,7 +1266,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/whitepapers/latest/overview-aws-cloud-adoption-framework/welcome.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "reviewed-without-change"
+      }
     },
     {
       "path": "12-CAF-Cloud-Adoption-Framework/README.md",
@@ -799,7 +1279,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/whitepapers/latest/overview-aws-cloud-adoption-framework/welcome.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "corrected"
+      }
     },
     {
       "path": "13-Well-Architected-Framework/01-operational-excellence-pillar.md",
@@ -807,7 +1292,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "reviewed-without-change"
+      }
     },
     {
       "path": "13-Well-Architected-Framework/02-security-pillar.md",
@@ -815,7 +1305,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "reviewed-without-change"
+      }
     },
     {
       "path": "13-Well-Architected-Framework/03-reliability-pillar.md",
@@ -823,7 +1318,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "reviewed-without-change"
+      }
     },
     {
       "path": "13-Well-Architected-Framework/04-performance-efficiency-pillar.md",
@@ -831,7 +1331,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "reviewed-without-change"
+      }
     },
     {
       "path": "13-Well-Architected-Framework/05-cost-optimization-pillar.md",
@@ -839,7 +1344,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "reviewed-without-change"
+      }
     },
     {
       "path": "13-Well-Architected-Framework/06-sustainability-pillar.md",
@@ -847,7 +1357,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "reviewed-without-change"
+      }
     },
     {
       "path": "13-Well-Architected-Framework/07-specialized-lenses.md",
@@ -855,7 +1370,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "reviewed-without-change"
+      }
     },
     {
       "path": "13-Well-Architected-Framework/README.md",
@@ -863,7 +1383,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "corrected"
+      }
     },
     {
       "path": "14-Artificial-Intelligence-and-ML/01-amazon-sagemaker.md",
@@ -871,7 +1396,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/sagemaker/latest/dg/whatis.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "corrected"
+      }
     },
     {
       "path": "14-Artificial-Intelligence-and-ML/02-amazon-rekognition.md",
@@ -879,7 +1409,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/rekognition/latest/dg/what-is.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "reviewed-without-change"
+      }
     },
     {
       "path": "14-Artificial-Intelligence-and-ML/03-amazon-comprehend.md",
@@ -887,7 +1422,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/comprehend/latest/dg/what-is.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "corrected"
+      }
     },
     {
       "path": "14-Artificial-Intelligence-and-ML/04-amazon-polly-and-transcribe.md",
@@ -895,7 +1435,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/polly/latest/dg/what-is.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "reviewed-without-change"
+      }
     },
     {
       "path": "14-Artificial-Intelligence-and-ML/05-amazon-lex.md",
@@ -903,7 +1448,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/lexv2/latest/dg/what-is.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "reviewed-without-change"
+      }
     },
     {
       "path": "14-Artificial-Intelligence-and-ML/06-amazon-kendra.md",
@@ -913,7 +1463,12 @@
         "https://docs.aws.amazon.com/aws-certification/latest/cloud-practitioner-02/clf-02-out-of-scope-services.html",
         "https://docs.aws.amazon.com/kendra/latest/dg/what-is-kendra.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "corrected"
+      }
     },
     {
       "path": "14-Artificial-Intelligence-and-ML/07-amazon-bedrock.md",
@@ -923,7 +1478,12 @@
         "https://docs.aws.amazon.com/aws-certification/latest/cloud-practitioner-02/clf-02-out-of-scope-services.html",
         "https://docs.aws.amazon.com/bedrock/latest/userguide/what-is-bedrock.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "reviewed-without-change"
+      }
     },
     {
       "path": "14-Artificial-Intelligence-and-ML/08-amazon-q.md",
@@ -931,7 +1491,12 @@
       "technical_references": [
         "https://aws.amazon.com/q/"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "reviewed-without-change"
+      }
     },
     {
       "path": "14-Artificial-Intelligence-and-ML/README.md",
@@ -939,7 +1504,12 @@
       "technical_references": [
         "https://aws.amazon.com/machine-learning/"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "corrected"
+      }
     },
     {
       "path": "15-Developer-Services/01-aws-codecommit.md",
@@ -947,7 +1517,12 @@
       "technical_references": [
         "https://aws.amazon.com/blogs/devops/aws-codecommit-returns-to-general-availability/"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "reviewed-without-change"
+      }
     },
     {
       "path": "15-Developer-Services/02-aws-codebuild.md",
@@ -955,7 +1530,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/codebuild/latest/userguide/welcome.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "reviewed-without-change"
+      }
     },
     {
       "path": "15-Developer-Services/03-aws-codedeploy.md",
@@ -965,7 +1545,12 @@
         "https://docs.aws.amazon.com/aws-certification/latest/cloud-practitioner-02/clf-02-out-of-scope-services.html",
         "https://docs.aws.amazon.com/codedeploy/latest/userguide/welcome.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "corrected"
+      }
     },
     {
       "path": "15-Developer-Services/04-aws-codepipeline.md",
@@ -973,7 +1558,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/codepipeline/latest/userguide/welcome.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "reviewed-without-change"
+      }
     },
     {
       "path": "15-Developer-Services/05-aws-cdk-and-cloudformation.md",
@@ -981,7 +1571,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/cdk/v2/guide/home.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "reviewed-without-change"
+      }
     },
     {
       "path": "15-Developer-Services/06-aws-sam.md",
@@ -991,7 +1586,12 @@
         "https://docs.aws.amazon.com/aws-certification/latest/cloud-practitioner-02/clf-02-out-of-scope-services.html",
         "https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/what-is-sam.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "reviewed-without-change"
+      }
     },
     {
       "path": "15-Developer-Services/07-aws-amplify.md",
@@ -999,7 +1599,12 @@
       "technical_references": [
         "https://aws.amazon.com/amplify/"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "reviewed-without-change"
+      }
     },
     {
       "path": "15-Developer-Services/08-aws-x-ray.md",
@@ -1007,7 +1612,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/xray/latest/devguide/xray-daemon.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "corrected"
+      }
     },
     {
       "path": "15-Developer-Services/README.md",
@@ -1015,7 +1625,12 @@
       "technical_references": [
         "https://aws.amazon.com/products/developer-tools/"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "corrected"
+      }
     },
     {
       "path": "16-Practice-Exams-and-Questions/01-domain-1-questions.md",
@@ -1025,7 +1640,12 @@
         "https://docs.aws.amazon.com/aws-certification/latest/cloud-practitioner-02/cloud-practitioner-02.html",
         "https://docs.aws.amazon.com/wellarchitected/latest/framework/rel_fault_isolation_multiaz_region_system.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "reviewed-without-change"
+      }
     },
     {
       "path": "16-Practice-Exams-and-Questions/02-domain-2-questions.md",
@@ -1038,7 +1658,12 @@
         "https://docs.aws.amazon.com/guardduty/latest/ug/what-is-guardduty.html",
         "https://docs.aws.amazon.com/secretsmanager/latest/userguide/intro.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "reviewed-without-change"
+      }
     },
     {
       "path": "16-Practice-Exams-and-Questions/03-domain-3-questions.md",
@@ -1053,7 +1678,12 @@
         "https://docs.aws.amazon.com/global-infrastructure/latest/regions/aws-regions-availability-zones.html",
         "https://docs.aws.amazon.com/lambda/latest/dg/welcome.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "reviewed-without-change"
+      }
     },
     {
       "path": "16-Practice-Exams-and-Questions/04-domain-4-questions.md",
@@ -1066,7 +1696,12 @@
         "https://docs.aws.amazon.com/cost-management/latest/userguide/ce-what-is.html",
         "https://docs.aws.amazon.com/pricing-calculator/latest/userguide/what-is-pricing-calculator.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "corrected"
+      }
     },
     {
       "path": "16-Practice-Exams-and-Questions/cross-domain-review-questions.md",
@@ -1079,7 +1714,12 @@
         "https://docs.aws.amazon.com/lambda/latest/dg/welcome.html",
         "https://docs.aws.amazon.com/wellarchitected/latest/framework/rel_fault_isolation_multiaz_region_system.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "reviewed-without-change"
+      }
     },
     {
       "path": "16-Practice-Exams-and-Questions/10-question-practice-exam.md",
@@ -1097,7 +1737,12 @@
         "https://docs.aws.amazon.com/lambda/latest/dg/welcome.html",
         "https://docs.aws.amazon.com/wellarchitected/latest/framework/rel_fault_isolation_multiaz_region_system.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "corrected"
+      }
     },
     {
       "path": "16-Practice-Exams-and-Questions/README.md",
@@ -1105,7 +1750,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/aws-certification/latest/cloud-practitioner-02/cloud-practitioner-02.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "reviewed-without-change"
+      }
     },
     {
       "path": "16-Practice-Exams-and-Questions/answer-keys/README.md",
@@ -1113,7 +1763,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/aws-certification/latest/cloud-practitioner-02/cloud-practitioner-02.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "reviewed-without-change"
+      }
     },
     {
       "path": "16-Practice-Exams-and-Questions/answer-keys/domain-1-answer-key.md",
@@ -1121,7 +1776,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/aws-certification/latest/cloud-practitioner-02/cloud-practitioner-02.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "reviewed-without-change"
+      }
     },
     {
       "path": "16-Practice-Exams-and-Questions/answer-keys/domain-2-answer-key.md",
@@ -1129,7 +1789,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/aws-certification/latest/cloud-practitioner-02/cloud-practitioner-02.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "reviewed-without-change"
+      }
     },
     {
       "path": "16-Practice-Exams-and-Questions/answer-keys/domain-3-answer-key.md",
@@ -1137,7 +1802,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/aws-certification/latest/cloud-practitioner-02/cloud-practitioner-02.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "reviewed-without-change"
+      }
     },
     {
       "path": "16-Practice-Exams-and-Questions/answer-keys/domain-4-answer-key.md",
@@ -1145,7 +1815,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/aws-certification/latest/cloud-practitioner-02/cloud-practitioner-02.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "reviewed-without-change"
+      }
     },
     {
       "path": "16-Practice-Exams-and-Questions/answer-keys/practice-exam-answer-key.md",
@@ -1153,7 +1828,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/aws-certification/latest/cloud-practitioner-02/cloud-practitioner-02.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "reviewed-without-change"
+      }
     },
     {
       "path": "17-Glossary/README.md",
@@ -1163,7 +1843,12 @@
         "https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html",
         "https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "corrected"
+      }
     },
     {
       "path": "18-Resources-and-Links/README.md",
@@ -1171,7 +1856,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/aws-certification/latest/cloud-practitioner-02/cloud-practitioner-02.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "corrected"
+      }
     },
     {
       "path": "README.md",
@@ -1180,43 +1870,78 @@
         "https://docs.aws.amazon.com/aws-certification/latest/cloud-practitioner-02/clf-02-revisions.html",
         "https://docs.aws.amazon.com/aws-certification/latest/cloud-practitioner-02/cloud-practitioner-02.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "corrected"
+      }
     },
     {
       "path": "assets/README.md",
       "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
       "technical_references": [],
-      "status": "localization-and-editorial-review"
+      "status": "localization-and-editorial-review",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "reviewed-without-change"
+      }
     },
     {
       "path": "cheatsheets/README.md",
       "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
       "technical_references": [],
-      "status": "localization-and-editorial-review"
+      "status": "localization-and-editorial-review",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "corrected"
+      }
     },
     {
       "path": "cheatsheets/core-concepts.md",
       "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
       "technical_references": [],
-      "status": "localization-and-editorial-review"
+      "status": "localization-and-editorial-review",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "corrected"
+      }
     },
     {
       "path": "cheatsheets/iam.md",
       "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
       "technical_references": [],
-      "status": "localization-and-editorial-review"
+      "status": "localization-and-editorial-review",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "corrected"
+      }
     },
     {
       "path": "cheatsheets/pricing.md",
       "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
       "technical_references": [],
-      "status": "localization-and-editorial-review"
+      "status": "localization-and-editorial-review",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "reviewed-without-change"
+      }
     },
     {
       "path": "cheatsheets/s3.md",
       "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
       "technical_references": [],
-      "status": "localization-and-editorial-review"
+      "status": "localization-and-editorial-review",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "reviewed-without-change"
+      }
     },
     {
       "path": "diagrams/README.md",
@@ -1224,37 +1949,67 @@
       "technical_references": [
         "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/monitor-cloudtrail-log-files-with-cloudwatch-logs.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "reviewed-without-change"
+      }
     },
     {
       "path": "docs/README.md",
       "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
       "technical_references": [],
-      "status": "localization-and-editorial-review"
+      "status": "localization-and-editorial-review",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "reviewed-without-change"
+      }
     },
     {
       "path": "docs/exam-guide.md",
       "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
       "technical_references": [],
-      "status": "localization-and-editorial-review"
+      "status": "localization-and-editorial-review",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "reviewed-without-change"
+      }
     },
     {
       "path": "docs/next-steps.md",
       "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
       "technical_references": [],
-      "status": "localization-and-editorial-review"
+      "status": "localization-and-editorial-review",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "reviewed-without-change"
+      }
     },
     {
       "path": "docs/study-flow.md",
       "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
       "technical_references": [],
-      "status": "localization-and-editorial-review"
+      "status": "localization-and-editorial-review",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "reviewed-without-change"
+      }
     },
     {
       "path": "flashcards/README.md",
       "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
       "technical_references": [],
-      "status": "localization-and-editorial-review"
+      "status": "localization-and-editorial-review",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "reviewed-without-change"
+      }
     },
     {
       "path": "flashcards/costs-deck.md",
@@ -1269,7 +2024,12 @@
         "https://docs.aws.amazon.com/cost-management/latest/userguide/ce-what-is.html",
         "https://docs.aws.amazon.com/pricing-calculator/latest/userguide/what-is-pricing-calculator.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "corrected"
+      }
     },
     {
       "path": "flashcards/fundamentals-deck.md",
@@ -1279,7 +2039,12 @@
         "https://aws.amazon.com/what-is-cloud-computing/",
         "https://docs.aws.amazon.com/wellarchitected/latest/framework/rel_fault_isolation_multiaz_region_system.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "corrected"
+      }
     },
     {
       "path": "flashcards/s3-deck.md",
@@ -1288,7 +2053,12 @@
         "https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/private-content-restricting-access-to-s3.html",
         "https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage-class-intro.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "corrected"
+      }
     },
     {
       "path": "flashcards/security-deck.md",
@@ -1302,13 +2072,23 @@
         "https://docs.aws.amazon.com/kms/latest/developerguide/overview.html",
         "https://docs.aws.amazon.com/waf/latest/developerguide/shield-chapter.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "corrected"
+      }
     },
     {
       "path": "labs/README.md",
       "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
       "technical_references": [],
-      "status": "localization-and-editorial-review"
+      "status": "localization-and-editorial-review",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "corrected"
+      }
     },
     {
       "path": "labs/lab-01-iam-setup.md",
@@ -1317,7 +2097,12 @@
         "https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html",
         "https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_getting-report.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "reviewed-without-change"
+      }
     },
     {
       "path": "labs/lab-02-s3-static-website.md",
@@ -1329,7 +2114,12 @@
         "https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/private-content-restricting-access-to-s3.html",
         "https://docs.aws.amazon.com/AmazonS3/latest/userguide/WebsiteHosting.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "reviewed-without-change"
+      }
     },
     {
       "path": "labs/lab-03-basic-cloudwatch.md",
@@ -1339,13 +2129,23 @@
         "https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/AlarmThatSendsEmail.html",
         "https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/WhatIsCloudWatch.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "reviewed-without-change"
+      }
     },
     {
       "path": "notes/README.md",
       "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
       "technical_references": [],
-      "status": "localization-and-editorial-review"
+      "status": "localization-and-editorial-review",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "corrected"
+      }
     },
     {
       "path": "notes/costs-and-support.md",
@@ -1353,7 +2153,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/pricing-calculator/latest/userguide/what-is-pricing-calculator.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "corrected"
+      }
     },
     {
       "path": "notes/aws-fundamentals.md",
@@ -1361,7 +2166,12 @@
       "technical_references": [
         "https://aws.amazon.com/what-is-cloud-computing/"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "corrected"
+      }
     },
     {
       "path": "notes/s3-essentials.md",
@@ -1369,7 +2179,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage-class-intro.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "corrected"
+      }
     },
     {
       "path": "notes/security-essentials.md",
@@ -1377,7 +2192,12 @@
       "technical_references": [
         "https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "corrected"
+      }
     },
     {
       "path": "quick-review/README.md",
@@ -1388,49 +2208,89 @@
         "https://docs.aws.amazon.com/pricing-calculator/latest/userguide/what-is-pricing-calculator.html",
         "https://docs.aws.amazon.com/wellarchitected/latest/framework/rel_fault_isolation_multiaz_region_system.html"
       ],
-      "status": "reviewed"
+      "status": "reviewed",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "corrected"
+      }
     },
     {
       "path": "quick-review/storage.md",
       "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
       "technical_references": [],
-      "status": "localization-and-editorial-review"
+      "status": "localization-and-editorial-review",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "corrected"
+      }
     },
     {
       "path": "quick-review/exam-eve-checklist.md",
       "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
       "technical_references": [],
-      "status": "localization-and-editorial-review"
+      "status": "localization-and-editorial-review",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "reviewed-without-change"
+      }
     },
     {
       "path": "quick-review/costs.md",
       "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
       "technical_references": [],
-      "status": "localization-and-editorial-review"
+      "status": "localization-and-editorial-review",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "corrected"
+      }
     },
     {
       "path": "quick-review/common-mistakes.md",
       "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
       "technical_references": [],
-      "status": "localization-and-editorial-review"
+      "status": "localization-and-editorial-review",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "corrected"
+      }
     },
     {
       "path": "quick-review/fundamentals.md",
       "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
       "technical_references": [],
-      "status": "localization-and-editorial-review"
+      "status": "localization-and-editorial-review",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "corrected"
+      }
     },
     {
       "path": "quick-review/security.md",
       "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
       "technical_references": [],
-      "status": "localization-and-editorial-review"
+      "status": "localization-and-editorial-review",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "corrected"
+      }
     },
     {
       "path": "quick-review/key-services.md",
       "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
       "technical_references": [],
-      "status": "localization-and-editorial-review"
+      "status": "localization-and-editorial-review",
+      "final_quality_review": {
+        "date": "2026-11-16",
+        "method": "Manual reading of substantive English text; shared branding footer reviewed once; automated structural checks run separately.",
+        "result": "corrected"
+      }
     }
   ],
   "source_references": [
@@ -2305,5 +3165,56 @@
     "assets/CloudPractitioner-Banner.png: original Portuguese subtitle and feature labels, accompanied by English text."
   ],
   "finalization_date": "2026-11-16",
-  "finalization_scope": "Source coverage, language cleanup, original question ordering and inline-answer preservation, module navigation, and reproducible offline validation. Earlier editorial metadata is retained."
+  "finalization_scope": "Source coverage, language cleanup, original question ordering and inline-answer preservation, module navigation, and reproducible offline validation. Earlier editorial metadata is retained.",
+  "final_quality_review": {
+    "date": "2026-11-16",
+    "baseline_commit": "6dc4989bee92978c2bf4d0610cf0ca7a425efc2b",
+    "markdown_documents_read": 172,
+    "exercise_prompts_reviewed": 96,
+    "historical_key_discrepancies_revalidated": 21,
+    "method_limitations": "Manual review of English content is distinct from automated checks. This pass did not repeat a line-by-line translation comparison for every Portuguese original. Original file coverage, question order, inline answers, and historical external keys are checked against the source commit.",
+    "saa_reference": {
+      "branch": "saa-c03-english",
+      "files_read": [
+        "README.md",
+        "04-EC2-Compute/README.md"
+      ],
+      "ec2_reference_blob": "9b7d701952118bb3e2c5e72506705b590468fbca",
+      "applied": [
+        "GitHub-native navigation and linked study materials",
+        "English service naming and concise scenario-based explanations",
+        "Pricing commitments distinguished from capacity reservations",
+        "CloudStudy branding retained"
+      ]
+    },
+    "official_references_checked": [
+      "https://docs.aws.amazon.com/aws-certification/latest/cloud-practitioner-02/cloud-practitioner-02.html",
+      "https://docs.aws.amazon.com/aws-certification/latest/cloud-practitioner-02/clf-02-in-scope-services.html",
+      "https://docs.aws.amazon.com/aws-certification/latest/cloud-practitioner-02/clf-02-revisions.html",
+      "https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html",
+      "https://aws.amazon.com/compliance/shared-responsibility-model/",
+      "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/instance-purchasing-options.html",
+      "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/reserved-instances-scope.html",
+      "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-capacity-reservations.html",
+      "https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage-class-intro.html",
+      "https://docs.aws.amazon.com/AmazonS3/latest/userguide/glacier-storage-classes.html",
+      "https://docs.aws.amazon.com/vpc/latest/userguide/configure-subnets.html",
+      "https://docs.aws.amazon.com/vpc/latest/userguide/vpc-security-groups.html",
+      "https://docs.aws.amazon.com/vpc/latest/userguide/vpc-network-acls.html",
+      "https://docs.aws.amazon.com/global-infrastructure/latest/regions/aws-regions-availability-zones.html",
+      "https://aws.amazon.com/premiumsupport/plans/",
+      "https://aws.amazon.com/premiumsupport/faqs/",
+      "https://aws.amazon.com/free/",
+      "https://docs.aws.amazon.com/whitepapers/latest/overview-aws-cloud-adoption-framework/welcome.html",
+      "https://docs.aws.amazon.com/wellarchitected/latest/framework/the-pillars-of-the-framework.html",
+      "https://docs.aws.amazon.com/sagemaker/latest/dg/whatis.html",
+      "https://docs.aws.amazon.com/bedrock/latest/userguide/what-is-bedrock.html",
+      "https://aws.amazon.com/q/",
+      "https://docs.aws.amazon.com/snowball/latest/developer-guide/snowball-edge-availability-change.html",
+      "https://docs.aws.amazon.com/m2/latest/userguide/mainframe-modernization-availability-change.html",
+      "https://docs.aws.amazon.com/migrationhub-strategy/latest/userguide/migrationhub-availability-change.html",
+      "https://aws.amazon.com/blogs/devops/aws-codecommit-returns-to-general-availability/",
+      "https://docs.aws.amazon.com/xray/latest/devguide/xray-sdk-daemon-timeline.html"
+    ]
+  }
 }

@@ -1,4 +1,4 @@
-# AWS X Ray
+# AWS X-Ray
 
 AWS X-Ray helps track requests in distributed applications and locate bottlenecks and failures.
 
