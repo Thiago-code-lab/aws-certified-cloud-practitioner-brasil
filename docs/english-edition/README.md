@@ -1,5 +1,19 @@
 # English edition audit
 
+## Publication checkpoint — November 16, 2026
+
+The final publication pass began with `git fetch origin`, `git switch clf-c02-english`, `git status`, and `git log -5 --oneline`. The working tree was clean, and both local `HEAD` and `origin/clf-c02-english` were already at the published audit commit `9d6a09932a8137d672af0dd10b2b116034e60bce`. All prior corrections were retained.
+
+Re-ran all four required commands in this pass: dependency installation succeeded, the complete offline validator passed, **all 19 unit tests passed**, and `git diff --check` passed. The validator reconfirmed 180 mapped source files, 172 Markdown documents, 18 modules, 96 unique exercise prompts, preserved inline answer letters, matching current external keys, and the 21 documented historical discrepancies. No further educational corrections or answer changes were required. This follow-up changes only this audit report; the cumulative final review still changes 90 distinct files relative to `6dc4989bee92978c2bf4d0610cf0ca7a425efc2b`.
+
+Compared all 172 mapped Markdown files with their Portuguese source for coverage, heading preservation, word-count contraction, and bullet-count reductions. The size/count screen flagged only the three labs because their original verification bullets became explicit prose and numbered procedures. Manual comparison of those source labs confirmed that their identity/access, static-hosting, monitoring, verification, and cleanup objectives remain represented in the expanded English instructions. Also compared representative cloud-computing, shared-responsibility, and support lessons directly with their Portuguese originals. These screens support content-preservation review; counts alone do not establish semantic equivalence. The earlier manual English review and SAA style comparison documented below remain applicable.
+
+Reopened the [official CLF-C02 guide](https://docs.aws.amazon.com/aws-certification/latest/cloud-practitioner-02/cloud-practitioner-02.html) and [current AWS Support comparison](https://aws.amazon.com/premiumsupport/plans/); their domain and support-plan descriptions remain consistent with the reviewed edition. The previous external-link check remains recorded separately rather than being presented as a new network check. AWS labs and browser checks were not executed in this follow-up.
+
+Local and remote `main` remained at `a59548c0d73c9da1cb20e7314cf46f983088e97a`. No remote `gh-pages` branch was advertised at the start of this pass; none was created or modified. Publication is limited to `origin/clf-c02-english`, without force-push, pull requests, or deployment changes.
+
+The final publication procedure is to commit this checkpoint, push `clf-c02-english`, fetch again, and compare `git rev-parse HEAD`, `git rev-parse origin/clf-c02-english`, and `git ls-remote origin refs/heads/clf-c02-english`, with a clean `git status`. The checkpoint commit's immutable SHA is available in the [English branch commit history](https://github.com/Thiago-code-lab/aws-certified-cloud-practitioner-brasil/commits/clf-c02-english/) and the completion report. A commit cannot embed its own SHA without changing that SHA.
+
 ## Final quality review — November 16, 2026
 
 Reviewed from baseline `6dc4989bee92978c2bf4d0610cf0ca7a425efc2b`, exclusively on `clf-c02-english`. All 18 modules and 96 exercises remain present. This pass changes 90 files: 83 learning Markdown documents, two validator/test files, three existing audit JSON files, one new external-link results file, and this report. Unmodified documents were reviewed as well.
@@ -51,8 +65,9 @@ See [offline validation results](validation-results.json) and [external-link res
 
 ### Final commits
 
-- Corrections, refreshed inventories, external-link evidence, and expanded validator/tests: `696397c` (`docs(en): polish technical writing and verify final study materials`).
-- The audit-report commit is the commit containing this section, titled `test(en): record final documentation quality audit`. Resolve its exact hash with `git log -1 --format=%H -- docs/english-edition/README.md` or the [English branch commit history](https://github.com/Thiago-code-lab/aws-certified-cloud-practitioner-brasil/commits/clf-c02-english/). Its own hash is not embedded in its contents because doing so would change that hash.
+- Corrections, refreshed inventories, external-link evidence, and expanded validator/tests: `696397c61f1ffc0ab4ee357439276bedc7aa0eb4` (`docs(en): polish technical writing and verify final study materials`).
+- Original final audit report: `9d6a09932a8137d672af0dd10b2b116034e60bce` (`test(en): record final documentation quality audit`).
+- Publication checkpoint: the subsequent commit titled `docs(en): finalize CLF-C02 English edition quality review`. Resolve its exact hash with `git log -1 --format=%H -- docs/english-edition/README.md` or the [English branch commit history](https://github.com/Thiago-code-lab/aws-certified-cloud-practitioner-brasil/commits/clf-c02-english/).
 
 The earlier edition inventory and translation audit follow below for traceability.
 
