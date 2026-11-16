@@ -4,13 +4,17 @@ AWS Organizations centralizes the administration of multiple AWS accounts and al
 
 - Consolidates billing and facilitates governance at scale.
 - **SCPs** define the maximum limit of permissions; they do not grant access by themselves.
-- Separating production, development and security into accounts reduces the impact radius.
-- **Test tip:** multiple account governance points to Organizations; Access within the account uses IAM.
+- Separating production, development and security into accounts reduces the blast radius.
+- **Exam tip:** multiple account governance points to Organizations; Access within the account uses IAM.
 
-Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 
 
 ---
+
+## Official AWS references
+
+- [AWS reference 1](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_scps.html)
 
 ## ☁️ Follow CloudStudy
 

@@ -1,19 +1,23 @@
-# Elasticache
+# ElastiCache
 
-Amazon ElastiCache offers managed in-memory caching to reduce latency and load on banks and applications.
+Amazon ElastiCache offers managed in-memory caching to reduce latency and load on databases and applications.
 
 - It is used in sessions, rankings and results consulted repeatedly.
 - Responses are faster because the most used data remains in memory.
 - Cache requires expiration strategy and tolerance for temporarily out-of-date data.
-- **Test tip:** speeding up readings without changing the main bank points to ElastiCache.
+- **Exam tip:** speeding up readings without changing the primary database points to ElastiCache.
 
-Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 
 
 
 > When this subject appears in data scenarios, it is worth reviewing the Data Engineering on AWS course: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
+
+## Official AWS references
+
+- [AWS reference 1](https://docs.aws.amazon.com/AmazonElastiCache/latest/dg/WhatIs.html)
 
 ## ☁️ Follow CloudStudy
 

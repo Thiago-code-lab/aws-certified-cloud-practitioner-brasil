@@ -5,15 +5,26 @@ An S3 bucket can host HTML, CSS, JavaScript, and images without running code on 
 - Configure the initial document and error page.
 - For HTTPS, own domain and global cache, use CloudFront.
 - Prefer private access through CloudFront over direct bucket exposure.
-- **Test tip:** dynamic applications or APIs require additional computation.
+- **Exam tip:** dynamic applications or APIs require additional computation.
 
-Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 
 
 
-> To delve deeper into data projects in AWS, this material can complement the review: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+> For additional practice with AWS data projects, explore this course: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
+
+## Two distinct hosting patterns
+
+The S3 website endpoint requires public access and supports HTTP only. For a private bucket and HTTPS delivery, use CloudFront OAC with the S3 REST origin, not the website endpoint. Set the CloudFront default root object to `index.html`. AWS also recommends Amplify Hosting for managed static website deployment.
+
+[AWS static hosting guidance](https://docs.aws.amazon.com/AmazonS3/latest/userguide/WebsiteHosting.html) · [CloudFront OAC](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/private-content-restricting-access-to-s3.html)
+
+## Official AWS references
+
+- [AWS reference 1](https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html)
+- [AWS reference 2](https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage-class-intro.html)
 
 ## ☁️ Follow CloudStudy
 

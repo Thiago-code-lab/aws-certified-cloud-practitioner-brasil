@@ -1,19 +1,29 @@
-#Efs
+# EFS
 
-Amazon EFS provides elastic, shared file system for Linux payloads using NFS.
+Amazon EFS provides elastic, shared file system for Linux workloads using NFS.
 
 - Multiple instances can mount the same system at the same time.
 - Capacity grows and shrinks automatically.
 - Can be accessed by resources in multiple AZs.
-- **Test tip:** files shared by Linux instances point to EFS; individual disk points to EBS.
+- **Exam tip:** files shared by Linux instances point to EFS; individual disk points to EBS.
 
-Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 
 
 
 > Practical bridge: After pinning the service, see how it appears in data architectures on AWS: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
+
+## Regional and One Zone storage
+
+EFS Regional file systems provide resilience across multiple Availability Zones. EFS One Zone file systems store data within a single AZ and has a different availability and resilience profile. Do not assume every EFS file system stores data across zones.
+
+[AWS EFS storage classes](https://docs.aws.amazon.com/efs/latest/ug/features.html)
+
+## Official AWS references
+
+- [AWS reference 1](https://docs.aws.amazon.com/efs/latest/ug/whatisefs.html)
 
 ## ☁️ Follow CloudStudy
 

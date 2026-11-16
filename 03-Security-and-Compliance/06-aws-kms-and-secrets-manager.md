@@ -1,16 +1,20 @@
-# Aws Kms E Secrets Manager
+# AWS KMS and Secrets Manager
 
 AWS KMS and AWS Secrets Manager protect sensitive information but solve different problems.
 
 - **KMS:** creates and controls cryptographic keys used to protect data.
 - **Secrets Manager:** stores passwords and tokens and can automate their rotation.
 - Never write credentials directly to source code.
-- **Test tip:** encryption key points to KMS; bank password with rotation points to Secrets Manager.
+- **Exam tip:** encryption key points to KMS; database password with rotation points to Secrets Manager.
 
-Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 
 
 ---
+
+## Official AWS references
+
+- [AWS reference 1](https://docs.aws.amazon.com/kms/latest/developerguide/overview.html)
 
 ## ☁️ Follow CloudStudy
 

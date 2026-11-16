@@ -1,19 +1,23 @@
-#Redshift
+# Redshift
 
 Amazon Redshift is a managed data warehouse for SQL analysis on large volumes of data.
 
 - Uses columnar storage and parallel processing.
 - Integrates with BI tools and data in S3.
 - It is aimed at reporting and analytics, not small frequent transactions.
-- **Test tip:** data warehouse points to Redshift; transactional bank points to RDS.
+- **Exam tip:** data warehouse points to Redshift; transactional database points to RDS.
 
-Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 
 
 
-> Career complement: anyone who wants to move from the cloud base to real data projects can follow here: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+> Career complement: anyone who wants to move from the cloud fundamentals to real data projects can follow here: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
+
+## Official AWS references
+
+- [AWS reference 1](https://docs.aws.amazon.com/redshift/latest/mgmt/welcome.html)
 
 ## ☁️ Follow CloudStudy
 

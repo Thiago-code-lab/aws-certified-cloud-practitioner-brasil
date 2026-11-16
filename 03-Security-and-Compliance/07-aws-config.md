@@ -5,15 +5,19 @@ AWS Config records resource configurations and evaluates whether they meet compl
 - Maintains change history for auditing and investigation.
 - Managed or custom rules identify non-standard resources.
 - Not the primary service for metrics or logging API calls.
-- **Test tip:** "how was it configured?" points to Config; "who changed it?" points to CloudTrail.
+- **Exam tip:** "how was it configured?" points to Config; "who changed it?" points to CloudTrail.
 
-Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 
 
 
 > Suggested next step: apply these concepts in data engineering scenarios on AWS: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
+
+## Official AWS references
+
+- [AWS reference 1](https://docs.aws.amazon.com/config/latest/developerguide/WhatIsConfig.html)
 
 ## ☁️ Follow CloudStudy
 

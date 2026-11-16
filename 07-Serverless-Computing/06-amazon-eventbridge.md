@@ -1,19 +1,23 @@
-# Amazon Eventbridge
+# Amazon EventBridge
 
 Amazon EventBridge is a managed event bus that connects applications and services in a decoupled way.
 
 - Rules select events and route them to destinations.
 - Supports AWS events, own applications and SaaS partners.
 - Also offers schedules for recurring tasks.
-- **Test tip:** reacting to changes without direct integration points to EventBridge.
+- **Exam tip:** reacting to changes without direct integration points to EventBridge.
 
-Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 
 
 
 > To study practical data applications after this topic, this Data Engineering course on AWS complements it well: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
+
+## Official AWS references
+
+- [AWS reference 1](https://docs.aws.amazon.com/eventbridge/latest/userguide/eb-what-is.html)
 
 ## ☁️ Follow CloudStudy
 

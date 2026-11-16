@@ -1,19 +1,23 @@
-# AWS Cloudtrail
+# AWS CloudTrail
 
 AWS CloudTrail records activities performed by users, roles, and services through the console, CLI, SDKs, and APIs.
 
 - Helps with auditing, incident investigation, and compliance.
 - An event can show identity, action, time, origin and affected resource.
 - Trails continuously deliver records for storage and analysis.
-- **Test tip:** to find out who deleted a resource, search CloudTrail.
+- **Exam tip:** to find out who deleted a resource, search CloudTrail.
 
-Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 
 
 
 > Complementary resource: if you want to connect this foundation with pipelines and analytics in AWS, see the Data Engineering in AWS course: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
+
+## Official AWS references
+
+- [AWS reference 1](https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-user-guide.html)
 
 ## ☁️ Follow CloudStudy
 

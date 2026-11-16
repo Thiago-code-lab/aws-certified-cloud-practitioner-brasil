@@ -8,11 +8,11 @@ Module for recognizing serverless services and simple event-driven patterns.
 - SQS and SNS as decoupled integration.
 
 ## Quick Review
-- Lambda runs code without provisioning server.
+- Lambda runs code without provisioning servers.
 - API Gateway exposes APIs and can trigger Lambda.
 - SQS queues messages; SNS publishes notifications to subscribers.
 
-## Classic proof signals
+## Common exam clues
 - "Execute short code in response to event" -> AWS Lambda.
 - "Create managed API endpoint" -> Amazon API Gateway.
 - "Decouple components with queue" -> Amazon SQS.
@@ -21,7 +21,7 @@ Module for recognizing serverless services and simple event-driven patterns.
 Choose EC2 for simple event-driven tasks when the statement requires smaller operations.
 
 ## What to memorize
-| Comparison | Mental rule of proof |
+| Comparison | Exam rule of thumb |
 |---|---|
 | Lambda vs EC2 | Lambda = serverless event; EC2 = configurable server |
 | SQS vs SNS | SQS = queue; SNS = publication/notification |
@@ -30,12 +30,16 @@ Choose EC2 for simple event-driven tasks when the statement requires smaller ope
 After serverless, review general storage: correct choice between object, block and file.
 
 ## Continuity
-Architecture Track: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Architecture Track: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 
 
 > When this subject appears in data scenarios, it is worth reviewing the Data Engineering on AWS course: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
+
+## Official AWS references
+
+- [AWS reference 1](https://docs.aws.amazon.com/lambda/latest/dg/welcome.html)
 
 ## ☁️ Follow CloudStudy
 
@@ -47,3 +51,14 @@ Follow CloudStudy to keep up with new materials, updates and content about AWS c
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/
 
 ---
+
+## Lessons and practice
+
+- [AWS Lambda](01-aws-lambda.md)
+- [API Gateway](02-api-gateway.md)
+- [AWS Fargate](03-aws-fargate.md)
+- [Amazon ECS and EKS](04-amazon-ecs-and-eks.md)
+- [AWS Step Functions](05-aws-step-functions.md)
+- [Amazon EventBridge](06-amazon-eventbridge.md)
+
+[Back to all modules](../README.md#modules)

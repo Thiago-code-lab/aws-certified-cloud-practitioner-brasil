@@ -12,7 +12,7 @@ Module to recognize the most charged network services at the Cloud Practitioner 
 - Security Group operates at the resource level; NACL operates at the subnet level.
 - CloudFront brings user content closer to edge locations.
 
-## Classic proof signals
+## Common exam clues
 - "Managed DNS" -> Amazon Route 53.
 - "Deliver content with global low latency" -> Amazon CloudFront.
 - "Dedicated connection between datacenter and AWS" -> AWS Direct Connect.
@@ -21,7 +21,7 @@ Module to recognize the most charged network services at the Cloud Practitioner 
 Treat Security Group and NACL as equal. Security Group is stateful; NACL is stateless.
 
 ## What to memorize
-| Comparison | Mental rule of proof |
+| Comparison | Exam rule of thumb |
 |---|---|
 | Security Group vs NACL | SG protects resource; NACL protects subnet |
 | Route 53 vs CloudFront | Route 53 resolves DNS; CloudFront delivers content |
@@ -30,12 +30,16 @@ Treat Security Group and NACL as equal. Security Group is stateful; NACL is stat
 With the network understood, move on to the database: where the application stores structured data and how this affects operations.
 
 ## Continuity
-Architecture Track: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Architecture Track: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 
 
 > Optional Deep Dive: To bring this concept to data projects on AWS, use as a next step: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
+
+## Official AWS references
+
+- [AWS reference 1](https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html)
 
 ## ☁️ Follow CloudStudy
 
@@ -47,3 +51,15 @@ Follow CloudStudy to keep up with new materials, updates and content about AWS c
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/
 
 ---
+
+## Lessons and practice
+
+- [VPC Fundamentals](01-vpc-fundamentals.md)
+- [Public and Private Subnets](02-public-and-private-subnets.md)
+- [Internet Gateway and NAT](03-internet-gateway-and-nat.md)
+- [Security Groups and Network ACLs](04-security-groups-and-network-acls.md)
+- [VPC Peering and Transit Gateway](05-vpc-peering-and-transit-gateway.md)
+- [Direct Connect and VPN](06-direct-connect-and-vpn.md)
+- [Route 53](07-route-53.md)
+
+[Back to all modules](../README.md#modules)

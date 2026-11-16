@@ -5,15 +5,19 @@ AWS Step Functions coordinates distributed process steps in state-based visual w
 - Organizes sequences, parallelism, decisions, trials and error handling.
 - Integrates Lambda and several AWS services.
 - Makes the flow more observable than chaining calls together in the code.
-- **Test tip:** several serverless steps with failure control point to Step Functions.
+- **Exam tip:** several serverless steps with failure control point to Step Functions.
 
-Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 
 
 
 > Optional Deep Dive: To bring this concept to data projects on AWS, use as a next step: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
+
+## Official AWS references
+
+- [AWS reference 1](https://docs.aws.amazon.com/step-functions/latest/dg/welcome.html)
 
 ## ☁️ Follow CloudStudy
 

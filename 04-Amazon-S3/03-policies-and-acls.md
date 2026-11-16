@@ -1,19 +1,30 @@
-# Policies and Acls
+# Policies and ACLs
 
 Access to S3 can be controlled with IAM policies, bucket policies, access points, and ACLs.
 
 - **IAM Policy:** defines what an identity can do.
 - **Bucket policy:** resource-based rule, useful for cross-account access.
 - **ACL:** legacy engine; prefer policies in most cases.
-- Keep public access blocking active when advertising is not required.
+- Keep public access blocking active when public access is not required.
 
-Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 
 
 
 > When this subject appears in data scenarios, it is worth reviewing the Data Engineering on AWS course: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
+
+## Current access defaults
+
+New general purpose buckets use Bucket owner enforced Object Ownership with ACLs disabled by default. Keep S3 Block Public Access enabled and use IAM and bucket policies for access.
+
+[AWS Object Ownership documentation](https://docs.aws.amazon.com/AmazonS3/latest/userguide/about-object-ownership.html)
+
+## Official AWS references
+
+- [AWS reference 1](https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html)
+- [AWS reference 2](https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage-class-intro.html)
 
 ## ☁️ Follow CloudStudy
 

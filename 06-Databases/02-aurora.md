@@ -4,13 +4,17 @@ Amazon Aurora is a MySQL and PostgreSQL-compatible managed relational database b
 
 - Distributed storage grows automatically.
 - Aurora Replicas scale read and reduce failover time.
-- Aurora Serverless adjusts capacity for compatible and variable loads.
-- **Test tip:** MySQL/PostgreSQL-compatible and AWS-native relational requirement points to Aurora.
+- Aurora Serverless adjusts capacity for compatible and variable workloads.
+- **Exam tip:** MySQL/PostgreSQL-compatible and AWS-native relational requirement points to Aurora.
 
-Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 
 
 ---
+
+## Official AWS references
+
+- [AWS reference 1](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/CHAP_AuroraOverview.html)
 
 ## ☁️ Follow CloudStudy
 

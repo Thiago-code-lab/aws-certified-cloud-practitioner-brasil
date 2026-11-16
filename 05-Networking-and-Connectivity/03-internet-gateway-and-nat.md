@@ -1,16 +1,20 @@
-# Internet Gateway E Nat
+# Internet Gateway and NAT
 
 Internet Gateway and NAT Gateway connect resources to the internet in different directions.
 
 - **Internet Gateway:** allows communication of public resources with the internet.
 - **NAT Gateway:** lets private resources initiate external connections without accepting connections initiated from the internet.
 - A public NAT Gateway is on a public subnet.
-- **Test tip:** private server downloading updates points to NAT.
+- **Exam tip:** private server downloading updates points to NAT.
 
-Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 
 
 ---
+
+## Official AWS references
+
+- [AWS reference 1](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-nat-gateway.html)
 
 ## ☁️ Follow CloudStudy
 

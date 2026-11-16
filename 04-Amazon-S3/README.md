@@ -1,4 +1,4 @@
-#Amazon S3
+# Amazon S3
 
 Object storage module focusing on durability, classes and cost.
 
@@ -12,7 +12,7 @@ Object storage module focusing on durability, classes and cost.
 - Versioning reduces the risk of accidental deletion.
 - Lifecycle moves data to cheaper class according to access pattern.
 
-## Classic proof signals
+## Common exam clues
 - "Simple static website" -> S3 static website hosting.
 - "Data rarely accessed for years" -> Glacier/Deep Archive.
 - "Access control at scale" -> IAM policy + bucket policy.
@@ -21,7 +21,7 @@ Object storage module focusing on durability, classes and cost.
 Choose class only for lowest price per GB and ignore cost/recovery time.
 
 ## What to memorize
-| Comparison | Mental rule of proof |
+| Comparison | Exam rule of thumb |
 |---|---|
 | S3 Standard vs S3 Glacier | Standard for frequent access; Glacier for archive and rare access |
 | Versioning vs Lifecycle | Versioning protects history; Lifecycle optimizes cost over time |
@@ -30,12 +30,17 @@ Choose class only for lowest price per GB and ignore cost/recovery time.
 After S3, move on to costs: how to price usage, predict spending and avoid surprises.
 
 ## Continuity
-Architecture Track: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Architecture Track: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 
 
-> If the objective is also data engineering, this course helps you transform the AWS base into projects: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+> If the objective is also data engineering, this course helps you transform the AWS fundamentals into projects: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
+
+## Official AWS references
+
+- [AWS reference 1](https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html)
+- [AWS reference 2](https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage-class-intro.html)
 
 ## ☁️ Follow CloudStudy
 
@@ -47,3 +52,14 @@ Follow CloudStudy to keep up with new materials, updates and content about AWS c
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/
 
 ---
+
+## Lessons and practice
+
+- [Basic Concepts](01-basic-concepts.md)
+- [Storage Classes](02-storage-classes.md)
+- [Policies and ACLs](03-policies-and-acls.md)
+- [Versioning and Lifecycle](04-versioning-and-lifecycle.md)
+- [S3 Transfer Acceleration](05-s3-transfer-acceleration.md)
+- [Static Website](06-static-website.md)
+
+[Back to all modules](../README.md#modules)

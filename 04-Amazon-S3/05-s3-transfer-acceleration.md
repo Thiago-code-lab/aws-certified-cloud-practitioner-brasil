@@ -1,19 +1,24 @@
-#S3 Transfer Acceleration
+# S3 Transfer Acceleration
 
 S3 Transfer Acceleration accelerates long-distance transfers using edge locations and the AWS global network.
 
 - Useful for users who are geographically distant from the bucket.
 - Requires specific endpoint and has an additional charge.
 - Gain depends on route and transfer size.
-- **Test tip:** global upload points to Transfer Acceleration; Content distribution often points to CloudFront.
+- **Exam tip:** global upload points to Transfer Acceleration; Content distribution often points to CloudFront.
 
-Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 
 
 
 > Practical bridge: After pinning the service, see how it appears in data architectures on AWS: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
+
+## Official AWS references
+
+- [AWS reference 1](https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html)
+- [AWS reference 2](https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage-class-intro.html)
 
 ## ☁️ Follow CloudStudy
 

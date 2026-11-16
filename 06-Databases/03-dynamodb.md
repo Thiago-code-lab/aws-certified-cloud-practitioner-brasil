@@ -1,16 +1,20 @@
-# Dynamodb
+# DynamoDB
 
 Amazon DynamoDB is a NoSQL serverless key-value and document database designed for low latency at scale.
 
 - Does not require server administration.
 - Can use on-demand or provisioned capacity.
 - TTL, streams and indexes support modern applications.
-- **Proof tip:** key access and unpredictable scale point to DynamoDB; complex relationships point to RDS.
+- **Exam tip:** key access and unpredictable scale point to DynamoDB; complex relationships point to RDS.
 
-Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 
 
 ---
+
+## Official AWS references
+
+- [AWS reference 1](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Introduction.html)
 
 ## ☁️ Follow CloudStudy
 

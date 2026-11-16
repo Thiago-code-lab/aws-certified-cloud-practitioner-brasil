@@ -1,16 +1,20 @@
-# Documentdb And Neptune
+# Documentdb and Neptune
 
 Amazon DocumentDB and Amazon Neptune serve specialized data models.
 
-- **DocumentDB:** document bank compatible with MongoDB payloads, useful for flexible JSON structures.
+- **DocumentDB:** document database compatible with MongoDB workloads, useful for flexible JSON structures.
 - **Neptune:** graph database for fraud, social networks and recommendations.
 - The choice follows the query pattern, not just the input format.
-- **Test tip:** documents point to DocumentDB; relations and graph traversals point to Neptune.
+- **Exam tip:** documents point to DocumentDB; relations and graph traversals point to Neptune.
 
-Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 
 
 ---
+
+## Official AWS references
+
+- [AWS reference 1](https://aws.amazon.com/documentdb/)
 
 ## ☁️ Follow CloudStudy
 

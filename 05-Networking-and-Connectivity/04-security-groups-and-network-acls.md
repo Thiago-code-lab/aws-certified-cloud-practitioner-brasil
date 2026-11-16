@@ -1,19 +1,23 @@
-# Security Groups E Nacl
+# Security Groups and Network ACLs
 
 Security Groups and Network ACLs filter traffic at different layers of the VPC.
 
 - **Security Group:** acts on the resource, is stateful and has only permission rules.
 - **NACL:** acts on the subnet, is stateless and accepts permission and denial.
 - Security Groups are the primary control for instances and interfaces.
-- **Proof tip:** explicit block by subnet points to NACL.
+- **Exam tip:** explicit block by subnet points to NACL.
 
-Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 
 
 
 > Complementary resource: if you want to connect this foundation with pipelines and analytics in AWS, see the Data Engineering in AWS course: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
+
+## Official AWS references
+
+- [AWS reference 1](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-security-groups.html)
 
 ## ☁️ Follow CloudStudy
 

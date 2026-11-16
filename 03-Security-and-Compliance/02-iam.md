@@ -1,19 +1,24 @@
-#Iam
+# IAM
 
 AWS Identity and Access Management (IAM) controls who can access resources and what actions they can perform.
 
-- **Users and groups:** represent people and permission sets.
-- **Functions:** provide temporary credentials for people, applications and services.
+- **Users and groups:** IAM users are persistent identities; groups collect users so policies can be assigned consistently. Groups are not principals and cannot be assumed.
+- **Roles:** persistent identities that trusted principals assume to obtain temporary credentials. Prefer federated roles for human access and workload roles for applications.
 - **Policies:** documents that allow or deny actions.
 - **Best practice:** apply least privilege, MFA and do not use the root account in daily tasks.
 
-Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 
 
 
-> To delve deeper into data projects in AWS, this material can complement the review: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+> For additional practice with AWS data projects, explore this course: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
+
+## Official AWS references
+
+- [AWS reference 1](https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html)
+- [AWS reference 2](https://aws.amazon.com/compliance/shared-responsibility-model/)
 
 ## ☁️ Follow CloudStudy
 

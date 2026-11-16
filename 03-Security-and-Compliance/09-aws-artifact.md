@@ -5,12 +5,16 @@ AWS Artifact provides on-demand access to AWS compliance reports and certain leg
 - It is used by audit, risk and compliance teams.
 - Gathers documents such as audit reports and applicable certifications.
 - Does not check client resource configuration.
-- **Test tip:** official documentation points to Artifact; continuous resource evaluation points to Config.
+- **Exam tip:** official documentation points to Artifact; continuous resource evaluation points to Config.
 
-Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 
 
 ---
+
+## Official AWS references
+
+- [AWS reference 1](https://docs.aws.amazon.com/artifact/latest/ug/what-is-aws-artifact.html)
 
 ## ☁️ Follow CloudStudy
 
