@@ -1,11 +1,12 @@
 <!DOCTYPE html>
+
 <html lang="en-US">
 <head>
-<meta charset="UTF-8"/>
-<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-<title>AWS Cloud Practitioner Brazil · CLF-C02</title>
-<link rel="preconnect" href="https://fonts.googleapis.com"/>
-<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&family=Syne:wght@400;700;800&family=Fira+Code:wght@300;400;500&display=swap" rel="stylesheet"/>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>AWS Cloud Practitioner — English Edition | CLF-C02</title>
+<link href="https://fonts.googleapis.com" rel="preconnect"/>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&amp;family=Syne:wght@400;700;800&amp;family=Fira+Code:wght@300;400;500&amp;display=swap" rel="stylesheet"/>
 <style>
   :root {
     --aw: #FF9900; --aw2: #CC7A00;
@@ -129,7 +130,7 @@
   .p-list li{font-family:var(--M);font-size:.66rem;color:var(--muted);padding-left:1rem;position:relative}
   .p-list li::before{content:'›';position:absolute;left:0;color:var(--aw)}
 
-  /* SIMULADO */
+  /* PRACTICE */
   .domains-table{width:100%;border-collapse:collapse;margin-top:3rem}
   .domains-table th{font-family:var(--M);font-size:.62rem;letter-spacing:2px;text-transform:uppercase;color:var(--muted);padding:.8rem 1.5rem;text-align:left;border-bottom:1px solid var(--border)}
   .domains-table td{padding:1.2rem 1.5rem;border-bottom:1px solid rgba(255,153,0,.07)}
@@ -199,225 +200,216 @@
     .fl{flex-wrap:wrap;justify-content:center}
   }
 </style>
-</head>
+<meta content="Free AWS CLF-C02 study materials in English: 18 modules, reviewed questions, flashcards, and hands-on labs. Sponsored by CloudStudy." name="description"/><style>@media(max-width:480px){.hero-stats{gap:1rem;flex-wrap:wrap}.hero-stats>div{flex:1 0 35%}.domains-table th,.domains-table td{padding:.6rem .4rem}.td-b{width:56px}.hero-title{font-size:2.8rem}.step-item{padding:1rem}.persp-card{padding:1rem}}</style></head>
 <body>
-
 <nav>
-  <a href="#" class="nav-logo">
-    <div class="nav-logo-icon">AWS</div>
-    <span class="nav-logo-text"><span>Cloud</span>Practitioner Brazil</span>
-  </a>
-  <ul class="nav-links">
-    <li><a href="#modulos">Modules</a></li>
-    <li><a href="#caf">CAF</a></li>
-    <li><a href="#waf">Well-Architected</a></li>
-    <li><a href="#simulado">Simulated</a></li>
-    <li><a href="https://github.com/Thiago-code-lab/aws-cloud-practitioner-brasil" target="_blank" rel="noopener noreferrer" class="nav-cta">GitHub ↗</a></li>
-  </ul>
+<a aria-label="AWS Cloud Practitioner English edition — top of page" class="nav-logo" href="#">
+<div class="nav-logo-icon">AWS</div>
+<span class="nav-logo-text"><span>Cloud</span>Practitioner — English</span>
+</a>
+<ul class="nav-links">
+<li><a href="#modules">Modules</a></li>
+<li><a href="#caf">CAF</a></li>
+<li><a href="#waf">Well-Architected</a></li>
+<li><a href="#practice">Simulated</a></li>
+<li><a class="nav-cta" href="https://github.com/Thiago-code-lab/aws-certified-cloud-practitioner-brasil/tree/clf-c02-english" rel="noopener noreferrer" target="_blank">GitHub ↗</a></li>
+</ul>
 </nav>
-
 <!-- HERO -->
 <section class="hero">
-  <div class="hero-grid"></div>
-  <div class="hero-radial"></div>
-
-  <div class="hero-content">
-    <div class="hero-badge"><div class="badge-dot"></div>CLF-C02 · Portuguese · Open Source</div>
-    <h1 class="hero-title">
-      <span class="bl">Complete Guide</span>
-      <span class="bl">AWS Cloud</span>
-      <span class="bl ac">Practitioner</span>
-    </h1>
-    <p class="hero-desc">Collaborative repository in Portuguese (PT-BR) with 18 modules, complete CAF, Well-Architected Framework and 65 questions in the real format of the CLF-C02 exam.</p>
-    <div class="hero-ctas">
-      <a href="https://github.com/Thiago-code-lab/aws-cloud-practitioner-brasil" target="_blank" rel="noopener noreferrer" class="btn btn-p">☁ Access Repository</a>
-      <a href="#modulos" class="btn btn-o">→ View Contents</a>
-    </div>
-    <div class="hero-stats">
-      <div><div class="stat-num">18</div><div class="stat-label">Modules</div></div>
-      <div><div class="stat-num">65</div><div class="stat-label">Questions</div></div>
-      <div><div class="stat-num">150+</div><div class="stat-label">PT-BR Terms</div></div>
-      <div><div class="stat-num">6</div><div class="stat-label">WAF Pillars</div></div>
-    </div>
-  </div>
-
-  <div class="hero-right">
-    <div class="domain-stack">
-      <div class="domain-card">
-        <div class="d-pct">34%</div>
-        <div class="d-info"><div class="d-name">Cloud Technology and Services</div><div class="d-sub">Domain 3 · Increased exam weight</div><div class="d-bar"><div class="d-fill" style="width:34%;animation-delay:.3s"></div></div></div>
-      </div>
-      <div class="domain-card">
-        <div class="d-pct">30%</div>
-        <div class="d-info"><div class="d-name">Security and Compliance</div><div class="d-sub">Domain 2 · IAM, Shield, WAF, KMS</div><div class="d-bar"><div class="d-fill" style="width:30%;animation-delay:.4s"></div></div></div>
-      </div>
-      <div class="domain-card">
-        <div class="d-pct">24%</div>
-        <div class="d-info"><div class="d-name">Cloud Concepts</div><div class="d-sub">Domain 1 CAF, WAF, Cloud</div><div class="d-bar"><div class="d-fill" style="width:24%;animation-delay:.5s"></div></div></div>
-      </div>
-      <div class="domain-card">
-        <div class="d-pct">12%</div>
-        <div class="d-info"><div class="d-name">Billing, Pricing and Support</div><div class="d-sub">Domain 4 Costs and plans</div><div class="d-bar"><div class="d-fill" style="width:12%;animation-delay:.6s"></div></div></div>
-      </div>
-    </div>
-    <div class="clf-badge">
-      <span style="font-size:2rem">🎓</span>
-      <div><div class="clf-label">Target Certification</div><div class="clf-code">AWS Certified Cloud Practitioner — CLF-C02</div></div>
-    </div>
-  </div>
+<div class="hero-grid"></div>
+<div class="hero-radial"></div>
+<div class="hero-content">
+<div class="hero-badge"><div class="badge-dot"></div>CLF-C02 · English · Open Source</div>
+<h1 class="hero-title">
+<span class="bl">Complete Guide</span>
+<span class="bl">AWS Cloud</span>
+<span class="bl ac">Practitioner</span>
+</h1>
+<p class="hero-desc">Study AWS fundamentals in English with 18 modules, CAF and Well-Architected introductions, 44 reviewed multiple-choice questions, flashcards, and hands-on labs. The GitHub study materials are free.</p>
+<div class="hero-ctas">
+<a class="btn btn-p" href="https://github.com/Thiago-code-lab/aws-certified-cloud-practitioner-brasil/tree/clf-c02-english" rel="noopener noreferrer" target="_blank">☁ Access Repository</a>
+<a class="btn btn-o" href="#modules">→ View Contents</a>
+</div>
+<div class="hero-stats">
+<div><div class="stat-num">18</div><div class="stat-label">Study modules</div></div>
+<div><div class="stat-num">44</div><div class="stat-label">Practice questions</div></div>
+<div><div class="stat-num">4</div><div class="stat-label">Official domains</div></div>
+<div><div class="stat-num">6</div><div class="stat-label">Framework pillars</div></div>
+</div>
+</div>
+<div class="hero-right">
+<div class="domain-stack">
+<div class="domain-card">
+<div class="d-pct">34%</div>
+<div class="d-info"><div class="d-name">Cloud Technology and Services</div><div class="d-sub">Domain 3 · Increased exam weight</div><div class="d-bar"><div class="d-fill" style="width:34%;animation-delay:.3s"></div></div></div>
+</div>
+<div class="domain-card">
+<div class="d-pct">30%</div>
+<div class="d-info"><div class="d-name">Security and Compliance</div><div class="d-sub">Domain 2 · IAM, Shield, WAF, KMS</div><div class="d-bar"><div class="d-fill" style="width:30%;animation-delay:.4s"></div></div></div>
+</div>
+<div class="domain-card">
+<div class="d-pct">24%</div>
+<div class="d-info"><div class="d-name">Cloud Concepts</div><div class="d-sub">Domain 1 CAF, WAF, Cloud</div><div class="d-bar"><div class="d-fill" style="width:24%;animation-delay:.5s"></div></div></div>
+</div>
+<div class="domain-card">
+<div class="d-pct">12%</div>
+<div class="d-info"><div class="d-name">Billing, Pricing and Support</div><div class="d-sub">Domain 4 Costs and plans</div><div class="d-bar"><div class="d-fill" style="width:12%;animation-delay:.6s"></div></div></div>
+</div>
+</div>
+<div class="clf-badge">
+<span style="font-size:2rem">🎓</span>
+<div><div class="clf-label">Target Certification</div><div class="clf-code">AWS Certified Cloud Practitioner — CLF-C02</div></div>
+</div>
+</div>
 </section>
-
 <!-- MÓDULOS -->
-<section id="modulos" class="mod-section">
-  <div class="reveal">
-    <p class="s-label">Contents</p>
-    <h2 class="s-title">18 Complete Modules</h2>
-    <p class="s-desc">From introduction to the cloud to AI and DevOps — all in Portuguese with examples, CLI commands and testing tips.</p>
-  </div>
-  <div class="mod-grid reveal">
-    <a class="mod-link" href="./01-Introduction-to-Cloud-Computing/README.md"><div class="mod-item"><div class="mod-num">01</div><span class="mod-icon">☁️</span><div class="mod-name">Cloud Introduction</div><div class="mod-desc">IaaS, PaaS, SaaS, Regions, AZs, and AWS Benefits</div></div></a>
-    <a class="mod-link" href="./02-Amazon-EC2/README.md"><div class="mod-item"><div class="mod-num">02</div><span class="mod-icon">🖥️</span><div class="mod-name">Amazon EC2</div><div class="mod-desc">Instance Types, Pricing, Auto Scaling, and ELB</div></div></a>
-    <a class="mod-link" href="./03-Security-and-Compliance/README.md"><div class="mod-item"><div class="mod-num">03</div><span class="mod-icon">🔐</span><div class="mod-name">Security & Compliance</div><div class="mod-desc">IAM, Organizations, Shield, WAF, KMS, CloudTrail</div></div></a>
-    <a class="mod-link" href="./04-Amazon-S3/README.md"><div class="mod-item"><div class="mod-num">04</div><span class="mod-icon">🪣</span><div class="mod-name">Amazon S3</div><div class="mod-desc">Storage classes, policies, lifecycle and Glacier</div></div></a>
-    <a class="mod-link" href="./05-Networking-and-Connectivity/README.md"><div class="mod-item"><div class="mod-num">05</div><span class="mod-icon">🌐</span><div class="mod-name">Networks & Connectivity</div><div class="mod-desc">VPC, Subnets, Route53, Direct Connect and VPN</div></div></a>
-    <a class="mod-link" href="./06-Databases/README.md"><div class="mod-item"><div class="mod-num">06</div><span class="mod-icon">🗄️</span><div class="mod-name">Database</div><div class="mod-desc">RDS, Aurora, DynamoDB, ElastiCache, Redshift</div></div></a>
-    <a class="mod-link" href="./07-Serverless-Computing/README.md"><div class="mod-item"><div class="mod-num">07</div><span class="mod-icon">âš¡</span><div class="mod-name">Serverless</div><div class="mod-desc">Lambda, API Gateway, Fargate, ECS, EKS, EventBridge</div></div></a>
-    <a class="mod-link" href="./08-Storage/README.md"><div class="mod-item"><div class="mod-num">08</div><span class="mod-icon">💾</span><div class="mod-name">Storage</div><div class="mod-desc">EBS, EFS, FSx, Snow Family, Storage Gateway</div></div></a>
-    <a class="mod-link" href="./09-Monitoring-and-Governance/README.md"><div class="mod-item"><div class="mod-num">09</div><span class="mod-icon">📊</span><div class="mod-name">Monitoring & Governance</div><div class="mod-desc">CloudWatch, Trusted Advisor, Systems Manager</div></div></a>
-    <a class="mod-link" href="./10-Pricing-and-Support/README.md"><div class="mod-item"><div class="mod-num">10</div><span class="mod-icon">💰</span><div class="mod-name">Pricing & Support</div><div class="mod-desc">Free Tier, Cost Explorer, Basic to Enterprise plans</div></div></a>
-    <a class="mod-link" href="./11-Migration-and-Innovation/README.md"><div class="mod-item"><div class="mod-num">11</div><span class="mod-icon">🚀</span><div class="mod-name">Migration & Innovation</div><div class="mod-desc">7Rs, Migration Hub, DMS, DataSync, Snow Family</div></div></a>
-    <a class="mod-link" href="./12-CAF-Cloud-Adoption-Framework/README.md"><div class="mod-item" style="background:rgba(255,153,0,.05)"><div class="mod-num">12</div><span class="mod-icon">🏛️</span><div class="mod-name">CAF</div><div class="mod-desc">6 perspectives, 4 phases and transformation capabilities</div></div></a>
-    <a class="mod-link" href="./13-Well-Architected-Framework/README.md"><div class="mod-item" style="background:rgba(255,153,0,.05)"><div class="mod-num">13</div><span class="mod-icon">🏗️</span><div class="mod-name">Well-Architected</div><div class="mod-desc">6 pillars, design principles and specialized lenses</div></div></a>
-    <a class="mod-link" href="./14-Artificial-Intelligence-and-ML/README.md"><div class="mod-item"><div class="mod-num">14</div><span class="mod-icon">🤖</span><div class="mod-name">AI & Machine Learning</div><div class="mod-desc">SageMaker, Rekognition, Bedrock, Amazon Q</div></div></a>
-    <a class="mod-link" href="./15-Developer-Services/README.md"><div class="mod-item"><div class="mod-num">15</div><span class="mod-icon">🛠️</span><div class="mod-name">Developer Tools</div><div class="mod-desc">CodePipeline, CDK, CloudFormation, Amplify, X-Ray</div></div></a>
-    <a class="mod-link" href="./16-Practice-Exams-and-Questions/README.md"><div class="mod-item"><div class="mod-num">16</div><span class="mod-icon">📝</span><div class="mod-name">Simulations & Questions</div><div class="mod-desc">65 questions + answers in the 4 domains of the CLF-C02</div></div></a>
-    <a class="mod-link" href="./17-Glossary/README.md"><div class="mod-item"><div class="mod-num">17</div><span class="mod-icon">📖</span><div class="mod-name">Glossary</div><div class="mod-desc">150+ AWS terms in Portuguese with Brazilian examples</div></div></a>
-    <a class="mod-link" href="./18-Resources-and-Links/README.md"><div class="mod-item"><div class="mod-num">18</div><span class="mod-icon">🔗</span><div class="mod-name">Resources & Links</div><div class="mod-desc">Skill Builder, whitepapers, courses and official materials</div></div></a>
-  </div>
+<section class="mod-section" id="modules">
+<div class="reveal">
+<p class="s-label">Contents</p>
+<h2 class="s-title">18 Complete Modules</h2>
+<p class="s-desc">Build your understanding of cloud concepts, core AWS services, security, pricing, and support. Optional ecosystem topics are clearly identified in the lessons.</p>
+</div>
+<div class="mod-grid reveal">
+<a class="mod-link" href="./01-Introduction-to-Cloud-Computing/README.md"><div class="mod-item"><div class="mod-num">01</div><span class="mod-icon">☁️</span><div class="mod-name">Cloud Introduction</div><div class="mod-desc">IaaS, PaaS, SaaS, Regions, AZs, and AWS Benefits</div></div></a>
+<a class="mod-link" href="./02-Amazon-EC2/README.md"><div class="mod-item"><div class="mod-num">02</div><span class="mod-icon">🖥️</span><div class="mod-name">Amazon EC2</div><div class="mod-desc">Instance Types, Pricing, Auto Scaling, and ELB</div></div></a>
+<a class="mod-link" href="./03-Security-and-Compliance/README.md"><div class="mod-item"><div class="mod-num">03</div><span class="mod-icon">🔐</span><div class="mod-name">Security &amp; Compliance</div><div class="mod-desc">IAM, Organizations, Shield, WAF, KMS, CloudTrail</div></div></a>
+<a class="mod-link" href="./04-Amazon-S3/README.md"><div class="mod-item"><div class="mod-num">04</div><span class="mod-icon">🪣</span><div class="mod-name">Amazon S3</div><div class="mod-desc">Storage classes, policies, lifecycle and Glacier</div></div></a>
+<a class="mod-link" href="./05-Networking-and-Connectivity/README.md"><div class="mod-item"><div class="mod-num">05</div><span class="mod-icon">🌐</span><div class="mod-name">Networks &amp; Connectivity</div><div class="mod-desc">VPC, Subnets, Route53, Direct Connect and VPN</div></div></a>
+<a class="mod-link" href="./06-Databases/README.md"><div class="mod-item"><div class="mod-num">06</div><span class="mod-icon">🗄️</span><div class="mod-name">Database</div><div class="mod-desc">RDS, Aurora, DynamoDB, ElastiCache, Redshift</div></div></a>
+<a class="mod-link" href="./07-Serverless-Computing/README.md"><div class="mod-item"><div class="mod-num">07</div><span class="mod-icon">âš¡</span><div class="mod-name">Serverless</div><div class="mod-desc">Lambda, API Gateway, Fargate, ECS, EKS, EventBridge</div></div></a>
+<a class="mod-link" href="./08-Storage/README.md"><div class="mod-item"><div class="mod-num">08</div><span class="mod-icon">💾</span><div class="mod-name">Storage</div><div class="mod-desc">EBS, EFS, FSx, Snow Family, Storage Gateway</div></div></a>
+<a class="mod-link" href="./09-Monitoring-and-Governance/README.md"><div class="mod-item"><div class="mod-num">09</div><span class="mod-icon">📊</span><div class="mod-name">Monitoring &amp; Governance</div><div class="mod-desc">CloudWatch, Trusted Advisor, Systems Manager</div></div></a>
+<a class="mod-link" href="./10-Pricing-and-Support/README.md"><div class="mod-item"><div class="mod-num">10</div><span class="mod-icon">💰</span><div class="mod-name">Pricing &amp; Support</div><div class="mod-desc">Free Tier, cost tools, and current support offerings</div></div></a>
+<a class="mod-link" href="./11-Migration-and-Innovation/README.md"><div class="mod-item"><div class="mod-num">11</div><span class="mod-icon">🚀</span><div class="mod-name">Migration &amp; Innovation</div><div class="mod-desc">7Rs, Migration Hub, DMS, DataSync, Snow Family</div></div></a>
+<a class="mod-link" href="./12-CAF-Cloud-Adoption-Framework/README.md"><div class="mod-item" style="background:rgba(255,153,0,.05)"><div class="mod-num">12</div><span class="mod-icon">🏛️</span><div class="mod-name">CAF</div><div class="mod-desc">6 perspectives, 4 phases and transformation capabilities</div></div></a>
+<a class="mod-link" href="./13-Well-Architected-Framework/README.md"><div class="mod-item" style="background:rgba(255,153,0,.05)"><div class="mod-num">13</div><span class="mod-icon">🏗️</span><div class="mod-name">Well-Architected</div><div class="mod-desc">6 pillars, design principles and specialized lenses</div></div></a>
+<a class="mod-link" href="./14-Artificial-Intelligence-and-ML/README.md"><div class="mod-item"><div class="mod-num">14</div><span class="mod-icon">🤖</span><div class="mod-name">AI &amp; Machine Learning</div><div class="mod-desc">SageMaker, Rekognition, Bedrock, Amazon Q</div></div></a>
+<a class="mod-link" href="./15-Developer-Services/README.md"><div class="mod-item"><div class="mod-num">15</div><span class="mod-icon">🛠️</span><div class="mod-name">Developer Tools</div><div class="mod-desc">CodePipeline, CDK, CloudFormation, Amplify, X-Ray</div></div></a>
+<a class="mod-link" href="./16-Practice-Exams-and-Questions/README.md"><div class="mod-item"><div class="mod-num">16</div><span class="mod-icon">📝</span><div class="mod-name">Practice Exams &amp; Questions</div><div class="mod-desc">40 reviewed questions with answer explanations across four official domains</div></div></a>
+<a class="mod-link" href="./17-Glossary/README.md"><div class="mod-item"><div class="mod-num">17</div><span class="mod-icon">📖</span><div class="mod-name">Glossary</div><div class="mod-desc">AWS terminology and concise definitions in English</div></div></a>
+<a class="mod-link" href="./18-Resources-and-Links/README.md"><div class="mod-item"><div class="mod-num">18</div><span class="mod-icon">🔗</span><div class="mod-name">Resources &amp; Links</div><div class="mod-desc">Skill Builder, whitepapers, courses and official materials</div></div></a>
+</div>
 </section>
-
 <!-- CAF -->
 <section id="caf">
-  <div class="reveal">
-    <p class="s-label">Module 12</p>
-    <h2 class="s-title">AWS Cloud Adoption Framework</h2>
-    <p class="s-desc">CAF guides organizations throughout the digital transformation journey — fully documented in PT-BR with all capabilities.</p>
-  </div>
-  <div class="caf-grid reveal">
-    <div>
-      <h3 style="font-family:var(--D);font-size:1.3rem;font-weight:700;color:#fff;margin-bottom:1.2rem">The 4 Phases of the Journey</h3>
-      <div class="caf-phases">
-        <div class="caf-phase"><div class="phase-dot">E</div><div class="phase-content"><div class="phase-name">Envision — Envision</div><div class="phase-desc">Identify and prioritize transformation opportunities with measurable impact on the business.</div></div></div>
-        <div class="caf-phase"><div class="phase-dot">A</div><div class="phase-content"><div class="phase-name">Align — Align</div><div class="phase-desc">Identify gaps between current and desired states in all 6 CAF perspectives.</div></div></div>
-        <div class="caf-phase"><div class="phase-dot">L</div><div class="phase-content"><div class="phase-name">Launch — Launch</div><div class="phase-desc">Deliver pilot projects into production and demonstrate incremental value of investment.</div></div></div>
-        <div class="caf-phase"><div class="phase-dot">S</div><div class="phase-content"><div class="phase-name">Scale — Scale</div><div class="phase-desc">Expand pilot projects to full production and achieve business benefits.</div></div></div>
-      </div>
-    </div>
-    <div>
-      <h3 style="font-family:var(--D);font-size:1.3rem;font-weight:700;color:#fff;margin-bottom:1.2rem">6 Perspectives</h3>
-      <div class="persp-grid">
-        <div class="persp-card"><span class="persp-icon">💼</span><div class="persp-name">Business</div><div class="persp-sub">Strategy, portfolio, innovation and partnerships</div><div class="p-tags"><span class="p-tag">Strategy</span><span class="p-tag">Portfolio</span></div></div>
-        <div class="persp-card"><span class="persp-icon">👥</span><div class="persp-name">People</div><div class="persp-sub">Culture, leadership and team training</div><div class="p-tags"><span class="p-tag">Culture</span><span class="p-tag">Leadership</span></div></div>
-        <div class="persp-card"><span class="persp-icon">⚖️</span><div class="persp-name">Governance</div><div class="persp-sub">Program, risk and compliance management</div><div class="p-tags"><span class="p-tag">Risk</span><span class="p-tag">FinOps</span></div></div>
-        <div class="persp-card"><span class="persp-icon">🏗️</span><div class="persp-name">Platform</div><div class="persp-sub">Architecture, CI/CD and modernization</div><div class="p-tags"><span class="p-tag">CI/CD</span><span class="p-tag">IaC</span></div></div>
-        <div class="persp-card"><span class="persp-icon">🔐</span><div class="persp-name">Security</div><div class="persp-sub">IAM, Data Detection and Protection</div><div class="p-tags"><span class="p-tag">IAM</span><span class="p-tag">Detection</span></div></div>
-        <div class="persp-card"><span class="persp-icon">⚙️</span><div class="persp-name">Operations</div><div class="persp-sub">ITSM, observability and continuity</div><div class="p-tags"><span class="p-tag">ITSM</span><span class="p-tag">Backup</span></div></div>
-      </div>
-    </div>
-  </div>
+<div class="reveal">
+<p class="s-label">Module 12</p>
+<h2 class="s-title">AWS Cloud Adoption Framework</h2>
+<p class="s-desc">AWS CAF organizes cloud adoption through six perspectives and four iterative transformation phases. These lessons provide an introductory overview.</p>
+</div>
+<div class="caf-grid reveal">
+<div>
+<h3 style="font-family:var(--D);font-size:1.3rem;font-weight:700;color:#fff;margin-bottom:1.2rem">The 4 Phases of the Journey</h3>
+<div class="caf-phases">
+<div class="caf-phase"><div class="phase-dot">E</div><div class="phase-content"><div class="phase-name">Envision</div><div class="phase-desc">Identify and prioritize transformation opportunities with measurable impact on the business.</div></div></div>
+<div class="caf-phase"><div class="phase-dot">A</div><div class="phase-content"><div class="phase-name">Align</div><div class="phase-desc">Identify gaps between current and desired states in all 6 CAF perspectives.</div></div></div>
+<div class="caf-phase"><div class="phase-dot">L</div><div class="phase-content"><div class="phase-name">Launch</div><div class="phase-desc">Deliver pilot projects into production and demonstrate incremental value of investment.</div></div></div>
+<div class="caf-phase"><div class="phase-dot">S</div><div class="phase-content"><div class="phase-name">Scale</div><div class="phase-desc">Expand pilot projects to full production and achieve business benefits.</div></div></div>
+</div>
+</div>
+<div>
+<h3 style="font-family:var(--D);font-size:1.3rem;font-weight:700;color:#fff;margin-bottom:1.2rem">6 Perspectives</h3>
+<div class="persp-grid">
+<div class="persp-card"><span class="persp-icon">💼</span><div class="persp-name">Business</div><div class="persp-sub">Strategy, portfolio, innovation and partnerships</div><div class="p-tags"><span class="p-tag">Strategy</span><span class="p-tag">Portfolio</span></div></div>
+<div class="persp-card"><span class="persp-icon">👥</span><div class="persp-name">People</div><div class="persp-sub">Culture, leadership and team training</div><div class="p-tags"><span class="p-tag">Culture</span><span class="p-tag">Leadership</span></div></div>
+<div class="persp-card"><span class="persp-icon">⚖️</span><div class="persp-name">Governance</div><div class="persp-sub">Program, risk and compliance management</div><div class="p-tags"><span class="p-tag">Risk</span><span class="p-tag">FinOps</span></div></div>
+<div class="persp-card"><span class="persp-icon">🏗️</span><div class="persp-name">Platform</div><div class="persp-sub">Architecture, CI/CD and modernization</div><div class="p-tags"><span class="p-tag">CI/CD</span><span class="p-tag">IaC</span></div></div>
+<div class="persp-card"><span class="persp-icon">🔐</span><div class="persp-name">Security</div><div class="persp-sub">IAM, Data Detection and Protection</div><div class="p-tags"><span class="p-tag">IAM</span><span class="p-tag">Detection</span></div></div>
+<div class="persp-card"><span class="persp-icon">⚙️</span><div class="persp-name">Operations</div><div class="persp-sub">ITSM, observability and continuity</div><div class="p-tags"><span class="p-tag">ITSM</span><span class="p-tag">Backup</span></div></div>
+</div>
+</div>
+</div>
 </section>
-
 <!-- WELL-ARCHITECTED -->
-<section id="waf" class="waf-section">
-  <div class="reveal">
-    <p class="s-label">Module 13</p>
-    <h2 class="s-title">Well-Architected Framework</h2>
-    <p class="s-desc">The 6 pillars that guide the construction of secure, resilient, efficient and sustainable systems on AWS — all documented with design principles and services.</p>
-  </div>
-  <div class="pillars-grid reveal">
-    <div class="pillar-card"><div class="p-num">Pillar 01</div><span class="p-icon">🏆</span><div class="p-name">Operational Excellence</div><div class="p-desc">Execute and monitor systems to deliver business value and continually improve.</div><ul class="p-list"><li>Execute operations as code (IaC)</li><li>Small, reversible changes</li><li>Anticipate and learn from failures</li></ul></div>
-    <div class="pillar-card"><div class="p-num">Pillar 02</div><span class="p-icon">🔐</span><div class="p-name">Security</div><div class="p-desc">Protect information, systems and assets with ongoing risk assessments and compliance.</div><ul class="p-list"><li>Least privilege in identity</li><li>Security at every layer</li><li>Data in transit and at rest</li></ul></div>
-    <div class="pillar-card"><div class="p-num">Pillar 03</div><span class="p-icon">⚡</span><div class="p-name">Reliability</div><div class="p-desc">Ensure workloads perform their intended function correctly and consistently.</div><ul class="p-list"><li>Automatically recover from crashes</li><li>Test recovery procedures</li><li>Manage changes by automation</li></ul></div>
-    <div class="pillar-card"><div class="p-num">Pillar 04</div><span class="p-icon">🚀</span><div class="p-name">Performance Efficiency</div><div class="p-desc">Use computing resources efficiently to meet requirements and maintain performance.</div><ul class="p-list"><li>Democratize advanced technologies</li><li>Global scale in minutes</li><li>Serverless architectures</li></ul></div>
-    <div class="pillar-card"><div class="p-num">Pillar 05</div><span class="p-icon">💰</span><div class="p-name">Cost Optimization</div><div class="p-desc">Avoid unnecessary expenses and maintain full control of where money is invested.</div><ul class="p-list"><li>Cloud Financial Management</li><li>Elastic Consumption Model</li><li>Analyze and assign expenses</li></ul></div>
-    <div class="pillar-card" style="border-color:rgba(102,187,106,.2)"><div class="p-num" style="color:#66bb6a">Pillar 06 New 2021</div><span class="p-icon">🌱</span><div class="p-name">Sustainability</div><div class="p-desc">Minimize environmental impacts of workloads with a focus on energy efficiency and CO₂ reduction.</div><ul class="p-list"><li>Establish environmental impact goals</li><li>Maximize resource utilization</li><li>Use efficient managed services</li></ul></div>
-  </div>
+<section class="waf-section" id="waf">
+<div class="reveal">
+<p class="s-label">Module 13</p>
+<h2 class="s-title">Well-Architected Framework</h2>
+<p class="s-desc">The 6 pillars that guide the construction of secure, resilient, efficient and sustainable systems on AWS — all documented with design principles and services.</p>
+</div>
+<div class="pillars-grid reveal">
+<div class="pillar-card"><div class="p-num">Pillar 01</div><span class="p-icon">🏆</span><div class="p-name">Operational Excellence</div><div class="p-desc">Execute and monitor systems to deliver business value and continually improve.</div><ul class="p-list"><li>Execute operations as code (IaC)</li><li>Small, reversible changes</li><li>Anticipate and learn from failures</li></ul></div>
+<div class="pillar-card"><div class="p-num">Pillar 02</div><span class="p-icon">🔐</span><div class="p-name">Security</div><div class="p-desc">Protect information, systems and assets with ongoing risk assessments and compliance.</div><ul class="p-list"><li>Least privilege in identity</li><li>Security at every layer</li><li>Data in transit and at rest</li></ul></div>
+<div class="pillar-card"><div class="p-num">Pillar 03</div><span class="p-icon">⚡</span><div class="p-name">Reliability</div><div class="p-desc">Ensure workloads perform their intended function correctly and consistently.</div><ul class="p-list"><li>Automatically recover from crashes</li><li>Test recovery procedures</li><li>Manage changes by automation</li></ul></div>
+<div class="pillar-card"><div class="p-num">Pillar 04</div><span class="p-icon">🚀</span><div class="p-name">Performance Efficiency</div><div class="p-desc">Use computing resources efficiently to meet requirements and maintain performance.</div><ul class="p-list"><li>Democratize advanced technologies</li><li>Global scale in minutes</li><li>Serverless architectures</li></ul></div>
+<div class="pillar-card"><div class="p-num">Pillar 05</div><span class="p-icon">💰</span><div class="p-name">Cost Optimization</div><div class="p-desc">Avoid unnecessary expenses and maintain full control of where money is invested.</div><ul class="p-list"><li>Cloud Financial Management</li><li>Elastic Consumption Model</li><li>Analyze and assign expenses</li></ul></div>
+<div class="pillar-card" style="border-color:rgba(102,187,106,.2)"><div class="p-num" style="color:#66bb6a">Pillar 06</div><span class="p-icon">🌱</span><div class="p-name">Sustainability</div><div class="p-desc">Minimize environmental impacts of workloads with a focus on energy efficiency and CO₂ reduction.</div><ul class="p-list"><li>Establish environmental impact goals</li><li>Maximize resource utilization</li><li>Use efficient managed services</li></ul></div>
+</div>
 </section>
-
-<!-- SIMULADO -->
-<section id="simulado">
-  <div class="reveal">
-    <p class="s-label">Module 16</p>
-    <h2 class="s-title">Full Simulation CLF-C02</h2>
-    <p class="s-desc">65 questions in the real exam format, distributed across the 4 domains with commented answer sheets in Portuguese.</p>
-  </div>
-  <table class="domains-table reveal">
-    <thead><tr><th>#</th><th>Domain</th><th style="text-align:right">Weight</th><th>Distribution</th></tr></thead>
-    <tbody>
-      <tr><td><div class="td-n">D1</div></td><td><div class="td-name">Cloud Concepts</div><div class="td-sub">Cloud, CAF, Well-Architected, migration and innovation</div></td><td class="td-pct">24%</td><td class="td-b"><div class="td-bi"><div class="td-bf" style="width:24%;animation-delay:.2s"></div></div></td></tr>
-      <tr><td><div class="td-n">D2</div></td><td><div class="td-name">Security and Compliance</div><div class="td-sub">IAM, Shield, WAF, KMS, compliance and LGPD</div></td><td class="td-pct">30%</td><td class="td-b"><div class="td-bi"><div class="td-bf" style="width:30%;animation-delay:.3s"></div></div></td></tr>
-      <tr><td><div class="td-n">D3</div></td><td><div class="td-name">Cloud Technology and Services</div><div class="td-sub">EC2, S3, RDS, Lambda, VPC, and all AWS services</div></td><td class="td-pct">34%</td><td class="td-b"><div class="td-bi"><div class="td-bf" style="width:34%;animation-delay:.4s"></div></div></td></tr>
-      <tr><td><div class="td-n">D4</div></td><td><div class="td-name">Billing, Pricing and Support</div><div class="td-sub">Cost Explorer, Budgets, Basic to Enterprise plans</div></td><td class="td-pct">12%</td><td class="td-b"><div class="td-bi"><div class="td-bf" style="width:12%;animation-delay:.5s"></div></div></td></tr>
-    </tbody>
-  </table>
-  <div class="sim-cards reveal">
-    <div class="sim-card"><div class="sim-num">65</div><div class="sim-label">Real Format Questions</div></div>
-    <div class="sim-card"><div class="sim-num">4</div><div class="sim-label">Commented templates</div></div>
-    <div class="sim-card"><div class="sim-num">700</div><div class="sim-label">Minimum points for approval</div></div>
-  </div>
+<!-- PRACTICE -->
+<section id="practice">
+<div class="reveal">
+<p class="s-label">Module 16</p>
+<h2 class="s-title">CLF-C02 Practice and Review</h2>
+<p class="s-desc">Module 16 contains 40 reviewed questions, including a 10-question practice exam. Four additional diagnostic questions appear in Quick Review. These are study exercises, not official exam questions or a full-length simulation.</p>
+</div>
+<table class="domains-table reveal">
+<thead><tr><th>#</th><th>Domain</th><th style="text-align:right">Weight</th><th>Distribution</th></tr></thead>
+<tbody>
+<tr><td><div class="td-n">D1</div></td><td><div class="td-name">Cloud Concepts</div><div class="td-sub">Cloud, CAF, Well-Architected, migration and innovation</div></td><td class="td-pct">24%</td><td class="td-b"><div class="td-bi"><div class="td-bf" style="width:24%;animation-delay:.2s"></div></div></td></tr>
+<tr><td><div class="td-n">D2</div></td><td><div class="td-name">Security and Compliance</div><div class="td-sub">IAM, Shield, WAF, KMS, compliance and LGPD</div></td><td class="td-pct">30%</td><td class="td-b"><div class="td-bi"><div class="td-bf" style="width:30%;animation-delay:.3s"></div></div></td></tr>
+<tr><td><div class="td-n">D3</div></td><td><div class="td-name">Cloud Technology and Services</div><div class="td-sub">EC2, S3, RDS, Lambda, VPC, and core AWS services</div></td><td class="td-pct">34%</td><td class="td-b"><div class="td-bi"><div class="td-bf" style="width:34%;animation-delay:.4s"></div></div></td></tr>
+<tr><td><div class="td-n">D4</div></td><td><div class="td-name">Billing, Pricing and Support</div><div class="td-sub">Cost Explorer, Budgets, current support plans</div></td><td class="td-pct">12%</td><td class="td-b"><div class="td-bi"><div class="td-bf" style="width:12%;animation-delay:.5s"></div></div></td></tr>
+</tbody>
+</table>
+<div class="sim-cards reveal">
+<div class="sim-card"><div class="sim-num">40</div><div class="sim-label">Questions in module 16</div></div>
+<div class="sim-card"><div class="sim-num">4</div><div class="sim-label">Official exam domains</div></div>
+<div class="sim-card"><div class="sim-num">700</div><div class="sim-label">Minimum passing scaled score</div></div>
+</div>
 </section>
-
 <!-- HOW TO USE -->
 <section class="how-section">
-  <div class="reveal">
-    <p class="s-label">How to use</p>
-    <h2 class="s-title">Get started in 4 steps</h2>
-    <p class="s-desc">Clone, study, practice and get certified. All content works offline in your favorite editor.</p>
-  </div>
-  <div class="steps-grid reveal">
-    <div class="step-item"><div class="step-n">1</div><div class="step-title">Clone the repository</div><div class="step-desc">Git clone and have offline access to all content in VS Code or any editor.</div></div>
-    <div class="step-item"><div class="step-n">2</div><div class="step-title">Study by modules</div><div class="step-desc">Follow the order 01→18 or skip to the domain you need to reinforce the most.</div></div>
-    <div class="step-item"><div class="step-n">3</div><div class="step-title">Practice the simulations</div><div class="step-desc">65 questions in module 16 to test your level before scheduling the official test.</div></div>
-    <div class="step-item"><div class="step-n">4</div><div class="step-title">Contribute</div><div class="step-desc">Found an error or want to add content? Open a PR and help the entire community.</div></div>
-  </div>
-  <div class="install-block reveal">
-    <div class="install-bar">
-      <div class="dot dr"></div><div class="dot dy"></div><div class="dot dg"></div>
-      <span class="install-lang">bash</span>
-    </div>
-<pre><span class="cm"># Clone the repository</span>
-git clone https://github.com/Thiago-code-lab/aws-cloud-practitioner-brasil.git<span class="kw">CD</span>aws-cloud-practitioner-brasil<span class="cm"># Open in VS Code</span>
-code .<span class="cm"># Browse modules</span>
-ls -la            <span class="cm"># see all 18 modules</span>
-<span class="kw">cat</span>README.md     <span class="cm"># full index with links</span>
+<div class="reveal">
+<p class="s-label">How to use</p>
+<h2 class="s-title">Get started in 4 steps</h2>
+<p class="s-desc">Clone the English branch, study, practice, and review. Local study files work offline; external resources and the hosted platform require internet access.</p>
+</div>
+<div class="steps-grid reveal">
+<div class="step-item"><div class="step-n">1</div><div class="step-title">Clone the repository</div><div class="step-desc">Git clone and have offline access to all content in VS Code or any editor.</div></div>
+<div class="step-item"><div class="step-n">2</div><div class="step-title">Study by modules</div><div class="step-desc">Follow the order 01→18 or skip to the domain you need to reinforce the most.</div></div>
+<div class="step-item"><div class="step-n">3</div><div class="step-title">Practice the questions</div><div class="step-desc">Practice the questions in module 16, review every alternative, and revisit weak topics before scheduling the official exam.</div></div>
+<div class="step-item"><div class="step-n">4</div><div class="step-title">Contribute</div><div class="step-desc">Found an error or want to add content? Open a PR and help the entire community.</div></div>
+</div>
+<div class="install-block reveal">
+<div class="install-bar">
+<div class="dot dr"></div><div class="dot dy"></div><div class="dot dg"></div>
+<span class="install-lang">bash</span>
+</div>
+<pre># Clone the English edition
+git clone --branch clf-c02-english --single-branch https://github.com/Thiago-code-lab/aws-certified-cloud-practitioner-brasil.git
+cd aws-certified-cloud-practitioner-brasil
 
-<span class="ok"># ✅ Done! Start with module 01 and enjoy your studies!</span></pre>
-  </div>
+# Open in VS Code
+code .
+
+# Start with the study index
+cat README.md
+</pre>
+</div>
 </section>
-
 <!-- CTA -->
 <section class="cta-section">
-  <p class="cta-ey">Open Source · Free · PT-BR</p>
-  <h2 class="cta-title reveal">Conquer your<br/><span>AWS certification</span></h2>
-  <p class="cta-desc reveal">All the content necessary for the CLF-C02 in Portuguese, with examples from the Brazilian context. Free forever.</p>
-  <div class="cta-actions reveal">
-    <a href="https://github.com/Thiago-code-lab/aws-cloud-practitioner-brasil" target="_blank" rel="noopener noreferrer" class="btn btn-p">☁ Access on GitHub</a>
-    <a href="https://skillbuilder.aws" target="_blank" rel="noopener noreferrer" class="btn btn-o">→ AWS Skill Builder</a>
-    <a href="https://www.linkedin.com/in/analyticsthiagocardoso" target="_blank" rel="noopener noreferrer" class="btn btn-o">↗ LinkedIn</a>
-  </div>
+<p class="cta-ey">Open Source · Free · en-US</p>
+<h2 class="cta-title reveal">Conquer your<br/><span>AWS certification</span></h2>
+<p class="cta-desc reveal">Explore these free open-source study materials and continue learning with CloudStudy, which is already available. Platform features may have separate terms.</p>
+<div class="cta-actions reveal"><a class="btn btn-p" href="https://app.cloudstudy.com.br/" rel="noopener noreferrer" target="_blank">Explore CloudStudy ↗</a>
+<a class="btn btn-p" href="https://github.com/Thiago-code-lab/aws-certified-cloud-practitioner-brasil/tree/clf-c02-english" rel="noopener noreferrer" target="_blank">☁ Access on GitHub</a>
+<a class="btn btn-o" href="https://skillbuilder.aws" rel="noopener noreferrer" target="_blank">→ AWS Skill Builder</a>
+<a class="btn btn-o" href="https://www.linkedin.com/in/analyticsthiagocardoso" rel="noopener noreferrer" target="_blank">↗ LinkedIn</a>
+</div>
 </section>
-
 <footer>
-  <div class="fb"><div class="fb-icon">AWS</div><span class="fb-text">Cloud Practitioner Brazil</span></div>
-  <div class="fl">
-    <a href="https://github.com/Thiago-code-lab/aws-cloud-practitioner-brasil" target="_blank" rel="noopener noreferrer">GitHub</a>
-    <a href="https://aws.amazon.com/certification/certified-cloud-practitioner/" target="_blank" rel="noopener noreferrer">Official Certification</a>
-    <a href="https://skillbuilder.aws" target="_blank" rel="noopener noreferrer">Skill Builder</a>
-    <a href="https://www.linkedin.com/in/analyticsthiagocardoso" target="_blank" rel="noopener noreferrer">LinkedIn</a>
-  </div>
-  <p class="fc">© 2024 Thiago Cardoso Davi · MIT License</p>
+<div class="fb"><div class="fb-icon">AWS</div><span class="fb-text">Cloud Practitioner — English</span></div>
+<div class="fl">
+<a href="https://github.com/Thiago-code-lab/aws-certified-cloud-practitioner-brasil/tree/clf-c02-english" rel="noopener noreferrer" target="_blank">GitHub</a>
+<a href="https://aws.amazon.com/certification/certified-cloud-practitioner/" rel="noopener noreferrer" target="_blank">Official Certification</a>
+<a href="https://skillbuilder.aws" rel="noopener noreferrer" target="_blank">Skill Builder</a>
+<a href="https://www.linkedin.com/in/analyticsthiagocardoso" rel="noopener noreferrer" target="_blank">LinkedIn</a>
+<a href="https://github.com/Thiago-code-lab/aws-certified-cloud-practitioner-brasil/tree/main">Portuguese edition</a></div>
+<p class="fc">© 2024 Thiago Cardoso Davi · MIT License</p>
 </footer>
-
 <script>
   const obs = new IntersectionObserver((entries) => {
     entries.forEach(e => { if(e.isIntersecting){e.target.classList.add('visible');obs.unobserve(e.target)} });
