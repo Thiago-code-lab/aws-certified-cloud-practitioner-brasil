@@ -1,19 +1,23 @@
-# Transformation Results
+# Transformation Outcomes
 
 Cloud transformation seeks measurable results, not just moving servers.
 
 - Can increase revenue, operational efficiency and agility.
 - Can reduce risks and support environmental and social goals.
 - Results must have accountability, metrics and frequent reviews.
-- **Test tip:** each technical initiative must be linked to a verifiable business result.
+- **Exam tip:** each technical initiative must be linked to a verifiable business result.
 
-Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 
 
 
-> If the objective is also data engineering, this course helps you transform the AWS base into projects: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+> If the objective is also data engineering, this course helps you transform the AWS fundamentals into projects: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
+
+## Official AWS references
+
+- [AWS reference 1](https://docs.aws.amazon.com/whitepapers/latest/overview-aws-cloud-adoption-framework/welcome.html)
 
 ## ☁️ Follow CloudStudy
 

@@ -1,16 +1,20 @@
-# AWS Codepipeline
+# AWS CodePipeline
 
 AWS CodePipeline orchestrates continuous delivery steps from source to build, test, approval and deployment.
 
 - Each change can automatically start an execution.
 - Integrates AWS services and third-party tools.
 - View the flow state and transitions.
-- **Test tip:** coordinating the complete CI/CD process points to CodePipeline.
+- **Exam tip:** coordinating the complete CI/CD process points to CodePipeline.
 
-Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 
 
 ---
+
+## Official AWS references
+
+- [AWS reference 1](https://docs.aws.amazon.com/codepipeline/latest/userguide/welcome.html)
 
 ## ☁️ Follow CloudStudy
 

@@ -12,7 +12,7 @@ Module to recognize migration reasons, adoption strategies and high-level suppor
 - Lift-and-shift usually appears as migration with smaller initial change.
 - Managed services reduce operational burden and free up focus for the product.
 
-## Classic proof signals
+## Common exam clues
 - "Evaluate environment before migration" -> AWS Migration Hub or assessment.
 - "Move with little change" -> rehost/lift-and-shift.
 - "Modernize application" -> refactor/re-architect at a high level.
@@ -21,7 +21,7 @@ Module to recognize migration reasons, adoption strategies and high-level suppor
 Assume that every migration requires complete redesign. In CLF-C02, the answer tends to prioritize simplicity and the adoption phase.
 
 ## What to memorize
-| Comparison | Mental rule of proof |
+| Comparison | Exam rule of thumb |
 |---|---|
 | Rehost vs Refactor | Rehost changes little; refactor modernizes more |
 | Migration vs Innovation | Migration moves capabilities; innovation creates new ways of operating |
@@ -30,12 +30,16 @@ Assume that every migration requires complete redesign. In CLF-C02, the answer t
 After migration, review CAF: It organizes people, processes, and governance for cloud adoption.
 
 ## Continuity
-Architecture Track: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Architecture Track: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 
 
-> Career complement: anyone who wants to move from the cloud base to real data projects can follow here: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+> Career complement: anyone who wants to move from the cloud fundamentals to real data projects can follow here: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
+
+## Official AWS references
+
+- [AWS reference 1](https://docs.aws.amazon.com/prescriptive-guidance/latest/large-migration-guide/migration-strategies.html)
 
 ## ☁️ Follow CloudStudy
 
@@ -47,3 +51,14 @@ Follow CloudStudy to keep up with new materials, updates and content about AWS c
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/
 
 ---
+
+## Lessons and practice
+
+- [Migration Strategies](01-migration-strategies.md)
+- [AWS Migration Hub](02-aws-migration-hub.md)
+- [AWS DMS](03-aws-dms.md)
+- [AWS Application Discovery](04-aws-application-discovery.md)
+- [AWS Mainframe Modernization](05-aws-mainframe-modernization.md)
+- [AWS Datasync](06-aws-datasync.md)
+
+[Back to all modules](../README.md#modules)

@@ -1,16 +1,20 @@
-#Amazon Lex
+# Amazon Lex
 
 Amazon Lex creates text and voice conversation interfaces using speech recognition and language understanding.
 
 - Organizes conversations into intents, phrases, and slots.
 - Can trigger Lambda to execute business logic.
 - It is used in chatbots, assistants and automated service.
-- **Test tip:** conversational bot with information collection points to Lex.
+- **Exam tip:** conversational bot with information collection points to Lex.
 
-Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 
 
 ---
+
+## Official AWS references
+
+- [AWS reference 1](https://docs.aws.amazon.com/lexv2/latest/dg/what-is.html)
 
 ## ☁️ Follow CloudStudy
 

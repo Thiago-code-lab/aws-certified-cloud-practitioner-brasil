@@ -1,19 +1,29 @@
-# AWS Codecommit
+# AWS CodeCommit
 
 AWS CodeCommit is a managed private Git repository service integrated with AWS identities and services.
 
 - Stores code and version history.
 - Integrates permissions through IAM and managed encryption.
 - Plays the role of repository; does not compile or deploy the application.
-- **Test tip:** source code points to repository; build points to CodeBuild and deployment to CodeDeploy.
+- **Exam tip:** source code points to repository; build points to CodeBuild and deployment to CodeDeploy.
 
-Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 
 
 
 > Complementary resource: if you want to connect this foundation with pipelines and analytics in AWS, see the Data Engineering in AWS course: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
+
+## Availability and scope review — November 10, 2026
+
+CodeCommit reopened to new customers in November 2025. The earlier new-customer restriction is obsolete. CodeCommit is not listed in the current CLF-C02 in-scope reference; study it as supplementary source-control context.
+
+[AWS lifecycle reference](https://aws.amazon.com/blogs/devops/aws-codecommit-returns-to-general-availability/)
+
+## Official AWS references
+
+- [AWS reference 1](https://aws.amazon.com/blogs/devops/aws-codecommit-returns-to-general-availability/)
 
 ## ☁️ Follow CloudStudy
 

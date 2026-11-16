@@ -2,15 +2,19 @@
 
 Performance Efficiency uses computing resources appropriately to meet requirements and keep up with changes.
 
-- Select the resource type based on the load pattern.
+- Select the resource type based on the workload pattern.
 - Use serverless or managed architectures when appropriate.
 - Measure results and review choices as services evolve.
-- **Test tip:** choosing the correct technology and sizing points to this pillar.
+- **Exam tip:** choosing the correct technology and sizing points to this pillar.
 
-Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 
 
 ---
+
+## Official AWS references
+
+- [AWS reference 1](https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html)
 
 ## ☁️ Follow CloudStudy
 

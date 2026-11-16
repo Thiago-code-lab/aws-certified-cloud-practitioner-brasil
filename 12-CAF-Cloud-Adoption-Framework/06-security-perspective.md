@@ -1,16 +1,20 @@
 # Security Perspective
 
-The Security perspective helps achieve confidentiality, integrity and availability of data and payloads.
+The Security perspective helps achieve confidentiality, integrity and availability of data and workloads.
 
 - Covers identity, detection, infrastructure protection, data and incident response.
 - Integrates security into the delivery cycle and governance.
 - Uses controls proportionate to risk and shared responsibility.
-- **Test tip:** controls, threats and incident response point to Security.
+- **Exam tip:** controls, threats and incident response point to Security.
 
-Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 
 
 ---
+
+## Official AWS references
+
+- [AWS reference 1](https://docs.aws.amazon.com/whitepapers/latest/overview-aws-cloud-adoption-framework/welcome.html)
 
 ## ☁️ Follow CloudStudy
 

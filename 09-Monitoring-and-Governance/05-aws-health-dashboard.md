@@ -5,15 +5,19 @@ AWS Health provides information about AWS events that can affect resources and a
 - The public view shows the general status of services.
 - Custom view relates events to customer resources.
 - Advance notifications help plan maintenance and respond to incidents.
-- **Test tip:** impact of an AWS event on your resources points to AWS Health; internal metrics point to CloudWatch.
+- **Exam tip:** impact of an AWS event on your resources points to AWS Health; internal metrics point to CloudWatch.
 
-Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 
 
 
 > To study practical data applications after this topic, this Data Engineering course on AWS complements it well: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
+
+## Official AWS references
+
+- [AWS reference 1](https://docs.aws.amazon.com/health/latest/ug/what-is-aws-health.html)
 
 ## ☁️ Follow CloudStudy
 

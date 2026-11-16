@@ -2,16 +2,21 @@
 
 Migration strategies, known as "Rs," describe how each application will be handled.
 
+- **Relocate:** move a compatible infrastructure environment without rewriting its applications, such as a hypervisor-level migration.
 - **Rehost:** move with few changes.
 - **Replatform:** make limited adjustments and adopt some managed services.
 - **Refactor:** redesign to make better use of the cloud.
 - **Retire/Retain/Repurchase:** deactivate, keep for now or exchange for another solution.
-- **Test tip:** the strategy depends on deadline, risk, value and effort, not on a single rule.
+- **Exam tip:** the strategy depends on deadline, risk, value and effort, not on a single rule.
 
-Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 
 
 ---
+
+## Official AWS references
+
+- [AWS reference 1](https://docs.aws.amazon.com/prescriptive-guidance/latest/large-migration-guide/migration-strategies.html)
 
 ## ☁️ Follow CloudStudy
 

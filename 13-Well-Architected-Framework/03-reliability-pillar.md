@@ -1,19 +1,23 @@
 # Reliability Pillar
 
-Reliability is the ability of a load to perform its function and recover from failures.
+Reliability is the ability of a workload to perform its function and recover from failures.
 
 - Distribute components to avoid single points of failure.
 - Test recovery and automate corrections.
 - Adjust capacity to demand and manage limits.
-- **Test tip:** multiple AZs, tested backups, and automatic recovery point to reliability.
+- **Exam tip:** multiple AZs, tested backups, and automatic recovery point to reliability.
 
-Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 
 
 
 > Complementary resource: if you want to connect this foundation with pipelines and analytics in AWS, see the Data Engineering in AWS course: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
+
+## Official AWS references
+
+- [AWS reference 1](https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html)
 
 ## ☁️ Follow CloudStudy
 

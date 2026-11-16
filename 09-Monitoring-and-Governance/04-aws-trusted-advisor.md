@@ -4,13 +4,17 @@ AWS Trusted Advisor scans the environment and provides recommendations based on 
 
 - Checks cover areas such as cost, performance, security, fault tolerance, and service limits.
 - Availability of checks and features depends on the support plan.
-- Recommendations need to be evaluated in the context of the load.
-- **Test tip:** automatic review of account best practices points to Trusted Advisor.
+- Recommendations need to be evaluated in the context of the workload.
+- **Exam tip:** automatic review of account best practices points to Trusted Advisor.
 
-Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 
 
 ---
+
+## Official AWS references
+
+- [AWS reference 1](https://docs.aws.amazon.com/awssupport/latest/user/trusted-advisor.html)
 
 ## ☁️ Follow CloudStudy
 

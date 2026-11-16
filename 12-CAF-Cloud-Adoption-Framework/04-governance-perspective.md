@@ -5,12 +5,16 @@ The Governance perspective aligns cloud initiatives with governance, risk, finan
 - Defines policies, responsibilities and decision mechanisms.
 - Monitors portfolio, costs, benefits and risks.
 - Avoids growth without standards or accountability.
-- **Proof tip:** portfolio governance, risk and value points to this perspective.
+- **Exam tip:** portfolio governance, risk and value points to this perspective.
 
-Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 
 
 ---
+
+## Official AWS references
+
+- [AWS reference 1](https://docs.aws.amazon.com/whitepapers/latest/overview-aws-cloud-adoption-framework/welcome.html)
 
 ## ☁️ Follow CloudStudy
 

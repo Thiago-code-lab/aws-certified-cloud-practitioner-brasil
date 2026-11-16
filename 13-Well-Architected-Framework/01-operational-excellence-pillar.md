@@ -5,15 +5,19 @@ Operational excellence is the ability to continuously execute, observe and impro
 - Perform operations as code and automate repetitive tasks.
 - Make small, reversible, tested changes.
 - Learn from incidents without looking for blame.
-- **Test tip:** observability, operational procedures and continuous improvement point to this pillar.
+- **Exam tip:** observability, operational procedures and continuous improvement point to this pillar.
 
-Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 
 
 
 > Suggested next step: apply these concepts in data engineering scenarios on AWS: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
+
+## Official AWS references
+
+- [AWS reference 1](https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html)
 
 ## ☁️ Follow CloudStudy
 

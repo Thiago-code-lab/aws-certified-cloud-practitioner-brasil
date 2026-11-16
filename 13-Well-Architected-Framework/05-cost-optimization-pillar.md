@@ -4,13 +4,17 @@ Cost optimization seeks to deliver the required result at the lowest appropriate
 
 - Measure and attribute spending with accounts, tags and reports.
 - Eliminate idle resources and scale to usage.
-- Use appointments only for predictable demand.
-- **Test tip:** optimizing does not mean always choosing the cheapest option, but avoiding waste without losing requirements.
+- Use commitments only for predictable demand.
+- **Exam tip:** optimizing does not mean always choosing the cheapest option, but avoiding waste without losing requirements.
 
-Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 
 
 ---
+
+## Official AWS references
+
+- [AWS reference 1](https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html)
 
 ## ☁️ Follow CloudStudy
 

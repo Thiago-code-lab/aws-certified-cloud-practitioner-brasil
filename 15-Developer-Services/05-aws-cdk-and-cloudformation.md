@@ -1,19 +1,23 @@
-# Aws CDK E Cloudformation
+# AWS CDK and CloudFormation
 
 AWS CloudFormation and AWS CDK create infrastructure in a declarative, repeatable and versionable way.
 
 - **CloudFormation:** uses templates to define resources and dependencies.
-- **CDK:** describes infrastructure with programming languages ​​and synthesizes CloudFormation templates.
+- **CDK:** describes infrastructure with programming languages and synthesizes CloudFormation templates.
 - Stacks facilitate controlled creation, updating, and removal.
-- **Test tip:** native template points to CloudFormation; typed code that generates template points to CDK.
+- **Exam tip:** native template points to CloudFormation; typed code that generates template points to CDK.
 
-Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 
 
 
 > To study practical data applications after this topic, this Data Engineering course on AWS complements it well: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
+
+## Official AWS references
+
+- [AWS reference 1](https://docs.aws.amazon.com/cdk/v2/guide/home.html)
 
 ## ☁️ Follow CloudStudy
 

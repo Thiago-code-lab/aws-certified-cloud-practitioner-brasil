@@ -5,15 +5,19 @@ AWS Amplify provides tools and services for building and hosting web and mobile 
 - Facilitates integration with authentication, APIs, data and storage.
 - Hosting can automate build and publish from a repository.
 - It is useful for frontend teams that want to reduce infrastructure configuration.
-- **Test tip:** integrated experience for web/mobile app points to Amplify.
+- **Exam tip:** integrated experience for web/mobile app points to Amplify.
 
-Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 
 
 
-> Career complement: anyone who wants to move from the cloud base to real data projects can follow here: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+> Career complement: anyone who wants to move from the cloud fundamentals to real data projects can follow here: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
+
+## Official AWS references
+
+- [AWS reference 1](https://aws.amazon.com/amplify/)
 
 ## ☁️ Follow CloudStudy
 

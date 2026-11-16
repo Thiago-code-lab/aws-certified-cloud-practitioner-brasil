@@ -1,19 +1,23 @@
-# Specialized Lens
+# Specialized Lenses
 
 Well-Architected Lenses complement the framework with technology- and industry-specific practices.
 
-- There are lenses for load types such as serverless, analytics and machine learning.
+- There are lenses for workload types such as serverless, analytics and machine learning.
 - Each lens adds questions and guidance to the main set.
 - They do not replace the six pillars.
-- **Test tip:** use a lens to delve deeper into a specific context while maintaining the general review of the framework.
+- **Exam tip:** use a lens to delve deeper into a specific context while maintaining the general review of the framework.
 
-Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 
 
 
 > To study practical data applications after this topic, this Data Engineering course on AWS complements it well: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
+
+## Official AWS references
+
+- [AWS reference 1](https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html)
 
 ## ☁️ Follow CloudStudy
 

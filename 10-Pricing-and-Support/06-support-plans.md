@@ -1,19 +1,29 @@
 # Support Plans
 
-AWS Support plans vary in channels, response time, and tracking level.
+AWS Support plans vary in support channels, initial response targets, and access to technical expertise.
 
 - **Basic:** included for all accounts, with account and billing help and self-service features.
-- **Business Support+:** 24x7 technical support and adequate response to production loads.
-- **Enterprise Support:** adds TAM tracking and faster response for critical systems.
+- **Business Support+:** 24/7 technical support for production workloads.
+- **Enterprise Support:** adds a designated Technical Account Manager (TAM) and faster response for critical systems.
 - **Unified Operations:** broader level for large-scale essential operations.
 - **Attention in 2026:** Developer, Business and Enterprise On-Ramp are in transition, but may still appear in the CLF-C02 guide.
 
-Compare current AWS Support](https://aws.amazon.com/premiumsupport/plans/) plans before hiring.
+Compare [current AWS Support plans](https://aws.amazon.com/premiumsupport/plans/) before subscribing.
 
-Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 
 
 ---
+
+## Current versus legacy plans
+
+Basic remains included. Business Support+, Enterprise Support, and Unified Operations are the current paid tiers. Developer and Business are unavailable for new subscriptions and will be discontinued on January 1, 2027. Legacy names in learning material must be interpreted in context rather than presented as current purchase choices.
+
+[AWS Support FAQs](https://aws.amazon.com/premiumsupport/faqs/)
+
+## Official AWS references
+
+- [AWS reference 1](https://aws.amazon.com/premiumsupport/plans/)
 
 ## ☁️ Follow CloudStudy
 

@@ -1,19 +1,23 @@
-#Amazon Q
+# Amazon Q
 
 Amazon Q is a family of generative AI assistants focused on work and software development.
 
 - Can answer questions, summarize content and support tasks depending on the product and connected sources.
 - Responses respect configured permissions and context.
 - Important results still need human validation.
-- **Test tip:** generative assistant for business users or developers points to Amazon Q.
+- **Exam tip:** generative assistant for business users or developers points to Amazon Q.
 
-Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 
 
 
 > Complementary track: cloud fundamentals become clearer when applied to data pipelines in AWS: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
+
+## Official AWS references
+
+- [AWS reference 1](https://aws.amazon.com/q/)
 
 ## ☁️ Follow CloudStudy
 

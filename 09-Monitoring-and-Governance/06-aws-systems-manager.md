@@ -6,15 +6,19 @@ AWS Systems Manager centralizes operations and automation across servers and res
 - Run Command executes commands on multiple nodes.
 - Patch Manager helps you apply system patches.
 - Parameter Store stores protected settings and values.
-- **Test tip:** operating a fleet of servers with central control points to Systems Manager.
+- **Exam tip:** operating a fleet of servers with central control points to Systems Manager.
 
-Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 
 
 
 > When this subject appears in data scenarios, it is worth reviewing the Data Engineering on AWS course: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
+
+## Official AWS references
+
+- [AWS reference 1](https://docs.aws.amazon.com/systems-manager/latest/userguide/what-is-systems-manager.html)
 
 ## ☁️ Follow CloudStudy
 

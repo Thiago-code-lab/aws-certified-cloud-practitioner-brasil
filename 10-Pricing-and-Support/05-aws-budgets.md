@@ -5,15 +5,19 @@ AWS Budgets tracks defined limits for cost, usage and some commitments.
 - Sends alerts when the actual or predicted value crosses a threshold.
 - Can trigger predefined actions in supported scenarios.
 - Budgets do not automatically block expenses by default.
-- **Test tip:** overflow preventive warning points to Budgets; Detailed exploration of spending points to Cost Explorer.
+- **Exam tip:** overflow preventive warning points to Budgets; Detailed exploration of spending points to Cost Explorer.
 
-Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 
 
 
 > Complementary track: cloud fundamentals become clearer when applied to data pipelines in AWS: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
+
+## Official AWS references
+
+- [AWS reference 1](https://docs.aws.amazon.com/cost-management/latest/userguide/budgets-managing-costs.html)
 
 ## ☁️ Follow CloudStudy
 

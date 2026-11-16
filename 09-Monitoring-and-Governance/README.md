@@ -12,7 +12,7 @@ Module to review observability, auditing and organizational control at an entry 
 - CloudTrail records actions on the account for auditing.
 - Tags help organize cost, owner and environment.
 
-## Classic proof signals
+## Common exam clues
 - "Create metric alarm" -> Amazon CloudWatch.
 - "Who called an API" -> AWS CloudTrail.
 - "Manage multiple accounts" -> AWS Organizations.
@@ -21,7 +21,7 @@ Module to review observability, auditing and organizational control at an entry 
 Confusing CloudWatch with CloudTrail. CloudWatch monitors operation; CloudTrail audits actions.
 
 ## What to memorize
-| Comparison | Mental rule of proof |
+| Comparison | Exam rule of thumb |
 |---|---|
 | CloudWatch vs CloudTrail | Operational metrics/logs vs audit trail |
 | Tags vs Organizations | Tags organize resources; Organizations organizes accounts |
@@ -30,12 +30,16 @@ Confusing CloudWatch with CloudTrail. CloudWatch monitors operation; CloudTrail 
 After governance, review costs: monitoring only becomes control when spent and alerts enter the cycle.
 
 ## Continuity
-Architecture Track: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Architecture Track: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 
 
 > Practical bridge: After pinning the service, see how it appears in data architectures on AWS: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
+
+## Official AWS references
+
+- [AWS reference 1](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/WhatIsCloudWatch.html)
 
 ## ☁️ Follow CloudStudy
 
@@ -47,3 +51,15 @@ Follow CloudStudy to keep up with new materials, updates and content about AWS c
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/
 
 ---
+
+## Lessons and practice
+
+- [CloudWatch](01-cloudwatch.md)
+- [CloudTrail](02-cloudtrail.md)
+- [AWS Config](03-aws-config.md)
+- [AWS Trusted Advisor](04-aws-trusted-advisor.md)
+- [AWS Health Dashboard](05-aws-health-dashboard.md)
+- [AWS Systems Manager](06-aws-systems-manager.md)
+- [AWS Compute Optimizer](07-aws-compute-optimizer.md)
+
+[Back to all modules](../README.md#modules)

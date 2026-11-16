@@ -5,12 +5,16 @@ The Operations perspective prepares the organization to run, observe, and improv
 - Includes monitoring, incident management, changes, configuration and continuity.
 - Defines operational procedures, indicators and responsibilities.
 - Automation reduces manual tasks and repetitive errors.
-- **Test tip:** continuous operation, support and reliability point to Operations.
+- **Exam tip:** continuous operation, support and reliability point to Operations.
 
-Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 
 
 ---
+
+## Official AWS references
+
+- [AWS reference 1](https://docs.aws.amazon.com/whitepapers/latest/overview-aws-cloud-adoption-framework/welcome.html)
 
 ## ☁️ Follow CloudStudy
 

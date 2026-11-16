@@ -5,12 +5,16 @@ AWS Config keeps history of resource configurations and evaluates rule complianc
 - Helps you find out when and how the configuration changed.
 - Rules flag resources outside the defined standard.
 - Aggregators can consolidate visibility across multiple accounts and Regions.
-- **Test tip:** configuration state and compliance point to Config; Author of the action points to CloudTrail.
+- **Exam tip:** configuration state and compliance point to Config; Author of the action points to CloudTrail.
 
-Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 
 
 ---
+
+## Official AWS references
+
+- [AWS reference 1](https://docs.aws.amazon.com/config/latest/developerguide/WhatIsConfig.html)
 
 ## ☁️ Follow CloudStudy
 

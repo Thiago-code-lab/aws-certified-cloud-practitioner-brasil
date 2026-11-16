@@ -1,19 +1,23 @@
-#Amazon Polly E Transcribe
+# Amazon Polly and Transcribe
 
 Amazon Polly and Amazon Transcribe convert content between text and speech in opposite directions.
 
 - **Polly:** turns text into natural speech.
 - **Transcribe:** transforms speech audio into text.
 - Common cases include accessibility, captions, voice bots, and call transcription.
-- **Test tip:** text to audio points to Polly; audio to text points to Transcribe.
+- **Exam tip:** text to audio points to Polly; audio to text points to Transcribe.
 
-Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 
 
 
-> To delve deeper into data projects in AWS, this material can complement the review: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+> For additional practice with AWS data projects, explore this course: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
+
+## Official AWS references
+
+- [AWS reference 1](https://docs.aws.amazon.com/polly/latest/dg/what-is.html)
 
 ## ☁️ Follow CloudStudy
 

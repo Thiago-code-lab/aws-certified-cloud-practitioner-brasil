@@ -5,12 +5,16 @@ AWS Marketplace is a catalog for discovering, purchasing, and deploying third-pa
 - Brings together solutions such as machine imaging, SaaS, data and professional services.
 - Billing and contracts can be consolidated by AWS account.
 - Customer must evaluate vendor licenses, security, support, and costs.
-- **Test tip:** purchasing a ready-made solution from a partner with integrated billing points to Marketplace.
+- **Exam tip:** purchasing a ready-made solution from a partner with integrated billing points to Marketplace.
 
-Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 
 
 ---
+
+## Official AWS references
+
+- [AWS reference 1](https://docs.aws.amazon.com/marketplace/latest/buyerguide/what-is-marketplace.html)
 
 ## ☁️ Follow CloudStudy
 

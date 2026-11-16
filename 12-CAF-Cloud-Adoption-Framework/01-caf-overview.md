@@ -1,16 +1,20 @@
-# Café Overview
+# CAF Overview
 
 AWS Cloud Adoption Framework (AWS CAF) guides organizations in preparing people, processes, and technology for cloud transformation.
 
 - Organizes capabilities into six perspectives: Business, People, Governance, Platform, Security and Operations.
 - Helps identify gaps, align stakeholders and prioritize initiatives.
 - Not a ready-made architecture nor a migration tool.
-- **Test Tip:** Broad organizational planning for cloud adoption points to AWS CAF.
+- **Exam tip:** Broad organizational planning for cloud adoption points to AWS CAF.
 
-Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 
 
 ---
+
+## Official AWS references
+
+- [AWS reference 1](https://docs.aws.amazon.com/whitepapers/latest/overview-aws-cloud-adoption-framework/welcome.html)
 
 ## ☁️ Follow CloudStudy
 

@@ -12,7 +12,7 @@ Module to recognize delivery, automation and integration tools at the Cloud Prac
 - CodeBuild compiles and tests code.
 - CloudFormation describes infrastructure as code.
 
-## Classic proof signals
+## Common exam clues
 - "Delivery pipeline" -> AWS CodePipeline.
 - "Compile and test code" -> AWS CodeBuild.
 - "Create infrastructure by template" -> AWS CloudFormation.
@@ -21,21 +21,25 @@ Module to recognize delivery, automation and integration tools at the Cloud Prac
 Confusing build tool with pipeline tool. Build executes step; pipeline coordinates flow.
 
 ## What to memorize
-| Comparison | Mental rule of proof |
+| Comparison | Exam rule of thumb |
 |---|---|
 | CodeBuild vs CodePipeline | Build executes; Orchestral pipeline |
 | Manual Console vs CloudFormation | Manual is punctual; template is repeatable |
 
 ## Consolidation bridge
-After this module, return to quick-review and flashcards to consolidate proof signals by domain.
+After this module, return to quick-review and flashcards to consolidate exam clues by domain.
 
 ## Continuity
-Architecture Track: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Architecture Track: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 
 
-> To delve deeper into data projects in AWS, this material can complement the review: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+> For additional practice with AWS data projects, explore this course: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
+
+## Official AWS references
+
+- [AWS reference 1](https://aws.amazon.com/products/developer-tools/)
 
 ## ☁️ Follow CloudStudy
 
@@ -47,3 +51,16 @@ Follow CloudStudy to keep up with new materials, updates and content about AWS c
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/
 
 ---
+
+## Lessons and practice
+
+- [AWS CodeCommit](01-aws-codecommit.md)
+- [AWS CodeBuild](02-aws-codebuild.md)
+- [AWS CodeDeploy](03-aws-codedeploy.md)
+- [AWS CodePipeline](04-aws-codepipeline.md)
+- [AWS CDK and CloudFormation](05-aws-cdk-and-cloudformation.md)
+- [AWS SAM](06-aws-sam.md)
+- [AWS Amplify](07-aws-amplify.md)
+- [AWS X Ray](08-aws-x-ray.md)
+
+[Back to all modules](../README.md#modules)

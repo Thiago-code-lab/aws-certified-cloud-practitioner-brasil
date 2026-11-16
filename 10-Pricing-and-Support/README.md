@@ -8,11 +8,11 @@ Cost decision module: billing models, financial visibility and support.
 - Introductory level support plans.
 
 ## Quick Review
-- On-Demand for variable load.
-- Spot for interruption tolerant loads.
+- On-Demand for variable workload.
+- Spot for interruption-tolerant workloads.
 - Budgets alerts deviation; Cost Explorer analyzes historical trends.
 
-## Classic proof signals
+## Common exam clues
 - "Monthly expense alert" -> AWS Budgets.
 - "Analyze past cost and forecast" -> Cost Explorer.
 - "Reduce stable workload cost" -> Reserved/Savings.
@@ -21,21 +21,25 @@ Cost decision module: billing models, financial visibility and support.
 Compare hourly price only and ignore total operation cost: storage, transfer, retrieval and support.
 
 ## What to memorize
-| Comparison | Mental rule of proof |
+| Comparison | Exam rule of thumb |
 |---|---|
-| On-Demand vs Spot | On-Demand without commitment; Spot with discount and risk of interruption |
+| On-Demand vs Spot | On-Demand without a long-term commitment; Spot with discount and risk of interruption |
 | Budgets vs Cost Explorer | Budgets limit alert; Cost Explorer analyzes usage/cost over time |
 
 ## Consolidation bridge
 Recommended review cycle: fundamentals -> security -> S3 -> costs.
 
 ## Continuity
-Architecture Track: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Architecture Track: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 
 
 > Suggested next step: apply these concepts in data engineering scenarios on AWS: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
+
+## Official AWS references
+
+- [AWS reference 1](https://docs.aws.amazon.com/cost-management/latest/userguide/what-is-costmanagement.html)
 
 ## ☁️ Follow CloudStudy
 
@@ -47,3 +51,16 @@ Follow CloudStudy to keep up with new materials, updates and content about AWS c
 - LinkedIn: https://www.linkedin.com/company/cloudstudy-ai/
 
 ---
+
+## Lessons and practice
+
+- [AWS Pricing Model](01-aws-pricing-model.md)
+- [AWS Free Tier](02-aws-free-tier.md)
+- [AWS Pricing Calculator](03-aws-pricing-calculator.md)
+- [AWS Cost Explorer](04-aws-cost-explorer.md)
+- [AWS Budgets](05-aws-budgets.md)
+- [Support Plans](06-support-plans.md)
+- [AWS Marketplace](07-aws-marketplace.md)
+- [AWS Billing Dashboard](08-aws-billing-dashboard.md)
+
+[Back to all modules](../README.md#modules)

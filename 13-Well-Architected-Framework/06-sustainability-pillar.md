@@ -1,19 +1,23 @@
 # Sustainability Pillar
 
-Sustainability reduces the environmental impact of cargo by using resources more efficiently.
+Sustainability reduces the environmental impact of workloads by using resources more efficiently.
 
 - Maximize utilization and remove idle capacity.
 - Prefer managed services and efficient defaults when appropriate.
 - Measure impact and continually improve software and architecture.
-- **Test tip:** doing more useful work with fewer resources points to sustainability.
+- **Exam tip:** doing more useful work with fewer resources points to sustainability.
 
-Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 
 
 
 > Optional Deep Dive: To bring this concept to data projects on AWS, use as a next step: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
+
+## Official AWS references
+
+- [AWS reference 1](https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html)
 
 ## ☁️ Follow CloudStudy
 

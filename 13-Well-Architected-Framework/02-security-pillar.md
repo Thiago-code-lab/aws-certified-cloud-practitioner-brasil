@@ -5,12 +5,16 @@ The Security pillar protects data, systems and assets while enabling the busines
 - Use strong identity, least privilege, and traceability.
 - Protect data in transit and at rest.
 - Automate controls and prepare incident response.
-- **Test tip:** security must exist at all layers, following shared responsibility.
+- **Exam tip:** security must exist at all layers, following shared responsibility.
 
-Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 
 
 ---
+
+## Official AWS references
+
+- [AWS reference 1](https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html)
 
 ## ☁️ Follow CloudStudy
 

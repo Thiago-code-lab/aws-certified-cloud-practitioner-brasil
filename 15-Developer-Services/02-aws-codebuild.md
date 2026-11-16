@@ -1,19 +1,23 @@
-#Aws Codebuild
+# AWS CodeBuild
 
 AWS CodeBuild compiles code, runs tests, and produces artifacts in managed build environments.
 
 - Scales on demand without maintaining integration servers.
 - Steps are defined in a build file or project configuration.
 - Can participate in automated pipelines.
-- **Test tip:** compile and test points to CodeBuild; coordinating all steps points to CodePipeline.
+- **Exam tip:** compile and test points to CodeBuild; coordinating all steps points to CodePipeline.
 
-Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 
 
 
 > Optional Deep Dive: To bring this concept to data projects on AWS, use as a next step: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
+
+## Official AWS references
+
+- [AWS reference 1](https://docs.aws.amazon.com/codebuild/latest/userguide/welcome.html)
 
 ## ☁️ Follow CloudStudy
 

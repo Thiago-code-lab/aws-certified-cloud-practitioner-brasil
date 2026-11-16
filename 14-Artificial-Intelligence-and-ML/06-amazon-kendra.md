@@ -1,16 +1,26 @@
-#Amazon Kendra
+# Amazon Kendra
 
 Amazon Kendra is an intelligent search service for enterprise content.
 
 - Indexes documents from different sources and uses natural language in queries.
 - Helps users find answers on an internal basis.
 - Connectors simplify integration with supported repositories.
-- **Test tip:** business research on documents points to Kendra; conversational chatbot points to Lex.
+- **Exam tip:** business research on documents points to Kendra; conversational chatbot points to Lex.
 
-Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 
 
 ---
+
+## Exam scope
+
+This is supplementary ecosystem knowledge. The current CLF-C02 in-scope reference does not explicitly list this topic. The list is non-exhaustive; this curriculum treats this lesson as optional enrichment rather than claiming an official exam objective. Do not infer an official exam objective from its inclusion in this curriculum.
+
+[AWS in-scope reference](https://docs.aws.amazon.com/aws-certification/latest/cloud-practitioner-02/clf-02-in-scope-services.html) · [AWS out-of-scope reference](https://docs.aws.amazon.com/aws-certification/latest/cloud-practitioner-02/clf-02-out-of-scope-services.html)
+
+## Official AWS references
+
+- [AWS reference 1](https://docs.aws.amazon.com/kendra/latest/dg/what-is-kendra.html)
 
 ## ☁️ Follow CloudStudy
 

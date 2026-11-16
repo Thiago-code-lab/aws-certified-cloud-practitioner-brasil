@@ -1,19 +1,23 @@
-# Perspective Platform
+# Platform Perspective
 
-The Platform perspective addresses the architecture and technology foundation used to create and migrate cloud payloads.
+The Platform perspective addresses the architecture and technology foundation used to create and migrate cloud workloads.
 
 - Includes landing zones, networks, accounts, automation and architectural patterns.
 - Encourages infrastructure as code and repeatable environments.
 - Creates a secure foundation for application teams.
-- **Test tip:** platform design, provisioning and architecture point to Platform.
+- **Exam tip:** platform design, provisioning and architecture point to Platform.
 
-Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 
 
 
-> To delve deeper into data projects in AWS, this material can complement the review: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
+> For additional practice with AWS data projects, explore this course: https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9
 
 ---
+
+## Official AWS references
+
+- [AWS reference 1](https://docs.aws.amazon.com/whitepapers/latest/overview-aws-cloud-adoption-framework/welcome.html)
 
 ## ☁️ Follow CloudStudy
 

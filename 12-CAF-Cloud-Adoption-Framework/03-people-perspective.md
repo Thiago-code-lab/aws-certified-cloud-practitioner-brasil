@@ -5,12 +5,16 @@ The People perspective prepares culture, leadership, organizational structure an
 - Identifies skills gaps and creates training plans.
 - Supports new roles, ways of working and change management.
 - Reduces resistance by involving people in the process.
-- **Test tip:** training, culture and organizational change point to People.
+- **Exam tip:** training, culture and organizational change point to People.
 
-Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil
+Deep dive into AWS architecture: https://github.com/Thiago-code-lab/aws-certified-solutions-architect-associate-brasil/tree/saa-c03-english
 
 
 ---
+
+## Official AWS references
+
+- [AWS reference 1](https://docs.aws.amazon.com/whitepapers/latest/overview-aws-cloud-adoption-framework/welcome.html)
 
 ## ☁️ Follow CloudStudy
 
