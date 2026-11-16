@@ -1,0 +1,41 @@
+{
+  "status": "passed",
+  "source_commit": "a59548c0d73c9da1cb20e7314cf46f983088e97a",
+  "original_files": 180,
+  "original_markdown_documents": 172,
+  "modules": 18,
+  "reviewed_prompts": 96,
+  "multiple_choice_questions": 44,
+  "open_response_prompts": 52,
+  "checks": {
+    "source_coverage": {
+      "status": "passed",
+      "failures": []
+    },
+    "question_integrity": {
+      "status": "passed",
+      "failures": []
+    },
+    "navigation": {
+      "status": "passed",
+      "failures": []
+    },
+    "language_regressions": {
+      "status": "passed",
+      "failures": []
+    },
+    "markdown_structure": {
+      "status": "passed",
+      "failures": []
+    },
+    "portal_structure": {
+      "status": "passed",
+      "failures": []
+    }
+  },
+  "limitations": [
+    "Language regression rules complement manual semantic editing; they do not certify technical accuracy.",
+    "AWS labs were statically reviewed, not executed.",
+    "Browser and published-file checks are recorded separately."
+  ]
+}

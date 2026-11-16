@@ -1,0 +1,2188 @@
+{
+  "reviewed_question_count": 96,
+  "corrected_external_answers": 21,
+  "source_question_counts": {
+    "D1": 6,
+    "D2": 6,
+    "D3": 6,
+    "D4": 6,
+    "CROSS": 6,
+    "MOCK": 10
+  },
+  "reviewed_question_counts": {
+    "D1": 6,
+    "D2": 6,
+    "D3": 6,
+    "D4": 6,
+    "CROSS": 6,
+    "MOCK": 10
+  },
+  "questions": [
+    {
+      "stable_question_id": "CLF-D1-001",
+      "original_source_path": "16-Simulados-e-Questoes/01-questoes-dominio-1.md",
+      "original_question_number": 1,
+      "translated_target_path": "16-Practice-Exams-and-Questions/01-domain-1-questions.md",
+      "original_answer": {
+        "inline": "B",
+        "external": "C"
+      },
+      "reviewed_answer": "B",
+      "official_domain": 1,
+      "correction_category": [
+        "expanded-option-explanations",
+        "external-key-correction"
+      ],
+      "explanation_of_correction": "All four options independently evaluated; explicit rationale added for each. External answer corrected to the defensible reviewed answer. ",
+      "official_aws_reference_url": "https://aws.amazon.com/what-is-cloud-computing/",
+      "qa_status": "reviewed",
+      "reviewed_question_number": 1
+    },
+    {
+      "stable_question_id": "CLF-D1-002",
+      "original_source_path": "16-Simulados-e-Questoes/01-questoes-dominio-1.md",
+      "original_question_number": 2,
+      "translated_target_path": "16-Practice-Exams-and-Questions/01-domain-1-questions.md",
+      "original_answer": {
+        "inline": "B",
+        "external": "B"
+      },
+      "reviewed_answer": "B",
+      "official_domain": 3,
+      "correction_category": [
+        "expanded-option-explanations"
+      ],
+      "explanation_of_correction": "Original question order and answer B preserved. Official domain 3 is recorded as supplementary metadata; the item remains in its original domain 1 study set.",
+      "official_aws_reference_url": "https://docs.aws.amazon.com/global-infrastructure/latest/regions/aws-regions-availability-zones.html",
+      "qa_status": "reviewed",
+      "reviewed_question_number": 2
+    },
+    {
+      "stable_question_id": "CLF-D1-003",
+      "original_source_path": "16-Simulados-e-Questoes/01-questoes-dominio-1.md",
+      "original_question_number": 3,
+      "translated_target_path": "16-Practice-Exams-and-Questions/01-domain-1-questions.md",
+      "original_answer": {
+        "inline": "C",
+        "external": "B"
+      },
+      "reviewed_answer": "C",
+      "official_domain": 1,
+      "correction_category": [
+        "expanded-option-explanations",
+        "external-key-correction"
+      ],
+      "explanation_of_correction": "All four options independently evaluated; explicit rationale added for each. External answer corrected to the defensible reviewed answer. ",
+      "official_aws_reference_url": "https://aws.amazon.com/what-is-cloud-computing/",
+      "qa_status": "reviewed",
+      "reviewed_question_number": 3
+    },
+    {
+      "stable_question_id": "CLF-D1-004",
+      "original_source_path": "16-Simulados-e-Questoes/01-questoes-dominio-1.md",
+      "original_question_number": 4,
+      "translated_target_path": "16-Practice-Exams-and-Questions/01-domain-1-questions.md",
+      "original_answer": {
+        "inline": "C",
+        "external": "B"
+      },
+      "reviewed_answer": "C",
+      "official_domain": 1,
+      "correction_category": [
+        "expanded-option-explanations",
+        "external-key-correction"
+      ],
+      "explanation_of_correction": "All four options independently evaluated; explicit rationale added for each. External answer corrected to the defensible reviewed answer. ",
+      "official_aws_reference_url": "https://aws.amazon.com/what-is-cloud-computing/",
+      "qa_status": "reviewed",
+      "reviewed_question_number": 4
+    },
+    {
+      "stable_question_id": "CLF-D1-005",
+      "original_source_path": "16-Simulados-e-Questoes/01-questoes-dominio-1.md",
+      "original_question_number": 5,
+      "translated_target_path": "16-Practice-Exams-and-Questions/01-domain-1-questions.md",
+      "original_answer": {
+        "inline": "B",
+        "external": "C"
+      },
+      "reviewed_answer": "B",
+      "official_domain": 1,
+      "correction_category": [
+        "expanded-option-explanations",
+        "external-key-correction"
+      ],
+      "explanation_of_correction": "All four options independently evaluated; explicit rationale added for each. External answer corrected to the defensible reviewed answer. ",
+      "official_aws_reference_url": "https://docs.aws.amazon.com/wellarchitected/latest/framework/rel_fault_isolation_multiaz_region_system.html",
+      "qa_status": "reviewed",
+      "reviewed_question_number": 5
+    },
+    {
+      "stable_question_id": "CLF-D1-006",
+      "original_source_path": "16-Simulados-e-Questoes/01-questoes-dominio-1.md",
+      "original_question_number": 6,
+      "translated_target_path": "16-Practice-Exams-and-Questions/01-domain-1-questions.md",
+      "original_answer": {
+        "inline": "B",
+        "external": "B"
+      },
+      "reviewed_answer": "B",
+      "official_domain": 1,
+      "correction_category": [
+        "expanded-option-explanations"
+      ],
+      "explanation_of_correction": "All four options independently evaluated; explicit rationale added for each. ",
+      "official_aws_reference_url": "https://aws.amazon.com/what-is-cloud-computing/",
+      "qa_status": "reviewed",
+      "reviewed_question_number": 6
+    },
+    {
+      "stable_question_id": "CLF-D2-001",
+      "original_source_path": "16-Simulados-e-Questoes/02-questoes-dominio-2.md",
+      "original_question_number": 1,
+      "translated_target_path": "16-Practice-Exams-and-Questions/02-domain-2-questions.md",
+      "original_answer": {
+        "inline": "B",
+        "external": "A"
+      },
+      "reviewed_answer": "B",
+      "official_domain": 2,
+      "correction_category": [
+        "expanded-option-explanations",
+        "external-key-correction"
+      ],
+      "explanation_of_correction": "All four options independently evaluated; explicit rationale added for each. External answer corrected to the defensible reviewed answer. ",
+      "official_aws_reference_url": "https://aws.amazon.com/compliance/shared-responsibility-model/",
+      "qa_status": "reviewed",
+      "reviewed_question_number": 1
+    },
+    {
+      "stable_question_id": "CLF-D2-002",
+      "original_source_path": "16-Simulados-e-Questoes/02-questoes-dominio-2.md",
+      "original_question_number": 2,
+      "translated_target_path": "16-Practice-Exams-and-Questions/02-domain-2-questions.md",
+      "original_answer": {
+        "inline": "B",
+        "external": "A"
+      },
+      "reviewed_answer": "B",
+      "official_domain": 2,
+      "correction_category": [
+        "expanded-option-explanations",
+        "external-key-correction"
+      ],
+      "explanation_of_correction": "All four options independently evaluated; explicit rationale added for each. External answer corrected to the defensible reviewed answer. ",
+      "official_aws_reference_url": "https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html",
+      "qa_status": "reviewed",
+      "reviewed_question_number": 2
+    },
+    {
+      "stable_question_id": "CLF-D2-003",
+      "original_source_path": "16-Simulados-e-Questoes/02-questoes-dominio-2.md",
+      "original_question_number": 3,
+      "translated_target_path": "16-Practice-Exams-and-Questions/02-domain-2-questions.md",
+      "original_answer": {
+        "inline": "A",
+        "external": "B"
+      },
+      "reviewed_answer": "A",
+      "official_domain": 2,
+      "correction_category": [
+        "expanded-option-explanations",
+        "external-key-correction"
+      ],
+      "explanation_of_correction": "All four options independently evaluated; explicit rationale added for each. External answer corrected to the defensible reviewed answer. ",
+      "official_aws_reference_url": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-user-guide.html",
+      "qa_status": "reviewed",
+      "reviewed_question_number": 3
+    },
+    {
+      "stable_question_id": "CLF-D2-004",
+      "original_source_path": "16-Simulados-e-Questoes/02-questoes-dominio-2.md",
+      "original_question_number": 4,
+      "translated_target_path": "16-Practice-Exams-and-Questions/02-domain-2-questions.md",
+      "original_answer": {
+        "inline": "B",
+        "external": "B"
+      },
+      "reviewed_answer": "B",
+      "official_domain": 2,
+      "correction_category": [
+        "expanded-option-explanations"
+      ],
+      "explanation_of_correction": "All four options independently evaluated; explicit rationale added for each. ",
+      "official_aws_reference_url": "https://docs.aws.amazon.com/secretsmanager/latest/userguide/intro.html",
+      "qa_status": "reviewed",
+      "reviewed_question_number": 4
+    },
+    {
+      "stable_question_id": "CLF-D2-005",
+      "original_source_path": "16-Simulados-e-Questoes/02-questoes-dominio-2.md",
+      "original_question_number": 5,
+      "translated_target_path": "16-Practice-Exams-and-Questions/02-domain-2-questions.md",
+      "original_answer": {
+        "inline": "B",
+        "external": "B"
+      },
+      "reviewed_answer": "B",
+      "official_domain": 2,
+      "correction_category": [
+        "expanded-option-explanations"
+      ],
+      "explanation_of_correction": "All four options independently evaluated; explicit rationale added for each. ",
+      "official_aws_reference_url": "https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html",
+      "qa_status": "reviewed",
+      "reviewed_question_number": 5
+    },
+    {
+      "stable_question_id": "CLF-D2-006",
+      "original_source_path": "16-Simulados-e-Questoes/02-questoes-dominio-2.md",
+      "original_question_number": 6,
+      "translated_target_path": "16-Practice-Exams-and-Questions/02-domain-2-questions.md",
+      "original_answer": {
+        "inline": "A",
+        "external": "A"
+      },
+      "reviewed_answer": "A",
+      "official_domain": 2,
+      "correction_category": [
+        "expanded-option-explanations"
+      ],
+      "explanation_of_correction": "All four options independently evaluated; explicit rationale added for each. ",
+      "official_aws_reference_url": "https://docs.aws.amazon.com/guardduty/latest/ug/what-is-guardduty.html",
+      "qa_status": "reviewed",
+      "reviewed_question_number": 6
+    },
+    {
+      "stable_question_id": "CLF-D3-001",
+      "original_source_path": "16-Simulados-e-Questoes/03-questoes-dominio-3.md",
+      "original_question_number": 1,
+      "translated_target_path": "16-Practice-Exams-and-Questions/03-domain-3-questions.md",
+      "original_answer": {
+        "inline": "B",
+        "external": "A"
+      },
+      "reviewed_answer": "B",
+      "official_domain": 3,
+      "correction_category": [
+        "expanded-option-explanations",
+        "external-key-correction"
+      ],
+      "explanation_of_correction": "All four options independently evaluated; explicit rationale added for each. External answer corrected to the defensible reviewed answer. ",
+      "official_aws_reference_url": "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts.html",
+      "qa_status": "reviewed",
+      "reviewed_question_number": 1
+    },
+    {
+      "stable_question_id": "CLF-D3-002",
+      "original_source_path": "16-Simulados-e-Questoes/03-questoes-dominio-3.md",
+      "original_question_number": 2,
+      "translated_target_path": "16-Practice-Exams-and-Questions/03-domain-3-questions.md",
+      "original_answer": {
+        "inline": "C",
+        "external": "B"
+      },
+      "reviewed_answer": "C",
+      "official_domain": 3,
+      "correction_category": [
+        "expanded-option-explanations",
+        "external-key-correction"
+      ],
+      "explanation_of_correction": "All four options independently evaluated; explicit rationale added for each. External answer corrected to the defensible reviewed answer. ",
+      "official_aws_reference_url": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html",
+      "qa_status": "reviewed",
+      "reviewed_question_number": 2
+    },
+    {
+      "stable_question_id": "CLF-D3-003",
+      "original_source_path": "16-Simulados-e-Questoes/03-questoes-dominio-3.md",
+      "original_question_number": 3,
+      "translated_target_path": "16-Practice-Exams-and-Questions/03-domain-3-questions.md",
+      "original_answer": {
+        "inline": "A",
+        "external": "C"
+      },
+      "reviewed_answer": "A",
+      "official_domain": 3,
+      "correction_category": [
+        "expanded-option-explanations",
+        "external-key-correction"
+      ],
+      "explanation_of_correction": "All four options independently evaluated; explicit rationale added for each. External answer corrected to the defensible reviewed answer. ",
+      "official_aws_reference_url": "https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Welcome.html",
+      "qa_status": "reviewed",
+      "reviewed_question_number": 3
+    },
+    {
+      "stable_question_id": "CLF-D3-004",
+      "original_source_path": "16-Simulados-e-Questoes/03-questoes-dominio-3.md",
+      "original_question_number": 4,
+      "translated_target_path": "16-Practice-Exams-and-Questions/03-domain-3-questions.md",
+      "original_answer": {
+        "inline": "A",
+        "external": "B"
+      },
+      "reviewed_answer": "A",
+      "official_domain": 3,
+      "correction_category": [
+        "expanded-option-explanations",
+        "external-key-correction",
+        "shared-responsibility-explanation-corrected"
+      ],
+      "explanation_of_correction": "All four options independently evaluated; explicit rationale added for each. External answer corrected to the defensible reviewed answer. ",
+      "official_aws_reference_url": "https://docs.aws.amazon.com/lambda/latest/dg/welcome.html",
+      "qa_status": "reviewed",
+      "reviewed_question_number": 4
+    },
+    {
+      "stable_question_id": "CLF-D3-005",
+      "original_source_path": "16-Simulados-e-Questoes/03-questoes-dominio-3.md",
+      "original_question_number": 5,
+      "translated_target_path": "16-Practice-Exams-and-Questions/03-domain-3-questions.md",
+      "original_answer": {
+        "inline": "B",
+        "external": "B"
+      },
+      "reviewed_answer": "B",
+      "official_domain": 3,
+      "correction_category": [
+        "expanded-option-explanations"
+      ],
+      "explanation_of_correction": "All four options independently evaluated; explicit rationale added for each. ",
+      "official_aws_reference_url": "https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/Welcome.html",
+      "qa_status": "reviewed",
+      "reviewed_question_number": 5
+    },
+    {
+      "stable_question_id": "CLF-D3-006",
+      "original_source_path": "16-Simulados-e-Questoes/03-questoes-dominio-3.md",
+      "original_question_number": 6,
+      "translated_target_path": "16-Practice-Exams-and-Questions/03-domain-3-questions.md",
+      "original_answer": {
+        "inline": "A",
+        "external": "A"
+      },
+      "reviewed_answer": "A",
+      "official_domain": 3,
+      "correction_category": [
+        "expanded-option-explanations"
+      ],
+      "explanation_of_correction": "All four options independently evaluated; explicit rationale added for each. ",
+      "official_aws_reference_url": "https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/WhatIsCloudWatch.html",
+      "qa_status": "reviewed",
+      "reviewed_question_number": 6
+    },
+    {
+      "stable_question_id": "CLF-D4-001",
+      "original_source_path": "16-Simulados-e-Questoes/04-questoes-dominio-4.md",
+      "original_question_number": 1,
+      "translated_target_path": "16-Practice-Exams-and-Questions/04-domain-4-questions.md",
+      "original_answer": {
+        "inline": "C",
+        "external": "A"
+      },
+      "reviewed_answer": "C",
+      "official_domain": 4,
+      "correction_category": [
+        "expanded-option-explanations",
+        "external-key-correction"
+      ],
+      "explanation_of_correction": "All four options independently evaluated; explicit rationale added for each. External answer corrected to the defensible reviewed answer. ",
+      "official_aws_reference_url": "https://aws.amazon.com/ec2/pricing/",
+      "qa_status": "reviewed",
+      "reviewed_question_number": 1
+    },
+    {
+      "stable_question_id": "CLF-D4-002",
+      "original_source_path": "16-Simulados-e-Questoes/04-questoes-dominio-4.md",
+      "original_question_number": 2,
+      "translated_target_path": "16-Practice-Exams-and-Questions/04-domain-4-questions.md",
+      "original_answer": {
+        "inline": "A",
+        "external": "B"
+      },
+      "reviewed_answer": "A",
+      "official_domain": 4,
+      "correction_category": [
+        "expanded-option-explanations",
+        "external-key-correction"
+      ],
+      "explanation_of_correction": "All four options independently evaluated; explicit rationale added for each. External answer corrected to the defensible reviewed answer. ",
+      "official_aws_reference_url": "https://docs.aws.amazon.com/cost-management/latest/userguide/ce-what-is.html",
+      "qa_status": "reviewed",
+      "reviewed_question_number": 2
+    },
+    {
+      "stable_question_id": "CLF-D4-003",
+      "original_source_path": "16-Simulados-e-Questoes/04-questoes-dominio-4.md",
+      "original_question_number": 3,
+      "translated_target_path": "16-Practice-Exams-and-Questions/04-domain-4-questions.md",
+      "original_answer": {
+        "inline": "A",
+        "external": "A"
+      },
+      "reviewed_answer": "A",
+      "official_domain": 4,
+      "correction_category": [
+        "expanded-option-explanations"
+      ],
+      "explanation_of_correction": "All four options independently evaluated; explicit rationale added for each. ",
+      "official_aws_reference_url": "https://docs.aws.amazon.com/cost-management/latest/userguide/budgets-managing-costs.html",
+      "qa_status": "reviewed",
+      "reviewed_question_number": 3
+    },
+    {
+      "stable_question_id": "CLF-D4-004",
+      "original_source_path": "16-Simulados-e-Questoes/04-questoes-dominio-4.md",
+      "original_question_number": 4,
+      "translated_target_path": "16-Practice-Exams-and-Questions/04-domain-4-questions.md",
+      "original_answer": {
+        "inline": "B",
+        "external": "B"
+      },
+      "reviewed_answer": "B",
+      "official_domain": 4,
+      "correction_category": [
+        "expanded-option-explanations"
+      ],
+      "explanation_of_correction": "All four options independently evaluated; explicit rationale added for each. ",
+      "official_aws_reference_url": "https://aws.amazon.com/ec2/pricing/",
+      "qa_status": "reviewed",
+      "reviewed_question_number": 4
+    },
+    {
+      "stable_question_id": "CLF-D4-005",
+      "original_source_path": "16-Simulados-e-Questoes/04-questoes-dominio-4.md",
+      "original_question_number": 5,
+      "translated_target_path": "16-Practice-Exams-and-Questions/04-domain-4-questions.md",
+      "original_answer": {
+        "inline": "B",
+        "external": "A"
+      },
+      "reviewed_answer": "B",
+      "official_domain": 4,
+      "correction_category": [
+        "expanded-option-explanations",
+        "external-key-correction"
+      ],
+      "explanation_of_correction": "All four options independently evaluated; explicit rationale added for each. External answer corrected to the defensible reviewed answer. ",
+      "official_aws_reference_url": "https://docs.aws.amazon.com/pricing-calculator/latest/userguide/what-is-pricing-calculator.html",
+      "qa_status": "reviewed",
+      "reviewed_question_number": 5
+    },
+    {
+      "stable_question_id": "CLF-D4-006",
+      "original_source_path": "16-Simulados-e-Questoes/04-questoes-dominio-4.md",
+      "original_question_number": 6,
+      "translated_target_path": "16-Practice-Exams-and-Questions/04-domain-4-questions.md",
+      "original_answer": {
+        "inline": "C",
+        "external": "A"
+      },
+      "reviewed_answer": "C",
+      "official_domain": 4,
+      "correction_category": [
+        "expanded-option-explanations",
+        "external-key-correction",
+        "ambiguous-support-options-rewritten"
+      ],
+      "explanation_of_correction": "All four options independently evaluated; explicit rationale added for each. External answer corrected to the defensible reviewed answer. Replaced overlapping legacy support-plan options with a specific designated-TAM requirement and current plan names. ",
+      "official_aws_reference_url": "https://aws.amazon.com/premiumsupport/plans/",
+      "qa_status": "reviewed",
+      "reviewed_question_number": 6
+    },
+    {
+      "stable_question_id": "CLF-CROSS-001",
+      "original_source_path": "16-Simulados-e-Questoes/05-questoes-dominio-5.md",
+      "original_question_number": 1,
+      "translated_target_path": "16-Practice-Exams-and-Questions/cross-domain-review-questions.md",
+      "original_answer": {
+        "inline": "A",
+        "external": null
+      },
+      "reviewed_answer": "A",
+      "official_domain": 2,
+      "correction_category": [
+        "expanded-option-explanations"
+      ],
+      "explanation_of_correction": "All four options independently evaluated; explicit rationale added for each. ",
+      "official_aws_reference_url": "https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html",
+      "qa_status": "reviewed",
+      "reviewed_question_number": 1
+    },
+    {
+      "stable_question_id": "CLF-CROSS-002",
+      "original_source_path": "16-Simulados-e-Questoes/05-questoes-dominio-5.md",
+      "original_question_number": 2,
+      "translated_target_path": "16-Practice-Exams-and-Questions/cross-domain-review-questions.md",
+      "original_answer": {
+        "inline": "A",
+        "external": null
+      },
+      "reviewed_answer": "A",
+      "official_domain": 3,
+      "correction_category": [
+        "expanded-option-explanations"
+      ],
+      "explanation_of_correction": "All four options independently evaluated; explicit rationale added for each. ",
+      "official_aws_reference_url": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html",
+      "qa_status": "reviewed",
+      "reviewed_question_number": 2
+    },
+    {
+      "stable_question_id": "CLF-CROSS-003",
+      "original_source_path": "16-Simulados-e-Questoes/05-questoes-dominio-5.md",
+      "original_question_number": 3,
+      "translated_target_path": "16-Practice-Exams-and-Questions/cross-domain-review-questions.md",
+      "original_answer": {
+        "inline": "C",
+        "external": null
+      },
+      "reviewed_answer": "C",
+      "official_domain": 2,
+      "correction_category": [
+        "expanded-option-explanations"
+      ],
+      "explanation_of_correction": "All four options independently evaluated; explicit rationale added for each. ",
+      "official_aws_reference_url": "https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html",
+      "qa_status": "reviewed",
+      "reviewed_question_number": 3
+    },
+    {
+      "stable_question_id": "CLF-CROSS-004",
+      "original_source_path": "16-Simulados-e-Questoes/05-questoes-dominio-5.md",
+      "original_question_number": 4,
+      "translated_target_path": "16-Practice-Exams-and-Questions/cross-domain-review-questions.md",
+      "original_answer": {
+        "inline": "B",
+        "external": null
+      },
+      "reviewed_answer": "B",
+      "official_domain": 1,
+      "correction_category": [
+        "expanded-option-explanations"
+      ],
+      "explanation_of_correction": "All four options independently evaluated; explicit rationale added for each. ",
+      "official_aws_reference_url": "https://docs.aws.amazon.com/wellarchitected/latest/framework/rel_fault_isolation_multiaz_region_system.html",
+      "qa_status": "reviewed",
+      "reviewed_question_number": 4
+    },
+    {
+      "stable_question_id": "CLF-CROSS-005",
+      "original_source_path": "16-Simulados-e-Questoes/05-questoes-dominio-5.md",
+      "original_question_number": 5,
+      "translated_target_path": "16-Practice-Exams-and-Questions/cross-domain-review-questions.md",
+      "original_answer": {
+        "inline": "A",
+        "external": null
+      },
+      "reviewed_answer": "A",
+      "official_domain": 4,
+      "correction_category": [
+        "expanded-option-explanations"
+      ],
+      "explanation_of_correction": "All four options independently evaluated; explicit rationale added for each. ",
+      "official_aws_reference_url": "https://docs.aws.amazon.com/cost-management/latest/userguide/ce-what-is.html",
+      "qa_status": "reviewed",
+      "reviewed_question_number": 5
+    },
+    {
+      "stable_question_id": "CLF-CROSS-006",
+      "original_source_path": "16-Simulados-e-Questoes/05-questoes-dominio-5.md",
+      "original_question_number": 6,
+      "translated_target_path": "16-Practice-Exams-and-Questions/cross-domain-review-questions.md",
+      "original_answer": {
+        "inline": "A",
+        "external": null
+      },
+      "reviewed_answer": "A",
+      "official_domain": 3,
+      "correction_category": [
+        "expanded-option-explanations"
+      ],
+      "explanation_of_correction": "All four options independently evaluated; explicit rationale added for each. ",
+      "official_aws_reference_url": "https://docs.aws.amazon.com/lambda/latest/dg/welcome.html",
+      "qa_status": "reviewed",
+      "reviewed_question_number": 6
+    },
+    {
+      "stable_question_id": "CLF-MOCK-001",
+      "original_source_path": "16-Simulados-e-Questoes/05-simulado-completo-65q.md",
+      "original_question_number": 1,
+      "translated_target_path": "16-Practice-Exams-and-Questions/10-question-practice-exam.md",
+      "original_answer": {
+        "inline": "B",
+        "external": "B"
+      },
+      "reviewed_answer": "B",
+      "official_domain": 1,
+      "correction_category": [
+        "expanded-option-explanations"
+      ],
+      "explanation_of_correction": "All four options independently evaluated; explicit rationale added for each. ",
+      "official_aws_reference_url": "https://aws.amazon.com/what-is-cloud-computing/",
+      "qa_status": "reviewed",
+      "reviewed_question_number": 1
+    },
+    {
+      "stable_question_id": "CLF-MOCK-002",
+      "original_source_path": "16-Simulados-e-Questoes/05-simulado-completo-65q.md",
+      "original_question_number": 2,
+      "translated_target_path": "16-Practice-Exams-and-Questions/10-question-practice-exam.md",
+      "original_answer": {
+        "inline": "A",
+        "external": "B"
+      },
+      "reviewed_answer": "A",
+      "official_domain": 2,
+      "correction_category": [
+        "expanded-option-explanations",
+        "external-key-correction"
+      ],
+      "explanation_of_correction": "All four options independently evaluated; explicit rationale added for each. External answer corrected to the defensible reviewed answer. ",
+      "official_aws_reference_url": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-user-guide.html",
+      "qa_status": "reviewed",
+      "reviewed_question_number": 2
+    },
+    {
+      "stable_question_id": "CLF-MOCK-003",
+      "original_source_path": "16-Simulados-e-Questoes/05-simulado-completo-65q.md",
+      "original_question_number": 3,
+      "translated_target_path": "16-Practice-Exams-and-Questions/10-question-practice-exam.md",
+      "original_answer": {
+        "inline": "B",
+        "external": "C"
+      },
+      "reviewed_answer": "B",
+      "official_domain": 3,
+      "correction_category": [
+        "expanded-option-explanations",
+        "external-key-correction"
+      ],
+      "explanation_of_correction": "All four options independently evaluated; explicit rationale added for each. External answer corrected to the defensible reviewed answer. ",
+      "official_aws_reference_url": "https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Welcome.html",
+      "qa_status": "reviewed",
+      "reviewed_question_number": 3
+    },
+    {
+      "stable_question_id": "CLF-MOCK-004",
+      "original_source_path": "16-Simulados-e-Questoes/05-simulado-completo-65q.md",
+      "original_question_number": 4,
+      "translated_target_path": "16-Practice-Exams-and-Questions/10-question-practice-exam.md",
+      "original_answer": {
+        "inline": "A",
+        "external": "B"
+      },
+      "reviewed_answer": "A",
+      "official_domain": 4,
+      "correction_category": [
+        "expanded-option-explanations",
+        "external-key-correction"
+      ],
+      "explanation_of_correction": "All four options independently evaluated; explicit rationale added for each. External answer corrected to the defensible reviewed answer. ",
+      "official_aws_reference_url": "https://docs.aws.amazon.com/cost-management/latest/userguide/ce-what-is.html",
+      "qa_status": "reviewed",
+      "reviewed_question_number": 4
+    },
+    {
+      "stable_question_id": "CLF-MOCK-005",
+      "original_source_path": "16-Simulados-e-Questoes/05-simulado-completo-65q.md",
+      "original_question_number": 5,
+      "translated_target_path": "16-Practice-Exams-and-Questions/10-question-practice-exam.md",
+      "original_answer": {
+        "inline": "B",
+        "external": "B"
+      },
+      "reviewed_answer": "B",
+      "official_domain": 2,
+      "correction_category": [
+        "expanded-option-explanations"
+      ],
+      "explanation_of_correction": "All four options independently evaluated; explicit rationale added for each. ",
+      "official_aws_reference_url": "https://aws.amazon.com/compliance/shared-responsibility-model/",
+      "qa_status": "reviewed",
+      "reviewed_question_number": 5
+    },
+    {
+      "stable_question_id": "CLF-MOCK-006",
+      "original_source_path": "16-Simulados-e-Questoes/05-simulado-completo-65q.md",
+      "original_question_number": 6,
+      "translated_target_path": "16-Practice-Exams-and-Questions/10-question-practice-exam.md",
+      "original_answer": {
+        "inline": "A",
+        "external": "B"
+      },
+      "reviewed_answer": "A",
+      "official_domain": 3,
+      "correction_category": [
+        "expanded-option-explanations",
+        "external-key-correction"
+      ],
+      "explanation_of_correction": "All four options independently evaluated; explicit rationale added for each. External answer corrected to the defensible reviewed answer. ",
+      "official_aws_reference_url": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html",
+      "qa_status": "reviewed",
+      "reviewed_question_number": 6
+    },
+    {
+      "stable_question_id": "CLF-MOCK-007",
+      "original_source_path": "16-Simulados-e-Questoes/05-simulado-completo-65q.md",
+      "original_question_number": 7,
+      "translated_target_path": "16-Practice-Exams-and-Questions/10-question-practice-exam.md",
+      "original_answer": {
+        "inline": "B",
+        "external": "B"
+      },
+      "reviewed_answer": "B",
+      "official_domain": 1,
+      "correction_category": [
+        "expanded-option-explanations"
+      ],
+      "explanation_of_correction": "All four options independently evaluated; explicit rationale added for each. ",
+      "official_aws_reference_url": "https://docs.aws.amazon.com/wellarchitected/latest/framework/rel_fault_isolation_multiaz_region_system.html",
+      "qa_status": "reviewed",
+      "reviewed_question_number": 7
+    },
+    {
+      "stable_question_id": "CLF-MOCK-008",
+      "original_source_path": "16-Simulados-e-Questoes/05-simulado-completo-65q.md",
+      "original_question_number": 8,
+      "translated_target_path": "16-Practice-Exams-and-Questions/10-question-practice-exam.md",
+      "original_answer": {
+        "inline": "A",
+        "external": "B"
+      },
+      "reviewed_answer": "A",
+      "official_domain": 3,
+      "correction_category": [
+        "expanded-option-explanations",
+        "external-key-correction"
+      ],
+      "explanation_of_correction": "All four options independently evaluated; explicit rationale added for each. External answer corrected to the defensible reviewed answer. ",
+      "official_aws_reference_url": "https://docs.aws.amazon.com/lambda/latest/dg/welcome.html",
+      "qa_status": "reviewed",
+      "reviewed_question_number": 8
+    },
+    {
+      "stable_question_id": "CLF-MOCK-009",
+      "original_source_path": "16-Simulados-e-Questoes/05-simulado-completo-65q.md",
+      "original_question_number": 9,
+      "translated_target_path": "16-Practice-Exams-and-Questions/10-question-practice-exam.md",
+      "original_answer": {
+        "inline": "C",
+        "external": "B"
+      },
+      "reviewed_answer": "C",
+      "official_domain": 2,
+      "correction_category": [
+        "expanded-option-explanations",
+        "external-key-correction"
+      ],
+      "explanation_of_correction": "All four options independently evaluated; explicit rationale added for each. External answer corrected to the defensible reviewed answer. ",
+      "official_aws_reference_url": "https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html",
+      "qa_status": "reviewed",
+      "reviewed_question_number": 9
+    },
+    {
+      "stable_question_id": "CLF-MOCK-010",
+      "original_source_path": "16-Simulados-e-Questoes/05-simulado-completo-65q.md",
+      "original_question_number": 10,
+      "translated_target_path": "16-Practice-Exams-and-Questions/10-question-practice-exam.md",
+      "original_answer": {
+        "inline": "A",
+        "external": "A"
+      },
+      "reviewed_answer": "A",
+      "official_domain": 4,
+      "correction_category": [
+        "expanded-option-explanations"
+      ],
+      "explanation_of_correction": "All four options independently evaluated; explicit rationale added for each. ",
+      "official_aws_reference_url": "https://docs.aws.amazon.com/cost-management/latest/userguide/budgets-managing-costs.html",
+      "qa_status": "reviewed",
+      "reviewed_question_number": 10
+    },
+    {
+      "stable_question_id": "CLF-FLASH-CLOUD-001",
+      "original_source_path": "flashcards/deck-fundamentos.md",
+      "original_question_number": 1,
+      "translated_target_path": "flashcards/fundamentals-deck.md",
+      "reviewed_question_number": 1,
+      "original_answer": "Elasticidade. O sinal de memorização é ajuste dinâmico: recursos sobem em pico e descem quando a demanda cai.",
+      "reviewed_answer": "Elasticity. The memorization signal is dynamic adjustment: resources rise at a peak and fall when demand falls.",
+      "official_domain": 1,
+      "correction_category": [
+        "open-response-reviewed"
+      ],
+      "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
+      "official_aws_reference_url": "https://aws.amazon.com/what-is-cloud-computing/",
+      "qa_status": "reviewed",
+      "question_type": "open-response"
+    },
+    {
+      "stable_question_id": "CLF-FLASH-CLOUD-002",
+      "original_source_path": "flashcards/deck-fundamentos.md",
+      "original_question_number": 2,
+      "translated_target_path": "flashcards/fundamentals-deck.md",
+      "reviewed_question_number": 2,
+      "original_answer": "Não. Escalabilidade é a capacidade de crescer sem perder desempenho; elasticidade é ajustar capacidade automaticamente ao volume real de uso.",
+      "reviewed_answer": "No. Scalability is the ability to change capacity to meet requirements; elasticity dynamically matches that capacity to demand, including scaling down.",
+      "official_domain": 1,
+      "correction_category": [
+        "open-response-reviewed"
+      ],
+      "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
+      "official_aws_reference_url": "https://aws.amazon.com/what-is-cloud-computing/",
+      "qa_status": "reviewed",
+      "question_type": "open-response"
+    },
+    {
+      "stable_question_id": "CLF-FLASH-CLOUD-003",
+      "original_source_path": "flashcards/deck-fundamentos.md",
+      "original_question_number": 3,
+      "translated_target_path": "flashcards/fundamentals-deck.md",
+      "reviewed_question_number": 3,
+      "original_answer": "Escolha de Região. A Região define proximidade geográfica, residência de dados e impacto direto na latência.",
+      "reviewed_answer": "Choice of Region. Region defines geographic proximity, data residency and direct impact on latency.",
+      "official_domain": 1,
+      "correction_category": [
+        "open-response-reviewed"
+      ],
+      "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
+      "official_aws_reference_url": "https://aws.amazon.com/what-is-cloud-computing/",
+      "qa_status": "reviewed",
+      "question_type": "open-response"
+    },
+    {
+      "stable_question_id": "CLF-FLASH-CLOUD-004",
+      "original_source_path": "flashcards/deck-fundamentos.md",
+      "original_question_number": 4,
+      "translated_target_path": "flashcards/fundamentals-deck.md",
+      "reviewed_question_number": 4,
+      "original_answer": "Um ou mais data centers isolados dentro de uma Região. AZs diferentes reduzem impacto de falhas locais.",
+      "reviewed_answer": "One or more isolated data centers within a Region. Different AZs reduce the impact of local failures.",
+      "official_domain": 1,
+      "correction_category": [
+        "open-response-reviewed"
+      ],
+      "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
+      "official_aws_reference_url": "https://docs.aws.amazon.com/wellarchitected/latest/framework/rel_fault_isolation_multiaz_region_system.html",
+      "qa_status": "reviewed",
+      "question_type": "open-response"
+    },
+    {
+      "stable_question_id": "CLF-FLASH-CLOUD-005",
+      "original_source_path": "flashcards/deck-fundamentos.md",
+      "original_question_number": 5,
+      "translated_target_path": "flashcards/fundamentals-deck.md",
+      "reviewed_question_number": 5,
+      "original_answer": "Continuidade durante falha de um data center ou componente local. Multi-AZ é pista forte para alta disponibilidade dentro da mesma Região.",
+      "reviewed_answer": "Continuity during a failure affecting an Availability Zone. A multi-zone deployment with failover supports high availability within a Region; it does not protect an on-premises component by itself.",
+      "official_domain": 1,
+      "correction_category": [
+        "open-response-reviewed"
+      ],
+      "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
+      "official_aws_reference_url": "https://docs.aws.amazon.com/wellarchitected/latest/framework/rel_fault_isolation_multiaz_region_system.html",
+      "qa_status": "reviewed",
+      "question_type": "open-response"
+    },
+    {
+      "stable_question_id": "CLF-FLASH-CLOUD-006",
+      "original_source_path": "flashcards/deck-fundamentos.md",
+      "original_question_number": 6,
+      "translated_target_path": "flashcards/fundamentals-deck.md",
+      "reviewed_question_number": 6,
+      "original_answer": "Trocar CAPEX por OPEX. Em vez de comprar capacidade antes, a empresa paga recursos conforme usa.",
+      "reviewed_answer": "Exchange CAPEX for OPEX. Instead of purchasing capacity up front, the company pays for resources as they use them.",
+      "official_domain": 1,
+      "correction_category": [
+        "open-response-reviewed"
+      ],
+      "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
+      "official_aws_reference_url": "https://aws.amazon.com/what-is-cloud-computing/",
+      "qa_status": "reviewed",
+      "question_type": "open-response"
+    },
+    {
+      "stable_question_id": "CLF-FLASH-CLOUD-007",
+      "original_source_path": "flashcards/deck-fundamentos.md",
+      "original_question_number": 7,
+      "translated_target_path": "flashcards/fundamentals-deck.md",
+      "reviewed_question_number": 7,
+      "original_answer": "Agilidade. A nuvem reduz tempo de espera por infraestrutura e acelera experimentos, testes e lançamentos.",
+      "reviewed_answer": "Agility. The cloud reduces infrastructure wait times and speeds up experiments, testing and launches.",
+      "official_domain": 1,
+      "correction_category": [
+        "open-response-reviewed"
+      ],
+      "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
+      "official_aws_reference_url": "https://aws.amazon.com/what-is-cloud-computing/",
+      "qa_status": "reviewed",
+      "question_type": "open-response"
+    },
+    {
+      "stable_question_id": "CLF-FLASH-CLOUD-008",
+      "original_source_path": "flashcards/deck-fundamentos.md",
+      "original_question_number": 8,
+      "translated_target_path": "flashcards/fundamentals-deck.md",
+      "reviewed_question_number": 8,
+      "original_answer": "A AWS protege a infraestrutura da nuvem. O cliente protege o que coloca na nuvem: dados, identidades, permissões e configurações.",
+      "reviewed_answer": "AWS secures your cloud infrastructure. The customer protects what they put in the cloud: data, identities, permissions and configurations.",
+      "official_domain": 1,
+      "correction_category": [
+        "open-response-reviewed"
+      ],
+      "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
+      "official_aws_reference_url": "https://aws.amazon.com/compliance/shared-responsibility-model/",
+      "qa_status": "reviewed",
+      "question_type": "open-response"
+    },
+    {
+      "stable_question_id": "CLF-FLASH-CLOUD-009",
+      "original_source_path": "flashcards/deck-fundamentos.md",
+      "original_question_number": 9,
+      "translated_target_path": "flashcards/fundamentals-deck.md",
+      "reviewed_question_number": 9,
+      "original_answer": "Não. Alta disponibilidade busca manter o serviço acessível; tolerância a falhas enfatiza continuar operando mesmo quando componentes falham.",
+      "reviewed_answer": "No. High availability seeks to keep the service accessible; Fault tolerance emphasizes continuing to operate even when components fail.",
+      "official_domain": 1,
+      "correction_category": [
+        "open-response-reviewed"
+      ],
+      "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
+      "official_aws_reference_url": "https://docs.aws.amazon.com/wellarchitected/latest/framework/rel_fault_isolation_multiaz_region_system.html",
+      "qa_status": "reviewed",
+      "question_type": "open-response"
+    },
+    {
+      "stable_question_id": "CLF-FLASH-CLOUD-010",
+      "original_source_path": "flashcards/deck-fundamentos.md",
+      "original_question_number": 10,
+      "translated_target_path": "flashcards/fundamentals-deck.md",
+      "reviewed_question_number": 10,
+      "original_answer": "A AWS opera em escala massiva e repassa eficiência de custos aos clientes por meio de preços e serviços compartilhados.",
+      "reviewed_answer": "AWS operates at massive scale and passes cost efficiencies to customers through shared pricing and services.",
+      "official_domain": 1,
+      "correction_category": [
+        "open-response-reviewed"
+      ],
+      "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
+      "official_aws_reference_url": "https://aws.amazon.com/what-is-cloud-computing/",
+      "qa_status": "reviewed",
+      "question_type": "open-response"
+    },
+    {
+      "stable_question_id": "CLF-FLASH-CLOUD-011",
+      "original_source_path": "flashcards/deck-fundamentos.md",
+      "original_question_number": 11,
+      "translated_target_path": "flashcards/fundamentals-deck.md",
+      "reviewed_question_number": 11,
+      "original_answer": "Capacidade sob demanda. O foco é reduzir superprovisionamento e subprovisionamento, ajustando recursos quando necessário.",
+      "reviewed_answer": "Capacity on demand. The focus is to reduce over-provisioning and under-provisioning, adjusting resources when necessary.",
+      "official_domain": 1,
+      "correction_category": [
+        "open-response-reviewed"
+      ],
+      "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
+      "official_aws_reference_url": "https://aws.amazon.com/what-is-cloud-computing/",
+      "qa_status": "reviewed",
+      "question_type": "open-response"
+    },
+    {
+      "stable_question_id": "CLF-FLASH-CLOUD-012",
+      "original_source_path": "flashcards/deck-fundamentos.md",
+      "original_question_number": 12,
+      "translated_target_path": "flashcards/fundamentals-deck.md",
+      "reviewed_question_number": 12,
+      "original_answer": "Para CLF-C02, Multi-AZ costuma ser a resposta suficiente para alta disponibilidade regional. Multi-Region entra quando há desastre regional, latência global ou requisitos geográficos.",
+      "reviewed_answer": "For CLF-C02, Multi-AZ is often a sufficient answer for regional high availability. Multi-Region comes in when there is regional disaster, global latency or geographic requirements.",
+      "official_domain": 1,
+      "correction_category": [
+        "open-response-reviewed"
+      ],
+      "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
+      "official_aws_reference_url": "https://docs.aws.amazon.com/wellarchitected/latest/framework/rel_fault_isolation_multiaz_region_system.html",
+      "qa_status": "reviewed",
+      "question_type": "open-response"
+    },
+    {
+      "stable_question_id": "CLF-FLASH-IAM-001",
+      "original_source_path": "flashcards/deck-seguranca.md",
+      "original_question_number": 1,
+      "translated_target_path": "flashcards/security-deck.md",
+      "reviewed_question_number": 1,
+      "original_answer": "A conta root. Ela tem privilégios amplos e deve ficar reservada para tarefas excepcionais que exigem root.",
+      "reviewed_answer": "The root account. It has broad privileges and should be reserved for exceptional tasks that require root.",
+      "official_domain": 2,
+      "correction_category": [
+        "open-response-reviewed"
+      ],
+      "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
+      "official_aws_reference_url": "https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html",
+      "qa_status": "reviewed",
+      "question_type": "open-response"
+    },
+    {
+      "stable_question_id": "CLF-FLASH-IAM-002",
+      "original_source_path": "flashcards/deck-seguranca.md",
+      "original_question_number": 2,
+      "translated_target_path": "flashcards/security-deck.md",
+      "reviewed_question_number": 2,
+      "original_answer": "Usuário representa uma identidade persistente. Role é assumida temporariamente por usuários, serviços ou contas, sem credenciais permanentes próprias.",
+      "reviewed_answer": "User represents a persistent identity. Role is assumed temporarily by users, services or accounts, without permanent credentials of their own.",
+      "official_domain": 2,
+      "correction_category": [
+        "open-response-reviewed"
+      ],
+      "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
+      "official_aws_reference_url": "https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html",
+      "qa_status": "reviewed",
+      "question_type": "open-response"
+    },
+    {
+      "stable_question_id": "CLF-FLASH-IAM-003",
+      "original_source_path": "flashcards/deck-seguranca.md",
+      "original_question_number": 3,
+      "translated_target_path": "flashcards/security-deck.md",
+      "reviewed_question_number": 3,
+      "original_answer": "Permitir somente ações necessárias, nos recursos necessários, pelo tempo necessário. Permissão ampla por conveniência é sinal de resposta errada.",
+      "reviewed_answer": "Allow only necessary actions, on the necessary resources, for the necessary time. Broad permission for convenience is a sign of the wrong answer.",
+      "official_domain": 2,
+      "correction_category": [
+        "open-response-reviewed"
+      ],
+      "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
+      "official_aws_reference_url": "https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html",
+      "qa_status": "reviewed",
+      "question_type": "open-response"
+    },
+    {
+      "stable_question_id": "CLF-FLASH-IAM-004",
+      "original_source_path": "flashcards/deck-seguranca.md",
+      "original_question_number": 4,
+      "translated_target_path": "flashcards/security-deck.md",
+      "reviewed_question_number": 4,
+      "original_answer": "Anexar uma IAM Role à instância EC2 com permissões mínimas para o bucket necessário.",
+      "reviewed_answer": "Attach an IAM Role to the EC2 instance with least-privilege permissions for the required bucket.",
+      "official_domain": 2,
+      "correction_category": [
+        "open-response-reviewed"
+      ],
+      "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
+      "official_aws_reference_url": "https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html",
+      "qa_status": "reviewed",
+      "question_type": "open-response"
+    },
+    {
+      "stable_question_id": "CLF-FLASH-IAM-005",
+      "original_source_path": "flashcards/deck-seguranca.md",
+      "original_question_number": 5,
+      "translated_target_path": "flashcards/security-deck.md",
+      "reviewed_question_number": 5,
+      "original_answer": "AWS CloudTrail. Ele é a associação clássica para auditoria de ações na conta AWS.",
+      "reviewed_answer": "AWS CloudTrail. It is the classic association for auditing actions in the AWS account.",
+      "official_domain": 2,
+      "correction_category": [
+        "open-response-reviewed"
+      ],
+      "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
+      "official_aws_reference_url": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-user-guide.html",
+      "qa_status": "reviewed",
+      "question_type": "open-response"
+    },
+    {
+      "stable_question_id": "CLF-FLASH-IAM-006",
+      "original_source_path": "flashcards/deck-seguranca.md",
+      "original_question_number": 6,
+      "translated_target_path": "flashcards/security-deck.md",
+      "reviewed_question_number": 6,
+      "original_answer": "Não. Shield ajuda contra DDoS, WAF filtra tráfego web HTTP/HTTPS e Security Groups controlam tráfego de rede em recursos como EC2.",
+      "reviewed_answer": "No. Shield helps against DDoS, WAF filters HTTP/HTTPS web traffic, and Security Groups control network traffic on resources like EC2.",
+      "official_domain": 2,
+      "correction_category": [
+        "open-response-reviewed"
+      ],
+      "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
+      "official_aws_reference_url": "https://docs.aws.amazon.com/waf/latest/developerguide/shield-chapter.html",
+      "qa_status": "reviewed",
+      "question_type": "open-response"
+    },
+    {
+      "stable_question_id": "CLF-FLASH-IAM-007",
+      "original_source_path": "flashcards/deck-seguranca.md",
+      "original_question_number": 7,
+      "translated_target_path": "flashcards/security-deck.md",
+      "reviewed_question_number": 7,
+      "original_answer": "AWS KMS. Memorize como o serviço gerenciado de chaves para criptografia integrada a serviços AWS.",
+      "reviewed_answer": "AWS KMS. KMS manages cryptographic keys and integrates with AWS services; customers still control appropriate permissions and key policies.",
+      "official_domain": 2,
+      "correction_category": [
+        "open-response-reviewed"
+      ],
+      "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
+      "official_aws_reference_url": "https://docs.aws.amazon.com/kms/latest/developerguide/overview.html",
+      "qa_status": "reviewed",
+      "question_type": "open-response"
+    },
+    {
+      "stable_question_id": "CLF-FLASH-IAM-008",
+      "original_source_path": "flashcards/deck-seguranca.md",
+      "original_question_number": 8,
+      "translated_target_path": "flashcards/security-deck.md",
+      "reviewed_question_number": 8,
+      "original_answer": "AWS Artifact. Ele fornece acesso a relatórios e acordos relacionados a compliance da AWS.",
+      "reviewed_answer": "AWS Artifact. It provides access to AWS compliance-related reports and agreements.",
+      "official_domain": 2,
+      "correction_category": [
+        "open-response-reviewed"
+      ],
+      "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
+      "official_aws_reference_url": "https://docs.aws.amazon.com/artifact/latest/ug/what-is-aws-artifact.html",
+      "qa_status": "reviewed",
+      "question_type": "open-response"
+    },
+    {
+      "stable_question_id": "CLF-FLASH-IAM-009",
+      "original_source_path": "flashcards/deck-seguranca.md",
+      "original_question_number": 9,
+      "translated_target_path": "flashcards/security-deck.md",
+      "reviewed_question_number": 9,
+      "original_answer": "Não. Classificação, governança, retenção e proteção dos dados do cliente continuam sendo responsabilidade do cliente.",
+      "reviewed_answer": "No. Classification, governance, retention and protection of customer data remains the responsibility of the customer.",
+      "official_domain": 2,
+      "correction_category": [
+        "open-response-reviewed"
+      ],
+      "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
+      "official_aws_reference_url": "https://aws.amazon.com/compliance/shared-responsibility-model/",
+      "qa_status": "reviewed",
+      "question_type": "open-response"
+    },
+    {
+      "stable_question_id": "CLF-FLASH-IAM-010",
+      "original_source_path": "flashcards/deck-seguranca.md",
+      "original_question_number": 10,
+      "translated_target_path": "flashcards/security-deck.md",
+      "reviewed_question_number": 10,
+      "original_answer": "Allow amplo demais aumenta superfície de risco. Em IAM, um Deny explícito normalmente prevalece e bloqueia acesso.",
+      "reviewed_answer": "An overly broad Allow increases the attack surface. An applicable explicit Deny overrides an Allow; an excessively broad Deny can also disrupt legitimate work. Evaluate both against least privilege and operational requirements.",
+      "official_domain": 2,
+      "correction_category": [
+        "open-response-reviewed"
+      ],
+      "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
+      "official_aws_reference_url": "https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html",
+      "qa_status": "reviewed",
+      "question_type": "open-response"
+    },
+    {
+      "stable_question_id": "CLF-FLASH-IAM-011",
+      "original_source_path": "flashcards/deck-seguranca.md",
+      "original_question_number": 11,
+      "translated_target_path": "flashcards/security-deck.md",
+      "reviewed_question_number": 11,
+      "original_answer": "Detecção de ameaças. Ele analisa eventos e sinais para apontar comportamento suspeito na conta.",
+      "reviewed_answer": "Threat detection. It analyzes events and signals to point out suspicious behavior on the account.",
+      "official_domain": 2,
+      "correction_category": [
+        "open-response-reviewed"
+      ],
+      "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
+      "official_aws_reference_url": "https://docs.aws.amazon.com/guardduty/latest/ug/what-is-guardduty.html",
+      "qa_status": "reviewed",
+      "question_type": "open-response"
+    },
+    {
+      "stable_question_id": "CLF-FLASH-IAM-012",
+      "original_source_path": "flashcards/deck-seguranca.md",
+      "original_question_number": 12,
+      "translated_target_path": "flashcards/security-deck.md",
+      "reviewed_question_number": 12,
+      "original_answer": "MFA fortalece autenticação, mas não define autorização. Acesso correto ainda depende de políticas, roles e menor privilégio.",
+      "reviewed_answer": "MFA strengthens authentication but does not define authorization. Correct access still depends on policies, roles and least privilege.",
+      "official_domain": 2,
+      "correction_category": [
+        "open-response-reviewed"
+      ],
+      "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
+      "official_aws_reference_url": "https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html",
+      "qa_status": "reviewed",
+      "question_type": "open-response"
+    },
+    {
+      "stable_question_id": "CLF-FLASH-S3-001",
+      "original_source_path": "flashcards/deck-s3.md",
+      "original_question_number": 1,
+      "translated_target_path": "flashcards/s3-deck.md",
+      "reviewed_question_number": 1,
+      "original_answer": "Objetos. Cada objeto combina dados, metadados e uma chave única dentro do bucket.",
+      "reviewed_answer": "Objects. Each object combines data, metadata, and a unique key within the bucket.",
+      "official_domain": 3,
+      "correction_category": [
+        "open-response-reviewed"
+      ],
+      "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
+      "official_aws_reference_url": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage-class-intro.html",
+      "qa_status": "reviewed",
+      "question_type": "open-response"
+    },
+    {
+      "stable_question_id": "CLF-FLASH-S3-002",
+      "original_source_path": "flashcards/deck-s3.md",
+      "original_question_number": 2,
+      "translated_target_path": "flashcards/s3-deck.md",
+      "reviewed_question_number": 2,
+      "original_answer": "Onze noves de durabilidade: 99,999999999%. A prova usa isso para reforçar preservação de objetos, não ausência total de indisponibilidade.",
+      "reviewed_answer": "S3 Standard is designed for 99.999999999% annual object durability (eleven nines). Durability describes object preservation and is separate from availability. This is a durability design target for supported S3 storage classes, not a guarantee of continuous availability.",
+      "official_domain": 3,
+      "correction_category": [
+        "open-response-reviewed"
+      ],
+      "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
+      "official_aws_reference_url": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage-class-intro.html",
+      "qa_status": "reviewed",
+      "question_type": "open-response"
+    },
+    {
+      "stable_question_id": "CLF-FLASH-S3-003",
+      "original_source_path": "flashcards/deck-s3.md",
+      "original_question_number": 3,
+      "translated_target_path": "flashcards/s3-deck.md",
+      "reviewed_question_number": 3,
+      "original_answer": "Sobrescrita ou exclusão acidental de objetos. Ele permite recuperar versões anteriores quando habilitado no bucket.",
+      "reviewed_answer": "Accidentally overwriting or deleting objects. It allows you to recover previous versions when enabled on the bucket.",
+      "official_domain": 3,
+      "correction_category": [
+        "open-response-reviewed"
+      ],
+      "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
+      "official_aws_reference_url": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage-class-intro.html",
+      "qa_status": "reviewed",
+      "question_type": "open-response"
+    },
+    {
+      "stable_question_id": "CLF-FLASH-S3-004",
+      "original_source_path": "flashcards/deck-s3.md",
+      "original_question_number": 4,
+      "translated_target_path": "flashcards/s3-deck.md",
+      "reviewed_question_number": 4,
+      "original_answer": "Quando o enunciado pede movimentar objetos automaticamente para classes mais baratas ou expirar dados antigos.",
+      "reviewed_answer": "When the statement asks to automatically move objects to cheaper classes or expire old data.",
+      "official_domain": 3,
+      "correction_category": [
+        "open-response-reviewed"
+      ],
+      "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
+      "official_aws_reference_url": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage-class-intro.html",
+      "qa_status": "reviewed",
+      "question_type": "open-response"
+    },
+    {
+      "stable_question_id": "CLF-FLASH-S3-005",
+      "original_source_path": "flashcards/deck-s3.md",
+      "original_question_number": 5,
+      "translated_target_path": "flashcards/s3-deck.md",
+      "reviewed_question_number": 5,
+      "original_answer": "S3 Standard. É a escolha padrão para acesso frequente, baixa latência e alta disponibilidade.",
+      "reviewed_answer": "S3 Standard. It's the default choice for frequent access, low latency, and high availability.",
+      "official_domain": 3,
+      "correction_category": [
+        "open-response-reviewed"
+      ],
+      "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
+      "official_aws_reference_url": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage-class-intro.html",
+      "qa_status": "reviewed",
+      "question_type": "open-response"
+    },
+    {
+      "stable_question_id": "CLF-FLASH-S3-006",
+      "original_source_path": "flashcards/deck-s3.md",
+      "original_question_number": 6,
+      "translated_target_path": "flashcards/s3-deck.md",
+      "reviewed_question_number": 6,
+      "original_answer": "S3 Standard-IA ou S3 One Zone-IA. A escolha depende do requisito de disponibilidade e do risco aceito.",
+      "reviewed_answer": "S3 Standard-IA or S3 One Zone-IA. The choice depends on the availability requirement and the accepted risk.",
+      "official_domain": 3,
+      "correction_category": [
+        "open-response-reviewed"
+      ],
+      "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
+      "official_aws_reference_url": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage-class-intro.html",
+      "qa_status": "reviewed",
+      "question_type": "open-response"
+    },
+    {
+      "stable_question_id": "CLF-FLASH-S3-007",
+      "original_source_path": "flashcards/deck-s3.md",
+      "original_question_number": 7,
+      "translated_target_path": "flashcards/s3-deck.md",
+      "reviewed_question_number": 7,
+      "original_answer": "Glacier. Para retenção muito longa e acesso raríssimo, a prova pode apontar para Glacier Deep Archive.",
+      "reviewed_answer": "S3 Glacier Flexible Retrieval offers asynchronous restores measured in minutes to hours depending on tier; S3 Glacier Deep Archive supports longer retrieval times, typically hours. S3 Glacier Instant Retrieval instead provides millisecond access. Select the class by access frequency, retrieval time, and minimum-duration charges.",
+      "official_domain": 3,
+      "correction_category": [
+        "open-response-reviewed"
+      ],
+      "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
+      "official_aws_reference_url": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage-class-intro.html",
+      "qa_status": "reviewed",
+      "question_type": "open-response"
+    },
+    {
+      "stable_question_id": "CLF-FLASH-S3-008",
+      "original_source_path": "flashcards/deck-s3.md",
+      "original_question_number": 8,
+      "translated_target_path": "flashcards/s3-deck.md",
+      "reviewed_question_number": 8,
+      "original_answer": "Não. É preciso habilitar static website hosting, configurar documento de índice/erro e ajustar leitura pública ou distribuição via CloudFront.",
+      "reviewed_answer": "No. Direct S3 website hosting requires website configuration and public read permissions and supports HTTP only. The preferred private-bucket pattern uses CloudFront with an S3 REST origin, origin access control (OAC), a scoped bucket policy, and a default root object; it does not require enabling the S3 website endpoint.",
+      "official_domain": 3,
+      "correction_category": [
+        "open-response-reviewed"
+      ],
+      "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
+      "official_aws_reference_url": "https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/private-content-restricting-access-to-s3.html",
+      "qa_status": "reviewed",
+      "question_type": "open-response"
+    },
+    {
+      "stable_question_id": "CLF-FLASH-S3-009",
+      "original_source_path": "flashcards/deck-s3.md",
+      "original_question_number": 9,
+      "translated_target_path": "flashcards/s3-deck.md",
+      "reviewed_question_number": 9,
+      "original_answer": "Políticas IAM e bucket policies. ACLs são menos indicadas para governança ampla em ambientes atuais.",
+      "reviewed_answer": "IAM policies and bucket policies. ACLs are less suitable for broad governance in current environments.",
+      "official_domain": 3,
+      "correction_category": [
+        "open-response-reviewed"
+      ],
+      "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
+      "official_aws_reference_url": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage-class-intro.html",
+      "qa_status": "reviewed",
+      "question_type": "open-response"
+    },
+    {
+      "stable_question_id": "CLF-FLASH-S3-010",
+      "original_source_path": "flashcards/deck-s3.md",
+      "original_question_number": 10,
+      "translated_target_path": "flashcards/s3-deck.md",
+      "reviewed_question_number": 10,
+      "original_answer": "Não. S3 é armazenamento de objetos via API. Para volume de bloco de EC2, memorize Amazon EBS.",
+      "reviewed_answer": "No. S3 is object storage via API. For EC2 block volume, remember Amazon EBS.",
+      "official_domain": 3,
+      "correction_category": [
+        "open-response-reviewed"
+      ],
+      "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
+      "official_aws_reference_url": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage-class-intro.html",
+      "qa_status": "reviewed",
+      "question_type": "open-response"
+    },
+    {
+      "stable_question_id": "CLF-FLASH-S3-011",
+      "original_source_path": "flashcards/deck-s3.md",
+      "original_question_number": 11,
+      "translated_target_path": "flashcards/s3-deck.md",
+      "reviewed_question_number": 11,
+      "original_answer": "S3 Transfer Acceleration, usando a rede de borda da AWS para acelerar transferências em cenários específicos.",
+      "reviewed_answer": "S3 Transfer Acceleration, using AWS Edge Networking to accelerate transfers in specific scenarios.",
+      "official_domain": 3,
+      "correction_category": [
+        "open-response-reviewed"
+      ],
+      "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
+      "official_aws_reference_url": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage-class-intro.html",
+      "qa_status": "reviewed",
+      "question_type": "open-response"
+    },
+    {
+      "stable_question_id": "CLF-FLASH-S3-012",
+      "original_source_path": "flashcards/deck-s3.md",
+      "original_question_number": 12,
+      "translated_target_path": "flashcards/s3-deck.md",
+      "reviewed_question_number": 12,
+      "original_answer": "Quando o padrão de acesso é desconhecido ou muda com o tempo. Ele move objetos entre camadas de acesso para otimizar custo automaticamente.",
+      "reviewed_answer": "When the access pattern is unknown or changes over time. It moves objects between access tiers to automatically optimize cost.",
+      "official_domain": 3,
+      "correction_category": [
+        "open-response-reviewed"
+      ],
+      "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
+      "official_aws_reference_url": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage-class-intro.html",
+      "qa_status": "reviewed",
+      "question_type": "open-response"
+    },
+    {
+      "stable_question_id": "CLF-FLASH-COST-001",
+      "original_source_path": "flashcards/deck-custos.md",
+      "original_question_number": 1,
+      "translated_target_path": "flashcards/costs-deck.md",
+      "reviewed_question_number": 1,
+      "original_answer": "Flexibilidade sem compromisso. É adequado para workloads imprevisíveis, testes, picos curtos ou uso ainda sem padrão estável.",
+      "reviewed_answer": "Flexibility without a long-term commitment. It is suitable for unpredictable workloads, testing, short bursts or use without a stable pattern.",
+      "official_domain": 4,
+      "correction_category": [
+        "open-response-reviewed"
+      ],
+      "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
+      "official_aws_reference_url": "https://aws.amazon.com/ec2/pricing/",
+      "qa_status": "reviewed",
+      "question_type": "open-response"
+    },
+    {
+      "stable_question_id": "CLF-FLASH-COST-002",
+      "original_source_path": "flashcards/deck-custos.md",
+      "original_question_number": 2,
+      "translated_target_path": "flashcards/costs-deck.md",
+      "reviewed_question_number": 2,
+      "original_answer": "Uso previsível por longo período. O desconto vem do compromisso, então não é ideal para carga incerta.",
+      "reviewed_answer": "Predictable long-term use. The discount comes from the commitment, so it is not ideal for unpredictable workloads.",
+      "official_domain": 4,
+      "correction_category": [
+        "open-response-reviewed"
+      ],
+      "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
+      "official_aws_reference_url": "https://aws.amazon.com/ec2/pricing/",
+      "qa_status": "reviewed",
+      "question_type": "open-response"
+    },
+    {
+      "stable_question_id": "CLF-FLASH-COST-003",
+      "original_source_path": "flashcards/deck-custos.md",
+      "original_question_number": 3,
+      "translated_target_path": "flashcards/costs-deck.md",
+      "reviewed_question_number": 3,
+      "original_answer": "Tolerância a interrupção. Jobs batch, processamento reexecutável e tarefas flexíveis combinam com Spot.",
+      "reviewed_answer": "Interruption tolerance. Batch jobs, re-runable processing, and flexible tasks combine with Spot.",
+      "official_domain": 4,
+      "correction_category": [
+        "open-response-reviewed"
+      ],
+      "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
+      "official_aws_reference_url": "https://aws.amazon.com/ec2/pricing/",
+      "qa_status": "reviewed",
+      "question_type": "open-response"
+    },
+    {
+      "stable_question_id": "CLF-FLASH-COST-004",
+      "original_source_path": "flashcards/deck-custos.md",
+      "original_question_number": 4,
+      "translated_target_path": "flashcards/costs-deck.md",
+      "reviewed_question_number": 4,
+      "original_answer": "Interrupção quando a AWS precisa da capacidade. A economia é alta, mas a aplicação precisa lidar com retomada ou reprocessamento.",
+      "reviewed_answer": "Outage when AWS needs the capacity. The savings are high, but the application needs to deal with resumption or reprocessing.",
+      "official_domain": 4,
+      "correction_category": [
+        "open-response-reviewed"
+      ],
+      "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
+      "official_aws_reference_url": "https://aws.amazon.com/ec2/pricing/",
+      "qa_status": "reviewed",
+      "question_type": "open-response"
+    },
+    {
+      "stable_question_id": "CLF-FLASH-COST-005",
+      "original_source_path": "flashcards/deck-custos.md",
+      "original_question_number": 5,
+      "translated_target_path": "flashcards/costs-deck.md",
+      "reviewed_question_number": 5,
+      "original_answer": "AWS Budgets. Memorize como alerta e controle por orçamento.",
+      "reviewed_answer": "AWS Budgets. It sends actual or forecast threshold notifications; it does not impose a hard spending cap by default.",
+      "official_domain": 4,
+      "correction_category": [
+        "open-response-reviewed"
+      ],
+      "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
+      "official_aws_reference_url": "https://docs.aws.amazon.com/cost-management/latest/userguide/budgets-managing-costs.html",
+      "qa_status": "reviewed",
+      "question_type": "open-response"
+    },
+    {
+      "stable_question_id": "CLF-FLASH-COST-006",
+      "original_source_path": "flashcards/deck-custos.md",
+      "original_question_number": 6,
+      "translated_target_path": "flashcards/costs-deck.md",
+      "reviewed_question_number": 6,
+      "original_answer": "AWS Cost Explorer. Ele ajuda a visualizar consumo passado, filtrar custos e apoiar previsão.",
+      "reviewed_answer": "AWS Cost Explorer. It helps visualize past consumption, filter costs and support forecasting.",
+      "official_domain": 4,
+      "correction_category": [
+        "open-response-reviewed"
+      ],
+      "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
+      "official_aws_reference_url": "https://docs.aws.amazon.com/cost-management/latest/userguide/ce-what-is.html",
+      "qa_status": "reviewed",
+      "question_type": "open-response"
+    },
+    {
+      "stable_question_id": "CLF-FLASH-COST-007",
+      "original_source_path": "flashcards/deck-custos.md",
+      "original_question_number": 7,
+      "translated_target_path": "flashcards/costs-deck.md",
+      "reviewed_question_number": 7,
+      "original_answer": "Não. O Free Tier tem limites por serviço, período e quantidade. Excedeu a cota, pode haver cobrança.",
+      "reviewed_answer": "No. Eligibility depends on account creation date, account plan, credits, and service limits. Eligible new accounts can receive credits with a six-month free account plan; paid-plan usage beyond eligible offers or credits can be billed. Check current terms before provisioning.",
+      "official_domain": 4,
+      "correction_category": [
+        "open-response-reviewed"
+      ],
+      "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
+      "official_aws_reference_url": "https://aws.amazon.com/free/",
+      "qa_status": "reviewed",
+      "question_type": "open-response"
+    },
+    {
+      "stable_question_id": "CLF-FLASH-COST-008",
+      "original_source_path": "flashcards/deck-custos.md",
+      "original_question_number": 8,
+      "translated_target_path": "flashcards/costs-deck.md",
+      "reviewed_question_number": 8,
+      "original_answer": "Estimativa antes de usar. Ele calcula custo aproximado de arquitetura planejada, não auditoria de gasto real.",
+      "reviewed_answer": "Estimate before use. It calculates approximate cost of planned architecture, not audit of actual expenditure.",
+      "official_domain": 4,
+      "correction_category": [
+        "open-response-reviewed"
+      ],
+      "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
+      "official_aws_reference_url": "https://docs.aws.amazon.com/pricing-calculator/latest/userguide/what-is-pricing-calculator.html",
+      "qa_status": "reviewed",
+      "question_type": "open-response"
+    },
+    {
+      "stable_question_id": "CLF-FLASH-COST-009",
+      "original_source_path": "flashcards/deck-custos.md",
+      "original_question_number": 9,
+      "translated_target_path": "flashcards/costs-deck.md",
+      "reviewed_question_number": 9,
+      "original_answer": "Ele aponta oportunidades como recursos ociosos, subutilizados ou configurações que afetam custo, segurança e resiliência.",
+      "reviewed_answer": "It points to opportunities such as idle, underutilized resources, or configurations that affect cost, security, and resiliency.",
+      "official_domain": 4,
+      "correction_category": [
+        "open-response-reviewed"
+      ],
+      "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
+      "official_aws_reference_url": "https://docs.aws.amazon.com/awssupport/latest/user/trusted-advisor.html",
+      "qa_status": "reviewed",
+      "question_type": "open-response"
+    },
+    {
+      "stable_question_id": "CLF-FLASH-COST-010",
+      "original_source_path": "flashcards/deck-custos.md",
+      "original_question_number": 10,
+      "translated_target_path": "flashcards/costs-deck.md",
+      "reviewed_question_number": 10,
+      "original_answer": "Developer. Ele adiciona suporte técnico para uso em desenvolvimento e cargas menos críticas.",
+      "reviewed_answer": "Business Support+ is the current entry paid plan for production technical support. Developer and Business are legacy plans unavailable for new subscriptions and scheduled for discontinuation on January 1, 2027. Compare the current support offerings before choosing a plan.",
+      "official_domain": 4,
+      "correction_category": [
+        "open-response-reviewed"
+      ],
+      "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
+      "official_aws_reference_url": "https://aws.amazon.com/premiumsupport/faqs/",
+      "qa_status": "reviewed",
+      "question_type": "open-response"
+    },
+    {
+      "stable_question_id": "CLF-FLASH-COST-011",
+      "original_source_path": "flashcards/deck-custos.md",
+      "original_question_number": 11,
+      "translated_target_path": "flashcards/costs-deck.md",
+      "reviewed_question_number": 11,
+      "original_answer": "Custo total: armazenamento, transferência de dados, licenças, suporte, tempo ocioso, recuperação e operação.",
+      "reviewed_answer": "Total cost: storage, data transfer, licenses, support, downtime, recovery, and operation.",
+      "official_domain": 4,
+      "correction_category": [
+        "open-response-reviewed"
+      ],
+      "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
+      "official_aws_reference_url": "https://aws.amazon.com/what-is-cloud-computing/",
+      "qa_status": "reviewed",
+      "question_type": "open-response"
+    },
+    {
+      "stable_question_id": "CLF-FLASH-COST-012",
+      "original_source_path": "flashcards/deck-custos.md",
+      "original_question_number": 12,
+      "translated_target_path": "flashcards/costs-deck.md",
+      "reviewed_question_number": 12,
+      "original_answer": "Configurar Budgets com alertas e revisar Cost Explorer de forma recorrente, principalmente após criar novos recursos.",
+      "reviewed_answer": "Configure Budgets with alerts and review Cost Explorer on a recurring basis, especially after creating new resources.",
+      "official_domain": 4,
+      "correction_category": [
+        "open-response-reviewed"
+      ],
+      "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
+      "official_aws_reference_url": "https://docs.aws.amazon.com/cost-management/latest/userguide/budgets-managing-costs.html",
+      "qa_status": "reviewed",
+      "question_type": "open-response"
+    },
+    {
+      "stable_question_id": "CLF-QUICK-001",
+      "original_source_path": "quick-review/README.md",
+      "original_question_number": 1,
+      "translated_target_path": "quick-review/README.md",
+      "reviewed_question_number": 1,
+      "original_answer": "A",
+      "reviewed_answer": "A",
+      "official_domain": 1,
+      "correction_category": [
+        "expanded-option-explanations"
+      ],
+      "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
+      "official_aws_reference_url": "https://docs.aws.amazon.com/wellarchitected/latest/framework/rel_fault_isolation_multiaz_region_system.html",
+      "qa_status": "reviewed",
+      "question_type": "single-answer"
+    },
+    {
+      "stable_question_id": "CLF-QUICK-002",
+      "original_source_path": "quick-review/README.md",
+      "original_question_number": 2,
+      "translated_target_path": "quick-review/README.md",
+      "reviewed_question_number": 2,
+      "original_answer": "A",
+      "reviewed_answer": "A",
+      "official_domain": 2,
+      "correction_category": [
+        "expanded-option-explanations"
+      ],
+      "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
+      "official_aws_reference_url": "https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html",
+      "qa_status": "reviewed",
+      "question_type": "single-answer"
+    },
+    {
+      "stable_question_id": "CLF-QUICK-003",
+      "original_source_path": "quick-review/README.md",
+      "original_question_number": 3,
+      "translated_target_path": "quick-review/README.md",
+      "reviewed_question_number": 3,
+      "original_answer": "A",
+      "reviewed_answer": "A",
+      "official_domain": 3,
+      "correction_category": [
+        "expanded-option-explanations"
+      ],
+      "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
+      "official_aws_reference_url": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage-class-intro.html",
+      "qa_status": "reviewed",
+      "question_type": "single-answer"
+    },
+    {
+      "stable_question_id": "CLF-QUICK-004",
+      "original_source_path": "quick-review/README.md",
+      "original_question_number": 4,
+      "translated_target_path": "quick-review/README.md",
+      "reviewed_question_number": 4,
+      "original_answer": "A",
+      "reviewed_answer": "A",
+      "official_domain": 4,
+      "correction_category": [
+        "expanded-option-explanations"
+      ],
+      "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
+      "official_aws_reference_url": "https://docs.aws.amazon.com/pricing-calculator/latest/userguide/what-is-pricing-calculator.html",
+      "qa_status": "reviewed",
+      "question_type": "single-answer"
+    },
+    {
+      "stable_question_id": "CLF-NOTE-001",
+      "original_source_path": "notes/fundamentos-aws.md",
+      "original_question_number": 1,
+      "translated_target_path": "notes/aws-fundamentals.md",
+      "reviewed_question_number": 1,
+      "original_answer": "Agilidade com autoatendimento sob demanda.",
+      "reviewed_answer": "Agility with self-service on demand.",
+      "official_domain": 1,
+      "correction_category": [
+        "open-response-reviewed"
+      ],
+      "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
+      "official_aws_reference_url": "https://aws.amazon.com/what-is-cloud-computing/",
+      "qa_status": "reviewed",
+      "question_type": "open-response"
+    },
+    {
+      "stable_question_id": "CLF-NOTE-002",
+      "original_source_path": "notes/seguranca-essencial.md",
+      "original_question_number": 1,
+      "translated_target_path": "notes/security-essentials.md",
+      "reviewed_question_number": 1,
+      "original_answer": "IAM Role com permissões mínimas para a tarefa.",
+      "reviewed_answer": "IAM Role with least-privilege permissions for the task.",
+      "official_domain": 2,
+      "correction_category": [
+        "open-response-reviewed"
+      ],
+      "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
+      "official_aws_reference_url": "https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html",
+      "qa_status": "reviewed",
+      "question_type": "open-response"
+    },
+    {
+      "stable_question_id": "CLF-NOTE-003",
+      "original_source_path": "notes/s3-essencial.md",
+      "original_question_number": 1,
+      "translated_target_path": "notes/s3-essentials.md",
+      "reviewed_question_number": 1,
+      "original_answer": "S3 Lifecycle.",
+      "reviewed_answer": "S3 Lifecycle.",
+      "official_domain": 3,
+      "correction_category": [
+        "open-response-reviewed"
+      ],
+      "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
+      "official_aws_reference_url": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage-class-intro.html",
+      "qa_status": "reviewed",
+      "question_type": "open-response"
+    },
+    {
+      "stable_question_id": "CLF-NOTE-004",
+      "original_source_path": "notes/custos-e-suporte.md",
+      "original_question_number": 1,
+      "translated_target_path": "notes/costs-and-support.md",
+      "reviewed_question_number": 1,
+      "original_answer": "AWS Pricing Calculator.",
+      "reviewed_answer": "AWS Pricing Calculator.",
+      "official_domain": 4,
+      "correction_category": [
+        "open-response-reviewed"
+      ],
+      "explanation_of_correction": "Reviewed the original prompt and answer; corrected terminology, qualifications, or explanation where needed and added a primary AWS reference.",
+      "official_aws_reference_url": "https://docs.aws.amazon.com/pricing-calculator/latest/userguide/what-is-pricing-calculator.html",
+      "qa_status": "reviewed",
+      "question_type": "open-response"
+    }
+  ],
+  "orphaned_historical_answer_entries": [
+    {
+      "original_source_path": "16-Simulados-e-Questoes/gabaritos/gabarito-dominio-1.md",
+      "question_number": 7,
+      "historical_answer": "C",
+      "reason": "No corresponding source question; removed from active answer key, retained here as historical evidence."
+    },
+    {
+      "original_source_path": "16-Simulados-e-Questoes/gabaritos/gabarito-dominio-1.md",
+      "question_number": 8,
+      "historical_answer": "A",
+      "reason": "No corresponding source question; removed from active answer key, retained here as historical evidence."
+    },
+    {
+      "original_source_path": "16-Simulados-e-Questoes/gabaritos/gabarito-dominio-1.md",
+      "question_number": 9,
+      "historical_answer": "B",
+      "reason": "No corresponding source question; removed from active answer key, retained here as historical evidence."
+    },
+    {
+      "original_source_path": "16-Simulados-e-Questoes/gabaritos/gabarito-dominio-1.md",
+      "question_number": 10,
+      "historical_answer": "C",
+      "reason": "No corresponding source question; removed from active answer key, retained here as historical evidence."
+    },
+    {
+      "original_source_path": "16-Simulados-e-Questoes/gabaritos/gabarito-dominio-2.md",
+      "question_number": 7,
+      "historical_answer": "B",
+      "reason": "No corresponding source question; removed from active answer key, retained here as historical evidence."
+    },
+    {
+      "original_source_path": "16-Simulados-e-Questoes/gabaritos/gabarito-dominio-2.md",
+      "question_number": 8,
+      "historical_answer": "A",
+      "reason": "No corresponding source question; removed from active answer key, retained here as historical evidence."
+    },
+    {
+      "original_source_path": "16-Simulados-e-Questoes/gabaritos/gabarito-dominio-2.md",
+      "question_number": 9,
+      "historical_answer": "B",
+      "reason": "No corresponding source question; removed from active answer key, retained here as historical evidence."
+    },
+    {
+      "original_source_path": "16-Simulados-e-Questoes/gabaritos/gabarito-dominio-2.md",
+      "question_number": 10,
+      "historical_answer": "B",
+      "reason": "No corresponding source question; removed from active answer key, retained here as historical evidence."
+    },
+    {
+      "original_source_path": "16-Simulados-e-Questoes/gabaritos/gabarito-dominio-3.md",
+      "question_number": 7,
+      "historical_answer": "C",
+      "reason": "No corresponding source question; removed from active answer key, retained here as historical evidence."
+    },
+    {
+      "original_source_path": "16-Simulados-e-Questoes/gabaritos/gabarito-dominio-3.md",
+      "question_number": 8,
+      "historical_answer": "B",
+      "reason": "No corresponding source question; removed from active answer key, retained here as historical evidence."
+    },
+    {
+      "original_source_path": "16-Simulados-e-Questoes/gabaritos/gabarito-dominio-3.md",
+      "question_number": 9,
+      "historical_answer": "A",
+      "reason": "No corresponding source question; removed from active answer key, retained here as historical evidence."
+    },
+    {
+      "original_source_path": "16-Simulados-e-Questoes/gabaritos/gabarito-dominio-3.md",
+      "question_number": 10,
+      "historical_answer": "C",
+      "reason": "No corresponding source question; removed from active answer key, retained here as historical evidence."
+    },
+    {
+      "original_source_path": "16-Simulados-e-Questoes/gabaritos/gabarito-dominio-4.md",
+      "question_number": 7,
+      "historical_answer": "B",
+      "reason": "No corresponding source question; removed from active answer key, retained here as historical evidence."
+    },
+    {
+      "original_source_path": "16-Simulados-e-Questoes/gabaritos/gabarito-dominio-4.md",
+      "question_number": 8,
+      "historical_answer": "A",
+      "reason": "No corresponding source question; removed from active answer key, retained here as historical evidence."
+    },
+    {
+      "original_source_path": "16-Simulados-e-Questoes/gabaritos/gabarito-dominio-4.md",
+      "question_number": 9,
+      "historical_answer": "A",
+      "reason": "No corresponding source question; removed from active answer key, retained here as historical evidence."
+    },
+    {
+      "original_source_path": "16-Simulados-e-Questoes/gabaritos/gabarito-dominio-4.md",
+      "question_number": 10,
+      "historical_answer": "A",
+      "reason": "No corresponding source question; removed from active answer key, retained here as historical evidence."
+    },
+    {
+      "original_source_path": "16-Simulados-e-Questoes/gabaritos/gabarito-simulado-completo.md",
+      "question_number": 11,
+      "historical_answer": "B",
+      "reason": "No corresponding source question; removed from active answer key, retained here as historical evidence."
+    },
+    {
+      "original_source_path": "16-Simulados-e-Questoes/gabaritos/gabarito-simulado-completo.md",
+      "question_number": 12,
+      "historical_answer": "A",
+      "reason": "No corresponding source question; removed from active answer key, retained here as historical evidence."
+    },
+    {
+      "original_source_path": "16-Simulados-e-Questoes/gabaritos/gabarito-simulado-completo.md",
+      "question_number": 13,
+      "historical_answer": "B",
+      "reason": "No corresponding source question; removed from active answer key, retained here as historical evidence."
+    },
+    {
+      "original_source_path": "16-Simulados-e-Questoes/gabaritos/gabarito-simulado-completo.md",
+      "question_number": 14,
+      "historical_answer": "B",
+      "reason": "No corresponding source question; removed from active answer key, retained here as historical evidence."
+    },
+    {
+      "original_source_path": "16-Simulados-e-Questoes/gabaritos/gabarito-simulado-completo.md",
+      "question_number": 15,
+      "historical_answer": "A",
+      "reason": "No corresponding source question; removed from active answer key, retained here as historical evidence."
+    },
+    {
+      "original_source_path": "16-Simulados-e-Questoes/gabaritos/gabarito-simulado-completo.md",
+      "question_number": 16,
+      "historical_answer": "A",
+      "reason": "No corresponding source question; removed from active answer key, retained here as historical evidence."
+    },
+    {
+      "original_source_path": "16-Simulados-e-Questoes/gabaritos/gabarito-simulado-completo.md",
+      "question_number": 17,
+      "historical_answer": "B",
+      "reason": "No corresponding source question; removed from active answer key, retained here as historical evidence."
+    },
+    {
+      "original_source_path": "16-Simulados-e-Questoes/gabaritos/gabarito-simulado-completo.md",
+      "question_number": 18,
+      "historical_answer": "A",
+      "reason": "No corresponding source question; removed from active answer key, retained here as historical evidence."
+    },
+    {
+      "original_source_path": "16-Simulados-e-Questoes/gabaritos/gabarito-simulado-completo.md",
+      "question_number": 19,
+      "historical_answer": "A",
+      "reason": "No corresponding source question; removed from active answer key, retained here as historical evidence."
+    },
+    {
+      "original_source_path": "16-Simulados-e-Questoes/gabaritos/gabarito-simulado-completo.md",
+      "question_number": 20,
+      "historical_answer": "C",
+      "reason": "No corresponding source question; removed from active answer key, retained here as historical evidence."
+    },
+    {
+      "original_source_path": "16-Simulados-e-Questoes/gabaritos/gabarito-simulado-completo.md",
+      "question_number": 21,
+      "historical_answer": "A",
+      "reason": "No corresponding source question; removed from active answer key, retained here as historical evidence."
+    },
+    {
+      "original_source_path": "16-Simulados-e-Questoes/gabaritos/gabarito-simulado-completo.md",
+      "question_number": 22,
+      "historical_answer": "A",
+      "reason": "No corresponding source question; removed from active answer key, retained here as historical evidence."
+    },
+    {
+      "original_source_path": "16-Simulados-e-Questoes/gabaritos/gabarito-simulado-completo.md",
+      "question_number": 23,
+      "historical_answer": "A",
+      "reason": "No corresponding source question; removed from active answer key, retained here as historical evidence."
+    },
+    {
+      "original_source_path": "16-Simulados-e-Questoes/gabaritos/gabarito-simulado-completo.md",
+      "question_number": 24,
+      "historical_answer": "B",
+      "reason": "No corresponding source question; removed from active answer key, retained here as historical evidence."
+    },
+    {
+      "original_source_path": "16-Simulados-e-Questoes/gabaritos/gabarito-simulado-completo.md",
+      "question_number": 25,
+      "historical_answer": "B",
+      "reason": "No corresponding source question; removed from active answer key, retained here as historical evidence."
+    },
+    {
+      "original_source_path": "16-Simulados-e-Questoes/gabaritos/gabarito-simulado-completo.md",
+      "question_number": 26,
+      "historical_answer": "B",
+      "reason": "No corresponding source question; removed from active answer key, retained here as historical evidence."
+    },
+    {
+      "original_source_path": "16-Simulados-e-Questoes/gabaritos/gabarito-simulado-completo.md",
+      "question_number": 27,
+      "historical_answer": "A",
+      "reason": "No corresponding source question; removed from active answer key, retained here as historical evidence."
+    },
+    {
+      "original_source_path": "16-Simulados-e-Questoes/gabaritos/gabarito-simulado-completo.md",
+      "question_number": 28,
+      "historical_answer": "A",
+      "reason": "No corresponding source question; removed from active answer key, retained here as historical evidence."
+    },
+    {
+      "original_source_path": "16-Simulados-e-Questoes/gabaritos/gabarito-simulado-completo.md",
+      "question_number": 29,
+      "historical_answer": "B",
+      "reason": "No corresponding source question; removed from active answer key, retained here as historical evidence."
+    },
+    {
+      "original_source_path": "16-Simulados-e-Questoes/gabaritos/gabarito-simulado-completo.md",
+      "question_number": 30,
+      "historical_answer": "C",
+      "reason": "No corresponding source question; removed from active answer key, retained here as historical evidence."
+    },
+    {
+      "original_source_path": "16-Simulados-e-Questoes/gabaritos/gabarito-simulado-completo.md",
+      "question_number": 31,
+      "historical_answer": "B",
+      "reason": "No corresponding source question; removed from active answer key, retained here as historical evidence."
+    },
+    {
+      "original_source_path": "16-Simulados-e-Questoes/gabaritos/gabarito-simulado-completo.md",
+      "question_number": 32,
+      "historical_answer": "B",
+      "reason": "No corresponding source question; removed from active answer key, retained here as historical evidence."
+    },
+    {
+      "original_source_path": "16-Simulados-e-Questoes/gabaritos/gabarito-simulado-completo.md",
+      "question_number": 33,
+      "historical_answer": "A",
+      "reason": "No corresponding source question; removed from active answer key, retained here as historical evidence."
+    },
+    {
+      "original_source_path": "16-Simulados-e-Questoes/gabaritos/gabarito-simulado-completo.md",
+      "question_number": 34,
+      "historical_answer": "B",
+      "reason": "No corresponding source question; removed from active answer key, retained here as historical evidence."
+    },
+    {
+      "original_source_path": "16-Simulados-e-Questoes/gabaritos/gabarito-simulado-completo.md",
+      "question_number": 35,
+      "historical_answer": "A",
+      "reason": "No corresponding source question; removed from active answer key, retained here as historical evidence."
+    },
+    {
+      "original_source_path": "16-Simulados-e-Questoes/gabaritos/gabarito-simulado-completo.md",
+      "question_number": 36,
+      "historical_answer": "B",
+      "reason": "No corresponding source question; removed from active answer key, retained here as historical evidence."
+    },
+    {
+      "original_source_path": "16-Simulados-e-Questoes/gabaritos/gabarito-simulado-completo.md",
+      "question_number": 37,
+      "historical_answer": "A",
+      "reason": "No corresponding source question; removed from active answer key, retained here as historical evidence."
+    },
+    {
+      "original_source_path": "16-Simulados-e-Questoes/gabaritos/gabarito-simulado-completo.md",
+      "question_number": 38,
+      "historical_answer": "A",
+      "reason": "No corresponding source question; removed from active answer key, retained here as historical evidence."
+    },
+    {
+      "original_source_path": "16-Simulados-e-Questoes/gabaritos/gabarito-simulado-completo.md",
+      "question_number": 39,
+      "historical_answer": "A",
+      "reason": "No corresponding source question; removed from active answer key, retained here as historical evidence."
+    },
+    {
+      "original_source_path": "16-Simulados-e-Questoes/gabaritos/gabarito-simulado-completo.md",
+      "question_number": 40,
+      "historical_answer": "A",
+      "reason": "No corresponding source question; removed from active answer key, retained here as historical evidence."
+    },
+    {
+      "original_source_path": "16-Simulados-e-Questoes/gabaritos/gabarito-simulado-completo.md",
+      "question_number": 41,
+      "historical_answer": "A",
+      "reason": "No corresponding source question; removed from active answer key, retained here as historical evidence."
+    },
+    {
+      "original_source_path": "16-Simulados-e-Questoes/gabaritos/gabarito-simulado-completo.md",
+      "question_number": 42,
+      "historical_answer": "A",
+      "reason": "No corresponding source question; removed from active answer key, retained here as historical evidence."
+    },
+    {
+      "original_source_path": "16-Simulados-e-Questoes/gabaritos/gabarito-simulado-completo.md",
+      "question_number": 43,
+      "historical_answer": "A",
+      "reason": "No corresponding source question; removed from active answer key, retained here as historical evidence."
+    },
+    {
+      "original_source_path": "16-Simulados-e-Questoes/gabaritos/gabarito-simulado-completo.md",
+      "question_number": 44,
+      "historical_answer": "A",
+      "reason": "No corresponding source question; removed from active answer key, retained here as historical evidence."
+    },
+    {
+      "original_source_path": "16-Simulados-e-Questoes/gabaritos/gabarito-simulado-completo.md",
+      "question_number": 45,
+      "historical_answer": "A",
+      "reason": "No corresponding source question; removed from active answer key, retained here as historical evidence."
+    },
+    {
+      "original_source_path": "16-Simulados-e-Questoes/gabaritos/gabarito-simulado-completo.md",
+      "question_number": 46,
+      "historical_answer": "A",
+      "reason": "No corresponding source question; removed from active answer key, retained here as historical evidence."
+    },
+    {
+      "original_source_path": "16-Simulados-e-Questoes/gabaritos/gabarito-simulado-completo.md",
+      "question_number": 47,
+      "historical_answer": "A",
+      "reason": "No corresponding source question; removed from active answer key, retained here as historical evidence."
+    },
+    {
+      "original_source_path": "16-Simulados-e-Questoes/gabaritos/gabarito-simulado-completo.md",
+      "question_number": 48,
+      "historical_answer": "A",
+      "reason": "No corresponding source question; removed from active answer key, retained here as historical evidence."
+    },
+    {
+      "original_source_path": "16-Simulados-e-Questoes/gabaritos/gabarito-simulado-completo.md",
+      "question_number": 49,
+      "historical_answer": "A",
+      "reason": "No corresponding source question; removed from active answer key, retained here as historical evidence."
+    },
+    {
+      "original_source_path": "16-Simulados-e-Questoes/gabaritos/gabarito-simulado-completo.md",
+      "question_number": 50,
+      "historical_answer": "A",
+      "reason": "No corresponding source question; removed from active answer key, retained here as historical evidence."
+    },
+    {
+      "original_source_path": "16-Simulados-e-Questoes/gabaritos/gabarito-simulado-completo.md",
+      "question_number": 51,
+      "historical_answer": "A",
+      "reason": "No corresponding source question; removed from active answer key, retained here as historical evidence."
+    },
+    {
+      "original_source_path": "16-Simulados-e-Questoes/gabaritos/gabarito-simulado-completo.md",
+      "question_number": 52,
+      "historical_answer": "C",
+      "reason": "No corresponding source question; removed from active answer key, retained here as historical evidence."
+    },
+    {
+      "original_source_path": "16-Simulados-e-Questoes/gabaritos/gabarito-simulado-completo.md",
+      "question_number": 53,
+      "historical_answer": "C",
+      "reason": "No corresponding source question; removed from active answer key, retained here as historical evidence."
+    },
+    {
+      "original_source_path": "16-Simulados-e-Questoes/gabaritos/gabarito-simulado-completo.md",
+      "question_number": 54,
+      "historical_answer": "A",
+      "reason": "No corresponding source question; removed from active answer key, retained here as historical evidence."
+    },
+    {
+      "original_source_path": "16-Simulados-e-Questoes/gabaritos/gabarito-simulado-completo.md",
+      "question_number": 55,
+      "historical_answer": "A",
+      "reason": "No corresponding source question; removed from active answer key, retained here as historical evidence."
+    },
+    {
+      "original_source_path": "16-Simulados-e-Questoes/gabaritos/gabarito-simulado-completo.md",
+      "question_number": 56,
+      "historical_answer": "A",
+      "reason": "No corresponding source question; removed from active answer key, retained here as historical evidence."
+    },
+    {
+      "original_source_path": "16-Simulados-e-Questoes/gabaritos/gabarito-simulado-completo.md",
+      "question_number": 57,
+      "historical_answer": "A",
+      "reason": "No corresponding source question; removed from active answer key, retained here as historical evidence."
+    },
+    {
+      "original_source_path": "16-Simulados-e-Questoes/gabaritos/gabarito-simulado-completo.md",
+      "question_number": 58,
+      "historical_answer": "A",
+      "reason": "No corresponding source question; removed from active answer key, retained here as historical evidence."
+    },
+    {
+      "original_source_path": "16-Simulados-e-Questoes/gabaritos/gabarito-simulado-completo.md",
+      "question_number": 59,
+      "historical_answer": "A",
+      "reason": "No corresponding source question; removed from active answer key, retained here as historical evidence."
+    },
+    {
+      "original_source_path": "16-Simulados-e-Questoes/gabaritos/gabarito-simulado-completo.md",
+      "question_number": 60,
+      "historical_answer": "A",
+      "reason": "No corresponding source question; removed from active answer key, retained here as historical evidence."
+    },
+    {
+      "original_source_path": "16-Simulados-e-Questoes/gabaritos/gabarito-simulado-completo.md",
+      "question_number": 61,
+      "historical_answer": "A",
+      "reason": "No corresponding source question; removed from active answer key, retained here as historical evidence."
+    },
+    {
+      "original_source_path": "16-Simulados-e-Questoes/gabaritos/gabarito-simulado-completo.md",
+      "question_number": 62,
+      "historical_answer": "A",
+      "reason": "No corresponding source question; removed from active answer key, retained here as historical evidence."
+    },
+    {
+      "original_source_path": "16-Simulados-e-Questoes/gabaritos/gabarito-simulado-completo.md",
+      "question_number": 63,
+      "historical_answer": "A",
+      "reason": "No corresponding source question; removed from active answer key, retained here as historical evidence."
+    },
+    {
+      "original_source_path": "16-Simulados-e-Questoes/gabaritos/gabarito-simulado-completo.md",
+      "question_number": 64,
+      "historical_answer": "B",
+      "reason": "No corresponding source question; removed from active answer key, retained here as historical evidence."
+    },
+    {
+      "original_source_path": "16-Simulados-e-Questoes/gabaritos/gabarito-simulado-completo.md",
+      "question_number": 65,
+      "historical_answer": "A",
+      "reason": "No corresponding source question; removed from active answer key, retained here as historical evidence."
+    }
+  ],
+  "module_16_question_count": 40,
+  "multiple_choice_count": 44,
+  "open_response_count": 52
+}

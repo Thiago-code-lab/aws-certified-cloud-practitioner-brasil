@@ -1,0 +1,1087 @@
+{
+  "status": "passed",
+  "browser": "Chromium via Playwright",
+  "method": "Real local HTTP server; Markdown rendered by markdown-it-py for preview; external resources were not mocked.",
+  "layouts": [
+    {
+      "name": "desktop",
+      "width": 1440,
+      "height": 1000,
+      "horizontal_overflow": false,
+      "module_links": 18,
+      "status": "passed"
+    },
+    {
+      "name": "tablet",
+      "width": 768,
+      "height": 1024,
+      "horizontal_overflow": false,
+      "module_links": 18,
+      "status": "passed"
+    },
+    {
+      "name": "mobile",
+      "width": 390,
+      "height": 844,
+      "horizontal_overflow": false,
+      "module_links": 18,
+      "status": "passed"
+    }
+  ],
+  "markdown_documents_rendered": 172,
+  "markdown_results": [
+    {
+      "path": ".github/CODE_OF_CONDUCT.md",
+      "headings": 1,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": ".github/CONTRIBUTING.md",
+      "headings": 1,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": ".github/ISSUE_TEMPLATE/bug_report.md",
+      "headings": 2,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": ".github/ISSUE_TEMPLATE/feature_request.md",
+      "headings": 2,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "01-Introduction-to-Cloud-Computing/01-what-is-cloud-computing.md",
+      "headings": 3,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "01-Introduction-to-Cloud-Computing/02-service-models.md",
+      "headings": 3,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "01-Introduction-to-Cloud-Computing/03-deployment-models.md",
+      "headings": 3,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "01-Introduction-to-Cloud-Computing/04-regions-and-availability-zones.md",
+      "headings": 3,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "01-Introduction-to-Cloud-Computing/05-benefits-of-cloud-computing.md",
+      "headings": 3,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "01-Introduction-to-Cloud-Computing/README.md",
+      "headings": 10,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "02-Amazon-EC2/01-instance-types.md",
+      "headings": 3,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "02-Amazon-EC2/02-pricing-models.md",
+      "headings": 3,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "02-Amazon-EC2/03-auto-scaling.md",
+      "headings": 3,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "02-Amazon-EC2/04-elastic-load-balancing.md",
+      "headings": 3,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "02-Amazon-EC2/05-user-data-and-metadata.md",
+      "headings": 3,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "02-Amazon-EC2/README.md",
+      "headings": 10,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "03-Security-and-Compliance/01-shared-responsibility-model.md",
+      "headings": 3,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "03-Security-and-Compliance/02-iam.md",
+      "headings": 3,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "03-Security-and-Compliance/03-aws-organizations.md",
+      "headings": 3,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "03-Security-and-Compliance/04-aws-shield-and-waf.md",
+      "headings": 3,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "03-Security-and-Compliance/05-amazon-inspector-and-guardduty.md",
+      "headings": 3,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "03-Security-and-Compliance/06-aws-kms-and-secrets-manager.md",
+      "headings": 3,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "03-Security-and-Compliance/07-aws-config.md",
+      "headings": 3,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "03-Security-and-Compliance/08-aws-cloudtrail.md",
+      "headings": 3,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "03-Security-and-Compliance/09-aws-artifact.md",
+      "headings": 3,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "03-Security-and-Compliance/10-compliance-programs.md",
+      "headings": 3,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "03-Security-and-Compliance/README.md",
+      "headings": 10,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "04-Amazon-S3/01-basic-concepts.md",
+      "headings": 4,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "04-Amazon-S3/02-storage-classes.md",
+      "headings": 3,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "04-Amazon-S3/03-policies-and-acls.md",
+      "headings": 4,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "04-Amazon-S3/04-versioning-and-lifecycle.md",
+      "headings": 3,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "04-Amazon-S3/05-s3-transfer-acceleration.md",
+      "headings": 3,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "04-Amazon-S3/06-static-website.md",
+      "headings": 4,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "04-Amazon-S3/README.md",
+      "headings": 10,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "05-Networking-and-Connectivity/01-vpc-fundamentals.md",
+      "headings": 3,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "05-Networking-and-Connectivity/02-public-and-private-subnets.md",
+      "headings": 3,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "05-Networking-and-Connectivity/03-internet-gateway-and-nat.md",
+      "headings": 3,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "05-Networking-and-Connectivity/04-security-groups-and-network-acls.md",
+      "headings": 3,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "05-Networking-and-Connectivity/05-vpc-peering-and-transit-gateway.md",
+      "headings": 3,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "05-Networking-and-Connectivity/06-direct-connect-and-vpn.md",
+      "headings": 4,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "05-Networking-and-Connectivity/07-route-53.md",
+      "headings": 3,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "05-Networking-and-Connectivity/README.md",
+      "headings": 10,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "06-Databases/01-rds.md",
+      "headings": 4,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "06-Databases/02-aurora.md",
+      "headings": 3,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "06-Databases/03-dynamodb.md",
+      "headings": 3,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "06-Databases/04-elasticache.md",
+      "headings": 3,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "06-Databases/05-redshift.md",
+      "headings": 3,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "06-Databases/06-documentdb-and-neptune.md",
+      "headings": 3,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "06-Databases/07-database-migration-service.md",
+      "headings": 3,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "06-Databases/README.md",
+      "headings": 10,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "07-Serverless-Computing/01-aws-lambda.md",
+      "headings": 3,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "07-Serverless-Computing/02-api-gateway.md",
+      "headings": 3,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "07-Serverless-Computing/03-aws-fargate.md",
+      "headings": 3,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "07-Serverless-Computing/04-amazon-ecs-and-eks.md",
+      "headings": 3,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "07-Serverless-Computing/05-aws-step-functions.md",
+      "headings": 3,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "07-Serverless-Computing/06-amazon-eventbridge.md",
+      "headings": 3,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "07-Serverless-Computing/README.md",
+      "headings": 10,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "08-Storage/01-ebs.md",
+      "headings": 4,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "08-Storage/02-efs.md",
+      "headings": 4,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "08-Storage/03-fsx.md",
+      "headings": 3,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "08-Storage/04-aws-storage-gateway.md",
+      "headings": 3,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "08-Storage/05-aws-snow-family.md",
+      "headings": 4,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "08-Storage/06-aws-backup.md",
+      "headings": 3,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "08-Storage/README.md",
+      "headings": 10,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "09-Monitoring-and-Governance/01-cloudwatch.md",
+      "headings": 3,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "09-Monitoring-and-Governance/02-cloudtrail.md",
+      "headings": 3,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "09-Monitoring-and-Governance/03-aws-config.md",
+      "headings": 3,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "09-Monitoring-and-Governance/04-aws-trusted-advisor.md",
+      "headings": 3,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "09-Monitoring-and-Governance/05-aws-health-dashboard.md",
+      "headings": 3,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "09-Monitoring-and-Governance/06-aws-systems-manager.md",
+      "headings": 3,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "09-Monitoring-and-Governance/07-aws-compute-optimizer.md",
+      "headings": 3,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "09-Monitoring-and-Governance/README.md",
+      "headings": 10,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "10-Pricing-and-Support/01-aws-pricing-model.md",
+      "headings": 3,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "10-Pricing-and-Support/02-aws-free-tier.md",
+      "headings": 4,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "10-Pricing-and-Support/03-aws-pricing-calculator.md",
+      "headings": 3,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "10-Pricing-and-Support/04-aws-cost-explorer.md",
+      "headings": 3,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "10-Pricing-and-Support/05-aws-budgets.md",
+      "headings": 3,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "10-Pricing-and-Support/06-support-plans.md",
+      "headings": 4,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "10-Pricing-and-Support/07-aws-marketplace.md",
+      "headings": 3,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "10-Pricing-and-Support/08-aws-billing-dashboard.md",
+      "headings": 3,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "10-Pricing-and-Support/README.md",
+      "headings": 10,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "11-Migration-and-Innovation/01-migration-strategies.md",
+      "headings": 3,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "11-Migration-and-Innovation/02-aws-migration-hub.md",
+      "headings": 4,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "11-Migration-and-Innovation/03-aws-dms.md",
+      "headings": 3,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "11-Migration-and-Innovation/04-aws-application-discovery.md",
+      "headings": 4,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "11-Migration-and-Innovation/05-aws-mainframe-modernization.md",
+      "headings": 4,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "11-Migration-and-Innovation/06-aws-datasync.md",
+      "headings": 3,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "11-Migration-and-Innovation/README.md",
+      "headings": 10,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "12-CAF-Cloud-Adoption-Framework/01-caf-overview.md",
+      "headings": 3,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "12-CAF-Cloud-Adoption-Framework/02-business-perspective.md",
+      "headings": 3,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "12-CAF-Cloud-Adoption-Framework/03-people-perspective.md",
+      "headings": 3,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "12-CAF-Cloud-Adoption-Framework/04-governance-perspective.md",
+      "headings": 3,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "12-CAF-Cloud-Adoption-Framework/05-platform-perspective.md",
+      "headings": 3,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "12-CAF-Cloud-Adoption-Framework/06-security-perspective.md",
+      "headings": 3,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "12-CAF-Cloud-Adoption-Framework/07-operations-perspective.md",
+      "headings": 3,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "12-CAF-Cloud-Adoption-Framework/08-transformation-outcomes.md",
+      "headings": 3,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "12-CAF-Cloud-Adoption-Framework/README.md",
+      "headings": 10,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "13-Well-Architected-Framework/01-operational-excellence-pillar.md",
+      "headings": 3,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "13-Well-Architected-Framework/02-security-pillar.md",
+      "headings": 3,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "13-Well-Architected-Framework/03-reliability-pillar.md",
+      "headings": 3,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "13-Well-Architected-Framework/04-performance-efficiency-pillar.md",
+      "headings": 3,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "13-Well-Architected-Framework/05-cost-optimization-pillar.md",
+      "headings": 3,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "13-Well-Architected-Framework/06-sustainability-pillar.md",
+      "headings": 3,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "13-Well-Architected-Framework/07-specialized-lenses.md",
+      "headings": 3,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "13-Well-Architected-Framework/README.md",
+      "headings": 10,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "14-Artificial-Intelligence-and-ML/01-amazon-sagemaker.md",
+      "headings": 4,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "14-Artificial-Intelligence-and-ML/02-amazon-rekognition.md",
+      "headings": 3,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "14-Artificial-Intelligence-and-ML/03-amazon-comprehend.md",
+      "headings": 3,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "14-Artificial-Intelligence-and-ML/04-amazon-polly-and-transcribe.md",
+      "headings": 3,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "14-Artificial-Intelligence-and-ML/05-amazon-lex.md",
+      "headings": 3,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "14-Artificial-Intelligence-and-ML/06-amazon-kendra.md",
+      "headings": 4,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "14-Artificial-Intelligence-and-ML/07-amazon-bedrock.md",
+      "headings": 4,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "14-Artificial-Intelligence-and-ML/08-amazon-q.md",
+      "headings": 3,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "14-Artificial-Intelligence-and-ML/README.md",
+      "headings": 10,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "15-Developer-Services/01-aws-codecommit.md",
+      "headings": 4,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "15-Developer-Services/02-aws-codebuild.md",
+      "headings": 3,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "15-Developer-Services/03-aws-codedeploy.md",
+      "headings": 4,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "15-Developer-Services/04-aws-codepipeline.md",
+      "headings": 3,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "15-Developer-Services/05-aws-cdk-and-cloudformation.md",
+      "headings": 3,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "15-Developer-Services/06-aws-sam.md",
+      "headings": 4,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "15-Developer-Services/07-aws-amplify.md",
+      "headings": 3,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "15-Developer-Services/08-aws-x-ray.md",
+      "headings": 4,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "15-Developer-Services/README.md",
+      "headings": 10,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "16-Practice-Exams-and-Questions/01-domain-1-questions.md",
+      "headings": 8,
+      "details": 5,
+      "status": "passed"
+    },
+    {
+      "path": "16-Practice-Exams-and-Questions/02-domain-2-questions.md",
+      "headings": 9,
+      "details": 6,
+      "status": "passed"
+    },
+    {
+      "path": "16-Practice-Exams-and-Questions/03-domain-3-questions.md",
+      "headings": 10,
+      "details": 7,
+      "status": "passed"
+    },
+    {
+      "path": "16-Practice-Exams-and-Questions/04-domain-4-questions.md",
+      "headings": 9,
+      "details": 6,
+      "status": "passed"
+    },
+    {
+      "path": "16-Practice-Exams-and-Questions/cross-domain-review-questions.md",
+      "headings": 9,
+      "details": 6,
+      "status": "passed"
+    },
+    {
+      "path": "16-Practice-Exams-and-Questions/10-question-practice-exam.md",
+      "headings": 13,
+      "details": 10,
+      "status": "passed"
+    },
+    {
+      "path": "16-Practice-Exams-and-Questions/README.md",
+      "headings": 6,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "16-Practice-Exams-and-Questions/answer-keys/README.md",
+      "headings": 2,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "16-Practice-Exams-and-Questions/answer-keys/domain-1-answer-key.md",
+      "headings": 3,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "16-Practice-Exams-and-Questions/answer-keys/domain-2-answer-key.md",
+      "headings": 3,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "16-Practice-Exams-and-Questions/answer-keys/domain-3-answer-key.md",
+      "headings": 3,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "16-Practice-Exams-and-Questions/answer-keys/domain-4-answer-key.md",
+      "headings": 3,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "16-Practice-Exams-and-Questions/answer-keys/practice-exam-answer-key.md",
+      "headings": 3,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "17-Glossary/README.md",
+      "headings": 6,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "18-Resources-and-Links/README.md",
+      "headings": 5,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "README.md",
+      "headings": 10,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "assets/README.md",
+      "headings": 2,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "cheatsheets/README.md",
+      "headings": 4,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "cheatsheets/core-concepts.md",
+      "headings": 5,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "cheatsheets/iam.md",
+      "headings": 5,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "cheatsheets/pricing.md",
+      "headings": 5,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "cheatsheets/s3.md",
+      "headings": 5,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "diagrams/README.md",
+      "headings": 5,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "docs/README.md",
+      "headings": 1,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "docs/exam-guide.md",
+      "headings": 4,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "docs/next-steps.md",
+      "headings": 4,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "docs/study-flow.md",
+      "headings": 4,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "flashcards/README.md",
+      "headings": 5,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "flashcards/costs-deck.md",
+      "headings": 14,
+      "details": 12,
+      "status": "passed"
+    },
+    {
+      "path": "flashcards/fundamentals-deck.md",
+      "headings": 14,
+      "details": 12,
+      "status": "passed"
+    },
+    {
+      "path": "flashcards/s3-deck.md",
+      "headings": 14,
+      "details": 12,
+      "status": "passed"
+    },
+    {
+      "path": "flashcards/security-deck.md",
+      "headings": 14,
+      "details": 12,
+      "status": "passed"
+    },
+    {
+      "path": "labs/README.md",
+      "headings": 5,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "labs/lab-01-iam-setup.md",
+      "headings": 6,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "labs/lab-02-s3-static-website.md",
+      "headings": 6,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "labs/lab-03-basic-cloudwatch.md",
+      "headings": 6,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "notes/README.md",
+      "headings": 4,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "notes/costs-and-support.md",
+      "headings": 7,
+      "details": 1,
+      "status": "passed"
+    },
+    {
+      "path": "notes/aws-fundamentals.md",
+      "headings": 7,
+      "details": 1,
+      "status": "passed"
+    },
+    {
+      "path": "notes/s3-essentials.md",
+      "headings": 7,
+      "details": 1,
+      "status": "passed"
+    },
+    {
+      "path": "notes/security-essentials.md",
+      "headings": 7,
+      "details": 1,
+      "status": "passed"
+    },
+    {
+      "path": "quick-review/README.md",
+      "headings": 9,
+      "details": 4,
+      "status": "passed"
+    },
+    {
+      "path": "quick-review/storage.md",
+      "headings": 6,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "quick-review/exam-eve-checklist.md",
+      "headings": 7,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "quick-review/costs.md",
+      "headings": 6,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "quick-review/common-mistakes.md",
+      "headings": 7,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "quick-review/fundamentals.md",
+      "headings": 6,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "quick-review/security.md",
+      "headings": 6,
+      "details": 0,
+      "status": "passed"
+    },
+    {
+      "path": "quick-review/key-services.md",
+      "headings": 8,
+      "details": 0,
+      "status": "passed"
+    }
+  ],
+  "browser_errors": [],
+  "local_asset_failures": [],
+  "external_resource_failures": [
+    "net::ERR_ABORTED: https://img.shields.io/badge/EXPLORE_PLATFORM-CloudStudy-2563EB?style=for-the-badge&logo=amazonaws&logoColor=white",
+    "net::ERR_ABORTED: https://img.shields.io/badge/Udemy%20Course-A435F0?style=for-the-badge&logo=udemy&logoColor=white",
+    "net::ERR_ABORTED: https://img.shields.io/badge/CloudStudy%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white",
+    "net::ERR_ABORTED: https://img.shields.io/badge/%F0%9F%8C%90_CloudStudy-cloudstudy.com.br-2563EB?style=for-the-badge",
+    "net::ERR_ABORTED: https://img.shields.io/badge/Instagram-@cloudstudy.ai-E4405F?style=for-the-badge&logo=instagram&logoColor=white",
+    "net::ERR_ABORTED: https://img.shields.io/github/stars/Thiago-code-lab/aws-certified-cloud-practitioner-brasil?style=for-the-badge&label=Stars&color=2563eb",
+    "net::ERR_ABORTED: https://img.shields.io/github/forks/Thiago-code-lab/aws-certified-cloud-practitioner-brasil?style=for-the-badge&label=Forks&color=1d4ed8",
+    "net::ERR_ABORTED: https://img.shields.io/github/last-commit/Thiago-code-lab/aws-certified-cloud-practitioner-brasil?style=for-the-badge&label=Last%20commit&color=334155",
+    "net::ERR_ABORTED: https://img.shields.io/github/license/Thiago-code-lab/aws-certified-cloud-practitioner-brasil?style=for-the-badge&label=MIT&color=0f766e",
+    "net::ERR_ABORTED: https://img.shields.io/badge/Content-en--US-0284c7?style=for-the-badge&labelColor=0f172a",
+    "net::ERR_ABORTED: https://img.shields.io/badge/Open%20Source-Educational-1e40af?style=for-the-badge&labelColor=0f172a",
+    "net::ERR_ABORTED: https://img.shields.io/badge/Foundation-Cloud%20Journey-0f766e?style=for-the-badge&labelColor=0f172a"
+  ],
+  "screenshots_directory": "docs/english-edition/screenshots",
+  "limitations": [
+    "The preview renderer is not GitHub's production renderer.",
+    "No AWS lab resources were provisioned."
+  ]
+}

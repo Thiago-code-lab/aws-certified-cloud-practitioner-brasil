@@ -1,0 +1,2309 @@
+{
+  "source_commit": "a59548c0d73c9da1cb20e7314cf46f983088e97a",
+  "review_date": "2026-11-10",
+  "authoritative_exam_guide_version": "1.3",
+  "guide_publication_date": "2026-10-29",
+  "documents": [
+    {
+      "path": ".github/CODE_OF_CONDUCT.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [],
+      "status": "localization-and-editorial-review"
+    },
+    {
+      "path": ".github/CONTRIBUTING.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [],
+      "status": "localization-and-editorial-review"
+    },
+    {
+      "path": ".github/ISSUE_TEMPLATE/bug_report.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [],
+      "status": "localization-and-editorial-review"
+    },
+    {
+      "path": ".github/ISSUE_TEMPLATE/feature_request.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [],
+      "status": "localization-and-editorial-review"
+    },
+    {
+      "path": "01-Introduction-to-Cloud-Computing/01-what-is-cloud-computing.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://aws.amazon.com/what-is-cloud-computing/",
+        "https://docs.aws.amazon.com/global-infrastructure/latest/regions/aws-regions-availability-zones.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "01-Introduction-to-Cloud-Computing/02-service-models.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://aws.amazon.com/what-is-cloud-computing/",
+        "https://docs.aws.amazon.com/global-infrastructure/latest/regions/aws-regions-availability-zones.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "01-Introduction-to-Cloud-Computing/03-deployment-models.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://aws.amazon.com/what-is-cloud-computing/",
+        "https://docs.aws.amazon.com/global-infrastructure/latest/regions/aws-regions-availability-zones.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "01-Introduction-to-Cloud-Computing/04-regions-and-availability-zones.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://aws.amazon.com/what-is-cloud-computing/",
+        "https://docs.aws.amazon.com/global-infrastructure/latest/regions/aws-regions-availability-zones.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "01-Introduction-to-Cloud-Computing/05-benefits-of-cloud-computing.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://aws.amazon.com/what-is-cloud-computing/",
+        "https://docs.aws.amazon.com/global-infrastructure/latest/regions/aws-regions-availability-zones.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "01-Introduction-to-Cloud-Computing/README.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://aws.amazon.com/what-is-cloud-computing/",
+        "https://docs.aws.amazon.com/global-infrastructure/latest/regions/aws-regions-availability-zones.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "02-Amazon-EC2/01-instance-types.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://aws.amazon.com/ec2/pricing/",
+        "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "02-Amazon-EC2/02-pricing-models.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://aws.amazon.com/ec2/pricing/",
+        "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "02-Amazon-EC2/03-auto-scaling.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/autoscaling/ec2/userguide/what-is-amazon-ec2-auto-scaling.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "02-Amazon-EC2/04-elastic-load-balancing.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/elasticloadbalancing/latest/userguide/what-is-load-balancing.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "02-Amazon-EC2/05-user-data-and-metadata.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/configuring-instance-metadata-service.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "02-Amazon-EC2/README.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://aws.amazon.com/ec2/pricing/",
+        "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "03-Security-and-Compliance/01-shared-responsibility-model.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://aws.amazon.com/compliance/shared-responsibility-model/",
+        "https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "03-Security-and-Compliance/02-iam.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://aws.amazon.com/compliance/shared-responsibility-model/",
+        "https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "03-Security-and-Compliance/03-aws-organizations.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_scps.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "03-Security-and-Compliance/04-aws-shield-and-waf.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/waf/latest/developerguide/what-is-aws-waf.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "03-Security-and-Compliance/05-amazon-inspector-and-guardduty.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/inspector/latest/user/what-is-inspector.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "03-Security-and-Compliance/06-aws-kms-and-secrets-manager.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/kms/latest/developerguide/overview.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "03-Security-and-Compliance/07-aws-config.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/config/latest/developerguide/WhatIsConfig.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "03-Security-and-Compliance/08-aws-cloudtrail.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-user-guide.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "03-Security-and-Compliance/09-aws-artifact.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/artifact/latest/ug/what-is-aws-artifact.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "03-Security-and-Compliance/10-compliance-programs.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://aws.amazon.com/compliance/programs/"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "03-Security-and-Compliance/README.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://aws.amazon.com/compliance/shared-responsibility-model/",
+        "https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "04-Amazon-S3/01-basic-concepts.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html",
+        "https://docs.aws.amazon.com/AmazonS3/latest/userguide/bucketnamingrules.html",
+        "https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage-class-intro.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "04-Amazon-S3/02-storage-classes.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html",
+        "https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage-class-intro.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "04-Amazon-S3/03-policies-and-acls.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html",
+        "https://docs.aws.amazon.com/AmazonS3/latest/userguide/about-object-ownership.html",
+        "https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage-class-intro.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "04-Amazon-S3/04-versioning-and-lifecycle.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html",
+        "https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage-class-intro.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "04-Amazon-S3/05-s3-transfer-acceleration.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html",
+        "https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage-class-intro.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "04-Amazon-S3/06-static-website.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/private-content-restricting-access-to-s3.html",
+        "https://docs.aws.amazon.com/AmazonS3/latest/userguide/WebsiteHosting.html",
+        "https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html",
+        "https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage-class-intro.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "04-Amazon-S3/README.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html",
+        "https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage-class-intro.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "05-Networking-and-Connectivity/01-vpc-fundamentals.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "05-Networking-and-Connectivity/02-public-and-private-subnets.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "05-Networking-and-Connectivity/03-internet-gateway-and-nat.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/vpc/latest/userguide/vpc-nat-gateway.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "05-Networking-and-Connectivity/04-security-groups-and-network-acls.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/vpc/latest/userguide/vpc-security-groups.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "05-Networking-and-Connectivity/05-vpc-peering-and-transit-gateway.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/vpc/latest/peering/what-is-vpc-peering.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "05-Networking-and-Connectivity/06-direct-connect-and-vpn.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/directconnect/latest/UserGuide/Welcome.html",
+        "https://docs.aws.amazon.com/directconnect/latest/UserGuide/encryption-in-transit.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "05-Networking-and-Connectivity/07-route-53.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/Welcome.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "05-Networking-and-Connectivity/README.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "06-Databases/01-rds.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Concepts.MultiAZ.html",
+        "https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Welcome.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "06-Databases/02-aurora.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/CHAP_AuroraOverview.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "06-Databases/03-dynamodb.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Introduction.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "06-Databases/04-elasticache.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/AmazonElastiCache/latest/dg/WhatIs.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "06-Databases/05-redshift.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/redshift/latest/mgmt/welcome.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "06-Databases/06-documentdb-and-neptune.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://aws.amazon.com/documentdb/"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "06-Databases/07-database-migration-service.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/dms/latest/userguide/Welcome.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "06-Databases/README.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Welcome.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "07-Serverless-Computing/01-aws-lambda.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/lambda/latest/dg/welcome.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "07-Serverless-Computing/02-api-gateway.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/apigateway/latest/developerguide/welcome.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "07-Serverless-Computing/03-aws-fargate.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/AmazonECS/latest/developerguide/AWS_Fargate.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "07-Serverless-Computing/04-amazon-ecs-and-eks.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/AmazonECS/latest/developerguide/Welcome.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "07-Serverless-Computing/05-aws-step-functions.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/step-functions/latest/dg/welcome.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "07-Serverless-Computing/06-amazon-eventbridge.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/eventbridge/latest/userguide/eb-what-is.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "07-Serverless-Computing/README.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/lambda/latest/dg/welcome.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "08-Storage/01-ebs.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/preserving-volumes-on-termination.html",
+        "https://docs.aws.amazon.com/ebs/latest/userguide/what-is-ebs.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "08-Storage/02-efs.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/efs/latest/ug/features.html",
+        "https://docs.aws.amazon.com/efs/latest/ug/whatisefs.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "08-Storage/03-fsx.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://aws.amazon.com/fsx/"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "08-Storage/04-aws-storage-gateway.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/storagegateway/latest/tgw/WhatIsStorageGateway.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "08-Storage/05-aws-snow-family.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/snowball/latest/developer-guide/snowball-edge-availability-change.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "08-Storage/06-aws-backup.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/aws-backup/latest/devguide/whatisbackup.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "08-Storage/README.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/ebs/latest/userguide/what-is-ebs.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "09-Monitoring-and-Governance/01-cloudwatch.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/WhatIsCloudWatch.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "09-Monitoring-and-Governance/02-cloudtrail.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-user-guide.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "09-Monitoring-and-Governance/03-aws-config.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/config/latest/developerguide/WhatIsConfig.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "09-Monitoring-and-Governance/04-aws-trusted-advisor.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/awssupport/latest/user/trusted-advisor.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "09-Monitoring-and-Governance/05-aws-health-dashboard.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/health/latest/ug/what-is-aws-health.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "09-Monitoring-and-Governance/06-aws-systems-manager.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/systems-manager/latest/userguide/what-is-systems-manager.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "09-Monitoring-and-Governance/07-aws-compute-optimizer.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/compute-optimizer/latest/ug/what-is-compute-optimizer.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "09-Monitoring-and-Governance/README.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/WhatIsCloudWatch.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "10-Pricing-and-Support/01-aws-pricing-model.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/cost-management/latest/userguide/what-is-costmanagement.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "10-Pricing-and-Support/02-aws-free-tier.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://aws.amazon.com/blogs/aws/aws-free-tier-update-new-customers-can-get-started-and-explore-aws-with-up-to-200-in-credits/",
+        "https://aws.amazon.com/free/"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "10-Pricing-and-Support/03-aws-pricing-calculator.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/pricing-calculator/latest/userguide/what-is-pricing-calculator.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "10-Pricing-and-Support/04-aws-cost-explorer.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/cost-management/latest/userguide/ce-what-is.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "10-Pricing-and-Support/05-aws-budgets.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/cost-management/latest/userguide/budgets-managing-costs.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "10-Pricing-and-Support/06-support-plans.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://aws.amazon.com/premiumsupport/faqs/",
+        "https://aws.amazon.com/premiumsupport/plans/"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "10-Pricing-and-Support/07-aws-marketplace.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/marketplace/latest/buyerguide/what-is-marketplace.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "10-Pricing-and-Support/08-aws-billing-dashboard.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/billing-what-is.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "10-Pricing-and-Support/README.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/cost-management/latest/userguide/what-is-costmanagement.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "11-Migration-and-Innovation/01-migration-strategies.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/prescriptive-guidance/latest/large-migration-guide/migration-strategies.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "11-Migration-and-Innovation/02-aws-migration-hub.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/migrationhub-strategy/latest/userguide/migrationhub-availability-change.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "11-Migration-and-Innovation/03-aws-dms.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/dms/latest/userguide/Welcome.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "11-Migration-and-Innovation/04-aws-application-discovery.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/application-discovery/latest/userguide/doc-history.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "11-Migration-and-Innovation/05-aws-mainframe-modernization.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/m2/latest/userguide/mainframe-modernization-availability-change.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "11-Migration-and-Innovation/06-aws-datasync.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/datasync/latest/userguide/what-is-datasync.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "11-Migration-and-Innovation/README.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/prescriptive-guidance/latest/large-migration-guide/migration-strategies.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "12-CAF-Cloud-Adoption-Framework/01-caf-overview.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/whitepapers/latest/overview-aws-cloud-adoption-framework/welcome.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "12-CAF-Cloud-Adoption-Framework/02-business-perspective.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/whitepapers/latest/overview-aws-cloud-adoption-framework/welcome.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "12-CAF-Cloud-Adoption-Framework/03-people-perspective.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/whitepapers/latest/overview-aws-cloud-adoption-framework/welcome.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "12-CAF-Cloud-Adoption-Framework/04-governance-perspective.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/whitepapers/latest/overview-aws-cloud-adoption-framework/welcome.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "12-CAF-Cloud-Adoption-Framework/05-platform-perspective.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/whitepapers/latest/overview-aws-cloud-adoption-framework/welcome.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "12-CAF-Cloud-Adoption-Framework/06-security-perspective.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/whitepapers/latest/overview-aws-cloud-adoption-framework/welcome.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "12-CAF-Cloud-Adoption-Framework/07-operations-perspective.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/whitepapers/latest/overview-aws-cloud-adoption-framework/welcome.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "12-CAF-Cloud-Adoption-Framework/08-transformation-outcomes.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/whitepapers/latest/overview-aws-cloud-adoption-framework/welcome.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "12-CAF-Cloud-Adoption-Framework/README.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/whitepapers/latest/overview-aws-cloud-adoption-framework/welcome.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "13-Well-Architected-Framework/01-operational-excellence-pillar.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "13-Well-Architected-Framework/02-security-pillar.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "13-Well-Architected-Framework/03-reliability-pillar.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "13-Well-Architected-Framework/04-performance-efficiency-pillar.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "13-Well-Architected-Framework/05-cost-optimization-pillar.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "13-Well-Architected-Framework/06-sustainability-pillar.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "13-Well-Architected-Framework/07-specialized-lenses.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "13-Well-Architected-Framework/README.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "14-Artificial-Intelligence-and-ML/01-amazon-sagemaker.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/sagemaker/latest/dg/whatis.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "14-Artificial-Intelligence-and-ML/02-amazon-rekognition.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/rekognition/latest/dg/what-is.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "14-Artificial-Intelligence-and-ML/03-amazon-comprehend.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/comprehend/latest/dg/what-is.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "14-Artificial-Intelligence-and-ML/04-amazon-polly-and-transcribe.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/polly/latest/dg/what-is.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "14-Artificial-Intelligence-and-ML/05-amazon-lex.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/lexv2/latest/dg/what-is.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "14-Artificial-Intelligence-and-ML/06-amazon-kendra.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/aws-certification/latest/cloud-practitioner-02/clf-02-in-scope-services.html",
+        "https://docs.aws.amazon.com/aws-certification/latest/cloud-practitioner-02/clf-02-out-of-scope-services.html",
+        "https://docs.aws.amazon.com/kendra/latest/dg/what-is-kendra.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "14-Artificial-Intelligence-and-ML/07-amazon-bedrock.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/aws-certification/latest/cloud-practitioner-02/clf-02-in-scope-services.html",
+        "https://docs.aws.amazon.com/aws-certification/latest/cloud-practitioner-02/clf-02-out-of-scope-services.html",
+        "https://docs.aws.amazon.com/bedrock/latest/userguide/what-is-bedrock.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "14-Artificial-Intelligence-and-ML/08-amazon-q.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://aws.amazon.com/q/"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "14-Artificial-Intelligence-and-ML/README.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://aws.amazon.com/machine-learning/"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "15-Developer-Services/01-aws-codecommit.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://aws.amazon.com/blogs/devops/aws-codecommit-returns-to-general-availability/"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "15-Developer-Services/02-aws-codebuild.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/codebuild/latest/userguide/welcome.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "15-Developer-Services/03-aws-codedeploy.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/aws-certification/latest/cloud-practitioner-02/clf-02-in-scope-services.html",
+        "https://docs.aws.amazon.com/aws-certification/latest/cloud-practitioner-02/clf-02-out-of-scope-services.html",
+        "https://docs.aws.amazon.com/codedeploy/latest/userguide/welcome.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "15-Developer-Services/04-aws-codepipeline.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/codepipeline/latest/userguide/welcome.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "15-Developer-Services/05-aws-cdk-and-cloudformation.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/cdk/v2/guide/home.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "15-Developer-Services/06-aws-sam.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/aws-certification/latest/cloud-practitioner-02/clf-02-in-scope-services.html",
+        "https://docs.aws.amazon.com/aws-certification/latest/cloud-practitioner-02/clf-02-out-of-scope-services.html",
+        "https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/what-is-sam.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "15-Developer-Services/07-aws-amplify.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://aws.amazon.com/amplify/"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "15-Developer-Services/08-aws-x-ray.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/xray/latest/devguide/xray-daemon.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "15-Developer-Services/README.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://aws.amazon.com/products/developer-tools/"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "16-Practice-Exams-and-Questions/01-domain-1-questions.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://aws.amazon.com/what-is-cloud-computing/",
+        "https://docs.aws.amazon.com/aws-certification/latest/cloud-practitioner-02/cloud-practitioner-02.html",
+        "https://docs.aws.amazon.com/wellarchitected/latest/framework/rel_fault_isolation_multiaz_region_system.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "16-Practice-Exams-and-Questions/02-domain-2-questions.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://aws.amazon.com/compliance/shared-responsibility-model/",
+        "https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html",
+        "https://docs.aws.amazon.com/aws-certification/latest/cloud-practitioner-02/cloud-practitioner-02.html",
+        "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-user-guide.html",
+        "https://docs.aws.amazon.com/guardduty/latest/ug/what-is-guardduty.html",
+        "https://docs.aws.amazon.com/secretsmanager/latest/userguide/intro.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "16-Practice-Exams-and-Questions/03-domain-3-questions.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts.html",
+        "https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/WhatIsCloudWatch.html",
+        "https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Welcome.html",
+        "https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html",
+        "https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/Welcome.html",
+        "https://docs.aws.amazon.com/aws-certification/latest/cloud-practitioner-02/cloud-practitioner-02.html",
+        "https://docs.aws.amazon.com/global-infrastructure/latest/regions/aws-regions-availability-zones.html",
+        "https://docs.aws.amazon.com/lambda/latest/dg/welcome.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "16-Practice-Exams-and-Questions/04-domain-4-questions.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://aws.amazon.com/ec2/pricing/",
+        "https://aws.amazon.com/premiumsupport/plans/",
+        "https://docs.aws.amazon.com/aws-certification/latest/cloud-practitioner-02/cloud-practitioner-02.html",
+        "https://docs.aws.amazon.com/cost-management/latest/userguide/budgets-managing-costs.html",
+        "https://docs.aws.amazon.com/cost-management/latest/userguide/ce-what-is.html",
+        "https://docs.aws.amazon.com/pricing-calculator/latest/userguide/what-is-pricing-calculator.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "16-Practice-Exams-and-Questions/cross-domain-review-questions.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html",
+        "https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html",
+        "https://docs.aws.amazon.com/aws-certification/latest/cloud-practitioner-02/cloud-practitioner-02.html",
+        "https://docs.aws.amazon.com/cost-management/latest/userguide/ce-what-is.html",
+        "https://docs.aws.amazon.com/lambda/latest/dg/welcome.html",
+        "https://docs.aws.amazon.com/wellarchitected/latest/framework/rel_fault_isolation_multiaz_region_system.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "16-Practice-Exams-and-Questions/10-question-practice-exam.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://aws.amazon.com/compliance/shared-responsibility-model/",
+        "https://aws.amazon.com/what-is-cloud-computing/",
+        "https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Welcome.html",
+        "https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html",
+        "https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html",
+        "https://docs.aws.amazon.com/aws-certification/latest/cloud-practitioner-02/cloud-practitioner-02.html",
+        "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-user-guide.html",
+        "https://docs.aws.amazon.com/cost-management/latest/userguide/budgets-managing-costs.html",
+        "https://docs.aws.amazon.com/cost-management/latest/userguide/ce-what-is.html",
+        "https://docs.aws.amazon.com/lambda/latest/dg/welcome.html",
+        "https://docs.aws.amazon.com/wellarchitected/latest/framework/rel_fault_isolation_multiaz_region_system.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "16-Practice-Exams-and-Questions/README.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/aws-certification/latest/cloud-practitioner-02/cloud-practitioner-02.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "16-Practice-Exams-and-Questions/answer-keys/README.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/aws-certification/latest/cloud-practitioner-02/cloud-practitioner-02.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "16-Practice-Exams-and-Questions/answer-keys/domain-1-answer-key.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/aws-certification/latest/cloud-practitioner-02/cloud-practitioner-02.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "16-Practice-Exams-and-Questions/answer-keys/domain-2-answer-key.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/aws-certification/latest/cloud-practitioner-02/cloud-practitioner-02.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "16-Practice-Exams-and-Questions/answer-keys/domain-3-answer-key.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/aws-certification/latest/cloud-practitioner-02/cloud-practitioner-02.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "16-Practice-Exams-and-Questions/answer-keys/domain-4-answer-key.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/aws-certification/latest/cloud-practitioner-02/cloud-practitioner-02.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "16-Practice-Exams-and-Questions/answer-keys/practice-exam-answer-key.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/aws-certification/latest/cloud-practitioner-02/cloud-practitioner-02.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "17-Glossary/README.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://aws.amazon.com/what-is-cloud-computing/",
+        "https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html",
+        "https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "18-Resources-and-Links/README.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/aws-certification/latest/cloud-practitioner-02/cloud-practitioner-02.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "README.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/aws-certification/latest/cloud-practitioner-02/clf-02-revisions.html",
+        "https://docs.aws.amazon.com/aws-certification/latest/cloud-practitioner-02/cloud-practitioner-02.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "assets/README.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [],
+      "status": "localization-and-editorial-review"
+    },
+    {
+      "path": "cheatsheets/README.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [],
+      "status": "localization-and-editorial-review"
+    },
+    {
+      "path": "cheatsheets/core-concepts.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [],
+      "status": "localization-and-editorial-review"
+    },
+    {
+      "path": "cheatsheets/iam.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [],
+      "status": "localization-and-editorial-review"
+    },
+    {
+      "path": "cheatsheets/pricing.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [],
+      "status": "localization-and-editorial-review"
+    },
+    {
+      "path": "cheatsheets/s3.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [],
+      "status": "localization-and-editorial-review"
+    },
+    {
+      "path": "diagrams/README.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/monitor-cloudtrail-log-files-with-cloudwatch-logs.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "docs/README.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [],
+      "status": "localization-and-editorial-review"
+    },
+    {
+      "path": "docs/exam-guide.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [],
+      "status": "localization-and-editorial-review"
+    },
+    {
+      "path": "docs/next-steps.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [],
+      "status": "localization-and-editorial-review"
+    },
+    {
+      "path": "docs/study-flow.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [],
+      "status": "localization-and-editorial-review"
+    },
+    {
+      "path": "flashcards/README.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [],
+      "status": "localization-and-editorial-review"
+    },
+    {
+      "path": "flashcards/costs-deck.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://aws.amazon.com/ec2/pricing/",
+        "https://aws.amazon.com/free/",
+        "https://aws.amazon.com/premiumsupport/faqs/",
+        "https://aws.amazon.com/what-is-cloud-computing/",
+        "https://docs.aws.amazon.com/awssupport/latest/user/trusted-advisor.html",
+        "https://docs.aws.amazon.com/cost-management/latest/userguide/budgets-managing-costs.html",
+        "https://docs.aws.amazon.com/cost-management/latest/userguide/ce-what-is.html",
+        "https://docs.aws.amazon.com/pricing-calculator/latest/userguide/what-is-pricing-calculator.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "flashcards/fundamentals-deck.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://aws.amazon.com/compliance/shared-responsibility-model/",
+        "https://aws.amazon.com/what-is-cloud-computing/",
+        "https://docs.aws.amazon.com/wellarchitected/latest/framework/rel_fault_isolation_multiaz_region_system.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "flashcards/s3-deck.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/private-content-restricting-access-to-s3.html",
+        "https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage-class-intro.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "flashcards/security-deck.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://aws.amazon.com/compliance/shared-responsibility-model/",
+        "https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html",
+        "https://docs.aws.amazon.com/artifact/latest/ug/what-is-aws-artifact.html",
+        "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-user-guide.html",
+        "https://docs.aws.amazon.com/guardduty/latest/ug/what-is-guardduty.html",
+        "https://docs.aws.amazon.com/kms/latest/developerguide/overview.html",
+        "https://docs.aws.amazon.com/waf/latest/developerguide/shield-chapter.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "labs/README.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [],
+      "status": "localization-and-editorial-review"
+    },
+    {
+      "path": "labs/lab-01-iam-setup.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html",
+        "https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_getting-report.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "labs/lab-02-s3-static-website.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://aws.amazon.com/cloudfront/pricing/",
+        "https://aws.amazon.com/free/",
+        "https://aws.amazon.com/s3/pricing/",
+        "https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/private-content-restricting-access-to-s3.html",
+        "https://docs.aws.amazon.com/AmazonS3/latest/userguide/WebsiteHosting.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "labs/lab-03-basic-cloudwatch.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://aws.amazon.com/cloudwatch/pricing/",
+        "https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/AlarmThatSendsEmail.html",
+        "https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/WhatIsCloudWatch.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "notes/README.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [],
+      "status": "localization-and-editorial-review"
+    },
+    {
+      "path": "notes/costs-and-support.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/pricing-calculator/latest/userguide/what-is-pricing-calculator.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "notes/aws-fundamentals.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://aws.amazon.com/what-is-cloud-computing/"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "notes/s3-essentials.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage-class-intro.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "notes/security-essentials.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "quick-review/README.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [
+        "https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage-class-intro.html",
+        "https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html",
+        "https://docs.aws.amazon.com/pricing-calculator/latest/userguide/what-is-pricing-calculator.html",
+        "https://docs.aws.amazon.com/wellarchitected/latest/framework/rel_fault_isolation_multiaz_region_system.html"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "path": "quick-review/storage.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [],
+      "status": "localization-and-editorial-review"
+    },
+    {
+      "path": "quick-review/exam-eve-checklist.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [],
+      "status": "localization-and-editorial-review"
+    },
+    {
+      "path": "quick-review/costs.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [],
+      "status": "localization-and-editorial-review"
+    },
+    {
+      "path": "quick-review/common-mistakes.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [],
+      "status": "localization-and-editorial-review"
+    },
+    {
+      "path": "quick-review/fundamentals.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [],
+      "status": "localization-and-editorial-review"
+    },
+    {
+      "path": "quick-review/security.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [],
+      "status": "localization-and-editorial-review"
+    },
+    {
+      "path": "quick-review/key-services.md",
+      "review_method": "editorial reading and primary-source comparison; no runtime AWS validation",
+      "technical_references": [],
+      "status": "localization-and-editorial-review"
+    }
+  ],
+  "source_references": [
+    {
+      "url": "https://aws.amazon.com/amplify/",
+      "retrieved_url": "https://aws.amazon.com/amplify/",
+      "http_status": 200,
+      "title": "Full Stack Development - Web and Mobile Apps - AWS Amplify",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "4c76ad4916231d9957425cc3c443e485b41525a8e30a7450aa8470ad9f2a866f"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/aws/aws-free-tier-update-new-customers-can-get-started-and-explore-aws-with-up-to-200-in-credits/",
+      "retrieved_url": "https://aws.amazon.com/blogs/aws/aws-free-tier-update-new-customers-can-get-started-and-explore-aws-with-up-to-200-in-credits/",
+      "http_status": 200,
+      "title": "AWS Free Tier update: New customers can get started and explore AWS with up to $200 in credits | AWS News Blog",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "ba710df8401c57ca7f4e775bbeb0aee0b20036cdaf94d4e8c6a5afbc713b6a5d"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/devops/aws-codecommit-returns-to-general-availability/",
+      "retrieved_url": "https://aws.amazon.com/blogs/devops/aws-codecommit-returns-to-general-availability/",
+      "http_status": 200,
+      "title": "The Future of AWS CodeCommit | AWS DevOps & Developer Productivity Blog",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "7cb8267edf3d9272e57e7f121e9883ddeaac4bf8a0a6821a6836678b5373566a"
+    },
+    {
+      "url": "https://aws.amazon.com/cloudfront/pricing/",
+      "retrieved_url": "https://aws.amazon.com/cloudfront/pricing/",
+      "http_status": 200,
+      "title": "CDN Pricing, Plans & Free Tier - Amazon CloudFront - AWS",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "88ed9f5de4499a96ac2853363ea606153c8b8f75db0a665e2c7412bf8f08d979"
+    },
+    {
+      "url": "https://aws.amazon.com/cloudwatch/pricing/",
+      "retrieved_url": "https://aws.amazon.com/cloudwatch/pricing/",
+      "http_status": 200,
+      "title": "Amazon CloudWatch Pricing | Free Tier Available",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "a25f19e0a2b0201c06644135648ae5c7489908c82ecc1d948fbb62eb1988f434"
+    },
+    {
+      "url": "https://aws.amazon.com/compliance/programs/",
+      "retrieved_url": "https://aws.amazon.com/compliance/programs/",
+      "http_status": 200,
+      "title": "Compliance Programs - Amazon Web Services (AWS)",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "fa758a7696317c08f1d1fb34f9114ab6aca89a4c1bcda18ee4388439b6c194a4"
+    },
+    {
+      "url": "https://aws.amazon.com/compliance/shared-responsibility-model/",
+      "retrieved_url": "https://aws.amazon.com/compliance/shared-responsibility-model/",
+      "http_status": 200,
+      "title": "Shared Responsibility Model - Amazon Web Services (AWS)",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "994bc6d8856e36aedcfa90afad676e3906235f65e97c61b62ce181faec7aa305"
+    },
+    {
+      "url": "https://aws.amazon.com/documentdb/",
+      "retrieved_url": "https://aws.amazon.com/documentdb/",
+      "http_status": 200,
+      "title": "Amazon DocumentDB- Serverless, fully managed, MongoDB API-compatible document database",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "7828f18ab49f4d85ad876eb0c01b3bf35260117e446a4e8d97af955ddfb407b5"
+    },
+    {
+      "url": "https://aws.amazon.com/ec2/pricing/",
+      "retrieved_url": "https://aws.amazon.com/ec2/pricing/",
+      "http_status": 200,
+      "title": "Amazon EC2 – Secure and resizable compute capacity – AWS",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "6d8c1afd1f5781acf382a6ce19ac0c4063b14b3e55723fd464ccf3e978123a2d"
+    },
+    {
+      "url": "https://aws.amazon.com/free/",
+      "retrieved_url": "https://aws.amazon.com/free/",
+      "http_status": 200,
+      "title": "Free Cloud Computing Services - AWS Free Tier",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "e474b213d76e7b9f32bf9684581b6e5a80a13cea6e15ca0fc409f76b4acd1413"
+    },
+    {
+      "url": "https://aws.amazon.com/fsx/",
+      "retrieved_url": "https://aws.amazon.com/fsx/",
+      "http_status": 200,
+      "title": "Amazon FSx | Feature-Rich & Highly-Performant File Systems | Amazon Web Services",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "f6a3ca9d9c4fc4fd7625cf214218772a5835035993802ef06563de6293b03ad8"
+    },
+    {
+      "url": "https://aws.amazon.com/machine-learning/",
+      "retrieved_url": "https://aws.amazon.com/ai/machine-learning/",
+      "http_status": 200,
+      "title": "Machine Learning (ML) on AWS - ML Models and Tools - AWS",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "ad620a4a5d26d14f36e250367b6cbb246bae35b786cac1ff06bd98f366430a33"
+    },
+    {
+      "url": "https://aws.amazon.com/premiumsupport/faqs/",
+      "retrieved_url": "https://aws.amazon.com/premiumsupport/faqs/",
+      "http_status": 200,
+      "title": "AWS Premium Support FAQs",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "22ef7242af16ebd4cdfce7c5eab39af8f5c88b98d5b7883bf362f597c3b21a80"
+    },
+    {
+      "url": "https://aws.amazon.com/premiumsupport/plans/",
+      "retrieved_url": "https://aws.amazon.com/premiumsupport/plans/",
+      "http_status": 200,
+      "title": "AWS Support plan comparison – AWS Support features – AWS",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "e9c7937f01ef40b2aa6e8b641c9d6f194ee20275a9083f10906d6d9c0134aba6"
+    },
+    {
+      "url": "https://aws.amazon.com/products/developer-tools/",
+      "retrieved_url": "https://aws.amazon.com/products/developer-tools/",
+      "http_status": 200,
+      "title": "Developer Tools – AWS",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "40c580e672f4f8b7847bc820c3fa850004f321d9bc821b31b376a17b360d7df5"
+    },
+    {
+      "url": "https://aws.amazon.com/q/",
+      "retrieved_url": "https://aws.amazon.com/q/",
+      "http_status": 200,
+      "title": "AI Coding & Dev Tools - Amazon Q - AWS",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "507c22c497dae9d662364f93b68c1ed48ac2ae3a39ba9fac8d2f341f21ed848b"
+    },
+    {
+      "url": "https://aws.amazon.com/s3/pricing/",
+      "retrieved_url": "https://aws.amazon.com/s3/pricing/",
+      "http_status": 200,
+      "title": "S3 Pricing",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "6cbecb5683b11b95a0f8457d277851d525c58900f4b88a0ae08a0e68206a66fd"
+    },
+    {
+      "url": "https://aws.amazon.com/what-is-cloud-computing/",
+      "retrieved_url": "https://aws.amazon.com/what-is-cloud-computing/",
+      "http_status": 200,
+      "title": "What is Cloud Computing? - Cloud Computing Services, Benefits, and Types - AWS",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "97d6f66f7221e5b4c59ea23e6b6424f1acd5cd39d536c28fb8b85d993c98c168"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts.html",
+      "retrieved_url": "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts.html",
+      "http_status": 200,
+      "title": "What is Amazon EC2? - Amazon Elastic Compute Cloud",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "be0822d9dd7d9c4c46a10f6a8ce15aef8da1f014891a5368edd657e661fb6156"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/configuring-instance-metadata-service.html",
+      "retrieved_url": "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/configuring-instance-metadata-service.html",
+      "http_status": 200,
+      "title": "Use the Instance Metadata Service to access instance metadata - Amazon Elastic Compute Cloud",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "2bc3b0f3a8d2e6419277e2ad498acfcac1ef556a304dd3e8d42c01097ff3f8af"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/preserving-volumes-on-termination.html",
+      "retrieved_url": "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/preserving-volumes-on-termination.html",
+      "http_status": 200,
+      "title": "Preserve data when an instance is terminated - Amazon Elastic Compute Cloud",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "3b56392cf5a0a5b51bb2b16a59c9cca39e9f3b22603fb46052ed4e7102900843"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/private-content-restricting-access-to-s3.html",
+      "retrieved_url": "https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/private-content-restricting-access-to-s3.html",
+      "http_status": 200,
+      "title": "Restrict access to an Amazon S3 origin - Amazon CloudFront",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "3a5c46d8c494bf2db5a1847099ce75c1e67037a4d4969d18f68c64ddc9aea52a"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/AlarmThatSendsEmail.html",
+      "retrieved_url": "https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/CloudWatch_Alarms.html",
+      "http_status": 200,
+      "title": "Using Amazon CloudWatch alarms - Amazon CloudWatch",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "079f536b276657c5487f5eb06a5ec3107e4f5236d3400f94b6808ae8f5a428f7"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/WhatIsCloudWatch.html",
+      "retrieved_url": "https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/WhatIsCloudWatch.html",
+      "http_status": 200,
+      "title": "What is Amazon CloudWatch? - Amazon CloudWatch",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "ab1dbef82270574bdb16b9f1d3f53214d178ba5444e4d21ad69382c63e1ad31c"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/AmazonECS/latest/developerguide/AWS_Fargate.html",
+      "retrieved_url": "https://docs.aws.amazon.com/AmazonECS/latest/developerguide/AWS_Fargate.html",
+      "http_status": 200,
+      "title": "Architect for AWS Fargate for Amazon ECS - Amazon Elastic Container Service",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "5e645c827958c4848d50921041dd2cb5f687203e434133643645aa18adf2956c"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/AmazonECS/latest/developerguide/Welcome.html",
+      "retrieved_url": "https://docs.aws.amazon.com/AmazonECS/latest/developerguide/Welcome.html",
+      "http_status": 200,
+      "title": "What is Amazon Elastic Container Service? - Amazon Elastic Container Service",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "ef66a15e96484823af98f9b4d399db6700d031448a6a508871abde4f37358245"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/AmazonElastiCache/latest/dg/WhatIs.html",
+      "retrieved_url": "https://docs.aws.amazon.com/AmazonElastiCache/latest/dg/WhatIs.html",
+      "http_status": 200,
+      "title": "What is Amazon ElastiCache? - Amazon ElastiCache",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "79942eb5615de8f1428425a6014bdfc56e557ad60cf90dea1daa876e1ea86ed4"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/CHAP_AuroraOverview.html",
+      "retrieved_url": "https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/CHAP_AuroraOverview.html",
+      "http_status": 200,
+      "title": "What is Amazon Aurora? - Amazon Aurora",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "267e527ac4c7519c24b8faaed1b39da3a588bb0b972277e264f1582c975158f6"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Concepts.MultiAZ.html",
+      "retrieved_url": "https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Concepts.MultiAZ.html",
+      "http_status": 200,
+      "title": "Configuring and managing a Multi-AZ deployment for Amazon RDS - Amazon Relational Database Service",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "0fbb3b2b17d66ab57ba92480a168f39a8dc6306fa98d342f86495b3924fac7c0"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Welcome.html",
+      "retrieved_url": "https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Welcome.html",
+      "http_status": 200,
+      "title": "What is Amazon Relational Database Service (Amazon RDS)? - Amazon Relational Database Service",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "a6ecdb0a9c39f67d52f7012ab50175a4a9ff3b4d5f724609d499db1293cae3b2"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/WebsiteHosting.html",
+      "retrieved_url": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/WebsiteHosting.html",
+      "http_status": 200,
+      "title": "Hosting a static website using Amazon S3 - Amazon Simple Storage Service",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "20a69aaa80f79244ff59712cc099b54f1c8a58d6828211525eb4e62ada00b625"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html",
+      "retrieved_url": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html",
+      "http_status": 200,
+      "title": "What is Amazon S3? - Amazon Simple Storage Service",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "44cb9f3ece31a6f871ef55a1ed5566421822a13f76cc868182d2afb86cfb578d"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/about-object-ownership.html",
+      "retrieved_url": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/about-object-ownership.html",
+      "http_status": 200,
+      "title": "Controlling ownership of objects and disabling ACLs for your bucket - Amazon Simple Storage Service",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "0ea2d46da848fd42379dded9cb59cae6207db7b7ccc05d2c3f3f15037a8b9a66"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/bucketnamingrules.html",
+      "retrieved_url": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/bucketnamingrules.html",
+      "http_status": 200,
+      "title": "General purpose bucket naming rules - Amazon Simple Storage Service",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "4e5730445f629b162666e4f28785fb9fa44e72bc67549addbd8c2886686de905"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage-class-intro.html",
+      "retrieved_url": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage-class-intro.html",
+      "http_status": 200,
+      "title": "Understanding and managing Amazon S3 storage classes - Amazon Simple Storage Service",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "65d1ababaebaf7fb209f9c12def1a71954689d014bc027da40d11d18b2897fa3"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html",
+      "retrieved_url": "https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html",
+      "http_status": 200,
+      "title": "Security best practices in IAM - AWS Identity and Access Management",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "c24c12bd1137f869f3aae0affec5d2bf81d05b5f7bcae5fc8a1569edf2cea8b0"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_getting-report.html",
+      "retrieved_url": "https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_getting-report.html",
+      "http_status": 200,
+      "title": "Generate credential reports for your AWS account - AWS Identity and Access Management",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "b6c3cbab72e41c04e669a6b53a7c9c17ec523628275eedbb61a24bd7b90282b0"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html",
+      "retrieved_url": "https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html",
+      "http_status": 200,
+      "title": "What is IAM? - AWS Identity and Access Management",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "74a27cf26cf5d73f6ab00eaf2d8c02b5c515e95742ee66d4b48b23b29f6d9226"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/Welcome.html",
+      "retrieved_url": "https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/Welcome.html",
+      "http_status": 200,
+      "title": "What is Amazon Route 53? - Amazon Route 53",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "9480fc40b81829d8b57030bbe675a6ba73e27e19a3aba198913a823bea5a4c06"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Introduction.html",
+      "retrieved_url": "https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Introduction.html",
+      "http_status": 200,
+      "title": "What is Amazon DynamoDB? - Amazon DynamoDB",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "218f186a6f5b5a09b61978ac871ceeee2912453e211bb9ba4bd614754aa1e46f"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/apigateway/latest/developerguide/welcome.html",
+      "retrieved_url": "https://docs.aws.amazon.com/apigateway/latest/developerguide/welcome.html",
+      "http_status": 200,
+      "title": "What is Amazon API Gateway? - Amazon API Gateway",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "0fec91ea57496c475257333c5b1b4d378d50f2d2e866092d60c73c488b67ec79"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/application-discovery/latest/userguide/doc-history.html",
+      "retrieved_url": "https://docs.aws.amazon.com/application-discovery/latest/userguide/doc-history.html",
+      "http_status": 200,
+      "title": "Document History for AWS Application Discovery Service - AWS Application Discovery Service",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "7059496d688e48d169dc98414a35af6bc85a9e22ac544293c3a99816ac489d0a"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/artifact/latest/ug/what-is-aws-artifact.html",
+      "retrieved_url": "https://docs.aws.amazon.com/artifact/latest/ug/what-is-aws-artifact.html",
+      "http_status": 200,
+      "title": "What is AWS Artifact? - AWS Artifact",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "c70fbc9b9931890afc145a703f73ff836980a148c0421af48e60de239ed422bd"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/autoscaling/ec2/userguide/what-is-amazon-ec2-auto-scaling.html",
+      "retrieved_url": "https://docs.aws.amazon.com/autoscaling/ec2/userguide/what-is-amazon-ec2-auto-scaling.html",
+      "http_status": 200,
+      "title": "What is Amazon EC2 Auto Scaling? - Amazon EC2 Auto Scaling",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "7e1069325db8a40969f8099162dab3369de5b50cd2806078dfed8ccfa8353313"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/aws-backup/latest/devguide/whatisbackup.html",
+      "retrieved_url": "https://docs.aws.amazon.com/aws-backup/latest/devguide/whatisbackup.html",
+      "http_status": 200,
+      "title": "What is AWS Backup? - AWS Backup",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "01110082bef1b4bfa3fb3cc933fa8405bc8a75a39e7262b70787693b94fe9c64"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/aws-certification/latest/cloud-practitioner-02/clf-02-in-scope-services.html",
+      "retrieved_url": "https://docs.aws.amazon.com/aws-certification/latest/cloud-practitioner-02/clf-02-in-scope-services.html",
+      "http_status": 200,
+      "title": "In-Scope AWS Services - AWS Certified Cloud Practitioner",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "e12e2995ca3157369ea4c25302c02cf43076f50d1ff0ea4424158fe784ca6a5c"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/aws-certification/latest/cloud-practitioner-02/clf-02-out-of-scope-services.html",
+      "retrieved_url": "https://docs.aws.amazon.com/aws-certification/latest/cloud-practitioner-02/clf-02-out-of-scope-services.html",
+      "http_status": 200,
+      "title": "Out-of-Scope AWS Services - AWS Certified Cloud Practitioner",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "d8b90ead95b21320aa6b36c7424e7f1283415d50a2ba88b53a634f026b757329"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/aws-certification/latest/cloud-practitioner-02/clf-02-revisions.html",
+      "retrieved_url": "https://docs.aws.amazon.com/aws-certification/latest/cloud-practitioner-02/clf-02-revisions.html",
+      "http_status": 200,
+      "title": "Revisions - AWS Certified Cloud Practitioner",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "f6a6d8dd0065fdff7cc2e580811271c76691112b577b47c2026ab09b704c9fb3"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/aws-certification/latest/cloud-practitioner-02/cloud-practitioner-02.html",
+      "retrieved_url": "https://docs.aws.amazon.com/aws-certification/latest/cloud-practitioner-02/cloud-practitioner-02.html",
+      "http_status": 200,
+      "title": "AWS Certified Cloud Practitioner (CLF-C02) - AWS Certified Cloud Practitioner",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "ba7b7e6486ba0b5b33353b06daf9188410a3dddde532d20df1b213c67dafeabd"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/billing-what-is.html",
+      "retrieved_url": "https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/billing-what-is.html",
+      "http_status": 200,
+      "title": "What is AWS Billing and Cost Management? - AWS Billing",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "f669fe7dd28c0aeecef7560c8fd61ea8cadb0e6f64152c684223f258f7f4c089"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-user-guide.html",
+      "retrieved_url": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-user-guide.html",
+      "http_status": 200,
+      "title": "What Is AWS CloudTrail? - AWS CloudTrail",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "34fed5e2e38b4d781a3d1f916e9fec97ba69f37166a85b9e2847c885959bae3c"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/monitor-cloudtrail-log-files-with-cloudwatch-logs.html",
+      "retrieved_url": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/monitor-cloudtrail-log-files-with-cloudwatch-logs.html",
+      "http_status": 200,
+      "title": "Monitoring CloudTrail Log Files with Amazon CloudWatch Logs - AWS CloudTrail",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "f597cc8f4425e8ac0e1e6e20ca9903b0d561e67e73ac97f1539a1d90637d0801"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/awssupport/latest/user/trusted-advisor.html",
+      "retrieved_url": "https://docs.aws.amazon.com/awssupport/latest/user/trusted-advisor.html",
+      "http_status": 200,
+      "title": "AWS Trusted Advisor - AWS Support",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "a4b17cc9cdb3856bd7887ef4cd2e6a5f4afb9ca54eb0820993bbc695c508b40a"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/bedrock/latest/userguide/what-is-bedrock.html",
+      "retrieved_url": "https://docs.aws.amazon.com/bedrock/latest/userguide/what-is-bedrock.html",
+      "http_status": 200,
+      "title": "Overview - Amazon Bedrock",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "0aa86346507b5190049cb8512a6150bc6bb6fa1b8b37a40ead34540dc055e944"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/cdk/v2/guide/home.html",
+      "retrieved_url": "https://docs.aws.amazon.com/cdk/v2/guide/home.html",
+      "http_status": 200,
+      "title": "What is the AWS CDK? - AWS Cloud Development Kit (AWS CDK) v2",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "cd52255eb1ef4bf0144835ee3a90bdfe9f607fe35c87c26a185907880ac12d52"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/codebuild/latest/userguide/welcome.html",
+      "retrieved_url": "https://docs.aws.amazon.com/codebuild/latest/userguide/welcome.html",
+      "http_status": 200,
+      "title": "What is AWS CodeBuild? - AWS CodeBuild",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "269f03b866280cc167a0f3037f013781f699fe6a8415df1f6b115f87c6dce2f9"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/codedeploy/latest/userguide/welcome.html",
+      "retrieved_url": "https://docs.aws.amazon.com/codedeploy/latest/userguide/welcome.html",
+      "http_status": 200,
+      "title": "What is CodeDeploy? - AWS CodeDeploy",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "412c2e0dbf71431c6856bc42f3e201e22f62302cca81c4b813d4be5a381cd40a"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/codepipeline/latest/userguide/welcome.html",
+      "retrieved_url": "https://docs.aws.amazon.com/codepipeline/latest/userguide/welcome.html",
+      "http_status": 200,
+      "title": "What is AWS CodePipeline? - AWS CodePipeline",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "ca0af58c0c8fd408086f59927ba9755546dd4122875a12539ec3b370d68e327e"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/comprehend/latest/dg/what-is.html",
+      "retrieved_url": "https://docs.aws.amazon.com/comprehend/latest/dg/what-is.html",
+      "http_status": 200,
+      "title": "What is Amazon Comprehend? - Amazon Comprehend",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "635060517a2bb6056239baf7c947444b0890cf3de896f925c7220cc33475c57a"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/compute-optimizer/latest/ug/what-is-compute-optimizer.html",
+      "retrieved_url": "https://docs.aws.amazon.com/compute-optimizer/latest/ug/what-is-compute-optimizer.html",
+      "http_status": 200,
+      "title": "What is AWS Compute Optimizer? - AWS Compute Optimizer",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "773445d133a5f4903f0a9b751db04c71baa66ae9ee0cd667bcb903594993e909"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/config/latest/developerguide/WhatIsConfig.html",
+      "retrieved_url": "https://docs.aws.amazon.com/config/latest/developerguide/WhatIsConfig.html",
+      "http_status": 200,
+      "title": "What Is AWS Config? - AWS Config",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "db52fb9c8d0f41e4fef36ab8dacfc35e454ac425df6ee0ff17a8346a234ad440"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/cost-management/latest/userguide/budgets-managing-costs.html",
+      "retrieved_url": "https://docs.aws.amazon.com/cost-management/latest/userguide/budgets-managing-costs.html",
+      "http_status": 200,
+      "title": "Managing your costs with AWS Budgets - AWS Cost Management",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "8ef78fef6163b8168f8409b47e7ded0f55649f6907cb487522b8138cc226a2c2"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/cost-management/latest/userguide/ce-what-is.html",
+      "retrieved_url": "https://docs.aws.amazon.com/cost-management/latest/userguide/ce-what-is.html",
+      "http_status": 200,
+      "title": "Analyzing your costs and usage with AWS Cost Explorer - AWS Cost Management",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "0ea3b359639c0999d27778aa5984b3b50e752f729357a5116bf232b2f6c0a467"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/cost-management/latest/userguide/what-is-costmanagement.html",
+      "retrieved_url": "https://docs.aws.amazon.com/cost-management/latest/userguide/what-is-costmanagement.html",
+      "http_status": 200,
+      "title": "Use AWS Billing and Cost Management for AWS - AWS Cost Management",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "9a13d513b122bf980783e1272d6e20a4c0e6d1c04d38e29d0ce95bc2d773ad9e"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/datasync/latest/userguide/what-is-datasync.html",
+      "retrieved_url": "https://docs.aws.amazon.com/datasync/latest/userguide/what-is-datasync.html",
+      "http_status": 200,
+      "title": "What is AWS DataSync? - AWS DataSync",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "68053c496f939391dd2e3bc5475000c4ea6195ef88717fa80a0eb5c24f41385f"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/directconnect/latest/UserGuide/Welcome.html",
+      "retrieved_url": "https://docs.aws.amazon.com/directconnect/latest/UserGuide/Welcome.html",
+      "http_status": 200,
+      "title": "What is Direct Connect? - AWS Direct Connect",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "315efeab4a77d523b9793ee407c74af779f94f64bfde1beb42ec8abc5308e239"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/directconnect/latest/UserGuide/encryption-in-transit.html",
+      "retrieved_url": "https://docs.aws.amazon.com/directconnect/latest/UserGuide/encryption-in-transit.html",
+      "http_status": 200,
+      "title": "Encryption in AWS Direct Connect - AWS Direct Connect",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "846ff7d8cca44e8e26f71ce78b6f010230249203d22bb4ecad2ed68b1ec39a6c"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/dms/latest/userguide/Welcome.html",
+      "retrieved_url": "https://docs.aws.amazon.com/dms/latest/userguide/Welcome.html",
+      "http_status": 200,
+      "title": "What is AWS Database Migration Service? - AWS Database Migration Service",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "d0f8b4224eee0b796ef48e31f63b07b4d9706a1671a7c3b04ee497574efaa3b1"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/ebs/latest/userguide/what-is-ebs.html",
+      "retrieved_url": "https://docs.aws.amazon.com/ebs/latest/userguide/what-is-ebs.html",
+      "http_status": 200,
+      "title": "What is Amazon Elastic Block Store? - Amazon EBS",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "b151d0f3e02cbde597c891b3c062b12c7ff8a3240d2dcf2f3b471875ea969ad3"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/efs/latest/ug/whatisefs.html",
+      "retrieved_url": "https://docs.aws.amazon.com/efs/latest/ug/whatisefs.html",
+      "http_status": 200,
+      "title": "What is Amazon Elastic File System? - Amazon Elastic File System",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "6440eb175e140d94283958a6653a9ae58e1a06c47b5068dcc29b5a8edcd9a17f"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/elasticloadbalancing/latest/userguide/what-is-load-balancing.html",
+      "retrieved_url": "https://docs.aws.amazon.com/elasticloadbalancing/latest/userguide/what-is-load-balancing.html",
+      "http_status": 200,
+      "title": "What is Elastic Load Balancing? - Elastic Load Balancing",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "789aa73351a4d2a86666ed3f060555cc30b974c970018370071bd7375e60ce19"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/eventbridge/latest/userguide/eb-what-is.html",
+      "retrieved_url": "https://docs.aws.amazon.com/eventbridge/latest/userguide/eb-what-is.html",
+      "http_status": 200,
+      "title": "What Is Amazon EventBridge? - Amazon EventBridge",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "be9c0b00d15566357a337acdfbcf8840d0d08de3ddd58104f7f1fe826eb19cab"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/global-infrastructure/latest/regions/aws-regions-availability-zones.html",
+      "retrieved_url": "https://docs.aws.amazon.com/global-infrastructure/latest/regions/aws-regions-availability-zones.html",
+      "http_status": 200,
+      "title": "AWS Regions and Availability Zones - AWS Regions and Availability Zones",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "c9f3d179d619bfef8722b75b45fb1d5f3dec8f444f53506ca1e66216b946be31"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/guardduty/latest/ug/what-is-guardduty.html",
+      "retrieved_url": "https://docs.aws.amazon.com/guardduty/latest/ug/what-is-guardduty.html",
+      "http_status": 200,
+      "title": "What is Amazon GuardDuty? - Amazon GuardDuty",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "ec46117325c112a996d739e94272f5e0366fed21af29077780bfac724db54488"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/health/latest/ug/what-is-aws-health.html",
+      "retrieved_url": "https://docs.aws.amazon.com/health/latest/ug/what-is-aws-health.html",
+      "http_status": 200,
+      "title": "What is AWS Health? - AWS Health",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "25bee2cbdd5a0ad3d1fdc042fe771615c834cf50fe76e4c2a1546d7d64eb3632"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/inspector/latest/user/what-is-inspector.html",
+      "retrieved_url": "https://docs.aws.amazon.com/inspector/latest/user/what-is-inspector.html",
+      "http_status": 200,
+      "title": "What is Amazon Inspector? - Amazon Inspector",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "649559a648e7193e783af346f34a275ade274d9ef2f786ea52a55d6c38f03a30"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/kendra/latest/dg/what-is-kendra.html",
+      "retrieved_url": "https://docs.aws.amazon.com/kendra/latest/dg/what-is-kendra.html",
+      "http_status": 200,
+      "title": "What is Amazon Kendra? - Amazon Kendra",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "d3b70a17eca6c134da2306c50bf853ade648deda2cab814a4f43e833f13b370c"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/kms/latest/developerguide/overview.html",
+      "retrieved_url": "https://docs.aws.amazon.com/kms/latest/developerguide/overview.html",
+      "http_status": 200,
+      "title": "AWS Key Management Service - AWS Key Management Service",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "11bde2e251d50b9daf30bcfd8058bee5723090081a7745e9d44b40e5e0d9cdb2"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/lambda/latest/dg/welcome.html",
+      "retrieved_url": "https://docs.aws.amazon.com/lambda/latest/dg/welcome.html",
+      "http_status": 200,
+      "title": "What is AWS Lambda? - AWS Lambda",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "037c2dfdbd11d39b81096a0d864522c491ca96551ba0697913b46c0f9b5a7f0a"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/lexv2/latest/dg/what-is.html",
+      "retrieved_url": "https://docs.aws.amazon.com/lexv2/latest/dg/what-is.html",
+      "http_status": 200,
+      "title": "What is Amazon Lex V2? - Amazon Lex",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "7339748e80a6cce856a3a956fa70180e2985f34ff9da8e6594a36c71a4e032dc"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/m2/latest/userguide/mainframe-modernization-availability-change.html",
+      "retrieved_url": "https://docs.aws.amazon.com/m2/latest/userguide/mainframe-modernization-availability-change.html",
+      "http_status": 200,
+      "title": "AWS Mainframe Modernization availability change - AWS Mainframe Modernization",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "b21f5586d2afcb5772aa1513feb63f5741e9a0839ef181fac2dd1662bbdd6fe7"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/marketplace/latest/buyerguide/what-is-marketplace.html",
+      "retrieved_url": "https://docs.aws.amazon.com/marketplace/latest/buyerguide/what-is-marketplace.html",
+      "http_status": 200,
+      "title": "What is AWS Marketplace? - AWS Marketplace",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "f5d29d4c3591513a500704307df882f336e1bba89fdf39196f5122f4fc921102"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/migrationhub-strategy/latest/userguide/migrationhub-availability-change.html",
+      "retrieved_url": "https://docs.aws.amazon.com/migrationhub-strategy/latest/userguide/migrationhub-availability-change.html",
+      "http_status": 200,
+      "title": "AWS Migration Hub availability change - Migration Hub Strategy Recommendations",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "1a42471af087b20eb2a35aff0fcc92ea8bbb27a6db094e7d23512b89e70ff97c"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_scps.html",
+      "retrieved_url": "https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_scps.html",
+      "http_status": 200,
+      "title": "Service control policies (SCPs) - AWS Organizations",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "f8db3aa28a80237b1d4aa1bf7981f8d66628997f785726bee5d367483e283aa2"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/polly/latest/dg/what-is.html",
+      "retrieved_url": "https://docs.aws.amazon.com/polly/latest/dg/what-is.html",
+      "http_status": 200,
+      "title": "What Is Amazon Polly? - Amazon Polly",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "03918433bd9ea57663cbac11fcbfc1b9ff478bf1ff985c50ce42c41833edfb9b"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/pricing-calculator/latest/userguide/what-is-pricing-calculator.html",
+      "retrieved_url": "https://docs.aws.amazon.com/pricing-calculator/latest/userguide/what-is-pricing-calculator.html",
+      "http_status": 200,
+      "title": "What is AWS Pricing Calculator? - AWS Pricing Calculator",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "9d2af0254b7b455ded16e697443ee690d4828f99f627f5cd774f1278df99aafe"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/redshift/latest/mgmt/welcome.html",
+      "retrieved_url": "https://docs.aws.amazon.com/redshift/latest/mgmt/welcome.html",
+      "http_status": 200,
+      "title": "What is Amazon Redshift? - Amazon Redshift",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "49efd5ca80e8c7a7131cbcd40b474f442f313f47a2ad738b6bb0e7c2d57d8464"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/rekognition/latest/dg/what-is.html",
+      "retrieved_url": "https://docs.aws.amazon.com/rekognition/latest/dg/what-is.html",
+      "http_status": 200,
+      "title": "What is Amazon Rekognition? - Amazon Rekognition",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "cbb0c6d14676d54802cde6b261f4eb599db64a88bdf16dc55961a8fdb93f7353"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/sagemaker/latest/dg/whatis.html",
+      "retrieved_url": "https://docs.aws.amazon.com/sagemaker/latest/dg/whatis.html",
+      "http_status": 200,
+      "title": "What is Amazon SageMaker AI? - Amazon SageMaker AI",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "3d784daa05e4324a1be9986fe55b8e3d156c11c98cbe09808d19dbcc6781ce56"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/secretsmanager/latest/userguide/intro.html",
+      "retrieved_url": "https://docs.aws.amazon.com/secretsmanager/latest/userguide/intro.html",
+      "http_status": 200,
+      "title": "What is AWS Secrets Manager? - AWS Secrets Manager",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "3757433d2c77ad110c0ab2bfd30e6bd9b89a29b9b3f42630bb8bcd91b43034b1"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/what-is-sam.html",
+      "retrieved_url": "https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/what-is-sam.html",
+      "http_status": 200,
+      "title": "What is the AWS Serverless Application Model (AWS SAM)? - AWS Serverless Application Model",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "b68a4d0cf66fdf7ebb8e760e4c974c569870d85168b81b7cba946283f9d3d763"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/snowball/latest/developer-guide/snowball-edge-availability-change.html",
+      "retrieved_url": "https://docs.aws.amazon.com/snowball/latest/developer-guide/snowball-edge-availability-change.html",
+      "http_status": 200,
+      "title": "AWS Snowball Edge availability change - AWS Snowball Edge Developer Guide",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "e7607c571dd635ce3da70dc96a2db3e5c8d4a53f4fa0738764d536c5bdd50dfc"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/step-functions/latest/dg/welcome.html",
+      "retrieved_url": "https://docs.aws.amazon.com/step-functions/latest/dg/welcome.html",
+      "http_status": 200,
+      "title": "What is Step Functions? - AWS Step Functions",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "09ec9d89d8986371d5d0dd359d5562ea0759a8e5bd663327c562bb9113400f13"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/systems-manager/latest/userguide/what-is-systems-manager.html",
+      "retrieved_url": "https://docs.aws.amazon.com/systems-manager/latest/userguide/what-is-systems-manager.html",
+      "http_status": 200,
+      "title": "What is AWS Systems Manager? - AWS Systems Manager",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "fbe978f7d0f09e044d2510f75f42423593d0b9984eaa8e45587d88488cb5faa7"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/vpc/latest/peering/what-is-vpc-peering.html",
+      "retrieved_url": "https://docs.aws.amazon.com/vpc/latest/peering/what-is-vpc-peering.html",
+      "http_status": 200,
+      "title": "What is VPC peering? - Amazon Virtual Private Cloud",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "e572b3bf253265490854e859fc3aec29bc453ae296167a02fa2d11f5ec20ff63"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/vpc/latest/userguide/vpc-nat-gateway.html",
+      "retrieved_url": "https://docs.aws.amazon.com/vpc/latest/userguide/vpc-nat-gateway.html",
+      "http_status": 200,
+      "title": "NAT gateways - Amazon Virtual Private Cloud",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "2e2ea302fe3b77b7d7610d107587cf81e0bcb036a6abb31d93e80c0d1eca76ea"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/vpc/latest/userguide/vpc-security-groups.html",
+      "retrieved_url": "https://docs.aws.amazon.com/vpc/latest/userguide/vpc-security-groups.html",
+      "http_status": 200,
+      "title": "Control traffic to your AWS resources using security groups - Amazon Virtual Private Cloud",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "d747896a3bc71b2bb0bdd5262c11d55124d8198fbe3d22a8d36293e30bea6699"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html",
+      "retrieved_url": "https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html",
+      "http_status": 200,
+      "title": "What is Amazon VPC? - Amazon Virtual Private Cloud",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "fdb3b8a3d002fabbffc86e413d914e3c69de0fa24f6a18d2d7eedad80ba327e6"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/waf/latest/developerguide/shield-chapter.html",
+      "retrieved_url": "https://docs.aws.amazon.com/waf/latest/developerguide/shield-chapter.html",
+      "http_status": 200,
+      "title": "AWS Shield - AWS WAF, AWS Firewall Manager, AWS Shield Advanced, and AWS Shield network security director",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "083f328873bbbd199ed7e78b9c40430bb3e2b1f38d74b57567815e3ee159fe48"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/waf/latest/developerguide/what-is-aws-waf.html",
+      "retrieved_url": "https://docs.aws.amazon.com/waf/latest/developerguide/what-is-aws-waf.html",
+      "http_status": 200,
+      "title": "What are AWS WAF, AWS Shield Advanced, AWS Shield network security director and AWS Firewall Manager? - AWS WAF, AWS Firewall Manager, AWS Shield Advanced, and AWS Shield network security director",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "b2bdd244f158c5c26b4618adf0888fc1d0a166a90a5b9f054d004d05db9d3cb4"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html",
+      "retrieved_url": "https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html",
+      "http_status": 200,
+      "title": "AWS Well-Architected Framework - AWS Well-Architected Framework",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "f5208d08eedcf030dace9124c03a49ea1e04036df4dda850497f4e8e631ffeb1"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/whitepapers/latest/overview-aws-cloud-adoption-framework/welcome.html",
+      "retrieved_url": "https://docs.aws.amazon.com/whitepapers/latest/overview-aws-cloud-adoption-framework/welcome.html",
+      "http_status": 200,
+      "title": "An Overview of the AWS Cloud Adoption Framework - An Overview of the AWS Cloud Adoption Framework",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "7f4e206f401f0d60e39ed8fa56fcc9fe4950c8ffb6f106321191e698dd0c5403"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/xray/latest/devguide/xray-daemon.html",
+      "retrieved_url": "https://docs.aws.amazon.com/xray/latest/devguide/xray-daemon.html",
+      "http_status": 200,
+      "title": "AWS X-Ray daemon - AWS X-Ray",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "f67312b7628c41ce316c2b53354a57d6f5cc41d7cfe14c2cf4ac29b4f253f444"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/prescriptive-guidance/latest/large-migration-guide/migration-strategies.html",
+      "retrieved_url": "https://docs.aws.amazon.com/prescriptive-guidance/latest/large-migration-guide/migration-strategies.html",
+      "http_status": 200,
+      "title": "About the migration strategies - AWS Prescriptive Guidance",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "6abf4bd2cca23f19911351a833befc70aa71b5462a78cc922799a6b2c5445730"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/efs/latest/ug/features.html",
+      "retrieved_url": "https://docs.aws.amazon.com/efs/latest/ug/features.html",
+      "http_status": 200,
+      "title": "Features of Amazon EFS - Amazon Elastic File System",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "9f7aebd418a8b8e1f28aedf712f5a943fd9167171838c81d63d22b92be83f54f"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/storagegateway/latest/tgw/WhatIsStorageGateway.html",
+      "retrieved_url": "https://docs.aws.amazon.com/storagegateway/latest/tgw/WhatIsStorageGateway.html",
+      "http_status": 200,
+      "title": "What is Tape Gateway? - AWS Storage Gateway",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "560e0409feeed769472f92891a7edc01d1937f427705aa63d2a42b15d43652dc"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/wellarchitected/latest/framework/rel_fault_isolation_multiaz_region_system.html",
+      "retrieved_url": "https://docs.aws.amazon.com/wellarchitected/latest/framework/rel_fault_isolation_multiaz_region_system.html",
+      "http_status": 200,
+      "title": "REL10-BP01 Deploy the workload to multiple locations - AWS Well-Architected Framework",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "c116eabec28d002074c23e6607d2594f75368e492b70371ae75e3b54d0e5bb9f"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/xray/latest/devguide/xray-sdk-daemon-timeline.html",
+      "retrieved_url": "https://docs.aws.amazon.com/xray/latest/devguide/xray-sdk-daemon-timeline.html",
+      "http_status": 200,
+      "title": "X-Ray SDK and Daemon Support timeline - AWS X-Ray",
+      "retrieved_on": "2026-11-10",
+      "body_sha256": "23d5fe9ce3b230966f1152cf2ba2acf7bc98a957611b380bc0ef2e1037ee6f57"
+    }
+  ],
+  "translation_method": "machine-assisted first draft, followed by semantic terminology editing, question-by-question technical review, and primary AWS reference checks. Translation output alone was not treated as evidence of technical accuracy.",
+  "laboratory_validation": "static review only",
+  "remaining_image_language": [
+    "assets/CloudPractitioner-Banner.png: original Portuguese subtitle and feature labels, accompanied by English text."
+  ],
+  "finalization_date": "2026-11-16",
+  "finalization_scope": "Source coverage, language cleanup, original question ordering and inline-answer preservation, module navigation, and reproducible offline validation. Earlier editorial metadata is retained."
+}
