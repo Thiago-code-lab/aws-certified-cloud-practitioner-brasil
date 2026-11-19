@@ -1,4 +1,16 @@
-**English edition** · [Portuguese edition](https://github.com/Thiago-code-lab/aws-certified-cloud-practitioner-brasil/tree/main) · [Editorial audit](docs/english-edition/README.md)
+<div align="center">
+
+# 📱 CloudStudy App
+
+<a href="https://apps.apple.com/br/app/cloudstudy/id6833570271">
+  <img src="https://img.shields.io/badge/Download_on_the-App_Store-black?style=for-the-badge&logo=apple" />
+</a>
+
+**The companion app for cloud certification students.**
+
+AI-powered study plans • Flashcards • Practice Exams • Progress Tracking
+
+</div>
 
 <p align="center">
 <img src="./assets/CloudPractitioner-Banner.png" alt="Banner AWS Cloud Practitioner" width="100%">
